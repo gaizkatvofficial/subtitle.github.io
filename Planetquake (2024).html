@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JWPlayer MP4 Example</title>
+    <!-- Include JWPlayer library -->
+    <script src="https://content.jwplatform.com/libraries/KB5zFt7A.js"></script>
+</head>
+<body>
+    <!-- Create a div for JWPlayer to target -->
+    <div id="player"></div>
+
+    <script>
+        // Initialize JWPlayer
+        var player = jwplayer("player");
+
+        // Setup JWPlayer configuration
+        player.setup({
+            file: "URL_TO_YOUR_VIDEO_FILE.mp4", // Replace with the URL to your MP4 video file
+            image: "URL_TO_YOUR_POSTER_IMAGE.jpg", // Replace with the URL to your poster image
+            width: "100%",
+            aspectratio: "16:9",
+            autostart: false, // Set to true if you want the video to start playing automatically
+            tracks: [{ 
+                file: "URL_TO_YOUR_SUBTITLE_FILE.vtt", // Replace with the URL to your subtitle file (in VTT format)
+                label: "Indonesia", // Label for the subtitle track
+                kind: "captions", // Kind of track (captions for subtitles)
+                default: true // Set to true if you want this subtitle track to be enabled by default
+            }]
+        });
+    </script>
+</body>
+</html>
