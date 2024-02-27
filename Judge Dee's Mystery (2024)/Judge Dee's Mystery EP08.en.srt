@@ -1,11 +1,11 @@
 ﻿1
 00:01:35,500 --> 00:01:40,740
-[Judge Dee's Mystery]
+[Misteri Hakim Dee]
 
 2
 00:01:40,740 --> 00:01:45,980
-[Based on the novel of the same name
-by the Dutch author Robert van Gulik]
+[Berdasarkan novel dengan judul yang sama
+oleh penulis Belanda Robert van Gulik]
 
 3
 00:01:46,460 --> 00:01:46,980
@@ -13,8 +13,8 @@ by the Dutch author Robert van Gulik]
 
 4
 00:01:46,980 --> 00:01:48,980
-[This is a work of fiction.
-Any resemblance is purely coincidental.]
+[Ini adalah karya fiksi.
+Kemiripan apa pun hanyalah kebetulan.]
 
 5
 00:01:49,280 --> 00:01:50,000
@@ -22,70 +22,70 @@ Di Renjie,
 
 6
 00:01:50,760 --> 00:01:51,880
-there's someone out there looking for you.
+ada seseorang di luar sana yang mencarimu.
 
 7
 00:01:52,600 --> 00:01:53,560
-A woman.
+Seorang wanita.
 
 8
 00:01:56,800 --> 00:01:57,760
-- Magistrate.
-- Magistrate.
+- Hakim.
+- Hakim.
 
 9
 00:02:00,000 --> 00:02:00,640
-- Magistrate.
-- Magistrate.
+- Hakim.
+- Hakim.
 
 10
 00:02:02,300 --> 00:02:04,080
-[Magistral Office of Penglai County]
+[Kantor Magistral Kabupaten Penglai]
 
 11
 00:02:04,080 --> 00:02:04,520
-Sorry to keep you waiting.
+Maaf membuat anda menunggu.
 
 12
 00:02:04,520 --> 00:02:05,040
-Magistrate.
+Hakim.
 
 13
 00:02:06,080 --> 00:02:07,520
-That day, before I could finish the song,
+Hari itu, sebelum aku bisa menyelesaikan lagunya,
 
 14
 00:02:07,760 --> 00:02:08,840
-you fell asleep.
+kamu tertidur.
 
 15
 00:02:08,920 --> 00:02:10,640
-I'm presenting you with the collection
-of Mr. Teng's poems.
+Saya mempersembahkan kepada Anda koleksinya
+puisi Tuan Teng.
 
 16
 00:02:10,960 --> 00:02:11,800
-Later,
+Nanti,
 
 17
 00:02:12,720 --> 00:02:14,160
-I'll sing them for you one by one.
+Aku akan menyanyikannya untukmu satu per satu.
 
 18
 00:02:14,480 --> 00:02:15,240
-Sing what?
+Nyanyikan apa?
 
 19
 00:02:15,360 --> 00:02:16,120
-What "later"?
+Apa "nanti"?
 
 20
 00:02:16,760 --> 00:02:18,000
-When did you two meet?
+Kapan kalian berdua bertemu?
 
 21
 00:02:19,800 --> 00:02:20,680
-Thank you very much.
+Terima kasih banyak.
 
 22
 00:02:28,520 --> 00:02:29,320
@@ -93,95 +93,95 @@ Di Renjie,
 
 23
 00:02:29,960 --> 00:02:31,000
-who is she?
+siapa dia?
 
 24
 00:02:31,440 --> 00:02:32,840
-I've never heard you mention her.
+Saya belum pernah mendengar Anda menyebut dia.
 
 25
 00:02:33,560 --> 00:02:34,040
-Prepare the horse.
+Siapkan kudanya.
 
 26
 00:02:34,480 --> 00:02:34,760
-Yes.
+Ya.
 
 27
 00:02:34,760 --> 00:02:35,400
-To invite Mr. Teng.
+Untuk mengundang Tuan Teng.
 
 28
 00:02:35,400 --> 00:02:35,800
-Don't go.
+Jangan pergi.
 
 29
 00:02:37,480 --> 00:02:38,160
-I go.
+Aku pergi.
 
 30
 00:03:37,320 --> 00:03:38,000
-Mr. Teng,
+Tuan Teng,
 
 31
 00:03:38,480 --> 00:03:39,520
-do you think
+menurut mu
 
 32
 00:03:40,920 --> 00:03:41,800
-that Mrs. Teng looks
+yang dilihat Ny. Teng
 
 33
 00:03:42,520 --> 00:03:43,920
-a little strange?
+sedikit aneh?
 
 34
 00:03:46,080 --> 00:03:47,360
-The hair on her forehead
+Rambut di dahinya
 
 35
 00:03:48,600 --> 00:03:49,600
-was cut short.
+dipotong pendek.
 
 36
 00:03:51,240 --> 00:03:51,640
-What...
+Apa...
 
 37
 00:03:51,880 --> 00:03:52,840
-Who did this?
+Siapa yang melakukan ini?
 
 38
 00:03:53,720 --> 00:03:54,360
-Who did this?
+Siapa yang melakukan ini?
 
 39
 00:03:57,760 --> 00:03:58,480
-It's not me.
+Itu bukan aku.
 
 40
 00:04:03,200 --> 00:04:03,680
-I know.
+Aku tahu.
 
 41
 00:04:29,600 --> 00:04:30,120
-Magistrate.
+Hakim.
 
 42
 00:04:30,980 --> 00:04:32,280
-[Magistral Office of Penglai County]
+[Kantor Magistral Kabupaten Penglai]
 
 43
 00:04:32,280 --> 00:04:32,800
-Mr. Teng.
+Tuan Teng.
 
 44
 00:04:34,960 --> 00:04:35,600
-Tomorrow in the morning,
+Besok pagi,
 
 45
 00:04:35,960 --> 00:04:37,280
-I'll visit you and see you off.
+Aku akan mengunjungimu dan mengantarmu pergi.
 
 46
 00:04:48,160 --> 00:04:48,640
@@ -189,11 +189,11 @@ Ma Rong.
 
 47
 00:04:57,160 --> 00:04:58,920
-Don't let anything go wrong.
+Jangan biarkan ada yang salah.
 
 48
 00:05:05,160 --> 00:05:06,160
-What did Huaiying say to you?
+Apa yang Huaiying katakan padamu?
 
 49
 00:05:12,640 --> 00:05:13,120
@@ -201,20 +201,20 @@ Huaiying.
 
 50
 00:05:13,840 --> 00:05:14,920
-- I'm your brother.
+- Aku saudaramu.
 - Huaiying.
 
 51
-00:05:15,000 --> 00:05:15,560
-Hide from me?
+00:05:15.000 --> 00:05:15.560
+Sembunyikan dariku?
 
 52
 00:05:15,560 --> 00:05:16,960
-What are you hiding from me?
+Apa yang kamu sembunyikan dariku?
 
 53
 00:05:28,500 --> 00:05:36,060
-[Teng's Residence]
+[Kediaman Teng]
 
 54
 00:05:41,360 --> 00:05:41,920
@@ -226,346 +226,346 @@ Huaiying,
 
 56
 00:05:43,960 --> 00:05:44,840
-if you don't show up,
+jika kamu tidak muncul,
 
 57
 00:05:45,520 --> 00:05:46,720
-you'll never see me again.
+kamu tidak akan pernah melihatku lagi.
 
 58
 00:05:47,840 --> 00:05:48,560
-I won't.
+saya tidak akan melakukannya.
 
 59
 00:05:48,960 --> 00:05:49,560
-Today,
+Hari ini,
 
 60
 00:05:50,360 --> 00:05:52,160
-you'll definitely see me.
+kamu pasti akan melihatku.
 
 61
 00:05:54,720 --> 00:05:55,400
-How about the screen?
+Bagaimana dengan layarnya?
 
 62
 00:05:56,120 --> 00:05:57,680
-Will you take it with you?
+Maukah kamu membawanya bersamamu?
 
 63
 00:05:59,320 --> 00:06:00,360
-It's ominous.
+Ini tidak menyenangkan.
 
 64
 00:06:00,680 --> 00:06:01,640
-Why do I take it with me?
+Mengapa saya membawanya?
 
 65
 00:06:02,070 --> 00:06:02,800
-Before I leave,
+Sebelum aku pergi,
 
 66
 00:06:03,200 --> 00:06:04,440
-I'll just burn it in a fire.
+Aku akan membakarnya dalam api.
 
 67
 00:06:09,960 --> 00:06:10,720
-That screen
+Layar itu
 
 68
 00:06:11,440 --> 00:06:14,320
-is a reenactment of your love
-with Mrs. Yinlian.
+adalah pemeragaan kembali cintamu
+dengan Nyonya Yinlian.
 
 69
 00:06:14,680 --> 00:06:15,560
-If you burn it,
+Jika Anda membakarnya,
 
 70
 00:06:16,360 --> 00:06:19,040
-won't you also burn your love
+bukankah kamu juga akan membakar cintamu
 
 71
 00:06:19,400 --> 00:06:21,160
-with Mrs. Yinlian?
+dengan Nyonya Yinlian?
 
 72
 00:06:24,040 --> 00:06:25,760
-Your words are a bit harsh.
+Kata-katamu agak kasar.
 
 73
 00:06:26,560 --> 00:06:27,880
-The love between me and my late wife
+Cinta antara aku dan mendiang istriku
 
 74
 00:06:28,160 --> 00:06:29,360
-is so true.
+benar sekali.
 
 75
 00:06:34,000 --> 00:06:36,120
-It can't be burned away by a fire.
+Itu tidak bisa terbakar habis oleh api.
 
 76
 00:06:37,000 --> 00:06:37,680
-Take it easy.
+Tenang saja.
 
 77
 00:06:38,000 --> 00:06:39,080
-Let me restore the screen
+Biarkan saya memulihkan layar
 
 78
 00:06:39,120 --> 00:06:40,160
-to its original picture
+ke gambar aslinya
 
 79
 00:06:40,520 --> 00:06:42,400
-as a parting gift
+sebagai hadiah perpisahan
 
 80
 00:06:42,560 --> 00:06:44,200
-to you, Mr. Teng.
+untukmu, Tuan Teng.
 
 81
 00:06:50,920 --> 00:06:51,800
-What's this?
+Apa ini?
 
 82
 00:07:03,360 --> 00:07:04,600
-The lacquer has fallen off.
+Pernisnya telah terlepas.
 
 83
 00:07:05,760 --> 00:07:06,640
-Can it be scratched off?
+Bisakah itu tergores?
 
 84
 00:07:08,920 --> 00:07:10,040
-There's another layer inside.
+Ada lapisan lain di dalamnya.
 
 85
 00:07:26,880 --> 00:07:27,880
-The picture of murdering the wife
+Gambar membunuh istri
 
 86
 00:07:29,000 --> 00:07:31,000
-was painted with special pigment.
+dicat dengan pigmen khusus.
 
 87
 00:07:31,960 --> 00:07:33,000
-When it's exposed to hot water,
+Saat terkena air panas,
 
 88
 00:07:33,000 --> 00:07:34,240
-it will show up.
+itu akan muncul.
 
 89
 00:07:36,120 --> 00:07:37,760
-I scraped off the special pigment
+Saya mengikis pigmen khusus
 
 90
 00:07:38,760 --> 00:07:39,880
-so the original picture
+jadi gambar aslinya
 
 91
 00:07:40,040 --> 00:07:41,400
-was revealed.
+terungkap.
 
 92
 00:07:42,040 --> 00:07:42,680
-That day,
+Hari itu,
 
 93
 00:07:43,360 --> 00:07:46,320
-you threw a bowl of hot medicine on it
+kamu melemparkan semangkuk obat panas ke atasnya
 
 94
 00:07:47,160 --> 00:07:48,800
-and created
+dan diciptakan
 
 95
 00:07:49,200 --> 00:07:50,680
-a shocking picture
+gambaran yang mengejutkan
 
 96
 00:07:50,960 --> 00:07:52,440
-of murdering the wife.
+untuk membunuh istrinya.
 
 97
 00:07:56,840 --> 00:07:58,880
-That day, I had an attack of madness.
+Hari itu, saya mengalami serangan kegilaan.
 
 98
 00:07:59,320 --> 00:08:00,960
-I lost my mind and don't remember.
+Aku kehilangan akal dan tidak ingat.
 
 99
 00:08:01,280 --> 00:08:02,120
-Did you really
+Benarkah?
 
 100
 00:08:02,960 --> 00:08:05,000
-have an attack of madness?
+mendapat serangan kegilaan?
 
 101
 00:08:05,360 --> 00:08:06,160
-What else?
+Apa lagi?
 
 102
 00:08:07,000 --> 00:08:08,080
-Are you saying
+Apakah kamu mengatakan
 
 103
 00:08:08,520 --> 00:08:09,640
-I deliberately threw the medicine
+Saya sengaja membuang obatnya
 
 104
 00:08:09,840 --> 00:08:10,840
-on the screen?
+di layar?
 
 105
 00:08:10,840 --> 00:08:12,480
-That's what I meant.
+Itulah yang saya maksud.
 
 106
 00:08:13,720 --> 00:08:15,160
-You first made the screen change
+Anda pertama kali membuat perubahan layar
 
 107
 00:08:15,400 --> 00:08:17,360
-and spread the rumor
-about the evil spirits.
+dan menyebarkan rumor tersebut
+tentang roh jahat.
 
 108
 00:08:17,800 --> 00:08:18,360
-Then,
+Kemudian,
 
 109
 00:08:18,760 --> 00:08:20,480
-you let the madness take over,
+kamu membiarkan kegilaan mengambil alih,
 
 110
 00:08:20,600 --> 00:08:21,440
-lost your mind,
+kehilangan akal sehatmu,
 
 111
 00:08:22,120 --> 00:08:23,600
-and killed Yinlian.
+dan membunuh Yinlian.
 
 112
 00:08:27,200 --> 00:08:27,760
-Mr. Teng,
+Tuan Teng,
 
 113
 00:08:29,520 --> 00:08:31,080
-this is your plan.
+ini rencanamu.
 
 114
 00:08:31,760 --> 00:08:33,400
-To kill Mrs. Yinlian
+Untuk membunuh Ny. Yinlian
 
 115
 00:08:33,560 --> 00:08:34,760
-and get what you desire.
+dan dapatkan apa yang kamu inginkan.
 
 116
 00:08:35,160 --> 00:08:36,720
-If you kill someone due to madness,
+Jika kamu membunuh seseorang karena kegilaan,
 
 117
 00:08:37,040 --> 00:08:37,840
-the Tang Code,
+Kode Tang,
 
 118
 00:08:38,200 --> 00:08:38,720
-people's hearts,
+hati orang-orang,
 
 119
 00:08:38,960 --> 00:08:39,520
-and public sentiment
+dan sentimen publik
 
 120
 00:08:40,080 --> 00:08:41,600
-will all
+akankah semuanya
 
 121
 00:08:41,760 --> 00:08:42,960
-be on your side.
+berada di pihakmu.
 
 122
 00:08:43,840 --> 00:08:45,360
-Yinlian was killed by Li Han.
+Yinlian dibunuh oleh Li Han.
 
 123
 00:08:45,720 --> 00:08:47,440
-That's your verdict, Magistrate.
+Itu keputusan Anda, Hakim.
 
 124
 00:08:47,800 --> 00:08:48,600
-I said
+saya bilang
 
 125
 00:08:48,720 --> 00:08:51,200
-the truth would come out
-when we find Li Han,
+kebenaran akan terungkap
+ketika kita menemukan Li Han,
 
 126
 00:08:51,200 --> 00:08:53,040
-but I didn't ask you to silence him.
+tapi aku tidak memintamu untuk membungkamnya.
 
 127
 00:08:59,280 --> 00:09:00,520
-If it's true that Li Han
+Jika benar itu Li Han
 
 128
 00:09:00,720 --> 00:09:02,160
-killed her for revenge,
+membunuhnya untuk membalas dendam,
 
 129
 00:09:02,680 --> 00:09:04,600
-why did he go through all the trouble
+kenapa dia mengalami semua masalah ini
 
 130
 00:09:04,600 --> 00:09:06,160
-to let the screen change?
+membiarkan layar berubah?
 
 131
 00:09:06,560 --> 00:09:08,240
-Why did I need to kill Yinlian?
+Mengapa saya harus membunuh Yinlian?
 
 132
 00:09:08,240 --> 00:09:09,240
-I asked you
+aku bertanya padamu
 
 133
 00:09:09,640 --> 00:09:11,560
-who made this screen.
+siapa yang membuat layar ini.
 
 134
 00:09:11,760 --> 00:09:12,920
-Just an unknown artist.
+Hanya artis yang tidak dikenal.
 
 135
 00:09:12,960 --> 00:09:13,760
-Why ask again?
+Mengapa bertanya lagi?
 
 136
 00:09:13,960 --> 00:09:15,720
-It's not because the painter is unknown,
+Bukan karena pelukisnya tidak dikenal,
 
 137
-00:09:16,000 --> 00:09:17,640
-but you don't want to tell me
+00:09:16.000 --> 00:09:17.640
+tapi kamu tidak mau memberitahuku
 
 138
 00:09:17,680 --> 00:09:19,680
-the painter's name, right?
+nama pelukisnya kan?
 
 139
 00:09:22,600 --> 00:09:23,480
-Is that Mrs. Yinlian
+Apakah itu Ny. Yinlian
 
 140
 00:09:24,080 --> 00:09:25,280
-in the picture?
+dalam gambar?
 
 141
 00:09:27,840 --> 00:09:28,280
@@ -573,213 +573,213 @@ Xu Kai.
 
 142
 00:09:28,560 --> 00:09:29,360
-Why are you here?
+Mengapa kamu di sini?
 
 143
 00:09:29,600 --> 00:09:30,040
-Come...
+Datang...
 
 144
 00:09:34,080 --> 00:09:35,040
-It's a little messy here.
+Di sini agak berantakan.
 
 145
 00:09:35,800 --> 00:09:36,320
-It's fine.
+Tidak apa-apa.
 
 146
 00:09:36,800 --> 00:09:37,360
-Pretty good.
+Cukup bagus.
 
 147
 00:09:41,160 --> 00:09:42,200
-Are you done with the screen?
+Apakah Anda sudah selesai dengan layarnya?
 
 148
 00:09:43,160 --> 00:09:43,920
-Almost done.
+Hampir selesai.
 
 149
 00:09:44,600 --> 00:09:45,520
-This is...
+Ini...
 
 150
 00:09:45,720 --> 00:09:46,920
-a success in the imperial examination.
+sukses dalam ujian kekaisaran.
 
 151
 00:09:53,680 --> 00:09:54,520
-What is portrayed
+Apa yang digambarkan
 
 152
 00:09:54,760 --> 00:09:55,960
-is like a story.
+seperti sebuah cerita.
 
 153
 00:09:56,840 --> 00:09:57,360
-This is
+Ini
 
 154
 00:09:58,880 --> 00:10:00,240
-our story.
+cerita kita.
 
 155
 00:10:01,320 --> 00:10:02,280
-Does this screen
+Apakah layar ini
 
 156
 00:10:02,760 --> 00:10:03,800
-have a name?
+punya nama?
 
 157
 00:10:04,920 --> 00:10:05,600
-Let's call it
+Sebut saja
 
 158
 00:10:06,080 --> 00:10:07,360
-the Four-panel Screen.
+Layar Empat Panel.
 
 159
 00:10:08,440 --> 00:10:10,160
-The woman in the lacquer screen
+Wanita di layar pernis
 
 160
 00:10:10,520 --> 00:10:11,360
-is also her.
+juga dia.
 
 161
 00:10:12,000 --> 00:10:13,320
-However, the man
+Namun, pria itu
 
 162
 00:10:13,720 --> 00:10:14,760
-is not you
+bukan kau
 
 163
 00:10:15,480 --> 00:10:17,960
-but the painter Xu Kai.
+tapi pelukis Xu Kai.
 
 164
 00:10:19,520 --> 00:10:20,670
-So you're saying
+Jadi maksudmu
 
 165
 00:10:21,150 --> 00:10:22,760
-the one who should've been
-with her for years
+orang yang seharusnya
+bersamanya selama bertahun-tahun
 
 166
 00:10:23,080 --> 00:10:24,400
-is this Xu Kai.
+apakah ini Xu Kai.
 
 167
 00:10:24,720 --> 00:10:25,200
-Where is he?
+Dimana dia?
 
 168
 00:10:25,200 --> 00:10:26,520
-You killed him.
+Anda membunuhnya.
 
 169
 00:10:27,520 --> 00:10:28,240
-Seven stabs.
+Tujuh tusukan.
 
 170
 00:10:30,280 --> 00:10:31,240
-Mrs. Yinlian
+Nyonya Yinlian
 
 171
 00:10:31,640 --> 00:10:32,240
-was also
+dan juga
 
 172
 00:10:32,880 --> 00:10:34,360
-stabbed seven times.
+ditusuk tujuh kali.
 
 173
 00:10:35,600 --> 00:10:36,440
-A coincidence?
+Suatu kebetulan?
 
 174
 00:10:37,880 --> 00:10:38,520
-I don't think so.
+Saya kira tidak demikian.
 
 175
 00:10:39,800 --> 00:10:41,760
-But I didn't figure it out
+Tapi saya tidak memahaminya
 
 176
 00:10:41,880 --> 00:10:44,200
-until I found seven scratches
+sampai saya menemukan tujuh goresan
 
 177
 00:10:44,440 --> 00:10:46,440
-on the wall outside the private room
+di dinding di luar kamar pribadi
 
 178
 00:10:48,560 --> 00:10:50,240
-of the brothel.
+dari rumah bordil.
 
 179
 00:10:54,200 --> 00:10:57,440
-You stalked Mrs. Yinlian's
-secret rendezvous with Xu Kai.
+Anda menguntit rumah Ny. Yinlian
+pertemuan rahasia dengan Xu Kai.
 
 180
 00:10:57,880 --> 00:10:59,160
-Seven times in total.
+Totalnya tujuh kali.
 
 181
 00:11:00,120 --> 00:11:00,960
-One time,
+Satu kali,
 
 182
 00:11:01,520 --> 00:11:02,400
-one stab.
+satu tusukan.
 
 183
 00:11:02,680 --> 00:11:03,840
-Take a good look at my nails.
+Perhatikan baik-baik kukuku.
 
 184
 00:11:04,200 --> 00:11:05,000
-What scratches are there?
+Goresan apa saja yang ada?
 
 185
 00:11:05,240 --> 00:11:05,960
-Nothing!
+Tidak ada apa-apa!
 
 186
 00:11:06,240 --> 00:11:08,280
-The nails have grown back.
+Kukunya telah tumbuh kembali.
 
 187
 00:11:09,200 --> 00:11:09,840
-But that day,
+Tapi hari itu,
 
 188
 00:11:10,080 --> 00:11:11,680
-when I examined your pulse,
+saat aku memeriksa denyut nadimu,
 
 189
 00:11:12,080 --> 00:11:14,400
-I did see the wear and tear of your nails.
+Aku memang melihat kerusakan pada kukumu.
 
 190
 00:11:14,960 --> 00:11:16,400
-Unfortunately, at that time,
+Sayangnya, saat itu,
 
 191
 00:11:16,640 --> 00:11:18,240
-I didn't doubt what you were saying.
+Saya tidak meragukan apa yang Anda katakan.
 
 192
 00:11:18,440 --> 00:11:19,040
-Shut up!
+Diam!
 
 193
 00:11:19,560 --> 00:11:21,440
-Don't say anything without evidence.
+Jangan mengatakan apa pun tanpa bukti.
 
 194
 00:11:22,040 --> 00:11:22,760
@@ -787,104 +787,104 @@ Di Renjie,
 
 195
 00:11:24,280 --> 00:11:26,040
-it doesn't matter if you accuse me.
+tidak masalah jika kamu menuduhku.
 
 196
 00:11:27,040 --> 00:11:28,400
-If you accuse Yinlian
+Jika Anda menuduh Yinlian
 
 197
 00:11:28,520 --> 00:11:29,920
-of adultery,
+perzinahan,
 
 198
 00:11:30,400 --> 00:11:31,720
-I won't spare you.
+Aku tidak akan membiarkanmu.
 
 199
 00:11:34,320 --> 00:11:36,880
-I've never been able to figure this out.
+Saya tidak pernah bisa memikirkan hal ini.
 
 200
 00:11:37,880 --> 00:11:39,000
-I didn't understand
+Saya tidak mengerti
 
 201
 00:11:39,480 --> 00:11:42,880
-how a man could endure such humiliation
+bagaimana seorang pria bisa menanggung penghinaan seperti itu
 
 202
 00:11:45,160 --> 00:11:47,720
-until I found your poem
+sampai aku menemukan puisimu
 
 203
 00:11:48,400 --> 00:11:49,960
-in Mrs. Yinlian's room.
+di kamar Nyonya Yinlian.
 
 204
 00:11:54,480 --> 00:11:56,760
-The old mountains stand,
-yet my bonds no longer cling.
+Gunung-gunung tua berdiri,
+namun ikatanku tidak lagi melekat.
 
 205
 00:11:56,840 --> 00:11:59,200
-Embarking on a journey to Chang'an
-to enjoy the late spring.
+Memulai perjalanan ke Chang'an
+untuk menikmati akhir musim semi.
 
 206
 00:11:59,560 --> 00:12:01,800
-A tree draped in pear blossoms,
-a stream beneath moonlight.
+Sebuah pohon terbungkus bunga pir,
+aliran di bawah sinar bulan.
 
 207
 00:12:01,920 --> 00:12:04,400
-I wonder who owns this sight tonight.
+Aku ingin tahu siapa pemilik pemandangan malam ini.
 
 208
 00:12:07,360 --> 00:12:08,720
-You said you were revising
+Anda bilang Anda sedang merevisi
 
 209
 00:12:08,720 --> 00:12:09,960
-Mrs. Yinlian's poem for her.
+Puisi Nyonya Yinlian untuknya.
 
 210
 00:12:11,760 --> 00:12:14,040
-The old mountains exist,
-yet my bonds no longer cling.
+Gunung-gunung tua itu ada,
+namun ikatanku tidak lagi melekat.
 
 211
 00:12:14,400 --> 00:12:17,080
-Embarking on a journey to Chang'an
-to see the late spring.
+Memulai perjalanan ke Chang'an
+untuk melihat akhir musim semi.
 
 212
 00:12:17,960 --> 00:12:19,480
-You put your mark
+Anda memberi tanda Anda
 
 213
 00:12:19,560 --> 00:12:22,040
-on Mrs. Yinlian's poem and tried
+pada puisi Nyonya Yinlian dan mencobanya
 
 214
 00:12:22,440 --> 00:12:24,360
-to take it as your own.
+untuk menganggapnya sebagai milikmu.
 
 215
 00:12:25,320 --> 00:12:26,360
-But unfortunately,
+Tapi sayangnya,
 
 216
 00:12:28,240 --> 00:12:29,880
-after all your efforts,
+setelah semua usahamu,
 
 217
 00:12:30,680 --> 00:12:31,880
-it's not
+ini bukan
 
 218
 00:12:32,400 --> 00:12:34,280
-as good as the original.
+sama bagusnya dengan aslinya.
 
 219
 00:12:34,360 --> 00:12:35,280
@@ -892,123 +892,123 @@ Di Renjie,
 
 220
 00:12:35,560 --> 00:12:38,320
-you're just a poor scholar
-with a classicist degree.
+kamu hanya seorang sarjana miskin
+dengan gelar klasikis.
 
 221
 00:12:38,320 --> 00:12:40,280
-You have no right to judge my poetry.
+Anda tidak berhak menilai puisi saya.
 
 222
 00:12:40,400 --> 00:12:42,360
-I indeed have no talent for poetry,
+Saya memang tidak punya bakat menulis puisi,
 
 223
 00:12:43,080 --> 00:12:44,280
-but I'm not one
+tapi aku bukan salah satunya
 
 224
 00:12:44,280 --> 00:12:46,240
-who fish for fame either.
+yang juga mencari ketenaran.
 
 225
 00:12:48,000 --> 00:12:49,320
-Someone told me
+Seseorang memberitahuku
 
 226
 00:12:50,520 --> 00:12:51,760
-that love and romance
+cinta dan romansa itu
 
 227
 00:12:51,920 --> 00:12:52,800
-are simple.
+sederhana.
 
 228
 00:12:52,880 --> 00:12:54,040
-It's strong while being together.
+Itu kuat saat bersama.
 
 229
 00:12:54,560 --> 00:12:55,680
-It's intense while missing.
+Ini intens saat hilang.
 
 230
 00:12:56,280 --> 00:12:57,880
-Separation creates sorrow.
+Perpisahan menimbulkan kesedihan.
 
 231
 00:12:58,680 --> 00:13:00,120
-Infatuation creates suspicion.
+Kegilaan menimbulkan kecurigaan.
 
 232
 00:13:00,840 --> 00:13:02,640
-Passionate incurs jealousy and hatred.
+Gairah menimbulkan kecemburuan dan kebencian.
 
 233
 00:13:03,880 --> 00:13:04,960
-These feelings
+Perasaan ini
 
 234
 00:13:05,760 --> 00:13:07,200
-are depicted to the fullest
+digambarkan secara maksimal
 
 235
 00:13:08,240 --> 00:13:09,480
-in your poetry.
+dalam puisimu.
 
 236
 00:13:10,120 --> 00:13:11,800
-Your poetry is soft and sentimental,
+Puisimu lembut dan sentimental,
 
 237
 00:13:12,680 --> 00:13:13,800
-more vivid
+lebih jelas
 
 238
 00:13:14,720 --> 00:13:16,840
-than a woman's thoughts.
+daripada pikiran seorang wanita.
 
 239
 00:13:17,080 --> 00:13:18,240
-Now that I think about it,
+Sekarang aku memikirkannya,
 
 240
 00:13:19,120 --> 00:13:22,120
-it's not that you're more delicate
-than women,
+bukan karena kamu lebih peka
+daripada wanita,
 
 241
 00:13:22,720 --> 00:13:24,240
-but these poems
+tapi puisi-puisi ini
 
 242
 00:13:24,560 --> 00:13:27,320
-were written by a woman.
+ditulis oleh seorang wanita.
 
 243
 00:13:28,720 --> 00:13:29,880
-If not,
+Jika tidak,
 
 244
 00:13:30,880 --> 00:13:31,800
-why did you know
+kenapa kamu tahu
 
 245
 00:13:31,800 --> 00:13:35,480
-that Mrs. Yinlian was having an affair
-with her old lover
+bahwa Nyonya Yinlian berselingkuh
+dengan kekasih lamanya
 
 246
 00:13:35,480 --> 00:13:37,920
-but still put up with it?
+tapi masih tahan dengan itu?
 
 247
 00:13:39,680 --> 00:13:41,680
-It's just because you need
+Itu hanya karena kamu membutuhkannya
 
 248
 00:13:42,160 --> 00:13:45,920
-Mrs. Yinlian's poems more
-than anyone else.
+Puisi Ny. Yinlian selengkapnya
+daripada orang lain.
 
 249
 00:13:49,120 --> 00:13:49,920
@@ -1016,144 +1016,144 @@ Xu Kai.
 
 250
 00:13:51,320 --> 00:13:52,200
-Let's call it
+Sebut saja
 
 251
 00:13:52,600 --> 00:13:53,880
-the Four-panel Screen.
+Layar Empat Panel.
 
 252
 00:13:55,360 --> 00:13:56,240
-What is portrayed
+Apa yang digambarkan
 
 253
 00:13:56,600 --> 00:13:57,680
-is like a story.
+seperti sebuah cerita.
 
 254
 00:13:59,040 --> 00:14:00,240
-This is our story.
+Ini adalah cerita kita.
 
 255
 00:14:12,920 --> 00:14:13,600
 Di Renjie,
 
 256
-00:14:15,000 --> 00:14:16,120
-get out of here.
+00:14:15.000 --> 00:14:16.120
+keluar dari sini.
 
 257
 00:14:23,840 --> 00:14:25,160
-I remember you said
+Aku ingat kamu berkata
 
 258
 00:14:26,200 --> 00:14:27,240
-you never used
+kamu tidak pernah menggunakannya
 
 259
 00:14:27,320 --> 00:14:28,680
-that horsewhip
+menunggang kuda itu
 
 260
 00:14:28,680 --> 00:14:29,880
-since your army days.
+sejak masa tentaramu.
 
 261
 00:14:31,720 --> 00:14:32,360
-This horsewhip
+Menunggang kuda ini
 
 262
 00:14:32,840 --> 00:14:34,000
-is what I used back then.
+adalah apa yang saya gunakan saat itu.
 
 263
 00:14:34,440 --> 00:14:35,240
-Ever since I left office,
+Sejak saya meninggalkan kantor,
 
 264
 00:14:35,520 --> 00:14:37,200
-I've kept it with me.
+Aku sudah menyimpannya bersamaku.
 
 265
 00:14:37,640 --> 00:14:38,560
-It commemorates
+Ini memperingati
 
 266
 00:14:38,920 --> 00:14:40,640
-my years of military service.
+tahun-tahun dinas militerku.
 
 267
 00:14:41,760 --> 00:14:44,080
-What about the fresh blood
+Bagaimana dengan darah segar
 
 268
 00:14:44,400 --> 00:14:45,520
-on the end of the whip?
+di ujung cambuk?
 
 269
 00:14:45,920 --> 00:14:47,880
-Dare to show your backside
+Berani menunjukkan sisi belakangmu
 
 270
 00:14:47,880 --> 00:14:49,400
-for everyone to see?
+untuk dilihat semua orang?
 
 271
 00:14:50,600 --> 00:14:52,040
-Fingernails can grow,
+Kuku bisa tumbuh,
 
 272
 00:14:52,720 --> 00:14:53,520
-but whip marks
+tapi tanda cambuk
 
 273
 00:14:53,640 --> 00:14:55,920
-can't disappear once left.
+tidak bisa hilang begitu tersisa.
 
 274
 00:14:56,920 --> 00:14:59,080
-You whipped yourself
-with the horsewhip every day,
+Anda mencambuk diri sendiri
+dengan menunggang kuda setiap hari,
 
 275
 00:14:59,560 --> 00:15:01,160
-trying to subdue your inner demons.
+mencoba menaklukkan iblis batiniah Anda.
 
 276
 00:15:01,600 --> 00:15:02,480
-But in the end,
+Namun pada akhirnya,
 
 277
 00:15:02,520 --> 00:15:04,480
-you couldn't bear it anymore.
+kamu tidak tahan lagi.
 
 278
 00:15:05,640 --> 00:15:07,240
-You first killed Xu Kai.
+Anda pertama kali membunuh Xu Kai.
 
 279
 00:15:07,400 --> 00:15:07,960
-Then,
+Kemudian,
 
 280
 00:15:08,120 --> 00:15:09,720
-you pretended to be mad
+kamu pura-pura marah
 
 281
 00:15:10,160 --> 00:15:11,560
-and killed Yinlian.
+dan membunuh Yinlian.
 
 282
 00:15:14,080 --> 00:15:16,960
-You said I was faking my madness?
+Kamu bilang aku berpura-pura gila?
 
 283
 00:15:19,280 --> 00:15:20,720
-In your study,
+Di ruang belajarmu,
 
 284
 00:15:21,160 --> 00:15:23,320
-we found Bimanzi.
+kami menemukan Bimanzi.
 
 285
 00:15:24,560 --> 00:15:25,480
@@ -1161,48 +1161,48 @@ Bimanzi,
 
 286
 00:15:26,520 --> 00:15:27,800
-a small amount of it
+sejumlah kecil dari itu
 
 287
 00:15:27,920 --> 00:15:30,440
-can make one show the symptoms of madness.
+dapat membuat seseorang menunjukkan gejala kegilaan.
 
 288
 00:15:30,560 --> 00:15:32,440
-To kill Yinlian,
+Untuk membunuh Yinlian,
 
 289
 00:15:32,440 --> 00:15:34,600
-you took it for more than ten days,
+Anda meminumnya selama lebih dari sepuluh hari,
 
 290
 00:15:35,200 --> 00:15:37,160
-which confirmed your madness.
+yang menegaskan kegilaanmu.
 
 291
 00:15:39,440 --> 00:15:41,040
-If I really wanted to kill my wife,
+Jika aku benar-benar ingin membunuh istriku,
 
 292
 00:15:41,040 --> 00:15:42,200
-why did I do that?
+kenapa aku melakukan itu?
 
 293
 00:15:42,440 --> 00:15:43,080
-In the beginning,
+Pada awalnya,
 
 294
 00:15:43,560 --> 00:15:45,680
-you didn't want to get blood
-on your hands,
+kamu tidak ingin mendapatkan darah
+di tanganmu,
 
 295
 00:15:46,040 --> 00:15:47,720
-so you bribed the director
+jadi kamu menyuap direktur
 
 296
 00:15:47,880 --> 00:15:49,800
-to release Li Han.
+untuk melepaskan Li Han.
 
 297
 00:15:52,620 --> 00:15:54,620
@@ -1210,274 +1210,274 @@ to release Li Han.
 
 298
 00:15:57,560 --> 00:16:00,080
-Your words are getting
-even more ridiculous.
+Kata-katamu semakin masuk akal
+bahkan lebih konyol lagi.
 
 299
 00:16:00,440 --> 00:16:01,280
-I'm Teng Kan.
+Saya Teng Kan.
 
 300
 00:16:01,320 --> 00:16:02,880
-Everyone knows me in Penglai.
+Semua orang mengenal saya di Penglai.
 
 301
 00:16:03,480 --> 00:16:05,000
-If I go to the quarry for one's release,
+Jika saya pergi ke tambang untuk melepaskan seseorang,
 
 302
 00:16:05,800 --> 00:16:07,560
-the director will surely recognize me.
+sutradara pasti akan mengenaliku.
 
 303
 00:16:08,040 --> 00:16:09,160
-Call the director here.
+Hubungi direktur di sini.
 
 304
 00:16:09,480 --> 00:16:10,880
-I'll confront him.
+Aku akan menghadapinya.
 
 305
 00:16:11,120 --> 00:16:13,400
-When did I mention the quarry?
+Kapan saya menyebutkan tambang itu?
 
 306
 00:16:13,800 --> 00:16:14,560
-That's right.
+Itu benar.
 
 307
 00:16:14,840 --> 00:16:15,640
-He didn't say it.
+Dia tidak mengatakannya.
 
 308
 00:16:15,720 --> 00:16:17,280
-How do you know that Li Han
+Bagaimana kamu tahu itu Li Han
 
 309
 00:16:17,280 --> 00:16:18,640
-was serving in the quarry?
+sedang bertugas di tambang?
 
 310
 00:16:21,040 --> 00:16:22,240
-It's not hard to deduce.
+Tidak sulit untuk menyimpulkannya.
 
 311
 00:16:22,640 --> 00:16:23,680
-Call the director here.
+Hubungi direktur di sini.
 
 312
 00:16:23,920 --> 00:16:25,920
-I'll confront him face-to-face.
+Aku akan menghadapinya secara langsung.
 
 313
 00:16:26,120 --> 00:16:27,280
-No need for a confrontation.
+Tidak perlu konfrontasi.
 
 314
 00:16:28,080 --> 00:16:29,560
-The one who went to the quarry
+Orang yang pergi ke tambang
 
 315
 00:16:29,560 --> 00:16:30,600
-was indeed not you
+memang bukan kamu
 
 316
 00:16:30,920 --> 00:16:31,440
-but
+Tetapi
 
 317
 00:16:32,080 --> 00:16:33,480
-Ms. Lai Er,
+Nona Lai Er,
 
 318
 00:16:34,360 --> 00:16:36,360
-Yinlian's sister.
+Adik Yinlian.
 
 319
 00:16:36,840 --> 00:16:38,200
-Why did she do this?
+Kenapa dia melakukan ini?
 
 320
 00:16:39,360 --> 00:16:40,600
-You should ask her,
+Anda harus bertanya padanya,
 
 321
 00:16:40,600 --> 00:16:41,720
-not me.
+bukan saya.
 
 322
 00:16:41,760 --> 00:16:44,080
-You know exactly why.
+Anda tahu persis alasannya.
 
 323
 00:16:44,440 --> 00:16:45,440
-Mrs. Yinlian
+Nyonya Yinlian
 
 324
 00:16:45,440 --> 00:16:46,680
-always went out
+selalu keluar
 
 325
 00:16:46,680 --> 00:16:48,800
-in the name of visiting Ms. Lai Er.
+atas nama kunjungan Nona Lai Er.
 
 326
 00:16:48,800 --> 00:16:49,360
-The butler
+Pelayan
 
 327
 00:16:49,920 --> 00:16:51,440
-can testify to this.
+dapat bersaksi mengenai hal ini.
 
 328
 00:16:52,200 --> 00:16:54,320
-Had Mr.s Yinlian and Ms. Lai Er always
-been seeing each other?
+Selalu memiliki Tuan Yinlian dan Nona Lai Er
+sudah bertemu satu sama lain?
 
 329
 00:16:54,840 --> 00:16:55,960
-Not really.
+Tidak terlalu.
 
 330
 00:16:56,280 --> 00:16:57,280
-I've heard they used to have a deep grudge
+Saya pernah mendengar mereka dulu mempunyai dendam yang mendalam
 
 331
 00:16:57,280 --> 00:16:59,280
-against each other.
+melawan satu sama lain.
 
 332
 00:16:59,560 --> 00:17:00,840
-It was only recently
+Itu baru saja terjadi
 
 333
 00:17:00,960 --> 00:17:02,080
-that they began to see each other again.
+bahwa mereka mulai bertemu lagi.
 
 334
 00:17:02,640 --> 00:17:04,600
-If you knew they were at odds,
+Jika Anda tahu mereka berselisih,
 
 335
 00:17:05,560 --> 00:17:06,200
-then
+Kemudian
 
 336
 00:17:06,640 --> 00:17:09,280
-you'd realize Mrs. Yinlian
-must've been lying.
+Anda akan menyadari Ny. Yinlian
+pasti berbohong.
 
 337
 00:17:10,240 --> 00:17:12,640
-You knew Ms. Lai Er loved Xu Kai deeply.
+Anda tahu Nona Lai Er sangat mencintai Xu Kai.
 
 338
 00:17:12,960 --> 00:17:15,120
-And after recovering from leprosy,
+Dan setelah sembuh dari penyakit kusta,
 
 339
 00:17:15,120 --> 00:17:17,760
-Xu Kai rekindled his relationship
-with Yinlian.
+Xu Kai menghidupkan kembali hubungannya
+dengan Yinlian.
 
 340
 00:17:18,440 --> 00:17:20,320
-You used her jealousy to get her
+Anda menggunakan kecemburuannya untuk mendapatkannya
 
 341
 00:17:20,400 --> 00:17:22,080
-to pay for Li Han's release.
+untuk membayar pembebasan Li Han.
 
 342
 00:17:22,080 --> 00:17:23,960
-If it weren't for Li Han to thwart you,
+Jika bukan karena Li Han yang menggagalkanmu,
 
 343
 00:17:24,160 --> 00:17:25,400
-you'd have succeeded.
+kamu pasti berhasil.
 
 344
 00:17:26,320 --> 00:17:28,360
-He knew that after you killed Xu Kai,
+Dia tahu itu setelah kamu membunuh Xu Kai,
 
 345
 00:17:28,400 --> 00:17:30,040
-- you'd kill your wife.
-- Evil spirit...
+- kamu akan membunuh istrimu.
+- Roh jahat...
 
 346
 00:17:30,040 --> 00:17:30,680
-Evil spirit...
+Roh jahat...
 
 347
 00:17:30,680 --> 00:17:32,680
-So he could only sneak
-into your residence repeatedly
+Jadi dia hanya bisa menyelinap
+ke tempat tinggal Anda berulang kali
 
 348
 00:17:32,680 --> 00:17:34,120
-to protect Yinlian.
+untuk melindungi Yinlian.
 
 349
 00:17:35,200 --> 00:17:36,800
-You knew he didn't dare to report it,
+Anda tahu dia tidak berani melaporkannya,
 
 350
 00:17:37,080 --> 00:17:39,200
-so you took advantage of him
+jadi kamu memanfaatkan dia
 
 351
 00:17:39,200 --> 00:17:41,880
-and successfully diverted my attention.
+dan berhasil mengalihkan perhatianku.
 
 352
 00:17:42,400 --> 00:17:44,400
-You're a heartless man,
+Kamu adalah pria yang tidak punya hati,
 
 353
 00:17:44,800 --> 00:17:45,840
-so you wouldn't have thought
+jadi kamu tidak akan menyangka
 
 354
 00:17:46,120 --> 00:17:48,320
-that Li Han was framed
-and imprisoned due to Yinlian,
+bahwa Li Han dijebak
+dan dipenjara karena Yinlian,
 
 355
 00:17:48,320 --> 00:17:49,400
-but he loved Yinlian
+tapi dia mencintai Yinlian
 
 356
 00:17:49,400 --> 00:17:50,880
-till his death.
+sampai kematiannya.
 
 357
 00:17:51,920 --> 00:17:52,960
-This broken hair
+Rambut rusak ini
 
 358
 00:17:53,680 --> 00:17:55,320
-is proof.
+adalah bukti.
 
 359
 00:17:55,880 --> 00:17:57,240
-Such a person
+Orang seperti itu
 
 360
 00:17:57,640 --> 00:18:00,800
-can never want to kill someone.
+tidak pernah ingin membunuh seseorang.
 
 361
 00:18:04,440 --> 00:18:05,640
-What a story
+Cerita yang luar biasa
 
 362
 00:18:06,040 --> 00:18:07,680
-of love and hate.
+tentang cinta dan benci.
 
 363
 00:18:08,120 --> 00:18:09,720
-It's so touching.
+Ini sangat menyentuh.
 
 364
 00:18:10,440 --> 00:18:11,200
@@ -1485,342 +1485,342 @@ Di Renjie,
 
 365
 00:18:11,800 --> 00:18:13,120
-you're saying with certainty.
+kamu mengatakannya dengan pasti.
 
 366
 00:18:13,720 --> 00:18:14,360
-So
+Jadi
 
 367
 00:18:14,760 --> 00:18:16,720
-you have evidence to convict me?
+kamu punya bukti untuk menghukumku?
 
 368
 00:18:19,800 --> 00:18:20,840
-I have no evidence.
+Saya tidak punya bukti.
 
 369
 00:18:22,320 --> 00:18:23,640
-Li Han and Xu Kai
+Li Han dan Xu Kai
 
 370
 00:18:23,640 --> 00:18:24,640
-are both dead.
+keduanya mati.
 
 371
 00:18:26,240 --> 00:18:27,160
-Just
+Hanya
 
 372
 00:18:27,680 --> 00:18:29,920
-the Bimanzi found in your residence
+Bimanzi ditemukan di kediaman Anda
 
 373
 00:18:31,240 --> 00:18:32,720
-is not enough to convict you.
+tidak cukup untuk menghukum Anda.
 
 374
 00:18:34,560 --> 00:18:35,720
-Magistrate Di,
+Hakim Di,
 
 375
 00:18:37,280 --> 00:18:39,560
-my reputation in the realm of poetry
+reputasiku di bidang puisi
 
 376
 00:18:39,560 --> 00:18:41,760
-can't be shaken
+tidak bisa digoyahkan
 
 377
 00:18:42,000 --> 00:18:43,680
-by your ravings at all.
+oleh ocehanmu sama sekali.
 
 378
 00:18:44,280 --> 00:18:45,680
-You've framed me like this.
+Anda telah menjebak saya seperti ini.
 
 379
 00:18:45,680 --> 00:18:46,600
-Now,
+Sekarang,
 
 380
 00:18:46,880 --> 00:18:49,160
-you should consider the consequences.
+Anda harus mempertimbangkan konsekuensinya.
 
 381
 00:18:51,310 --> 00:18:54,040
-I thought you once dominated
-the realm of poetry
+Saya pikir Anda pernah mendominasi
+ranah puisi
 
 382
 00:18:54,070 --> 00:18:55,240
-with your genuine talent.
+dengan bakat aslimu.
 
 383
 00:18:56,110 --> 00:18:57,830
-How could you end up like this?
+Bagaimana kamu bisa berakhir seperti ini?
 
 384
 00:18:58,280 --> 00:19:00,920
-Three people have died because of you.
+Tiga orang telah mati karenamu.
 
 385
 00:19:01,440 --> 00:19:03,350
-How can you be at peace?
+Bagaimana Anda bisa merasa damai?
 
 386
 00:19:03,560 --> 00:19:04,720
-What nonsense!
+Omong kosong!
 
 387
 00:19:05,560 --> 00:19:06,160
-Someone!
+Seseorang!
 
 388
 00:19:06,310 --> 00:19:07,480
-Keep moving.
+Terus bergerak.
 
 389
 00:19:21,680 --> 00:19:22,200
-Lift!
+Mengangkat!
 
 390
 00:19:26,280 --> 00:19:27,480
-How come it's turned into a stone?
+Kok bisa jadi batu?
 
 391
 00:19:28,880 --> 00:19:29,840
-Where are the manuscripts?
+Dimana manuskripnya?
 
 392
 00:19:30,320 --> 00:19:31,480
-Where are my manuscripts?
+Dimana naskahku?
 
 393
 00:19:31,600 --> 00:19:32,760
-It's here.
+Itu disini.
 
 394
 00:19:41,440 --> 00:19:42,440
-Where are the other manuscripts?
+Di mana manuskrip lainnya?
 
 395
 00:19:43,240 --> 00:19:44,480
-Where are my other manuscripts?
+Di mana naskah saya yang lain?
 
 396
 00:19:44,600 --> 00:19:46,280
-They're on the way to Chang'an.
+Mereka sedang dalam perjalanan ke Chang'an.
 
 397
 00:19:47,560 --> 00:19:48,800
-I asked Ma Rong
+tanyaku pada Ma Rong
 
 398
 00:19:49,120 --> 00:19:50,080
-to enter your residence
+untuk memasuki tempat tinggalmu
 
 399
 00:19:50,720 --> 00:19:52,120
-and replace all of them.
+dan ganti semuanya.
 
 400
 00:19:53,560 --> 00:19:54,760
-These manuscripts
+Naskah-naskah ini
 
 401
 00:19:55,400 --> 00:19:57,720
-are in Mrs. Yinlian's handwriting.
+ada dalam tulisan tangan Ny. Yinlian.
 
 402
 00:19:58,120 --> 00:20:00,800
-They're something
-you haven't had a chance to copy yet.
+Itu adalah sesuatu
+Anda belum sempat menyalinnya.
 
 403
 00:20:02,280 --> 00:20:03,960
-You pretended to mourn her
+Anda berpura-pura berduka atas dia
 
 404
 00:20:04,000 --> 00:20:05,600
-and locked yourself in her room.
+dan mengunci diri di kamarnya.
 
 405
 00:20:05,600 --> 00:20:06,120
-But actually,
+Tapi sebenarnya,
 
 406
 00:20:06,480 --> 00:20:08,440
-you were searching for her last works.
+Anda sedang mencari karya terakhirnya.
 
 407
 00:20:09,960 --> 00:20:12,080
-I can't punish you for murder.
+Aku tidak bisa menghukummu karena pembunuhan.
 
 408
 00:20:12,880 --> 00:20:14,720
-But you used Yinlian's poems
+Tapi Anda menggunakan puisi Yinlian
 
 409
 00:20:15,040 --> 00:20:16,120
-to win the first place in the capital.
+untuk memenangkan tempat pertama di ibukota.
 
 410
 00:20:17,360 --> 00:20:18,920
-You deceived the Emperor.
+Anda menipu Kaisar.
 
 411
 00:20:20,080 --> 00:20:22,960
-You still can't escape death
-for this crime.
+Anda masih tidak bisa lepas dari kematian
+untuk kejahatan ini.
 
 412
 00:20:42,360 --> 00:20:43,040
-Mr. Teng,
+Tuan Teng,
 
 413
 00:20:45,120 --> 00:20:46,520
-I won't arrest you today.
+Aku tidak akan menangkapmu hari ini.
 
 414
 00:20:48,440 --> 00:20:49,640
-You can go.
+Anda bisa pergi.
 
 415
 00:21:04,600 --> 00:21:05,920
-But remember,
+Tapi ingat,
 
 416
 00:21:07,920 --> 00:21:08,680
-after today,
+setelah hari ini,
 
 417
 00:21:09,600 --> 00:21:11,080
-all your fame
+semua ketenaranmu
 
 418
 00:21:13,280 --> 00:21:14,640
-is a joke.
+adalah gurauan.
 
 419
 00:22:44,860 --> 00:22:51,380
-[Grave of Li Han. Grave of Mrs. Teng,
-maiden name Yinlian. Grave of Xu Kai.]
+[Makam Li Han. Makam Ibu Teng,
+nama gadis Yinlian. Makam Xu Kai.]
 
 420
 00:23:16,380 --> 00:23:24,860
-[Grave of Yinlian]
+[Makam Yinlian]
 
 421
 00:23:39,680 --> 00:23:41,080
-I've been in charge of Penglai for a long
+Saya sudah lama memimpin Penglai
 
 422
 00:23:42,640 --> 00:23:44,160
-and have violated many codes and laws.
+dan telah melanggar banyak kode dan undang-undang.
 
 423
 00:23:45,760 --> 00:23:47,320
-What is Di Renjie going to do with me?
+Apa yang akan dilakukan Di Renjie denganku?
 
 424
 00:23:47,840 --> 00:23:48,560
-He said
+Dia berkata
 
 425
 00:23:49,000 --> 00:23:49,680
-you've lost.
+kamu telah kalah.
 
 426
 00:23:50,360 --> 00:23:51,480
-From now on, in Penglai County,
+Mulai sekarang, di Kabupaten Penglai,
 
 427
 00:23:52,080 --> 00:23:53,000
-whatever is in your charge,
+apa pun yang menjadi tanggung jawabmu,
 
 428
 00:23:53,320 --> 00:23:53,960
-he'll take charge of it.
+dia akan mengambil alih hal itu.
 
 429
 00:23:54,880 --> 00:23:55,800
-Whatever is not in your charge,
+Apa pun yang bukan tanggung jawab Anda,
 
 430
 00:23:56,520 --> 00:23:57,680
-he'll also take charge of it.
+dia juga akan mengambil alih hal itu.
 
 431
 00:24:06,280 --> 00:24:07,440
-[Mingyue House]
-The rain has finally stopped.
+[Rumah Mingyue]
+Hujan akhirnya berhenti.
 
 432
 00:24:07,680 --> 00:24:08,480
-Yes, it has.
+Ya, sudah.
 
 433
 00:24:43,720 --> 00:24:44,480
-It's made of red cedar wood.
+Itu terbuat dari kayu cedar merah.
 
 434
 00:24:46,120 --> 00:24:47,040
-When I was a kid in Chang'an,
+Ketika saya masih kecil di Chang'an,
 
 435
 00:24:47,800 --> 00:24:48,800
-a family
+sebuah keluarga
 
 436
 00:24:49,520 --> 00:24:51,600
-brought one red cedar tree
-from the remote Jiannan Circuit
+membawa satu pohon cedar merah
+dari Sirkuit Jiannan yang terpencil
 
 437
 00:24:52,080 --> 00:24:53,600
-and planted it in their yard.
+dan menanamnya di halaman rumah mereka.
 
 438
 00:24:53,920 --> 00:24:54,760
-It was so tall and green
+Itu sangat tinggi dan hijau
 
 439
 00:24:55,440 --> 00:24:56,440
-that you could see it from afar.
+agar kamu bisa melihatnya dari jauh.
 
 440
 00:24:57,400 --> 00:24:59,320
-The heavens and the earth fall
-into the dark night.
+Langit dan bumi runtuh
+ke dalam malam yang gelap.
 
 441
 00:24:59,840 --> 00:25:02,120
-Dead and living dim and draw apart.
+Mati dan hidup redup dan terpisah.
 
 442
 00:25:03,560 --> 00:25:04,320
-It's my first time.
+Ini pertama kalinya bagiku.
 
 443
 00:25:05,200 --> 00:25:06,240
-If it's not good for you,
+Jika itu tidak baik untukmu,
 
 444
 00:25:06,840 --> 00:25:07,560
-I'll change it.
+Saya akan mengubahnya.
 
 445
 00:25:14,360 --> 00:25:15,160
-It's very good.
+Ini sangat bagus.
 
 446
 00:25:16,360 --> 00:25:17,160
-No need to change it.
+Tidak perlu mengubahnya.
 
 447
 00:25:20,280 --> 00:25:21,240
-Magistrate, thank you.
+Hakim, terima kasih.
 
 448
 00:26:30,920 --> 00:26:31,680
@@ -1828,59 +1828,59 @@ Wang,
 
 449
 00:26:33,960 --> 00:26:35,320
-why did you drop anchor here?
+kenapa kamu membuang sauh disini?
 
 450
 00:26:35,840 --> 00:26:37,120
-It's too stormy.
+Ini terlalu badai.
 
 451
 00:26:37,600 --> 00:26:38,840
-This is nothing.
+Ini bukan apa-apa.
 
 452
 00:26:39,200 --> 00:26:40,240
-Back then,
+Saat itu,
 
 453
 00:26:40,280 --> 00:26:41,120
-I battled in Liaodong.
+Saya bertempur di Liaodong.
 
 454
 00:26:41,440 --> 00:26:43,360
-I've seen waves taller than a mountain.
+Saya pernah melihat ombak yang lebih tinggi dari gunung.
 
 455
 00:26:43,680 --> 00:26:44,960
-Are you tricking me?
+Apakah kamu menipuku?
 
 456
 00:26:45,680 --> 00:26:46,440
-Don't worry.
+Jangan khawatir.
 
 457
 00:26:47,400 --> 00:26:49,240
-I, Wang Lide, have been on this route
+Saya, Wang Lide, telah menempuh rute ini
 
 458
 00:26:49,360 --> 00:26:50,800
-a dozen times.
+belasan kali.
 
 459
 00:26:51,440 --> 00:26:53,280
-Better safe than sorry.
+Lebih baik aman daripada menyesal.
 
 460
 00:26:54,760 --> 00:26:55,840
-Where are the others?
+Dimana yang lainnya?
 
 461
 00:26:56,840 --> 00:26:58,240
-I told them to have a rest.
+Saya menyuruh mereka untuk istirahat.
 
 462
 00:26:59,320 --> 00:27:00,560
-Okay, I'll go take a look.
+Oke, aku akan pergi melihatnya.
 
 463
 00:27:04,700 --> 00:27:07,180
@@ -1888,79 +1888,79 @@ Okay, I'll go take a look.
 
 464
 00:27:27,120 --> 00:27:27,720
-Brother.
+Saudara laki-laki.
 
 465
 00:27:28,240 --> 00:27:28,880
-Brother.
+Saudara laki-laki.
 
 466
 00:27:31,440 --> 00:27:33,040
-Didn't I tell you not to come out?
+Bukankah aku sudah bilang padamu untuk tidak keluar?
 
 467
 00:27:33,240 --> 00:27:34,280
-I have a stomach ache.
+Aku sakit perut.
 
 468
 00:27:34,360 --> 00:27:35,560
-Shh.
+Ssst.
 
 469
 00:27:36,920 --> 00:27:39,960
-I told you this ship is dangerous.
+Sudah kubilang kapal ini berbahaya.
 
 470
 00:27:40,960 --> 00:27:42,440
-The sailors hold swords.
+Para pelaut memegang pedang.
 
 471
 00:27:43,240 --> 00:27:44,400
-They're all bandits.
+Mereka semua bandit.
 
 472
 00:27:44,680 --> 00:27:45,920
-I know that.
+Saya tahu itu.
 
 473
 00:27:46,240 --> 00:27:48,800
-If they find out
+Jika mereka mengetahuinya
 
 474
 00:27:49,080 --> 00:27:50,360
-I brought you on board secretly,
+Aku membawamu ke kapal secara diam-diam,
 
 475
 00:27:50,440 --> 00:27:53,680
-they'll kill you.
+mereka akan membunuhmu.
 
 476
 00:27:55,720 --> 00:27:56,440
-Wait a minute.
+Tunggu sebentar.
 
 477
 00:27:57,880 --> 00:27:59,200
-Use this.
+Gunakan ini.
 
 478
 00:27:59,240 --> 00:28:00,200
-I have diarrhea.
+Saya diare.
 
 479
 00:28:00,320 --> 00:28:02,800
-Use this.
+Gunakan ini.
 
 480
 00:28:31,800 --> 00:28:32,360
-Hey.
+Hai.
 
 481
 00:28:34,120 --> 00:28:35,240
-Hey, wake up.
+Hey bangun.
 
 482
 00:28:35,320 --> 00:28:35,960
-Hey.
+Hai.
 
 483
 00:28:38,080 --> 00:28:38,920
@@ -1968,43 +1968,43 @@ Wang Lide.
 
 484
 00:28:41,480 --> 00:28:43,320
-Gathered in delight,
-a homecoming feast unfolds.
+Berkumpul dengan gembira,
+pesta mudik pun digelar.
 
 485
 00:28:43,920 --> 00:28:45,800
-The joy is as great as
-in the Song of the Great Wind.
+Kegembiraannya sama besarnya dengan
+dalam Nyanyian Angin Besar.
 
 486
 00:29:22,380 --> 00:29:26,700
-[Ten days later.]
+[Sepuluh hari kemudian.]
 
 487
 00:29:34,780 --> 00:29:38,020
-[Judge Dee's Mystery]
-[Golden Mystery Case]
+[Misteri Hakim Dee]
+[Kasus Misteri Emas]
 
 488
 00:29:42,260 --> 00:29:46,380
-[Penglai Harbor]
+[Pelabuhan Penglai]
 
 489
 00:29:52,800 --> 00:29:54,000
 [Bai Kai]
-Director Yi.
+Direktur Yi.
 
 490
 00:29:55,180 --> 00:29:57,180
-[Director Yi]
+[Direktur Yi]
 
 491
 00:30:04,640 --> 00:30:05,240
-I forgot.
+Saya lupa.
 
 492
 00:30:08,080 --> 00:30:10,520
-It's for Commissioner Liu.
+Ini untuk Komisaris Liu.
 
 493
 00:30:14,720 --> 00:30:15,480
@@ -2012,108 +2012,108 @@ Bai Kai,
 
 494
 00:30:17,880 --> 00:30:19,280
-your shipmaster, Mr. Gu,
+nakhoda kapal Anda, Tuan Gu,
 
 495
 00:30:19,280 --> 00:30:21,520
-has prepared a lot of goodies.
+telah menyiapkan banyak barang.
 
 496
 00:30:21,880 --> 00:30:24,000
-Commissioner Liu has come all the way
-from the capital
+Komisaris Liu telah datang jauh-jauh
+dari ibu kota
 
 497
 00:30:24,000 --> 00:30:25,320
-to buy for His Majesty.
+untuk membeli untuk Yang Mulia.
 
 498
 00:30:25,560 --> 00:30:26,280
-I heard
+saya dengar
 
 499
 00:30:26,840 --> 00:30:28,800
-he's also trusted by the Empress.
+dia juga dipercaya oleh Permaisuri.
 
 500
 00:30:29,440 --> 00:30:31,200
-We must take good care of him.
+Kita harus merawatnya dengan baik.
 
 501
 00:30:33,160 --> 00:30:33,680
-Right.
+Benar.
 
 502
 00:30:33,920 --> 00:30:34,720
-You're right.
+Kamu benar.
 
 503
 00:30:38,400 --> 00:30:40,960
-But with me, you're usually
+Tapi jika bersamaku, kamu biasanya begitu
 
 504
 00:30:41,000 --> 00:30:42,520
-so stingy.
+sangat pelit.
 
 505
 00:30:43,280 --> 00:30:45,280
-Just gave me the runaround
+Beri aku jalan keluarnya saja
 
 506
 00:30:45,320 --> 00:30:46,680
-with some furs and Renshen.
+dengan beberapa bulu dan Renshen.
 [*Renshen: ginseng.]
 
 507
 00:30:47,200 --> 00:30:48,960
-Director Yi, you're so funny.
+Direktur Yi, kamu lucu sekali.
 
 508
 00:30:49,400 --> 00:30:51,360
-You're the director of maritime trade
-who manages the harbor.
+Anda adalah direktur perdagangan maritim
+yang mengelola pelabuhan.
 
 509
 00:30:51,680 --> 00:30:53,680
-Which Mr. Gu's cargo ship dare not
+Yang tidak berani dilakukan oleh kapal kargo Tuan Gu
 
 510
 00:30:53,720 --> 00:30:55,600
-to bring you gifts
-while entering the harbor?
+untuk membawakanmu hadiah
+saat memasuki pelabuhan?
 
 511
 00:30:56,200 --> 00:30:57,080
-Besides,
+Di samping itu,
 
 512
 00:30:57,640 --> 00:30:58,520
-I also heard
+Saya juga mendengar
 
 513
 00:30:58,680 --> 00:31:00,880
-Commissioner Liu's intentions
-for this trip are not good.
+Niat Komisaris Liu
+untuk perjalanan ini tidak baik.
 
 514
 00:31:01,200 --> 00:31:02,680
-Only if we serve him well this time
+Hanya jika kita melayaninya dengan baik kali ini
 
 515
 00:31:02,840 --> 00:31:04,680
-can we make money later,
+bisakah kita menghasilkan uang nanti,
 
 516
 00:31:05,080 --> 00:31:05,680
-right?
+Kanan?
 
 517
 00:31:08,720 --> 00:31:09,240
-That's true.
+Itu benar.
 
 518
 00:31:11,560 --> 00:31:12,120
-That's true.
+Itu benar.
 
 519
 00:31:33,280 --> 00:31:33,920
@@ -2125,144 +2125,144 @@ Guanshi.
 
 521
 00:31:34,940 --> 00:31:37,140
-[Hou Yu, courtesy name Guan Shi]
+[Hou Yu, nama kehormatan Guan Shi]
 
 522
 00:31:37,840 --> 00:31:38,720
-Since you left the capital,
+Sejak Anda meninggalkan ibu kota,
 
 523
 00:31:39,240 --> 00:31:39,960
-it's been over a year.
+sudah lebih dari setahun.
 
 524
 00:31:40,840 --> 00:31:41,920
-I still remember
+aku masih ingat
 
 525
 00:31:42,520 --> 00:31:44,200
-seeing you off
-outside the Beihuan Pavilion.
+mengantarmu pergi
+di luar Paviliun Beihuan.
 
 526
 00:31:44,600 --> 00:31:45,880
-The fallen flowers outside the pavilion
+Bunga-bunga berguguran di luar paviliun
 
 527
 00:31:46,200 --> 00:31:47,240
-were melancholy.
+adalah melankolis.
 
 528
 00:31:47,640 --> 00:31:49,000
-At that time, I wondered
+Saat itu, saya bertanya-tanya
 
 529
 00:31:49,760 --> 00:31:50,560
-when
+Kapan
 
 530
 00:31:50,920 --> 00:31:51,920
-and where
+dan dimana
 
 531
 00:31:52,560 --> 00:31:53,640
-I'd meet you again.
+aku akan bertemu denganmu lagi.
 
 532
 00:31:54,560 --> 00:31:56,000
-Aren't I doing fine here
+Bukankah aku baik-baik saja di sini
 
 533
 00:31:56,120 --> 00:31:57,760
-in this remote seaside city?
+di kota tepi laut terpencil ini?
 
 534
 00:32:00,840 --> 00:32:01,680
-You've lost weight.
+Berat badan Anda turun.
 
 535
 00:32:02,480 --> 00:32:03,880
-Why have you lost so much weight?
+Mengapa berat badan Anda turun begitu banyak?
 
 536
 00:32:06,400 --> 00:32:07,680
-With the Empress in power,
+Dengan Permaisuri berkuasa,
 
 537
 00:32:08,200 --> 00:32:10,320
-many officials
-are either demoted or deposed.
+banyak pejabat
+akan diturunkan pangkatnya atau digulingkan.
 
 538
 00:32:11,200 --> 00:32:11,920
-I was no exception.
+Saya tidak terkecuali.
 
 539
 00:32:13,600 --> 00:32:14,200
-Let's not talk about it.
+Mari kita tidak membicarakannya.
 
 540
-00:32:16,000 --> 00:32:17,040
-When I heard one
-from the Ministry of Justice
+00:32:16.000 --> 00:32:17.040
+Ketika saya mendengarnya
+dari Kementerian Kehakiman
 
 541
 00:32:17,360 --> 00:32:18,920
-would accompany Commissioner Liu
-to Penglai,
+akan menemani Komisaris Liu
+ke Penglai,
 
 542
 00:32:19,040 --> 00:32:19,920
-I was thinking
+saya berpikir
 
 543
 00:32:20,000 --> 00:32:21,520
-how nice it'd be you.
+betapa menyenangkannya kamu.
 
 544
 00:32:21,840 --> 00:32:22,480
-To my surprise...
+Yang mengejutkan saya...
 
 545
 00:32:22,720 --> 00:32:23,320
-It's me.
+Ini aku.
 
 546
 00:32:23,960 --> 00:32:24,640
-I was going
+saya sedang pergi
 
 547
 00:32:25,080 --> 00:32:26,680
-to meet you after the banquet
-with Commissioner Liu.
+untuk menemuimu setelah jamuan makan
+dengan Komisaris Liu.
 
 548
 00:32:27,720 --> 00:32:28,320
-Why
+Mengapa
 
 549
 00:32:28,760 --> 00:32:29,760
-did I run into you here?
+apakah aku bertemu denganmu di sini?
 
 550
 00:32:30,560 --> 00:32:31,120
-I'm here
+Aku disini
 
 551
 00:32:31,120 --> 00:32:32,840
-to find a shipowner named Gu Mengbin.
+untuk menemukan pemilik kapal bernama Gu Mengbin.
 
 552
 00:32:33,120 --> 00:32:34,160
-For a small case,
+Untuk kasus kecil,
 
 553
 00:32:34,200 --> 00:32:35,480
-I've been summoning him for three days,
+Saya telah memanggilnya selama tiga hari,
 
 554
 00:32:35,840 --> 00:32:37,280
-but he's been evading me.
+tapi dia menghindariku.
 
 555
 00:32:37,960 --> 00:32:38,800
@@ -2270,19 +2270,19 @@ Gu Mengbin.
 
 556
 00:32:39,640 --> 00:32:40,360
-What a coincidence.
+Kebetulan sekali.
 
 557
 00:32:40,760 --> 00:32:42,200
-He's holding the banquet tonight.
+Dia mengadakan perjamuan malam ini.
 
 558
 00:32:47,000 --> 00:32:48,480
-Mr. Gu is here.
+Tuan Gu ada di sini.
 
 559
 00:32:48,560 --> 00:32:49,840
-Mr. Gu is here.
+Tuan Gu ada di sini.
 
 560
 00:32:49,840 --> 00:32:51,460
@@ -2294,240 +2294,240 @@ Tai,
 
 562
 00:32:55,560 --> 00:32:56,240
-look over there.
+Lihat ke sana.
 
 563
 00:33:00,400 --> 00:33:02,480
-The Gu family made a really big scene.
+Keluarga Gu membuat keributan besar.
 
 564
 00:33:02,720 --> 00:33:04,560
-He's the biggest shipowner in Penglai.
+Dia pemilik kapal terbesar di Penglai.
 
 565
 00:33:04,880 --> 00:33:05,640
-The hundreds of ships
+Ratusan kapal
 
 566
 00:33:05,720 --> 00:33:08,040
-in and out of the harbor are all his.
+keluar masuk pelabuhan adalah miliknya.
 
 567
 00:33:08,480 --> 00:33:09,880
-His ships can sail to Japan
+Kapalnya bisa berlayar ke Jepang
 
 568
 00:33:09,880 --> 00:33:10,880
-and Baekje.
+dan Baekje.
 
 569
 00:33:15,600 --> 00:33:16,160
-You guys,
+Kalian,
 
 570
 00:33:16,800 --> 00:33:17,760
-go in and clean up.
+masuk dan bersihkan.
 
 571
 00:33:18,480 --> 00:33:19,000
-Hurry up.
+Ayo cepat.
 
 572
 00:33:22,120 --> 00:33:22,760
-Master.
+Menguasai.
 
 573
 00:33:26,320 --> 00:33:27,000
-Director Yi.
+Direktur Yi.
 
 574
 00:33:37,000 --> 00:33:39,200
-Such goodies.
-Why are you taking them away?
+Barang seperti itu.
+Mengapa kamu membawanya pergi?
 
 575
 00:33:39,200 --> 00:33:39,960
-Director Yi,
+Direktur Yi,
 
 576
 00:33:39,960 --> 00:33:42,240
-tonight, in front of Commissioner Liu,
+malam ini, di depan Komisaris Liu,
 
 577
 00:33:42,560 --> 00:33:44,320
-don't mention gold,
+jangan menyebut emas,
 
 578
 00:33:45,160 --> 00:33:48,160
-Especially not the words "Baekje gold".
+Terutama bukan kata-kata "emas Baekje".
 
 579
 00:33:56,480 --> 00:33:58,440
-What are they moving into the tent?
+Apa yang mereka pindahkan ke dalam tenda?
 
 580
 00:33:59,560 --> 00:34:00,680
-I can't see it.
+Saya tidak bisa melihatnya.
 
 581
 00:34:02,320 --> 00:34:03,920
-It must be some kind of treasure
+Itu pasti semacam harta karun
 
 582
 00:34:08,860 --> 00:34:15,000
-[Penglai Harbor]
+[Pelabuhan Penglai]
 
 583
-00:34:15,000 --> 00:34:15,800
-Quick...
+00:34:15.000 --> 00:34:15.800
+Cepat...
 
 584
 00:34:16,560 --> 00:34:17,760
-Let's set the lanterns.
+Mari kita pasang lenteranya.
 
 585
 00:34:39,740 --> 00:34:40,840
-[Commissioner Liu]
+[Komisaris Liu]
 
 586
 00:34:40,840 --> 00:34:42,280
-I've been told
+Saya sudah diberitahu
 
 587
 00:34:42,520 --> 00:34:45,160
-that you grew up by the sea
-before you joined the palace
+bahwa kamu dibesarkan di tepi laut
+sebelum kamu bergabung dengan istana
 
 588
 00:34:45,280 --> 00:34:46,680
-to serve His Majesty and Empress,
+untuk melayani Yang Mulia dan Permaisuri,
 
 589
 00:34:47,040 --> 00:34:49,600
-so I've taken the liberty
-of setting this banquet here.
+jadi aku sudah mengambil kebebasan
+mengatur perjamuan ini di sini.
 
 590
 00:34:49,960 --> 00:34:51,840
-I hope you enjoy your drink.
+Saya harap Anda menikmati minuman Anda.
 
 591
 00:34:53,640 --> 00:34:55,120
-Mr. Gu, I've heard
+Tuan Gu, saya pernah mendengarnya
 
 592
 00:34:55,600 --> 00:34:56,600
-you're very thoughtful.
+kamu sangat bijaksana.
 
 593
 00:34:57,240 --> 00:34:58,960
-It seems that you've already
+Sepertinya Anda sudah melakukannya
 
 594
 00:34:59,360 --> 00:35:01,680
-found out everything about me.
+mengetahui segalanya tentangku.
 
 595
 00:35:02,680 --> 00:35:03,560
-I wouldn't dare.
+Saya tidak berani.
 
 596
 00:35:09,000 --> 00:35:09,760
-Commissioner,
+Komisaris,
 
 597
 00:35:10,840 --> 00:35:12,920
-I am in charge of goods
-coming in from overseas
+Saya bertanggung jawab atas barang
+datang dari luar negeri
 
 598
 00:35:13,280 --> 00:35:15,200
-in the Commission of Maritime Trade.
+di Komisi Perdagangan Maritim.
 
 599
 00:35:16,400 --> 00:35:18,360
-I was wondering what you want
+Saya ingin tahu apa yang Anda inginkan
 
 600
 00:35:18,640 --> 00:35:19,880
-to purchase this time.
+untuk membeli kali ini.
 
 601
 00:35:20,360 --> 00:35:22,480
-That depends on what Penglai has.
+Itu tergantung pada apa yang dimiliki Penglai.
 
 602
 00:35:24,360 --> 00:35:26,000
-It's just a few meager items.
+Itu hanya beberapa barang kecil.
 
 603
 00:35:26,360 --> 00:35:29,440
-I'm afraid they won't meet the eyes
-of His Majesty and the Empress.
+Saya khawatir mereka tidak akan bertemu pandang
+dari Yang Mulia dan Permaisuri.
 
 604
 00:35:29,920 --> 00:35:31,000
-Commissioner Liu,
+Komisaris Liu,
 
 605
 00:35:31,280 --> 00:35:33,000
-please take a look.
+silakan lihat.
 
 606
 00:35:35,080 --> 00:35:36,280
-I'm of little education.
+Saya berpendidikan rendah.
 
 607
 00:35:36,840 --> 00:35:38,960
-I only like two things in life.
+Saya hanya menyukai dua hal dalam hidup.
 
 608
 00:35:39,440 --> 00:35:40,160
-First,
+Pertama,
 
 609
 00:35:40,440 --> 00:35:41,520
-enjoy songs.
+menikmati lagu.
 
 610
 00:35:41,920 --> 00:35:42,440
-Second,
+Kedua,
 
 611
 00:35:43,840 --> 00:35:44,840
-gold.
+emas.
 
 612
 00:35:53,560 --> 00:35:54,480
-Commissioner,
+Komisaris,
 
 613
 00:35:54,960 --> 00:35:55,670
-you're joking.
+kamu bercanda.
 
 614
 00:35:57,190 --> 00:35:58,800
-Penglai doesn't produce it.
+Penglai tidak memproduksinya.
 
 615
 00:36:01,040 --> 00:36:01,670
-However,
+Namun,
 
 616
 00:36:01,960 --> 00:36:02,600
-Mr. Gu
+Tuan Gu
 
 617
 00:36:02,600 --> 00:36:05,040
-has prepared performers for you.
+telah menyiapkan pemain untuk Anda.
 
 618
 00:36:05,360 --> 00:36:06,080
-It's right outside.
+Itu tepat di luar.
 
 619
 00:36:06,710 --> 00:36:07,630
-It's right outside.
+Itu tepat di luar.
 
 620
 00:36:17,600 --> 00:36:18,150
@@ -2535,478 +2535,478 @@ Gu...
 
 621
 00:36:21,560 --> 00:36:22,670
-Mr. Gu
+Tuan Gu
 
 622
 00:36:22,760 --> 00:36:25,150
-has also prepared you some little gifts.
+juga telah menyiapkan beberapa hadiah kecil untukmu.
 
 623
 00:36:26,230 --> 00:36:28,120
-I hope you'll accept them.
+Saya harap Anda akan menerimanya.
 
 624
 00:36:41,600 --> 00:36:42,120
-Wait.
+Tunggu.
 
 625
 00:36:43,280 --> 00:36:43,880
-Who is it?
+Siapa ini?
 
 626
 00:36:44,600 --> 00:36:45,600
-You don't have eyes?
+Kamu tidak punya mata?
 
 627
 00:36:45,800 --> 00:36:46,720
-You don't know Magistrate Di?
+Anda tidak tahu Hakim Di?
 
 628
 00:36:47,960 --> 00:36:49,320
-I'm ignorant.
+saya bodoh.
 
 629
 00:36:49,320 --> 00:36:50,440
-Magistrate, please forgive me.
+Hakim, mohon maafkan saya.
 
 630
 00:36:50,800 --> 00:36:51,520
-Magistrate,
+Hakim,
 
 631
 00:36:51,760 --> 00:36:53,800
-it was this agent named Bai Kai.
+itu adalah agen bernama Bai Kai.
 
 632
 00:36:54,160 --> 00:36:55,080
-He's been trying
+Dia sudah mencoba
 
 633
 00:36:55,120 --> 00:36:56,480
-to stop me from finding Mr. Gu.
+untuk menghentikanku menemukan Tuan Gu.
 
 634
 00:36:57,640 --> 00:36:58,880
-It must be a misunderstanding.
+Itu pasti salah paham.
 
 635
 00:36:58,920 --> 00:37:00,400
-I wouldn't dare.
+Saya tidak berani.
 
 636
 00:37:00,880 --> 00:37:01,800
-Stand still.
+Berdiri diam.
 
 637
 00:37:01,800 --> 00:37:02,320
-You stand up.
+Kamu berdiri.
 
 638
 00:37:02,320 --> 00:37:03,360
-You. Stand up.
+Anda. Berdiri.
 
 639
 00:37:08,560 --> 00:37:09,240
-Ms. Cao.
+Nona Cao.
 
 640
 00:37:11,600 --> 00:37:12,680
-Magistrate Di.
+Hakim Di.
 
 641
 00:37:19,880 --> 00:37:20,680
-Commissioner Liu,
+Komisaris Liu,
 
 642
 00:37:21,240 --> 00:37:22,760
-the magistrate of Penglai, Di Renjie,
-is here to see you.
+hakim Penglai, Di Renjie,
+di sini untuk menemuimu.
 
 643
 00:37:24,560 --> 00:37:27,360
-This is a reception for Commissioner Liu
-by the director of maritime trade.
+Ini adalah resepsi untuk Komisaris Liu
+oleh direktur perdagangan maritim.
 
 644
 00:37:27,480 --> 00:37:28,680
-Why is he here?
+Kenapa dia ada di sini?
 
 645
 00:37:29,160 --> 00:37:30,920
-I've heard that Di Renjie
+Saya pernah mendengarnya Di Renjie
 
 646
 00:37:31,400 --> 00:37:33,280
-and Deputy Secretary Hou are old friends.
+dan Wakil Sekretaris Hou adalah teman lama.
 
 647
 00:37:35,800 --> 00:37:36,440
-Commissioner Liu,
+Komisaris Liu,
 
 648
 00:37:36,800 --> 00:37:37,320
-I
+SAYA
 
 649
 00:37:37,520 --> 00:37:39,640
-do know Di Renjie from school.
+kenal Di Renjie dari sekolah.
 
 650
 00:37:40,280 --> 00:37:41,560
-I also heard
+Saya juga mendengar
 
 651
 00:37:41,920 --> 00:37:43,640
-that even the Empress
+itu bahkan Permaisuri
 
 652
 00:37:43,840 --> 00:37:45,000
-appreciates him a lot.
+sangat menghargainya.
 
 653
 00:37:45,280 --> 00:37:45,760
-Yes.
+Ya.
 
 654
 00:37:46,320 --> 00:37:47,400
-But in my opinion,
+Namun menurut saya,
 
 655
 00:37:47,520 --> 00:37:48,600
-he's active by nature.
+dia aktif secara alami.
 
 656
 00:37:48,760 --> 00:37:49,360
-Back in the captain,
+Kembali ke kapten,
 
 657
 00:37:49,720 --> 00:37:51,080
-he hated paperwork.
+dia benci dokumen.
 
 658
 00:37:51,400 --> 00:37:52,560
-So by order of the Empress,
+Jadi atas perintah Permaisuri,
 
 659
 00:37:52,560 --> 00:37:53,920
-He is applying his talents in Penglai.
+Dia menerapkan bakatnya di Penglai.
 
 660
 00:37:55,880 --> 00:37:56,600
-Invite Magistrate Di to come in.
+Undang Hakim Di untuk masuk.
 
 661
 00:37:57,120 --> 00:37:57,680
-Yes.
+Ya.
 
 662
 00:38:00,680 --> 00:38:02,320
-Magistrate Di, please come in.
+Hakim Di, silakan masuk.
 
 663
 00:38:19,040 --> 00:38:20,000
-I am Di Renjie.
+Saya Di Renjie.
 
 664
 00:38:20,200 --> 00:38:21,520
-Greetings, Commissioner Liu,
+Salam, Komisaris Liu,
 
 665
 00:38:22,400 --> 00:38:23,040
-Deputy Secretary Hou,
+Wakil Sekretaris Hou,
 
 666
 00:38:25,440 --> 00:38:26,360
-and Director Yi.
+dan Direktur Yi.
 
 667
 00:38:36,160 --> 00:38:37,760
-The director of maritime trade
-is a fifth-ranked official,
+Direktur Perdagangan Maritim
+adalah pejabat peringkat lima,
 
 668
 00:38:38,080 --> 00:38:39,720
-higher than a seventh-ranked magistrate.
+lebih tinggi dari hakim peringkat ketujuh.
 
 669
 00:38:40,400 --> 00:38:41,040
-Have a seat.
+Silahkan duduk.
 
 670
 00:38:49,120 --> 00:38:49,880
-I heard
+saya dengar
 
 671
 00:38:50,200 --> 00:38:51,760
-Magistrate Di is active by nature.
+Hakim Di pada dasarnya aktif.
 
 672
 00:38:52,320 --> 00:38:53,640
-You didn't come here
+Anda tidak datang ke sini
 
 673
 00:38:54,200 --> 00:38:55,160
-in the dark
+dalam gelap
 
 674
 00:38:55,160 --> 00:38:56,200
-to get a drink, right?
+untuk minum, kan?
 
 675
 00:38:57,440 --> 00:38:58,720
-You came here from the capital.
+Anda datang ke sini dari ibu kota.
 
 676
 00:38:58,720 --> 00:39:01,200
-I am sorry to have missed the welcome.
+Saya menyesal telah melewatkan sambutannya.
 
 677
 00:39:02,760 --> 00:39:04,320
-Don't say such polite things.
+Jangan katakan hal sopan seperti itu.
 
 678
 00:39:04,800 --> 00:39:05,800
-I'm of little education.
+Saya berpendidikan rendah.
 
 679
 00:39:06,480 --> 00:39:08,000
-I guess Magistrate Di must
+Saya kira Hakim Di harus melakukannya
 
 680
 00:39:08,080 --> 00:39:09,840
-be here on official business.
+berada di sini untuk urusan resmi.
 
 681
 00:39:10,760 --> 00:39:12,480
-Deputy Secretary Hou holds you
-in high regard.
+Wakil Sekretaris Hou memelukmu
+dengan sangat hormat.
 
 682
 00:39:13,040 --> 00:39:14,360
-So I'm curious.
+Jadi saya penasaran.
 
 683
 00:39:15,240 --> 00:39:16,440
-I've never seen
+saya tidak pernah lihat
 
 684
 00:39:16,480 --> 00:39:17,760
-a magistrate judge a case.
+seorang hakim mengadili suatu kasus.
 
 685
 00:39:18,000 --> 00:39:19,280
-If you're on official business,
+Jika Anda sedang ada urusan resmi,
 
 686
 00:39:19,360 --> 00:39:20,560
-do it here.
+lakukan di sini.
 
 687
 00:39:21,240 --> 00:39:22,600
-Let me take a look.
+Biarkan saya melihatnya.
 
 688
 00:39:26,320 --> 00:39:27,280
-I'll do as I'm told.
+Saya akan melakukan apa yang diperintahkan.
 
 689
 00:39:31,920 --> 00:39:32,640
-Commissioner Liu,
+Komisaris Liu,
 
 690
 00:39:33,160 --> 00:39:34,840
-let's enjoy songs first.
+ayo nikmati lagunya dulu.
 
 691
 00:39:42,880 --> 00:39:44,960
-Performers come in.
+Pelaku masuk.
 
 692
 00:39:49,160 --> 00:39:50,440
-Thank you, Ms. Cao.
+Terima kasih Nona Cao.
 
 693
 00:40:00,200 --> 00:40:01,800
-The man in this painting is Wang Lide.
+Pria dalam lukisan ini adalah Wang Lide.
 
 694
 00:40:02,040 --> 00:40:02,640
-It's said
+Dikatakan
 
 695
 00:40:02,760 --> 00:40:04,920
-he's an agent working for Mr. Gu,
-who is in charge
+dia agen yang bekerja untuk Tuan Gu,
+siapa yang bertanggungjawab
 
 696
 00:40:05,400 --> 00:40:07,080
-of the transshipment of overseas goods.
+transshipment barang luar negeri.
 
 697
 00:40:08,480 --> 00:40:09,160
-Magistrate Di,
+Hakim Di,
 
 698
 00:40:09,680 --> 00:40:11,680
-I've told the man you sent.
+Saya sudah memberi tahu orang yang Anda kirim.
 
 699
 00:40:11,680 --> 00:40:13,280
-This agent is not my man.
+Agen ini bukan laki-laki saya.
 
 700
 00:40:17,040 --> 00:40:17,800
-Ms. Cao,
+Nona Cao,
 
 701
 00:40:18,160 --> 00:40:20,320
-play a song for Commissioner Liu.
+mainkan lagu untuk Komisaris Liu.
 
 702
 00:40:55,440 --> 00:40:57,440
-This drum in your arms
+Drum ini ada di tanganmu
 
 703
 00:40:58,000 --> 00:40:59,560
-looks very special.
+terlihat sangat istimewa.
 
 704
 00:41:00,080 --> 00:41:01,680
-I've never seen it before.
+Saya belum pernah melihatnya sebelumnya.
 
 705
 00:41:02,200 --> 00:41:03,560
-I'm Qiao Tai.
+Saya Qiao Tai.
 
 706
 00:41:03,960 --> 00:41:05,880
-May I have your name?
+Bolehkah saya mengetahui namamu?
 
 707
 00:41:06,720 --> 00:41:08,040
 [Yusu]
-My name is Yusu.
+Namaku Yusu.
 
 708
 00:41:10,320 --> 00:41:11,560
-Your accent...
+Aksenmu...
 
 709
 00:41:12,400 --> 00:41:13,920
-I'm from Baekje.
+Saya dari Baekje.
 
 710
 00:41:16,400 --> 00:41:18,080
-Officer, mind your own business.
+Petugas, urus urusanmu sendiri.
 
 711
 00:41:20,080 --> 00:41:21,680
-I'm talking to Ms. Yusu.
+Saya sedang berbicara dengan Bu Yusu.
 
 712
 00:41:21,920 --> 00:41:22,840
-What's it to you?
+Apa urusanmu?
 
 713
 00:41:23,200 --> 00:41:24,080
-Unfortunately,
+Sayangnya,
 
 714
 00:41:24,480 --> 00:41:26,080
-all the performers here
+semua pemain di sini
 
 715
 00:41:26,080 --> 00:41:27,480
-are booked by us tonight.
+dipesan oleh kami malam ini.
 
 716
 00:41:27,640 --> 00:41:28,840
-It's not a big deal to be rich.
+Menjadi kaya bukanlah masalah besar.
 
 717
 00:41:29,640 --> 00:41:30,080
-Get out.
+Keluar.
 
 718
 00:41:33,760 --> 00:41:35,400
-It's not a big deal to a sidekick.
+Ini bukan masalah besar bagi seorang sahabat karib.
 
 719
 00:41:39,560 --> 00:41:40,560
-Wait for me.
+Tunggu aku.
 
 720
 00:41:42,040 --> 00:41:42,720
-A few days ago,
+Beberapa hari yang lalu,
 
 721
 00:41:43,200 --> 00:41:44,760
-the magistral office received a report
+kantor magistral menerima laporan
 
 722
 00:41:45,280 --> 00:41:46,480
-that a store
+itu toko
 
 723
 00:41:46,800 --> 00:41:47,960
-was overdue for rent.
+telah jatuh tempo untuk sewa.
 
 724
 00:41:48,520 --> 00:41:49,120
-After investigation,
+Setelah diselidiki,
 
 725
 00:41:49,560 --> 00:41:50,880
-it's the man in the painting.
+itu pria dalam lukisan itu.
 
 726
 00:41:50,880 --> 00:41:52,280
-He's gone to sea a few months ago
+Dia pergi ke laut beberapa bulan yang lalu
 
 727
 00:41:52,280 --> 00:41:53,440
-and was scheduled to return last month,
+dan dijadwalkan kembali bulan lalu,
 
 728
 00:41:53,440 --> 00:41:54,600
-but hasn't returned yet.
+tapi belum kembali.
 
 729
 00:41:55,080 --> 00:41:55,680
-So
+Jadi
 
 730
 00:41:56,200 --> 00:41:59,160
-I sent someone to check with Mr. Gu.
+Saya mengirim seseorang untuk menanyakannya kepada Tuan Gu.
 
 731
 00:42:01,960 --> 00:42:03,200
-Rent arrears
+Tunggakan sewa
 
 732
 00:42:03,480 --> 00:42:04,920
-are just a small amount of money.
+hanyalah sejumlah kecil uang.
 
 733
 00:42:06,280 --> 00:42:08,680
-Why should Mr. Gu be disturbed?
+Mengapa Tuan Gu harus diganggu?
 
 734
 00:42:09,080 --> 00:42:10,400
-That's very true, Commissioner.
+Benar sekali, Komisaris.
 
 735
 00:42:10,880 --> 00:42:11,560
-It's just
+Hanya saja
 
 736
 00:42:11,760 --> 00:42:13,080
-that the cargo we found
+bahwa kargo kami temukan
 
 737
 00:42:13,480 --> 00:42:14,880
-is not a small deal.
+bukanlah masalah kecil.
 
 738
 00:42:15,880 --> 00:42:16,840
-It's the Modao.
+Itu adalah Modao.
