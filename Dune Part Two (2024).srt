@@ -1,87 +1,87 @@
 ﻿1
 00:00:18,470 --> 00:00:23,150
-Imperial diary, year 10191, third comment.
+Buku harian kekaisaran, tahun 10191, komentar ketiga.
 
 2
 00:00:25,810 --> 00:00:29,430
-The battle for Arrakis
-took everyone by surprise.
+Pertempuran untuk Arrakis
+mengejutkan semua orang.
 
 3
 00:00:31,170 --> 00:00:32,170
-There were no witnesses.
+Tidak ada saksi.
 
 4
 00:00:34,130 --> 00:00:38,070
-The Harkon and Operation was
-perpetrated overnight, without warning.
+Harkon dan Operasinya adalah
+dilakukan dalam semalam, tanpa peringatan.
 
 5
 00:00:38,071 --> 00:00:40,550
-Or a declaration of war.
+Atau deklarasi perang.
 
 6
 00:00:43,380 --> 00:00:45,380
-The warning, the Atreides were no more.
+Peringatannya, Atreides sudah tidak ada lagi.
 
 7
 00:00:47,220 --> 00:00:48,220
-I'll guide in the dark.
+Saya akan membimbing dalam kegelapan.
 
 8
 00:00:56,900 --> 00:01:01,840
-And the Emperor said...
+Dan Kaisar berkata...
 
 9
 00:01:05,460 --> 00:01:07,800
-Since that night my father
-has not been the same.
+Sejak malam itu ayahku
+belum sama.
 
 10
 00:01:09,200 --> 00:01:10,380
-Nor have I.
+Aku juga tidak.
 
 11
 00:01:11,620 --> 00:01:14,220
-His inaction is difficult for me to accept.
+Kelambanannya sulit saya terima.
 
 12
 00:01:22,800 --> 00:01:27,520
-By the calculus of power.
+Dengan kalkulus kekuasaan.
 
 13
 00:01:30,120 --> 00:01:33,480
-This would not be the first time the
-Harkonans have done his dirty work.
+Ini bukan pertama kalinya
+Harkonan telah melakukan pekerjaan kotornya.
 
 14
 00:01:49,910 --> 00:01:52,270
-The end of House Atreides.
+Akhir dari Rumah Atreides.
 
 15
 00:02:12,630 --> 00:02:14,250
-Shouldn't you go back to the stars?
+Bukankah sebaiknya kamu kembali ke bintang?
 
 16
 00:02:15,470 --> 00:02:16,470
-Be with him?
+Bersamanya?
 
 17
 00:02:18,610 --> 00:02:21,890
-I'm afraid I won't have enough time
-to fix things before you're coming.
+Saya khawatir saya tidak punya cukup waktu
+untuk memperbaiki keadaan sebelum kamu datang.
 
 18
 00:02:24,170 --> 00:02:26,510
-This world is beyond cruelty.
+Dunia ini melampaui kekejaman.
 
 19
 00:05:34,000 --> 00:05:38,250
-Stay here.
+Tetaplah disini.
 
 20
 00:05:39,111 --> 00:05:40,850
-Don't be a cop! No, no, no, no.
+Jangan jadi polisi! Tidak tidak tidak tidak.
 
 21
 00:05:40,851 --> 00:05:49,810
@@ -89,15 +89,15 @@ Don't be a cop! No, no, no, no.
 
 22
 00:06:49,310 --> 00:06:50,990
-The Harkon and Operation are over.
+Harkon dan Operasi telah selesai.
 
 23
 00:06:53,581 --> 00:06:54,581
-How are you? I'm sorry.
+Apa kabarmu? Saya minta maaf.
 
 24
 00:07:00,220 --> 00:07:02,780
-I'm sorry.
+Saya minta maaf.
 
 25
 00:07:03,180 --> 00:07:04,280
@@ -105,15 +105,15 @@ I'm sorry.
 
 26
 00:07:11,310 --> 00:07:16,090
-Are you okay? I'm fine.
+Apakah kamu baik-baik saja? Saya baik-baik saja.
 
 27
 00:07:17,970 --> 00:07:20,530
-I'm fine.
+Saya baik-baik saja.
 
 28
 00:07:21,770 --> 00:07:22,830
-I'm fine.
+Saya baik-baik saja.
 
 29
 00:07:25,570 --> 00:07:26,570
@@ -121,13 +121,13 @@ I'm fine.
 
 30
 00:08:18,220 --> 00:08:19,981
-Never stand with your
-back towards the open.
+Jangan pernah berdiri dengan milikmu
+kembali ke tempat terbuka.
 
 31
 00:08:20,250 --> 00:08:22,130
-How many times do I have to
-tell you that, huh? You okay? Yeah.
+Berapa kali saya harus melakukannya
+memberitahumu itu, ya? Anda baik-baik saja? Ya.
 
 32
 00:08:22,950 --> 00:08:23,770
@@ -136,7 +136,7 @@ tell you that, huh? You okay? Yeah.
 
 33
 00:08:24,115 --> 00:08:26,250
-How about her? She's fine.
+Bagaimana dengan dia? Dia baik-baik saja.
 
 34
 00:08:28,430 --> 00:08:29,430
@@ -144,69 +144,69 @@ How about her? She's fine.
 
 35
 00:08:35,730 --> 00:08:39,150
-I do not usually venture this deep.
+Biasanya aku tidak berani melakukan hal sedalam ini.
 
 36
 00:08:40,040 --> 00:08:41,690
-I want to make sure no Atreides escaped.
+Saya ingin memastikan tidak ada Atreides yang lolos.
 
 37
 00:08:42,130 --> 00:08:43,830
-You think too much of yourself.
+Anda terlalu memikirkan diri sendiri.
 
 38
 00:08:44,390 --> 00:08:45,950
-No, no, we are in the deep desert.
+Tidak, tidak, kita berada di gurun yang dalam.
 
 39
 00:08:47,000 --> 00:08:48,730
-Only freemen can survive here.
+Hanya orang bebas yang bisa bertahan di sini.
 
 40
 00:08:49,820 --> 00:08:52,150
-They were here for us, not for you.
+Mereka ada di sini untuk kami, bukan untuk Anda.
 
 41
 00:08:53,490 --> 00:08:54,490
-Don't worry.
+Jangan khawatir.
 
 42
 00:08:55,050 --> 00:08:58,650
-I'm taking you somewhere
-they will never find us.
+Aku akan membawamu ke suatu tempat
+mereka tidak akan pernah menemukan kita.
 
 43
 00:09:15,340 --> 00:09:16,340
-Filthy water.
+Air kotor.
 
 44
 00:09:16,880 --> 00:09:20,580
-It's full of chemicals, but good
-enough for cooling system.
+Itu penuh dengan bahan kimia, tapi bagus
+cukup untuk sistem pendingin.
 
 45
 00:09:24,900 --> 00:09:25,900
-Turn it out.
+Matikan.
 
 46
 00:09:28,240 --> 00:09:29,240
-You okay?
+Anda baik-baik saja?
 
 47
 00:09:30,480 --> 00:09:31,560
-Don't let that out.
+Jangan biarkan itu keluar.
 
 48
 00:09:32,540 --> 00:09:33,220
-Don't let it out! I can't.
+Jangan biarkan itu keluar! saya tidak bisa.
 
 49
 00:09:33,221 --> 00:09:34,221
-No, I can't.
+Tidak, saya tidak bisa.
 
 50
 00:09:36,060 --> 00:09:37,060
-I'm okay.
+Saya baik-baik saja.
 
 51
 00:09:37,840 --> 00:09:38,420
@@ -214,297 +214,297 @@ I'm okay.
 
 52
 00:09:38,700 --> 00:09:39,700
-Are you sure?
+Apa kamu yakin?
 
 53
 00:09:44,670 --> 00:09:45,670
-You fought well.
+Anda bertarung dengan baik.
 
 54
 00:09:46,885 --> 00:09:47,885
-Once you woke up.
+Setelah Anda bangun.
 
 55
 00:09:49,380 --> 00:09:50,380
-I wasn't sleeping.
+Saya tidak sedang tidur.
 
 56
 00:09:50,404 --> 00:10:00,404
-<b><font color="#60ff00">Subtitle made by Master_Blaster for https://subscene.com/</font></b>
+Subtitle dibuat oleh Master_Blaster untuk https://subscene.com/
 
 57
 00:10:01,610 --> 00:10:02,610
-I'm sorry.
+Saya minta maaf.
 
 58
 00:10:03,150 --> 00:10:04,150
-I'm sorry.
+Saya minta maaf.
 
 59
 00:10:37,740 --> 00:10:38,880
-I'm sorry.
+Saya minta maaf.
 
 60
 00:10:43,060 --> 00:10:51,940
-No, no, no.
+Tidak tidak tidak.
 
 61
 00:10:52,400 --> 00:10:53,400
-I'll die.
+Saya akan mati.
 
 62
 00:11:58,450 --> 00:12:00,724
-Now that the spies found
-some insecurity, I strongly
+Sekarang mata-mata itu ditemukan
+beberapa rasa tidak aman, saya sangat
 
 63
 00:12:00,736 --> 00:12:03,330
-recommend bringing all troops
-out of frame and territories.
+menyarankan untuk membawa semua pasukan
+keluar dari bingkai dan wilayah.
 
 64
 00:12:04,230 --> 00:12:05,830
-We're losing too many men to the desert.
+Kita kehilangan terlalu banyak orang di gurun pasir.
 
 65
 00:12:05,950 --> 00:12:06,950
-Rats.
+Tikus.
 
 66
 00:12:07,830 --> 00:12:08,510
-I beg your pardon?
+Maafkan saya?
 
 67
 00:12:08,850 --> 00:12:09,850
-We're losing them.
+Kami kehilangan mereka.
 
 68
 00:12:10,530 --> 00:12:11,530
-They're rats.
+Itu tikus.
 
 69
 00:12:14,630 --> 00:12:18,410
-For freemen, I can't confirm our
-communications are hectic in the open sands.
+Untuk orang bebas, saya tidak bisa memastikannya
+komunikasi sangat sibuk di alam terbuka.
 
 70
 00:12:18,650 --> 00:12:19,650
-Your orders.
+Pesanan Anda.
 
 71
 00:12:19,890 --> 00:12:21,330
-We need to control the whole planet.
+Kita perlu mengendalikan seluruh planet ini.
 
 72
 00:12:23,110 --> 00:12:23,770
-We are.
+Kita.
 
 73
 00:12:23,771 --> 00:12:25,330
-That's the only half of it.
+Itu hanya setengahnya.
 
 74
 00:12:26,270 --> 00:12:30,050
-As you may recall, the South
-is an uninhabitable minority.
+Seperti yang Anda mungkin ingat, Selatan
+adalah minoritas yang tidak dapat dihuni.
 
 75
 00:12:33,050 --> 00:12:34,370
-May I suggest you get some rest?
+Bolehkah saya menyarankan Anda beristirahat?
 
 76
 00:12:35,170 --> 00:12:36,170
-Rats!
+Tikus!
 
 77
 00:12:36,230 --> 00:12:39,170
-Kill them all!
+Membunuh mereka semua!
 
 78
 00:12:39,690 --> 00:12:41,090
-Kill them all!
+Membunuh mereka semua!
 
 79
 00:12:41,990 --> 00:12:42,990
-Rats!
+Tikus!
 
 80
 00:13:26,630 --> 00:13:30,290
-He's asking why we're so late.
+Dia bertanya mengapa kita terlambat.
 
 81
 00:13:30,291 --> 00:13:33,290
-We're going to have to get out of here.
+Kita harus keluar dari sini.
 
 82
 00:13:33,291 --> 00:13:35,710
-We're going to have to get out of here.
+Kita harus keluar dari sini.
 
 83
 00:13:36,260 --> 00:13:37,910
-He thinks your spies are so late.
+Dia pikir mata-matamu sangat terlambat.
 
 84
 00:13:38,510 --> 00:13:39,670
-They're not going to be here.
+Mereka tidak akan berada di sini.
 
 85
 00:13:39,730 --> 00:13:40,230
-He's over there.
+Dia disana.
 
 86
 00:13:40,231 --> 00:13:41,231
-I got that.
+Aku mengerti.
 
 87
 00:13:42,170 --> 00:13:42,530
-Thanks.
+Terima kasih.
 
 88
 00:13:43,150 --> 00:13:44,470
-Stay close to me.
+Tetaplah dekat denganku.
 
 89
 00:13:45,140 --> 00:13:46,140
-You're welcome.
+Terima kasih kembali.
 
 90
 00:14:26,420 --> 00:14:29,700
-They'll come.
+Mereka akan datang.
 
 91
 00:14:33,960 --> 00:14:36,900
-They'll come.
+Mereka akan datang.
 
 92
 00:14:38,520 --> 00:14:40,460
-I will come now.
+Saya akan datang sekarang.
 
 93
 00:15:58,050 --> 00:16:02,135
-U.S.S.
+USS
 
 94
 00:16:43,930 --> 00:16:45,850
-S has been Some of them
-already think I'm their messiah.
+S telah menjadi Beberapa dari mereka
+sudah menganggap aku mesias mereka.
 
 95
 00:16:50,210 --> 00:16:51,691
-Others... False prophet.
+Lainnya... Nabi palsu.
 
 96
 00:16:52,860 --> 00:16:54,430
-I must sway the non-believers.
+Saya harus mempengaruhi orang-orang yang tidak beriman.
 
 97
 00:16:56,005 --> 00:16:58,045
-If they follow me, we can
-disrupt spice production.
+Jika mereka mengikutiku, kita bisa
+mengganggu produksi rempah-rempah.
 
 98
 00:16:58,850 --> 00:17:00,650
-That's the only way I
-can get to the Emperor.
+Itulah satu-satunya cara saya
+bisa menemui Kaisar.
 
 99
 00:17:02,370 --> 00:17:03,890
-Your father didn't believe in revenge.
+Ayahmu tidak percaya pada balas dendam.
 
 100
 00:17:04,990 --> 00:17:05,990
-Hell, I do.
+Sial, aku tahu.
 
 101
 00:17:38,670 --> 00:17:39,670
-What's happening?
+Apa yang terjadi?
 
 102
 00:17:41,650 --> 00:17:42,850
-The way he's on his electsets.
+Cara dia memilih.
 
 103
 00:17:48,130 --> 00:17:49,210
-What is it?
+Apa itu?
 
 104
 00:17:50,080 --> 00:17:51,130
-There's slicing up food.
+Ada pemotongan makanan.
 
 105
 00:17:51,530 --> 00:17:53,090
-It's a year for Howard Gino to a fever.
+Ini adalah tahun dimana Howard Gino mengalami demam.
 
 106
 00:17:53,830 --> 00:17:54,830
-It's a rifle.
+Itu adalah senapan.
 
 107
 00:17:57,435 --> 00:17:59,115
-I'm not sure what the bottom is, does she?
+Saya tidak yakin apa bagian bawahnya, bukan?
 
 108
 00:18:01,910 --> 00:18:02,310
-I'm not sure what the bottom is, does she?
+Saya tidak yakin apa bagian bawahnya, bukan?
 
 109
 00:18:02,530 --> 00:18:06,840
-Woman, come with me.
+Wanita, ikutlah denganku.
 
 110
 00:19:19,000 --> 00:19:23,840
-Dying thirst would ever drink this water.
+Sekarat dahaga pasti pernah meminum air ini.
 
 111
 00:19:24,540 --> 00:19:27,120
-This is sinking.
+Ini sedang tenggelam.
 
 112
 00:19:34,460 --> 00:19:40,580
-We have thousands of places
-where we have enough water.
+Kami memiliki ribuan tempat
+dimana kita mempunyai cukup air.
 
 113
 00:19:42,320 --> 00:19:46,500
-The lizanal cave will
-change the face of Arrakis.
+Gua lizanal akan
+mengubah wajah Arrakis.
 
 114
 00:19:46,760 --> 00:19:51,920
-It will bring back the trees, it
-will bring back a green paradise.
+Itu akan mengembalikan pohon-pohon itu
+akan membawa kembali surga hijau.
 
 115
 00:19:58,921 --> 00:20:03,140
-Yes, that's, that's, that's.
+Ya, itu, itu, itu.
 
 116
 00:20:07,330 --> 00:20:09,950
-I'm going to get you a water
-away, not even for the dead.
+Aku akan mengambilkanmu air
+pergi, bahkan untuk orang mati.
 
 117
 00:20:13,040 --> 00:20:14,570
-Why are you showing me this?
+Mengapa kamu menunjukkan ini padaku?
 
 118
 00:20:15,190 --> 00:20:18,690
-Because you were benedigess of it,
-because you understand the prophecies.
+Karena Anda adalah penerima manfaatnya,
+karena kamu memahami nubuatan itu.
 
 119
 00:20:20,630 --> 00:20:23,630
-The mother of the lizanal
-cave will be our very mother.
+Ibu dari Lisanal
+gua akan menjadi ibu kita.
 
 120
 00:20:25,250 --> 00:20:27,450
-However, mother is dying.
+Namun, ibu sedang sekarat.
 
 121
 00:20:29,170 --> 00:20:30,890
-You want me to take
-her place? Yes, I do.
+Anda ingin saya ambil
+tempatnya? Ya, saya bersedia.
 
 122
 00:20:33,630 --> 00:20:34,630
@@ -512,29 +512,29 @@ her place? Yes, I do.
 
 123
 00:20:36,945 --> 00:20:38,070
-Do you believe in Paul?
+Apakah Anda percaya pada Paulus?
 
 124
 00:20:41,060 --> 00:20:42,060
-There are signs.
+Ada tanda-tandanya.
 
 125
 00:20:43,730 --> 00:20:44,730
-Yes.
+Ya.
 
 126
 00:20:47,200 --> 00:20:48,200
-What if I would refuse?
+Bagaimana jika saya menolak?
 
 127
 00:20:49,210 --> 00:20:53,310
-There is not lizanal cave, and
-you have no purpose to serve.
+Tidak ada gua lizanal, dan
+Anda tidak punya tujuan untuk dilayani.
 
 128
 00:20:53,760 --> 00:20:57,450
-What else is left to do then
-but return your water to the well?
+Apa lagi yang harus dilakukan
+tapi kembalikan airmu ke sumur?
 
 129
 00:20:57,451 --> 00:20:58,451
@@ -542,57 +542,57 @@ Oh.
 
 130
 00:21:02,640 --> 00:21:03,940
-It's an honor, isn't it?
+Itu suatu kehormatan, bukan?
 
 131
 00:21:05,690 --> 00:21:06,970
-I think you should feel honored.
+Saya pikir Anda harus merasa terhormat.
 
 132
 00:21:07,140 --> 00:21:11,040
-Well, it was a choice between this or
-death, so forgive me if I'm not flattered.
+Ya, itu adalah pilihan antara ini atau
+kematian, jadi maafkan aku jika aku tidak tersanjung.
 
 133
 00:21:13,140 --> 00:21:14,660
-How does one become a reverend mother?
+Bagaimana seseorang menjadi seorang ibu yang terhormat?
 
 134
 00:21:15,020 --> 00:21:18,260
-It's different from one culture to another.
-Here on Arrakis, I have no idea.
+Ini berbeda dari satu budaya ke budaya lainnya.
+Di sini, di Arrakis, saya tidak tahu.
 
 135
 00:21:22,680 --> 00:21:23,680
-You're afraid.
+Kamu takut.
 
 136
 00:21:25,240 --> 00:21:27,045
-The reverend mother is a
-task withholding the memories
+Ibu yang terhormat adalah a
+tugas menahan kenangan
 
 137
 00:21:27,057 --> 00:21:28,740
-of all the reverend mothers
-that came before them,
+dari semua ibu yang terhormat
+yang datang sebelum mereka,
 
 138
 00:21:28,741 --> 00:21:31,500
-so I'll be given centuries
-of pain and sorrow.
+jadi aku akan diberi waktu berabad-abad
+dari rasa sakit dan kesedihan.
 
 139
 00:21:32,580 --> 00:21:33,580
-Is it dangerous?
+Apa ini berbahaya?
 
 140
 00:21:34,560 --> 00:21:37,420
-It's lethal for men, that's for sure.
+Ini mematikan bagi pria, itu sudah pasti.
 
 141
 00:22:45,400 --> 00:22:46,720
-What are you guys
-laughing about? Don't bother.
+Apa yang kalian?
+tertawa tentang? Jangan repot-repot.
 
 142
 00:22:47,490 --> 00:22:48,490
@@ -600,88 +600,88 @@ laughing about? Don't bother.
 
 143
 00:22:53,560 --> 00:22:54,760
-You don't believe in
-all this? No, we don't.
+Anda tidak percaya
+semua ini? Tidak, kami tidak melakukannya.
 
 144
 00:22:54,980 --> 00:22:57,460
-These are all southern beliefs.
+Ini semua adalah kepercayaan selatan.
 
 145
 00:22:58,440 --> 00:22:59,440
-Southern beliefs?
+Keyakinan Selatan?
 
 146
 00:22:59,920 --> 00:23:02,760
-Southern tribes believe that messiah
-will come to deliver us from evil.
+Suku-suku selatan percaya bahwa mesias
+akan datang untuk melepaskan kita dari kejahatan.
 
 147
 00:23:03,750 --> 00:23:05,460
-You don't believe in them, lizanal cave?
+Kamu tidak percaya pada mereka, gua lizanal?
 
 148
 00:23:05,710 --> 00:23:08,580
-We believe in Fremen, Bilal Kaifa.
+Kami percaya pada Fremen, Bilal Kaifa.
 
 149
 00:23:10,300 --> 00:23:13,140
-You want to control people?
-You tell them a messiah will come.
+Anda ingin mengendalikan orang?
+Anda memberi tahu mereka bahwa mesias akan datang.
 
 150
 00:23:13,990 --> 00:23:16,060
-Then they'll wait for centuries.
+Kemudian mereka akan menunggu selama berabad-abad.
 
 151
 00:23:21,200 --> 00:23:22,540
-No, we must pray.
+Tidak, kita harus berdoa.
 
 152
 00:23:30,050 --> 00:23:31,050
-What about him?
+Bagaimana dengan dia?
 
 153
 00:23:31,530 --> 00:23:33,430
-Stovar? He's from the south.
+Kompor? Dia dari selatan.
 
 154
 00:23:34,550 --> 00:23:35,670
-He didn't notice his accent.
+Dia tidak memperhatikan aksennya.
 
 155
 00:23:45,100 --> 00:23:46,300
-What will happen to my mother?
+Apa yang akan terjadi pada ibuku?
 
 156
 00:23:46,370 --> 00:23:48,060
-She's from the south.
+Dia dari selatan.
 
 157
 00:23:48,120 --> 00:23:50,180
-He's from the south.
+Dia dari selatan.
 
 158
 00:23:50,181 --> 00:23:53,720
-He's from the south, but you can't
-tell him that he's from the south.
+Dia dari selatan, tapi Anda tidak bisa
+katakan padanya bahwa dia dari selatan.
 
 159
 00:23:54,820 --> 00:23:58,880
-It's a It's a It's
-a It's a It's a
+Itu adalah itu adalah itu
+a Itu a Itu a
 
 160
 00:24:00,550 --> 00:24:08,720
-It's a It's a
+Ini adalah Ini adalah
 
 161
 00:24:26,870 --> 00:24:27,970
-It's a
+Itu sebuah
 
 162
 00:24:37,850 --> 00:24:42,770
-It's a What is it? 5, 6.
+Itu adalah Apa itu? 5, 6.
 
 163
 00:26:43,400 --> 00:26:48,160
@@ -693,32 +693,32 @@ It's a What is it? 5, 6.
 
 165
 00:26:51,680 --> 00:26:52,680
-She's right!
+Dia benar!
 
 166
 00:26:53,420 --> 00:26:54,420
-She's right!
+Dia benar!
 
 167
 00:26:56,180 --> 00:26:57,180
-It's no miracle.
+Ini bukan keajaiban.
 
 168
 00:26:58,860 --> 00:27:00,760
-My mother was trained to do that.
+Ibuku dilatih untuk melakukan itu.
 
 169
 00:27:01,670 --> 00:27:04,430
-Poisoned transmutation is something
-advanced men in Jezeroine can do.
+Transmutasi beracun adalah sesuatu
+orang-orang maju di Jezeroine bisa melakukannya.
 
 170
 00:27:08,030 --> 00:27:09,030
-I'm not the Mahdi.
+Saya bukan Mahdi.
 
 171
 00:27:12,710 --> 00:27:13,710
-I'm not here to lead.
+Saya di sini bukan untuk memimpin.
 
 172
 00:27:16,450 --> 00:27:17,450
@@ -730,15 +730,15 @@ Gef dak.
 
 174
 00:27:20,070 --> 00:27:21,070
-Let me fight beside you.
+Biarkan aku bertarung di sampingmu.
 
 175
 00:27:22,170 --> 00:27:23,170
-I'll wait.
+Aku akan menunggu.
 
 176
 00:27:28,665 --> 00:27:29,510
-I'm not the Mahdi.
+Saya bukan Mahdi.
 
 177
 00:27:29,511 --> 00:27:29,570
@@ -746,208 +746,208 @@ Gef dak.
 
 178
 00:27:29,850 --> 00:27:31,190
-I'm the Mahdi.
+Akulah Mahdi.
 
 179
 00:27:32,590 --> 00:27:35,050
-I'm the Mahdi.
+Akulah Mahdi.
 
 180
 00:27:35,930 --> 00:27:36,930
-I'm in the Mahdi.
+Saya di dalam Mahdi.
 
 181
 00:27:42,310 --> 00:27:42,490
-I'm not the Mahdi.
+Saya bukan Mahdi.
 
 182
 00:27:42,491 --> 00:27:42,830
-I'm not the Mahdi.
+Saya bukan Mahdi.
 
 183
 00:27:42,880 --> 00:27:44,230
-I'm not the Mahdi.
+Saya bukan Mahdi.
 
 184
 00:27:47,790 --> 00:27:50,620
-How is she?
+Bagaimana dengannya?
 
 185
 00:27:52,825 --> 00:27:54,360
-She was frightened, but she's...
+Dia ketakutan, tapi dia...
 
 186
 00:27:55,260 --> 00:27:56,320
-She's okay.
+Dia baik-baik saja.
 
 187
 00:28:07,010 --> 00:28:08,540
-Paul, she talks to me.
+Paul, dia berbicara kepadaku.
 
 188
 00:28:11,750 --> 00:28:13,310
-She believes in you.
+Dia percaya padamu.
 
 189
 00:28:16,770 --> 00:28:17,770
-She says,
+Dia berkata,
 
 190
 00:28:19,230 --> 00:28:20,910
-they go inside that rock,
+mereka masuk ke dalam batu itu,
 
 191
 00:28:21,670 --> 00:28:22,870
-and she will hold you.
+dan dia akan memelukmu.
 
 192
 00:28:25,010 --> 00:28:26,770
-You're so close now.
+Kamu sangat dekat sekarang.
 
 193
 00:28:27,350 --> 00:28:28,870
-Only one step remains,
+Hanya satu langkah tersisa,
 
 194
 00:28:29,050 --> 00:28:31,170
-and you will become the Goi-Satat Rock.
+dan kamu akan menjadi Batu Goi-Satat.
 
 195
 00:28:32,270 --> 00:28:34,110
-Only one step remains.
+Hanya tinggal satu langkah lagi.
 
 196
 00:28:34,111 --> 00:28:36,270
-You must do what I did.
+Anda harus melakukan apa yang saya lakukan.
 
 197
 00:28:37,070 --> 00:28:38,650
-You must drink the water of life.
+Anda harus meminum air kehidupan.
 
 198
 00:28:39,810 --> 00:28:43,470
-For your mind, it's gonna... It's
-gonna open, and you will see.
+Menurut pikiranmu, itu akan... Itu
+akan terbuka, dan kamu akan melihat.
 
 199
 00:28:44,530 --> 00:28:45,630
-Oh, yes, you do.
+Oh ya, benar.
 
 200
 00:28:46,770 --> 00:28:48,190
-You sweet jerk!
+Dasar brengsek manis!
 
 201
 00:28:52,630 --> 00:28:55,960
-If you wanna fight with us,
+Jika kamu ingin bertarung dengan kami,
 
 202
 00:28:56,440 --> 00:28:57,900
-first thing you must learn
+hal pertama yang harus kamu pelajari
 
 203
 00:28:59,100 --> 00:29:00,800
-to be one with the desert.
+menjadi satu dengan gurun.
 
 204
 00:29:02,470 --> 00:29:03,740
-So, here is a tent
+Jadi, ini tenda
 
 205
 00:29:03,890 --> 00:29:05,440
-and enough food.
+dan makanan yang cukup.
 
 206
 00:29:06,100 --> 00:29:07,100
-I want you to cross
+Aku ingin kamu menyeberang
 
 207
 00:29:07,785 --> 00:29:10,400
-that small egg and come back.
+telur kecil itu dan kembali.
 
 208
 00:29:11,460 --> 00:29:12,460
-Travel by night.
+Bepergian di malam hari.
 
 209
 00:29:13,060 --> 00:29:14,480
-You know how to use a paracombas.
+Anda tahu cara menggunakan paracombas.
 
 210
 00:29:14,640 --> 00:29:15,640
-Yes.
+Ya.
 
 211
 00:29:18,590 --> 00:29:19,710
-Anything else I should know?
+Ada hal lain yang perlu saya ketahui?
 
 212
 00:29:19,800 --> 00:29:22,460
-Beside the worms and the harconins,
+Selain cacing dan harconin,
 
 213
 00:29:22,900 --> 00:29:24,580
-beware of the trapdoor spiders.
+waspadalah terhadap laba-laba pintu jebakan.
 
 214
 00:29:26,280 --> 00:29:28,120
-Centipedes are very nasty.
+Kelabang sangat jahat.
 
 215
 00:29:28,340 --> 00:29:29,340
-Not the big ones.
+Bukan yang besar.
 
 216
 00:29:29,900 --> 00:29:30,900
-They are harmless.
+Mereka tidak berbahaya.
 
 217
 00:29:31,300 --> 00:29:32,480
-But the little ones,
+Tapi anak-anak kecil,
 
 218
 00:29:32,980 --> 00:29:34,040
-you have to worry about.
+kamu harus khawatir.
 
 219
 00:29:37,460 --> 00:29:38,460
-Don't ever,
+Jangan pernah,
 
 220
 00:29:39,100 --> 00:29:40,660
-ever listen to that jian.
+pernah mendengarkan jian itu.
 
 221
 00:29:42,920 --> 00:29:43,920
-The jian?
+Jiannya?
 
 222
 00:29:44,240 --> 00:29:45,840
-Jian, desert spirits.
+Jian, roh gurun.
 
 223
 00:29:47,880 --> 00:29:49,880
-They whisper at night,
+Mereka berbisik di malam hari,
 
 224
 00:29:51,060 --> 00:29:52,800
-on and at somewhere.
+di suatu tempat.
 
 225
 00:29:55,595 --> 00:29:56,700
-The king says you.
+Raja bilang kamu.
 
 226
 00:29:57,720 --> 00:29:58,880
-Really, be careful.
+Sungguh, berhati-hatilah.
 
 227
 00:29:59,860 --> 00:30:00,860
-They are demons.
+Mereka adalah setan.
 
 228
 00:30:02,080 --> 00:30:03,080
-Gah! But it's true.
+Gan! Tapi itu benar.
 
 229
 00:30:04,180 --> 00:30:05,180
@@ -955,51 +955,51 @@ Gah! But it's true.
 
 230
 00:30:05,340 --> 00:30:06,340
-Don't listen to them.
+Jangan dengarkan mereka.
 
 231
 00:30:10,120 --> 00:30:11,240
-If you don't listen to them,
+Jika Anda tidak mendengarkan mereka,
 
 232
 00:30:12,130 --> 00:30:13,660
-you have to listen to them.
+Anda harus mendengarkan mereka.
 
 233
 00:30:15,620 --> 00:30:16,820
-What do you want to give them?
+Apa yang ingin Anda berikan kepada mereka?
 
 234
 00:30:17,160 --> 00:30:18,160
-I don't want to.
+Saya tidak mau.
 
 235
 00:30:20,190 --> 00:30:21,590
-I don't want to give them anything.
+Saya tidak ingin memberi mereka apa pun.
 
 236
 00:30:30,280 --> 00:30:31,280
-I don't want to.
+Saya tidak mau.
 
 237
 00:30:34,660 --> 00:30:35,380
-I don't want to.
+Saya tidak mau.
 
 238
 00:30:35,381 --> 00:30:36,381
-I don't want to.
+Saya tidak mau.
 
 239
 00:30:37,160 --> 00:30:38,320
-I want to give them anything.
+Saya ingin memberi mereka apa pun.
 
 240
 00:30:39,940 --> 00:30:41,420
-I want to give them anything.
+Saya ingin memberi mereka apa pun.
 
 241
 00:30:43,040 --> 00:30:44,200
-I want to give them anything.
+Saya ingin memberi mereka apa pun.
 
 242
 00:31:30,900 --> 00:31:31,900
@@ -1007,122 +1007,122 @@ Jamis.
 
 243
 00:31:35,070 --> 00:31:36,580
-Sandwalk like a drunk lizard.
+Berjalan di pasir seperti kadal mabuk.
 
 244
 00:31:40,230 --> 00:31:41,620
-I'm doing pretty good so far.
+Saya melakukannya dengan cukup baik sejauh ini.
 
 245
 00:31:41,980 --> 00:31:43,940
-You're not even in worm territory yet.
+Anda bahkan belum berada di wilayah cacing.
 
 246
 00:32:03,200 --> 00:32:04,520
-You have to break up your rhythm.
+Anda harus memecah ritme Anda.
 
 247
 00:32:08,760 --> 00:32:09,760
-Like this.
+Seperti ini.
 
 248
 00:32:11,280 --> 00:32:13,760
-Now that's interesting because
-in the film books I've studied,
+Itu menarik karena
+dalam buku film yang pernah saya pelajari,
 
 249
 00:32:14,140 --> 00:32:16,300
-the anthropologists say in
-order to properly sandwalk,
+kata para antropolog di
+untuk melakukan sandwalk dengan benar,
 
 250
 00:32:16,480 --> 00:32:17,700
-you actually have to...
+kamu sebenarnya harus...
 
 251
 00:32:20,780 --> 00:32:21,780
-Never mind.
+Sudahlah.
 
 252
 00:32:22,420 --> 00:32:23,420
-Please keep going.
+Silakan lanjutkan.
 
 253
 00:32:50,990 --> 00:32:54,070
-You know, I'm the only one who believes
-you're going to make it until summer.
+Kau tahu, hanya aku yang percaya
+kamu akan bertahan sampai musim panas.
 
 254
 00:32:54,430 --> 00:32:56,390
-Everyone else thinks you
-won't make it two weeks.
+Semua orang memikirkanmu
+tidak akan bertahan dua minggu.
 
 255
 00:32:57,950 --> 00:33:00,870
-If you want to follow us in the desert,
-you need to know how wind traps work.
+Jika Anda ingin mengikuti kami di padang pasir,
+Anda perlu mengetahui cara kerja perangkap angin.
 
 256
 00:33:00,990 --> 00:33:01,990
-So listen to me.
+Jadi dengarkan aku.
 
 257
 00:33:02,390 --> 00:33:02,790
-They're simple.
+Itu sederhana.
 
 258
 00:33:03,010 --> 00:33:04,410
-They require constant attention.
+Mereka membutuhkan perhatian terus-menerus.
 
 259
 00:33:05,690 --> 00:33:07,290
-This right here in cash is the question.
+Pertanyaannya adalah uang tunai di sini.
 
 260
 00:33:08,270 --> 00:33:09,270
-Here's the answer.
+Inilah jawabannya.
 
 261
 00:33:10,570 --> 00:33:15,150
-These are the answers that needs
-to be changed every three weeks.
+Inilah jawaban-jawaban yang dibutuhkan
+untuk diganti setiap tiga minggu.
 
 262
 00:33:17,350 --> 00:33:17,770
-One.
+Satu.
 
 263
 00:33:17,771 --> 00:33:18,771
-One.
+Satu.
 
 264
 00:33:22,750 --> 00:33:24,370
-Stop looking at me like that.
+Berhenti menatapku seperti itu.
 
 265
 00:33:37,170 --> 00:33:39,610
-If we want to protect your brother,
+Jika kami ingin melindungi saudaramu,
 
 266
 00:33:40,210 --> 00:33:43,010
-we need all the Fremen
-to believe in the prophecy.
+kita membutuhkan semua Fremen
+untuk percaya pada ramalan itu.
 
 267
 00:33:48,100 --> 00:33:50,580
-We must convert the non-believers.
+Kita harus mempertobatkan orang-orang yang tidak beriman.
 
 268
 00:33:54,350 --> 00:33:56,650
-We need to start with the weaker ones.
+Kita harus memulainya dari pihak yang lebih lemah.
 
 269
 00:33:58,210 --> 00:33:59,210
-For fun.
+Untuk kesenangan.
 
 270
 00:34:23,840 --> 00:34:24,840
-Fuck! I got you.
+Sial! Aku mendapatkanmu.
 
 271
 00:34:26,120 --> 00:34:27,920
@@ -1130,7 +1130,7 @@ Fuck! I got you.
 
 272
 00:34:28,460 --> 00:34:29,460
-You're the only one! I got you.
+Anda satu-satunya! Aku mendapatkanmu.
 
 273
 00:35:48,400 --> 00:35:58,980
@@ -1138,7 +1138,7 @@ You're the only one! I got you.
 
 274
 00:35:58,981 --> 00:36:07,661
-No... ... ... ... ... ... ...
+TIDAK... ... ... ... ... ... ...
 
 275
 00:36:11,560 --> 00:36:15,060
@@ -1206,128 +1206,128 @@ No... ... ... ... ... ... ...
 
 291
 00:40:18,560 --> 00:40:19,560
-The ways of thinking.
+Cara berpikir.
 
 292
 00:40:20,810 --> 00:40:22,291
-You know everything about the desert.
+Anda tahu segalanya tentang gurun.
 
 293
 00:40:22,360 --> 00:40:23,800
-You harness the very power of it.
+Anda memanfaatkan kekuatannya.
 
 294
 00:40:25,750 --> 00:40:27,060
-We can stop them together.
+Kita bisa menghentikan mereka bersama-sama.
 
 295
 00:40:27,720 --> 00:40:29,540
-Bury them in the sand where they belong.
+Kuburkan mereka di pasir tempat mereka berada.
 
 296
 00:40:30,630 --> 00:40:32,840
-So that this planet can be yours once more.
+Agar planet ini bisa menjadi milikmu sekali lagi.
 
 297
 00:40:33,680 --> 00:40:35,040
-What will you have us do?
+Apa yang Anda ingin kami lakukan?
 
 298
 00:40:36,810 --> 00:40:38,060
-What would you do? Still there?
+Apa yang akan kamu lakukan? Masih di sana?
 
 299
 00:40:38,520 --> 00:40:42,620
-I would strike even further north.
+Saya akan menyerang lebih jauh ke utara.
 
 300
 00:40:42,840 --> 00:40:44,000
-Then I will go further north.
+Lalu aku akan pergi lebih jauh ke utara.
 
 301
 00:40:44,360 --> 00:40:46,680
-The further north you go
-the more likely it is you die.
+Semakin jauh ke utara Anda pergi
+semakin besar kemungkinan Anda mati.
 
 302
 00:40:47,430 --> 00:40:49,100
-The future will not be over either.
+Masa depan juga tidak akan berakhir.
 
 303
 00:40:51,700 --> 00:40:53,480
-You know everything about the desert.
+Anda tahu segalanya tentang gurun.
 
 304
 00:40:57,190 --> 00:40:58,800
-Still there.
+Masih di sana.
 
 305
 00:41:02,580 --> 00:41:03,941
-Also there's the very power of it.
+Juga ada kekuatannya.
 
 306
 00:41:05,100 --> 00:41:05,980
-Please give your attention.
+Mohon berikan perhatian Anda.
 
 307
 00:41:05,981 --> 00:41:07,021
-Have a little bit of time.
+Punya sedikit waktu.
 
 308
 00:41:07,960 --> 00:41:08,960
-Give it!
+Memberikan!
 
 309
 00:41:24,000 --> 00:41:28,158
-You shall be known
-among us as Usul, and now
+Anda akan dikenal
+di antara kita sebagai Usul, dan sekarang
 
 310
 00:41:38,700 --> 00:41:42,870
-a Fedeikin is a fighter
-and needs a warning.
+seorang Fedeikin adalah seorang pejuang
+dan memerlukan peringatan.
 
 311
 00:41:44,490 --> 00:41:50,860
-You shall be known among
-us as Usul, and now a
+Anda akan dikenal di kalangan
+kami sebagai Usul, dan sekarang a
 
 312
 00:41:50,872 --> 00:41:57,670
-Fedeikin, and now a
-Fedeikin, and now a Fedeikin,
+Fedeikin, dan sekarang a
+Fedeikin, dan sekarang menjadi Fedeikin,
 
 313
 00:41:57,671 --> 00:41:57,754
-now a Fedeikin, and
-now a Fedeikin, and now a
+sekarang menjadi Fedeikin, dan
+sekarang menjadi Fedeikin, dan sekarang a
 
 314
 00:41:57,766 --> 00:41:57,870
-Fedeikin, and now a
-Fedeikin, and now a Fedeikin,
+Fedeikin, dan sekarang a
+Fedeikin, dan sekarang menjadi Fedeikin,
 
 315
 00:42:11,100 --> 00:42:15,639
-now a Fedeikin, and now a
-Fedeikin, and now a Fedeikin,
+sekarang menjadi Fedeikin, dan sekarang a
+Fedeikin, dan sekarang menjadi Fedeikin,
 
 316
 00:42:16,411 --> 00:42:18,410
-and now a Fedeikin, and
-That is a powerful name.
+dan sekarang menjadi Fedeikin, dan
+Itu adalah nama yang kuat.
 
 317
 00:42:23,010 --> 00:42:25,220
-Now you are our brother...
+Sekarang kamu adalah saudara kami...
 
 318
 00:42:26,980 --> 00:42:30,000
-...or Muad'Dib Ussul.
+...atau Muad'Dib Ussul.
 
 319
 00:42:31,780 --> 00:42:32,780
-Oi! Your hands.
+Oi! Tanganmu.
 
 320
 00:42:38,060 --> 00:42:39,060
@@ -1335,11 +1335,11 @@ Oi! Your hands.
 
 321
 00:42:41,400 --> 00:42:42,780
-Oi, I think Ussul.
+Oi, menurutku Ussul.
 
 322
 00:42:43,600 --> 00:42:45,220
-Go ahead.
+Teruskan.
 
 323
 00:42:59,080 --> 00:43:00,080
@@ -1347,29 +1347,29 @@ Ussul.
 
 324
 00:43:46,600 --> 00:43:47,600
-It's breathtaking.
+Sungguh menakjubkan.
 
 325
 00:43:59,080 --> 00:44:00,080
-Look.
+Lihat.
 
 326
 00:44:00,600 --> 00:44:01,600
-Hide there, Spice.
+Sembunyikan di sana, Rempah.
 
 327
 00:44:03,100 --> 00:44:05,960
-The rakis is so beautiful
-when the sun is low.
+Rakisnya sangat indah
+saat matahari rendah.
 
 328
 00:44:13,400 --> 00:44:14,400
-Where are you from?
+Asalmu dari mana?
 
 329
 00:44:16,060 --> 00:44:17,760
-Does water really fall
-from the sky? Oh, yes.
+Apakah air benar-benar jatuh
+dari langit? Oh ya.
 
 330
 00:44:18,440 --> 00:44:19,440
@@ -1377,16 +1377,16 @@ from the sky? Oh, yes.
 
 331
 00:44:20,400 --> 00:44:21,640
-Sometimes it rains for weeks.
+Terkadang hujan turun selama berminggu-minggu.
 
 332
-00:44:22,000 --> 00:44:23,000
-I'm coming down.
+00:44:22.000 --> 00:44:23.000
+aku turun.
 
 333
 00:44:23,620 --> 00:44:24,720
-Where do you see sand
-here? Imagine water.
+Di mana Anda melihat pasir
+Di Sini? Bayangkan air.
 
 334
 00:44:25,140 --> 00:44:26,140
@@ -1394,31 +1394,31 @@ here? Imagine water.
 
 335
 00:44:28,980 --> 00:44:30,560
-Our castle stands on cliffs,
+Kastil kami berdiri di atas tebing,
 
 336
 00:44:31,060 --> 00:44:32,060
-high above the sea.
+tinggi di atas laut.
 
 337
 00:44:33,220 --> 00:44:34,940
-If you dive in, you can't reach the bottom.
+Jika Anda menyelam, Anda tidak bisa mencapai dasarnya.
 
 338
 00:44:36,160 --> 00:44:37,160
-You dive in?
+Anda menyelam?
 
 339
 00:44:37,220 --> 00:44:37,340
-Yes.
+Ya.
 
 340
 00:44:38,240 --> 00:44:39,240
-It's cold swimming.
+Ini berenang dingin.
 
 341
 00:44:40,180 --> 00:44:41,660
-I don't believe Ussul.
+Saya tidak percaya Ussul.
 
 342
 00:44:42,920 --> 00:44:43,920
@@ -1426,7 +1426,7 @@ Ussul.
 
 343
 00:44:46,140 --> 00:44:47,560
-What's your secret name? Sihaya.
+Apa nama rahasiamu? Sihaya.
 
 344
 00:44:50,460 --> 00:44:51,460
@@ -1438,40 +1438,40 @@ Sihaya.
 
 346
 00:44:54,340 --> 00:44:55,440
-What does that mean?
+Maksudnya itu apa?
 
 347
 00:44:56,420 --> 00:44:57,460
-It means desert spring.
+Artinya musim semi gurun.
 
 348
 00:44:58,420 --> 00:44:59,420
-Desert spring.
+Musim semi gurun.
 
 349
 00:45:00,600 --> 00:45:01,640
-I love it.
+Aku menyukainya.
 
 350
 00:45:02,180 --> 00:45:03,180
-I hate it.
+Saya membencinya.
 
 351
 00:45:03,900 --> 00:45:05,200
-It's from some stupid prophecy.
+Itu berasal dari ramalan bodoh.
 
 352
 00:45:06,980 --> 00:45:07,980
-I prefer Johnny.
+Aku lebih memilih Johnny.
 
 353
 00:45:08,620 --> 00:45:10,040
-I prefer Johnny too, then.
+Kalau begitu, aku juga lebih memilih Johnny.
 
 354
 00:45:13,500 --> 00:45:18,730
-Do you think Silver
-will teach me? To write.
+Apakah menurut Anda Perak
+akan mengajariku? Untuk menulis.
 
 355
 00:45:19,350 --> 00:45:20,350
@@ -1479,195 +1479,195 @@ will teach me? To write.
 
 356
 00:45:22,430 --> 00:45:23,430
-No.
+TIDAK.
 
 357
 00:45:23,470 --> 00:45:24,470
-Only from in write parts.
+Hanya dari bagian tulis.
 
 358
 00:45:24,570 --> 00:45:27,530
-By name, not by blood.
+Berdasarkan nama, bukan berdasarkan darah.
 
 359
 00:45:30,230 --> 00:45:34,310
-Your blood melts from
-dukes and great houses.
+Darahmu meleleh
+adipati dan rumah-rumah besar.
 
 360
 00:45:36,590 --> 00:45:37,690
-We don't have that here.
+Kami tidak memilikinya di sini.
 
 361
 00:45:38,990 --> 00:45:39,990
-Here.
+Di Sini.
 
 362
 00:45:40,850 --> 00:45:41,850
-Or equal.
+Atau setara.
 
 363
 00:45:41,950 --> 00:45:42,950
-Men and women.
+Pria dan wanita.
 
 364
 00:45:53,660 --> 00:45:54,660
-Home.
+Rumah.
 
 365
 00:45:55,040 --> 00:45:56,920
-More deep, Ussul.
+Lebih dalam lagi, Ussul.
 
 366
 00:45:58,880 --> 00:46:01,780
-Maybe you could be from him.
+Mungkin Anda bisa dari dia.
 
 367
 00:46:04,180 --> 00:46:05,840
-Maybe I'll show you the way.
+Mungkin aku akan menunjukkan jalannya padamu.
 
 368
 00:47:00,000 --> 00:47:04,490
-I want to know how you feel.
+Saya ingin tahu bagaimana perasaan Anda.
 
 369
 00:47:10,140 --> 00:47:17,240
-I wish I was gonna say no.
+Saya berharap saya akan mengatakan tidak.
 
 370
 00:47:45,260 --> 00:47:50,231
-For emen attacks, on your
-watch, your orders were
+Untuk serangan emen, pada Anda
+perhatikan, pesananmu sudah
 
 371
 00:47:50,243 --> 00:47:54,920
-to restore spies'
-production to full capacity.
+untuk memulihkan mata-mata
+produksi hingga kapasitas penuh.
 
 372
 00:47:55,880 --> 00:47:58,020
-Do you know what it means if you fail?
+Tahukah Anda apa artinya jika Anda gagal?
 
 373
 00:47:59,880 --> 00:48:03,420
-The emperor will take
-spies out of our control.
+Kaisar akan mengambil
+memata-matai di luar kendali kita.
 
 374
 00:48:04,840 --> 00:48:06,380
-Tighten your grip, Revan.
+Kencangkan genggamanmu, Revan.
 
 375
 00:48:07,260 --> 00:48:08,260
-I'll call.
+saya akan menelepon.
 
 376
 00:48:08,580 --> 00:48:10,600
-Or feel mine on your neck.
+Atau rasakan milikku di lehermu.
 
 377
 00:48:27,290 --> 00:48:29,140
-I'm sorry. I'm sorry. It's okay.
+Saya minta maaf. Saya minta maaf. Tidak apa-apa.
 
 378
 00:48:39,060 --> 00:48:40,060
-I'm here. I'm here.
+Aku disini. Aku disini.
 
 379
 00:48:41,870 --> 00:48:44,231
-It's been a while since you've
-had one of those nightmares.
+Sudah lama sejak Anda melakukannya
+mengalami salah satu mimpi buruk itu.
 
 380
 00:48:49,360 --> 00:48:51,150
-Tell me, what was it about?
+Katakan padaku, tentang apa itu?
 
 381
 00:48:57,230 --> 00:49:00,190
-Nothing's clear. It's only fragments.
+Tidak ada yang jelas. Itu hanya pecahan.
 
 382
 00:49:02,410 --> 00:49:06,250
-I'm in the south, and
-I'm following someone.
+Saya di selatan, dan
+Saya mengikuti seseorang.
 
 383
 00:49:07,650 --> 00:49:09,570
-And it triggers a holy war.
+Dan hal ini memicu perang suci.
 
 384
 00:49:13,230 --> 00:49:19,310
-Millions and millions of people
-starving to death because of me.
+Jutaan dan jutaan orang
+mati kelaparan karena aku.
 
 385
 00:49:25,490 --> 00:49:30,070
-You've been exposed to spies for a
-long time. They can create weird dreams.
+Anda telah terpapar mata-mata selama a
+lama. Mereka bisa menciptakan mimpi aneh.
 
 386
 00:49:37,690 --> 00:49:42,090
-It's a big day.
-But can I still work on it all?
+Ini hari yang besar.
+Tapi apakah saya masih bisa mengerjakan semuanya?
 
 387
 00:49:56,500 --> 00:50:01,270
-No. I'm fine. I'm sorry.
+Tidak, aku baik-baik saja. Saya minta maaf.
 
 388
 00:50:04,360 --> 00:50:08,380
-I do met myself. Here.
+Saya bertemu dengan diri saya sendiri. Di Sini.
 
 389
 00:50:09,020 --> 00:50:10,020
-Thanks.
+Terima kasih.
 
 390
 00:50:12,260 --> 00:50:15,980
-Don't try to impress anyone.
-You're brave. We all know that.
+Jangan mencoba membuat siapa pun terkesan.
+Kamu berani. Kita semua tahu itu.
 
 391
 00:50:18,120 --> 00:50:22,360
-Be simple. Be direct. Nothing fancy.
+Bersikaplah sederhana. Bersikaplah langsung. Tidak ada yang mewah.
 
 392
 00:50:22,840 --> 00:50:23,400
-Nothing fancy?
+Tidak ada yang mewah?
 
 393
 00:50:23,580 --> 00:50:27,140
-Hey, I'm serious. Nothing fancy.
-You will shame my teaching.
+Hei, aku serius. Tidak ada yang mewah.
+Anda akan mempermalukan pengajaran saya.
 
 394
 00:50:27,320 --> 00:50:29,200
-I will shame you. I understand.
+aku akan membuatmu malu. Saya mengerti.
 
 395
 00:50:31,700 --> 00:50:35,480
-Shai Hulu decides today if you
-become Fremen. Or if you die.
+Shai Hulu memutuskan hari ini jika Anda
+menjadi Fremen. Atau jika kamu mati.
 
 396
 00:50:44,050 --> 00:50:46,000
-Hey, what's up? What's going on?
+Hai apa kabar? Apa yang sedang terjadi?
 
 397
 00:50:46,640 --> 00:50:47,640
-What's going on?
+Apa yang sedang terjadi?
 
 398
 00:50:52,915 --> 00:50:53,915
-What's going on?
+Apa yang sedang terjadi?
 
 399
 00:55:51,200 --> 00:55:52,380
-What's going on?
+Apa yang sedang terjadi?
 
 400
 00:56:02,200 --> 00:56:03,200
-What's going on? It's me.
+Apa yang sedang terjadi? Ini aku.
 
 401
 00:57:01,560 --> 00:57:02,680
@@ -1675,305 +1675,305 @@ What's going on? It's me.
 
 402
 00:57:03,450 --> 00:57:09,180
-Ah! Hey, what's
-going on? I'm sorry.
+Ah! Hei, ada apa
+sedang terjadi? Saya minta maaf.
 
 403
 00:57:09,181 --> 00:57:11,000
-I'm trying to get out.
+Saya mencoba untuk keluar.
 
 404
 00:57:15,800 --> 00:57:18,100
-Let me tell you something.
+Biarkan aku memberitahumu sesuatu.
 
 405
 00:57:18,460 --> 00:57:19,460
-I will not kill you.
+Aku tidak akan membunuhmu.
 
 406
 00:57:20,070 --> 00:57:21,200
-Give it up!
+Menyerah!
 
 407
 00:57:55,060 --> 00:57:58,802
-They believe in Paul.
-Now we go south.
+Mereka percaya pada Paulus.
+Sekarang kita pergi ke selatan.
 
 408
 00:57:58,814 --> 00:58:03,160
-There are millions of
-fundamentalists there.
+Ada jutaan
+fundamentalis di sana.
 
 409
 00:58:04,220 --> 00:58:08,795
-They will protect
-him when he comes.
+Mereka akan melindungi
+dia ketika dia datang.
 
 410
 00:58:08,807 --> 00:58:13,190
-The quiz that's happening
-will be born in the south.
+Kuis yang sedang berlangsung
+akan lahir di selatan.
 
 411
 00:58:35,050 --> 00:58:39,335
-As long as I breathe, I'm sorry.
+Selama aku masih bernafas, aku minta maaf.
 
 412
 00:58:41,410 --> 00:58:42,410
-There will be trouble.
+Akan ada masalah.
 
 413
 00:58:44,950 --> 00:58:46,031
-What are you talking about?
+Apa yang kamu bicarakan?
 
 414
 00:58:49,930 --> 00:58:51,070
-Finally, what do you mean?
+Akhirnya, apa maksudmu?
 
 415
 00:58:51,071 --> 00:58:55,250
-The way they look at you.
-They were from you now.
+Cara mereka memandangmu.
+Itu darimu sekarang.
 
 416
 00:58:58,710 --> 00:59:02,430
-The night you make out your
-victories is so you can see the future.
+Malam saat kamu bermesraan
+kemenangan adalah agar Anda dapat melihat masa depan.
 
 417
 00:59:03,530 --> 00:59:04,550
-I suppose he's not okay.
+Kurasa dia tidak baik-baik saja.
 
 418
 00:59:06,430 --> 00:59:07,430
-I don't know, Messiah.
+Saya tidak tahu, Mesias.
 
 419
 00:59:10,430 --> 00:59:12,550
-I'm a Phidican, I've see-stopped.
+Saya seorang Phidican, saya pernah berhenti.
 
 420
 00:59:13,660 --> 00:59:16,127
-Yet we have a penny just
-right among us, fanning
+Namun kami hanya punya satu sen
+tepat di antara kita, mengipasi
 
 421
 00:59:16,139 --> 00:59:18,670
-the flames of your legend,
-saying you're the one.
+nyala api legendamu,
+mengatakan kamulah orangnya.
 
 422
 00:59:45,470 --> 00:59:47,810
-She says you should be coming with us.
+Dia bilang kamu harus ikut dengan kami.
 
 423
 00:59:48,790 --> 00:59:49,790
-No, I can't.
+Tidak, saya tidak bisa.
 
 424
 00:59:50,530 --> 00:59:51,530
-She's asking why?
+Dia bertanya kenapa?
 
 425
 00:59:52,290 --> 00:59:53,857
-Because I must
-continue fighting in the
+Karena aku harus
+terus berjuang di
 
 426
 00:59:53,869 --> 00:59:55,690
-north to protect you
-down there in the south.
+utara untuk melindungimu
+di sana di selatan.
 
 427
 00:59:57,940 --> 00:59:59,850
-She says she can tell when you lie.
+Dia bilang dia tahu kapan kamu berbohong.
 
 428
 01:00:01,170 --> 01:00:04,530
-Tell her that's because our mother
-keeps spreading dangerous tales.
+Katakan padanya itu karena ibu kita
+terus menyebarkan cerita berbahaya.
 
 429
 01:00:12,030 --> 01:00:13,030
-What is she saying?
+Apa yang dia katakan?
 
 430
 01:00:13,720 --> 01:00:16,755
-She says you're blinded by
-love, and she reminds you that
+Dia bilang kamu dibutakan olehnya
+cinta, dan dia mengingatkanmu akan hal itu
 
 431
 01:00:16,767 --> 01:00:19,920
-you must reserve your hand
-for the most strategic alliance.
+Anda harus memesan tangan Anda
+untuk aliansi paling strategis.
 
 432
 01:00:23,200 --> 01:00:25,800
-She's also wondering why
-you don't believe in who you are.
+Dia juga bertanya-tanya kenapa
+kamu tidak percaya pada siapa dirimu.
 
 433
 01:00:26,420 --> 01:00:29,060
-I do believe.
-I believe I matter to these people.
+Saya percaya.
+Saya yakin saya penting bagi orang-orang ini.
 
 434
 01:00:30,760 --> 01:00:32,940
-I believe I'm making
-a difference in this war.
+Saya yakin saya berhasil
+perbedaan dalam perang ini.
 
 435
 01:00:34,680 --> 01:00:36,340
-We're nearly at the gates of the city.
+Kita hampir sampai di gerbang kota.
 
 436
 01:00:36,820 --> 01:00:37,980
-That's not what she means.
+Bukan itu maksudnya.
 
 437
 01:00:38,360 --> 01:00:39,360
-I know what she means.
+Saya tahu apa yang dia maksud.
 
 438
 01:00:39,420 --> 01:00:41,780
-Do you not think I also feel
-the weight of the prophecy?
+Tidakkah menurutmu aku juga merasakannya
+beratnya nubuatan itu?
 
 439
 01:00:43,700 --> 01:00:46,880
-It's a story that you keep telling,
-but it's not their story, it's yours.
+Ini adalah kisah yang terus Anda ceritakan,
+tapi itu bukan cerita mereka, itu ceritamu.
 
 440
 01:00:47,840 --> 01:00:49,560
-They deserve to be led by one of their own.
+Mereka layak dipimpin oleh salah satu dari mereka sendiri.
 
 441
 01:00:50,860 --> 01:00:52,980
-What your people did to
-this world is heartbreaking.
+Apa yang dilakukan orang-orang Anda
+dunia ini memilukan.
 
 442
 01:00:53,320 --> 01:00:55,020
-We gave them something to hope for.
+Kami memberi mereka sesuatu untuk diharapkan.
 
 443
 01:00:55,100 --> 01:00:56,100
-That's not hope!
+Itu bukan harapan!
 
 444
 01:02:50,910 --> 01:02:53,710
-We should not leave the security perimeter!
+Kita tidak boleh meninggalkan batas keamanan!
 
 445
 01:02:54,090 --> 01:02:59,040
-Security perimeter! The rest hope so!
+Batas keamanan! Sisanya berharap demikian!
 
 446
 01:02:59,400 --> 01:03:00,600
-Or should I give them my word?
+Atau haruskah aku memberi mereka janjiku?
 
 447
 01:03:01,800 --> 01:03:04,180
-Today, we'll keep doing it!
+Hari ini, kami akan terus melakukannya!
 
 448
 01:06:04,000 --> 01:06:08,960
-We'll keep doing it!
+Kami akan terus melakukannya!
 
 449
 01:06:09,510 --> 01:06:10,510
-One day!
+Satu hari!
 
 450
 01:06:11,790 --> 01:06:12,790
-Show yourself!
+Tunjukan dirimu!
 
 451
 01:06:26,430 --> 01:06:27,430
-No!
+TIDAK!
 
 452
-01:07:16,000 --> 01:07:20,950
-It's unlocked! It's unlocked!
+01:07:16.000 --> 01:07:20.950
+Tidak terkunci! Tidak terkunci!
 
 453
 01:07:57,780 --> 01:07:59,470
-So no, Fremen prophet.
+Jadi tidak, nabi Fremen.
 
 454
 01:08:01,800 --> 01:08:04,201
-It's not the first time we've
-had frictions with the Fremen.
+Ini bukan pertama kalinya kami melakukannya
+memiliki perselisihan dengan Fremen.
 
 455
 01:08:04,770 --> 01:08:05,930
-None of this magnitude.
+Tidak ada yang sebesar ini.
 
 456
 01:08:10,490 --> 01:08:11,700
-So, my dear daughter,
+Jadi, putriku sayang,
 
 457
 01:08:13,260 --> 01:08:14,960
-how would you deal with this prophet?
+bagaimana Anda akan menghadapi nabi ini?
 
 458
 01:08:21,620 --> 01:08:24,040
-If this Muad'Dib is a religious figure,
+Kalau Muad'Dib ini seorang tokoh agama,
 
 459
 01:08:26,010 --> 01:08:27,340
-you can't use direct force.
+Anda tidak dapat menggunakan kekuatan langsung.
 
 460
 01:08:29,380 --> 01:08:31,300
-Repression only makes a religion flourish.
+Penindasan hanya membuat suatu agama berkembang.
 
 461
 01:08:32,520 --> 01:08:34,180
-You'll only end up humiliating yourself.
+Anda hanya akan mempermalukan diri sendiri.
 
 462
 01:08:34,820 --> 01:08:36,380
-You underestimate my side of God.
+Anda meremehkan sisi Tuhan saya.
 
 463
 01:08:36,500 --> 01:08:38,460
-You underestimate the power of faith.
+Anda meremehkan kekuatan iman.
 
 464
 01:08:41,920 --> 01:08:46,060
-The Highness proves once again
-that she was my most acute student.
+Yang Mulia membuktikannya sekali lagi
+bahwa dia adalah muridku yang paling tajam.
 
 465
 01:08:48,760 --> 01:08:49,760
-It's an assassin's.
+Itu milik seorang pembunuh.
 
 466
 01:08:50,200 --> 01:08:51,200
-No.
+TIDAK.
 
 467
 01:08:51,500 --> 01:08:52,940
-Prophets get stronger when they die.
+Para nabi menjadi lebih kuat ketika mereka meninggal.
 
 468
 01:08:54,830 --> 01:08:56,820
-Let the conflict on Arrakis turn into war.
+Biarkan konflik di Arrakis berubah menjadi perang.
 
 469
 01:08:57,380 --> 01:08:58,380
-You then bring peace.
+Anda kemudian membawa kedamaian.
 
 470
 01:08:59,480 --> 01:09:00,480
-As a savior.
+Sebagai penyelamat.
 
 471
 01:09:02,980 --> 01:09:04,221
-You'll be a formidable empress.
+Anda akan menjadi permaisuri yang tangguh.
 
 472
 01:09:08,960 --> 01:09:09,960
@@ -1981,69 +1981,69 @@ Muad'Dib,
 
 473
 01:09:10,700 --> 01:09:13,260
-the prophet, the one who points the way.
+nabi, orang yang menunjukkan jalan.
 
 474
 01:09:14,480 --> 01:09:16,481
-These are our own
-religious patterns, aren't they?
+Ini adalah milik kita sendiri
+pola keagamaan, bukan?
 
 475
 01:09:16,960 --> 01:09:17,960
-This is our doing.
+Ini adalah perbuatan kami.
 
 476
 01:09:21,710 --> 01:09:23,790
-Muad'Dib means kangaroo mouse.
+Muad'Dib artinya kanguru tikus.
 
 477
 01:09:24,690 --> 01:09:26,090
-An unusual warning for a Fremen.
+Peringatan yang tidak biasa bagi seorang Fremen.
 
 478
 01:09:28,625 --> 01:09:30,306
-What if all the treaties were still alive?
+Bagaimana jika semua perjanjian masih berlaku?
 
 479
 01:09:30,590 --> 01:09:31,590
-Enough!
+Cukup!
 
 480
 01:09:31,790 --> 01:09:32,950
-This must not come out.
+Ini tidak boleh keluar.
 
 481
 01:09:33,730 --> 01:09:35,550
-Even to your father's
-ears, understand? I do, Rep.
+Bahkan pada ayahmu
+telinga, mengerti? Ya, Rep.
 
 482
 01:09:36,630 --> 01:09:37,630
-Mother.
+Ibu.
 
 483
 01:09:39,620 --> 01:09:41,890
-If Paul is alive, he
-likely knows the truth.
+Jika Paul masih hidup, dia
+kemungkinan besar mengetahui kebenarannya.
 
 484
 01:09:42,930 --> 01:09:45,100
-And should the great
-houses learn that your
+Dan seharusnya yang hebat
+rumah belajar bahwa Anda
 
 485
 01:09:45,112 --> 01:09:47,650
-father was behind the
-liquidation of the Atreides,
+ayah ada di belakang
+likuidasi Atreides,
 
 486
 01:09:48,350 --> 01:09:51,030
-your father will face
-war and lose the throne.
+ayahmu akan menghadapinya
+perang dan kehilangan takhta.
 
 487
 01:09:53,150 --> 01:09:54,410
-Then what hope is there? Hope.
+Lalu harapan apa yang ada? Harapan.
 
 488
 01:09:56,130 --> 01:09:57,130
@@ -2051,32 +2051,32 @@ Then what hope is there? Hope.
 
 489
 01:09:58,330 --> 01:09:59,570
-We are Bene Gesserit.
+Kami adalah Bene Gesserit.
 
 490
 01:10:00,390 --> 01:10:01,390
-We don't hope.
+Kami tidak berharap.
 
 491
 01:10:01,750 --> 01:10:02,750
-We plan.
+Kami berencana.
 
 492
 01:10:03,650 --> 01:10:05,470
-Paul is not our only prospect.
+Paul bukan satu-satunya prospek kami.
 
 493
 01:10:07,565 --> 01:10:12,330
-The Baron's youngest nephew,
-Fade-Rotha Harkonnen, will inherit Arrakis.
+Keponakan bungsu Baron,
+Fade-Rotha Harkonnen, akan mewarisi Arrakis.
 
 494
 01:10:14,130 --> 01:10:15,130
-He may be the answer.
+Dia mungkin jawabannya.
 
 495
 01:10:15,630 --> 01:10:16,630
-Fade-Rotha? He's psychotic.
+Memudar-Rotha? Dia psikotik.
 
 496
 01:10:16,930 --> 01:10:17,970
@@ -2084,28 +2084,28 @@ Fade-Rotha? He's psychotic.
 
 497
 01:10:18,350 --> 01:10:19,350
-That's irrelevant.
+Itu tidak relevan.
 
 498
 01:10:20,190 --> 01:10:23,090
-The question is, can we control him?
+Pertanyaannya, bisakah kita mengendalikannya?
 
 499
 01:10:24,250 --> 01:10:25,390
-And I intend to find out.
+Dan aku berniat mencari tahu.
 
 500
 01:10:48,310 --> 01:10:50,550
-Would you like some fresh
-meats, my darling? Thanks.
+Apakah Anda ingin yang segar
+daging, sayangku? Terima kasih.
 
 501
 01:10:50,551 --> 01:10:51,551
-Lungs.
+Paru-paru.
 
 502
 01:10:53,250 --> 01:10:53,810
-A liver.
+Sebuah hati.
 
 503
 01:10:53,890 --> 01:10:54,890
@@ -2113,103 +2113,103 @@ A liver.
 
 504
 01:10:55,170 --> 01:10:56,170
-What would you like?
+Apa yang akan Anda suka?
 
 505
 01:10:56,690 --> 01:10:57,870
-I hear they're big today.
+Kudengar mereka besar hari ini.
 
 506
 01:10:58,330 --> 01:10:59,330
-Your new blades.
+Pedang barumu.
 
 507
 01:10:59,925 --> 01:11:01,990
-For this very special day.
+Untuk hari yang sangat istimewa ini.
 
 508
 01:11:02,770 --> 01:11:04,550
-Napa and Fade-Rotha.
+Napa dan Fade-Rotha.
 
 509
 01:11:32,810 --> 01:11:33,950
-And not your bones.
+Dan bukan tulangmu.
 
 510
 01:11:34,650 --> 01:11:35,650
-It's the dip.
+Ini adalah penurunannya.
 
 511
 01:11:36,850 --> 01:11:37,850
-Should be sharpened.
+Harus diasah.
 
 512
 01:11:52,090 --> 01:11:53,090
-Come!
+Datang!
 
 513
 01:11:53,790 --> 01:11:55,190
-I won't die like a fool.
+Aku tidak akan mati seperti orang bodoh.
 
 514
 01:11:55,970 --> 01:11:56,970
-Kill me now.
+Bunuh aku sekarang.
 
 515
 01:11:57,130 --> 01:11:59,310
-No drug for you today, Atreides.
+Tidak ada obat untukmu hari ini, Atreides.
 
 516
 01:12:03,110 --> 01:12:05,310
-Take this long, oldie.
+Butuh waktu lama, kawan.
 
 517
 01:12:05,610 --> 01:12:06,750
-What do you want?
+Apa yang kamu inginkan?
 
 518
 01:13:23,660 --> 01:13:25,300
-This fight's all for sure.
+Pertarungan ini sudah pasti.
 
 519
 01:13:27,180 --> 01:13:28,620
-But we'll get a good look at him.
+Tapi kita akan melihatnya dengan baik.
 
 520
 01:15:09,000 --> 01:15:13,590
-We can cancel the fight.
+Kita bisa membatalkan pertarungan.
 
 521
 01:15:14,430 --> 01:15:16,190
-I'll explore my nephew's birthday.
+Saya akan menjelajahi ulang tahun keponakan saya.
 
 522
 01:15:23,230 --> 01:15:24,230
-Who's there?
+Siapa disana?
 
 523
 01:16:18,740 --> 01:16:19,580
-Who's there?
+Siapa disana?
 
 524
 01:16:19,581 --> 01:16:20,581
-I said it!
+Aku mengatakannya!
 
 525
 01:16:21,220 --> 01:16:22,280
-Who's there?
+Siapa disana?
 
 526
 01:16:22,440 --> 01:16:24,040
-Why'd we not stop the fight?
+Mengapa kita tidak menghentikan pertarungan?
 
 527
 01:16:24,660 --> 01:16:25,660
-Transloping plans?
+Mentransformasikan rencana?
 
 528
 01:16:30,600 --> 01:16:32,180
-Show me who you are.
+Tunjukkan padaku siapa kamu.
 
 529
 01:16:32,181 --> 01:16:34,200
@@ -2229,60 +2229,60 @@ Show me who you are.
 
 533
 01:19:04,571 --> 01:19:10,330
-Don't be hasty.
-I have another gift for you. A bigger one.
+Jangan terburu-buru.
+Aku punya hadiah lain untukmu. Yang lebih besar.
 
 534
 01:19:12,010 --> 01:19:13,010
-A ruckus.
+Sebuah keributan.
 
 535
 01:19:17,000 --> 01:19:18,000
-What about Robert?
+Bagaimana dengan Robert?
 
 536
 01:19:18,620 --> 01:19:20,660
-He has failed to protect Spice production.
+Dia telah gagal melindungi produksi rempah-rempah.
 
 537
 01:19:22,000 --> 01:19:23,420
-Robert would be reassigned.
+Robert akan ditugaskan kembali.
 
 538
 01:19:27,540 --> 01:19:28,780
-Claim a ruckus fight.
+Klaim pertarungan keributan.
 
 539
 01:19:30,240 --> 01:19:32,420
-Free the Spice. I'll make you Emperor.
+Bebaskan Bumbunya. Aku akan menjadikanmu Kaisar.
 
 540
 01:19:49,800 --> 01:19:50,800
-How?
+Bagaimana?
 
 541
 01:19:52,820 --> 01:19:55,880
-The Emperor helped
-me destroy their traitors.
+Kaisar membantu
+aku menghancurkan pengkhianat mereka.
 
 542
 01:19:57,560 --> 01:20:01,100
-And led his own army to the course.
-A serious crime.
+Dan memimpin pasukannya sendiri ke lapangan.
+Kejahatan yang serius.
 
 543
 01:20:02,640 --> 01:20:06,720
-If it came to light, the great
-houses would rise against him.
+Jika terungkap, baguslah
+rumah-rumah akan bangkit melawannya.
 
 544
 01:20:08,960 --> 01:20:11,840
-And then... Who will sit on
-the throne? Fade Rawthog.
+Dan kemudian... Siapa yang akan duduk
+takhta? Memudar Rawthog.
 
 545
 01:20:13,600 --> 01:20:14,560
-Park it in.
+Parkirkan di dalam.
 
 546
 01:20:14,561 --> 01:20:16,860
@@ -2290,48 +2290,48 @@ Park it in.
 
 547
 01:20:56,510 --> 01:20:57,710
-You're following me.
+Anda mengikuti saya.
 
 548
 01:20:59,090 --> 01:21:00,090
-Am I?
+Apakah saya?
 
 549
 01:21:01,630 --> 01:21:03,190
-I may have gotten lost.
+Saya mungkin tersesat.
 
 550
 01:21:05,410 --> 01:21:07,710
-Will you show me the way out at this maze?
+Maukah kamu menunjukkan padaku jalan keluar dari labirin ini?
 
 551
 01:21:08,530 --> 01:21:09,670
-My Lord Nabarin.
+Tuanku Nabarin.
 
 552
 01:21:17,230 --> 01:21:19,150
-We've met, our dream.
+Kita sudah bertemu, impian kita.
 
 553
 01:21:22,650 --> 01:21:23,650
-I don't think so.
+Saya kira tidak demikian.
 
 554
 01:21:24,950 --> 01:21:26,170
-I'm Lady Margot Fenry.
+Saya Nyonya Margot Fenry.
 
 555
 01:21:27,190 --> 01:21:29,310
-I'm here to honor your coming of age.
+Saya di sini untuk menghormati kedewasaan Anda.
 
 556
 01:21:29,850 --> 01:21:31,250
-You're not allowed in this section.
+Anda tidak diperbolehkan di bagian ini.
 
 557
 01:21:32,290 --> 01:21:33,890
-How did you get past
-the guards? The guards.
+Bagaimana kamu bisa melewatinya
+para penjaga? Para penjaga.
 
 558
 01:21:34,570 --> 01:21:35,570
@@ -2339,45 +2339,45 @@ the guards? The guards.
 
 559
 01:21:38,390 --> 01:21:40,470
-May I ask what are you doing here?
+Bolehkah saya bertanya apa yang kamu lakukan di sini?
 
 560
 01:21:42,370 --> 01:21:44,970
-You're not taking part
-in your own celebrations.
+Anda tidak ambil bagian
+dalam perayaanmu sendiri.
 
 561
 01:21:56,600 --> 01:21:57,620
-You're better desert.
+Kamu lebih baik gurun.
 
 562
 01:21:58,920 --> 01:21:59,920
-And why?
+Dan mengapa?
 
 563
 01:22:04,420 --> 01:22:06,360
-I dreamed about you last night.
+Aku bermimpi tentangmu tadi malam.
 
 564
 01:22:07,100 --> 01:22:08,720
-A pleasant dream I hope.
+Saya harap mimpi yang menyenangkan.
 
 565
 01:22:08,721 --> 01:22:10,120
-Don't mock me on that.
+Jangan mengejekku dalam hal itu.
 
 566
 01:22:10,220 --> 01:22:11,220
-Why would you dare?
+Kenapa kamu berani?
 
 567
 01:22:13,760 --> 01:22:15,600
-Right now you've been a jesser in tricks.
+Saat ini Anda sudah ahli dalam trik.
 
 568
 01:22:16,800 --> 01:22:18,720
-And what do you know about
-the name of jesserit? Tell me.
+Dan apa yang kamu ketahui tentangnya
+nama jesserit? Beri tahu saya.
 
 569
 01:22:23,060 --> 01:22:24,060
@@ -2385,19 +2385,19 @@ the name of jesserit? Tell me.
 
 570
 01:22:27,520 --> 01:22:28,780
-Is something wrong?
+Apakah ada yang salah?
 
 571
 01:22:29,380 --> 01:22:30,600
-I don't recognize this place.
+Saya tidak mengenali tempat ini.
 
 572
 01:22:31,940 --> 01:22:33,220
-This is the guest way.
+Ini adalah cara tamu.
 
 573
 01:22:36,330 --> 01:22:37,250
-Where are you going? To my room.
+Kemana kamu pergi? Ke kamarku.
 
 574
 01:22:37,251 --> 01:22:40,750
@@ -2405,72 +2405,72 @@ Where are you going? To my room.
 
 575
 01:23:29,700 --> 01:23:33,660
-Put your right hand in the box.
+Masukkan tangan kananmu ke dalam kotak.
 
 576
 01:23:49,030 --> 01:23:56,310
-A sociopath of high intelligence, driven,
-cruel, but strongly motivated by honor.
+Seorang sosiopat dengan kecerdasan tinggi, bersemangat,
+kejam, tetapi sangat termotivasi oleh kehormatan.
 
 577
 01:23:57,690 --> 01:23:58,690
-He yearns to be hurt.
+Dia rindu untuk disakiti.
 
 578
 01:23:59,670 --> 01:24:00,670
-He loves pain.
+Dia menyukai rasa sakit.
 
 579
 01:24:01,850 --> 01:24:02,850
-Can he be redeemed?
+Bisakah dia ditebus?
 
 580
 01:24:03,210 --> 01:24:04,210
-He can be controlled.
+Dia bisa dikendalikan.
 
 581
 01:24:05,290 --> 01:24:06,290
-He's sexually vulnerable.
+Dia rentan secara seksual.
 
 582
 01:24:08,590 --> 01:24:09,590
-And?
+Dan?
 
 583
 01:24:11,205 --> 01:24:12,210
-The bloodline is secured.
+Garis keturunan diamankan.
 
 584
 01:24:14,470 --> 01:24:16,590
-A female, as you requested.
+Seorang wanita, seperti yang Anda minta.
 
 585
 01:24:18,220 --> 01:24:19,220
-You did well, Margot.
+Kamu melakukannya dengan baik, Margot.
 
 586
 01:24:20,650 --> 01:24:23,270
-Respectfully, why didn't
-you test him yourself?
+Dengan hormat, mengapa tidak
+kamu mengujinya sendiri?
 
 587
 01:24:25,205 --> 01:24:26,470
-Well, I'm a mother, Eichika.
+Ya, aku seorang ibu, Eichika.
 
 588
 01:24:27,720 --> 01:24:30,350
-And based on what
-happened between him and his
+Dan berdasarkan apa
+terjadi antara dia dan dia
 
 589
 01:24:30,362 --> 01:24:32,890
-own mother, I didn't
-expect to be effective.
+ibu sendiri, aku tidak melakukannya
+diharapkan menjadi efektif.
 
 590
 01:24:32,891 --> 01:24:35,290
-What happened between him
-and his mother? He mad at her.
+Apa yang terjadi di antara dia
+dan ibunya? Dia marah padanya.
 
 591
 01:24:36,370 --> 01:24:37,370
@@ -2478,69 +2478,69 @@ and his mother? He mad at her.
 
 592
 01:24:38,710 --> 01:24:40,790
-Desire and humiliation.
+Keinginan dan penghinaan.
 
 593
 01:24:42,730 --> 01:24:43,830
-Those are his levers.
+Itu adalah pengungkitnya.
 
 594
 01:24:45,270 --> 01:24:50,430
-If Fade Rother prevails on Arrakis,
-we shall know how to control him.
+Jika Fade Rother menang di Arrakis,
+kita akan tahu bagaimana mengendalikannya.
 
 595
 01:25:03,270 --> 01:25:04,990
-Fade Rother.
+Memudar Rother.
 
 596
 01:25:06,010 --> 01:25:10,670
-Fade Rother.
+Memudar Rother.
 
 597
 01:25:10,671 --> 01:25:13,010
-Bring me a misremend, gamer.
+Bawakan aku kesalahan, gamer.
 
 598
 01:25:54,500 --> 01:25:59,140
-Fade Rother.
+Memudar Rother.
 
 599
 01:25:59,691 --> 01:26:01,510
-These idiots, I blame.
+Para idiot ini, aku salahkan.
 
 600
 01:26:03,310 --> 01:26:06,590
-A still suit is full of piss.
+Setelan jas penuh dengan kencing.
 
 601
 01:26:10,730 --> 01:26:12,190
-It's caked in sand.
+Itu berlapis pasir.
 
 602
 01:26:14,330 --> 01:26:18,550
-Save me for these better
-morons than I ever were.
+Selamatkan aku untuk ini dengan lebih baik
+lebih bodoh dari sebelumnya.
 
 603
 01:26:25,040 --> 01:26:26,040
-Juicy.
+Berair.
 
 604
 01:26:26,660 --> 01:26:27,660
-Juicy, Juicy.
+Berair, Berair.
 
 605
 01:26:28,160 --> 01:26:32,600
-Oh, that was nice knowing you.
+Oh, senang sekali mengenalmu.
 
 606
 01:26:32,920 --> 01:26:33,920
-Oh, yeah?
+Oh ya?
 
 607
 01:26:34,200 --> 01:26:36,800
-All right, that was clear, man. Come here.
+Baiklah, itu sudah jelas, kawan. Kemarilah.
 
 608
 01:26:58,760 --> 01:26:59,760
@@ -2548,61 +2548,61 @@ Jessie, Jessie.
 
 609
 01:27:00,220 --> 01:27:01,360
-Yeah, I got a meter reading a point.
+Ya, aku punya satu meter yang menunjukkan angka.
 
 610
 01:27:01,361 --> 01:27:03,040
-Hey, guys, words are on their way.
+Hai teman-teman, kata-kata sedang dalam perjalanan.
 
 611
 01:27:03,200 --> 01:27:04,520
-I got a meter reading a point.
+Saya mendapat meteran yang menunjukkan suatu titik.
 
 612
 01:27:51,780 --> 01:27:52,780
-Fade!
+Memudar!
 
 613
 01:27:57,710 --> 01:27:57,730
-Fade!
+Memudar!
 
 614
 01:27:57,750 --> 01:27:58,830
-Come on, Fade!
+Ayo, Pudar!
 
 615
 01:28:17,850 --> 01:28:19,990
-Come on, Fade!
+Ayo, Pudar!
 
 616
 01:29:26,160 --> 01:29:27,160
-You're your pup.
+Kamu adalah anak anjingmu.
 
 617
 01:29:28,240 --> 01:29:29,240
-You're your pup!
+Kamu adalah anak anjingmu!
 
 618
 01:29:36,370 --> 01:29:39,333
-Well, after the Battle
-of Arrakeen, I was able
+Nah, setelah Pertempuran
+dari Arrakeen, saya bisa
 
 619
 01:29:39,345 --> 01:29:42,450
-to negotiate a trip back
-home for the survivors.
+untuk menegosiasikan perjalanan kembali
+rumah bagi para penyintas.
 
 620
 01:29:43,890 --> 01:29:44,950
-Thanks to these guys.
+Terima kasih kepada orang-orang ini.
 
 621
 01:29:46,410 --> 01:29:47,410
-Why'd you stay? I wanted blood.
+Kenapa kamu tinggal? Saya ingin darah.
 
 622
 01:29:48,570 --> 01:29:49,570
-Rabon's head.
+kepala Rabon.
 
 623
 01:29:52,210 --> 01:29:53,210
@@ -2610,17 +2610,17 @@ Rabon's head.
 
 624
 01:29:56,570 --> 01:30:00,037
-Since Muad'Dib has been
-driving Rabon crazy, the
+Sejak Muad'Dib telah
+membuat Rabon gila, itu
 
 625
 01:30:00,049 --> 01:30:03,310
-smuggling business
-has been quite profitable.
+bisnis penyelundupan
+sudah cukup menguntungkan.
 
 626
 01:30:04,250 --> 01:30:05,630
-Guardian, I like the smuggler.
+Guardian, aku suka penyelundupnya.
 
 627
 01:30:08,320 --> 01:30:09,320
@@ -2628,28 +2628,28 @@ Paul Muad'Dib.
 
 628
 01:30:10,690 --> 01:30:12,540
-I've heard many stories about Muad'Dib.
+Saya telah mendengar banyak cerita tentang Muad'Dib.
 
 629
 01:30:14,240 --> 01:30:15,240
-None of them pretty.
+Tak satu pun dari mereka cantik.
 
 630
 01:30:17,190 --> 01:30:18,190
-You'll see the fear.
+Anda akan melihat ketakutannya.
 
 631
 01:30:19,890 --> 01:30:21,540
-That our resources are limited.
+Bahwa sumber daya kita terbatas.
 
 632
 01:30:22,590 --> 01:30:26,380
-Fear is all we have.
+Ketakutan adalah satu-satunya yang kita miliki.
 
 633
 01:30:43,750 --> 01:30:44,750
-How many men with
-you? Two hundred.
+Berapa banyak pria dengan
+Anda? Dua ratus.
 
 634
 01:30:45,310 --> 01:30:45,690
@@ -2657,46 +2657,46 @@ you? Two hundred.
 
 635
 01:30:46,150 --> 01:30:47,150
-Two hundred!
+Dua ratus!
 
 636
 01:30:48,390 --> 01:30:49,390
-Shh!
+Ssst!
 
 637
 01:30:52,075 --> 01:30:54,716
-Do you realize what you were able
-to achieve with two hundred men?
+Apakah Anda menyadari apa yang Anda mampu
+untuk mencapainya dengan dua ratus orang?
 
 638
 01:30:56,300 --> 01:30:57,300
-Incredible fighters.
+Pejuang yang luar biasa.
 
 639
 01:30:57,900 --> 01:30:59,296
-Duncan said there were millions of them.
+Duncan bilang jumlahnya jutaan.
 
 640
 01:30:59,320 --> 01:31:00,320
-In the Deep South.
+Di Ujung Selatan.
 
 641
 01:31:00,580 --> 01:31:00,780
-Yes.
+Ya.
 
 642
 01:31:01,080 --> 01:31:02,320
-Well, what are you waiting for?
+Nah, tunggu apa lagi?
 
 643
 01:31:03,340 --> 01:31:06,260
-With thousands of these guys, you
-can take control of the entire planet.
+Dengan ribuan orang ini, Anda
+dapat menguasai seluruh planet.
 
 644
 01:31:06,620 --> 01:31:08,640
-It's your father's dream.
-What are you afraid of? Fate.
+Itu impian ayahmu.
+Apa yang Anda takutkan? Takdir.
 
 645
 01:31:08,641 --> 01:31:09,641
@@ -2704,66 +2704,66 @@ What are you afraid of? Fate.
 
 646
 01:31:11,770 --> 01:31:13,160
-Worship, Gurney.
+Sembahlah, Gurney.
 
 647
 01:31:14,700 --> 01:31:15,700
-I used to be friends.
+Saya dulu berteman.
 
 648
 01:31:17,420 --> 01:31:18,420
-Now they're followers.
+Sekarang mereka adalah pengikut.
 
 649
 01:31:19,160 --> 01:31:20,340
-Muad'Dib, the prophet.
+Muad'Dib, nabi.
 
 650
 01:31:21,080 --> 01:31:22,840
-Why is that a bad thing? Use it.
+Mengapa itu merupakan hal yang buruk? Gunakan.
 
 651
 01:31:22,980 --> 01:31:23,980
-It's not that simple.
+Tidak sesederhana itu.
 
 652
 01:31:24,040 --> 01:31:26,940
-You have the power to avenge
-your father and you're afraid to use it.
+Anda memiliki kekuatan untuk membalas dendam
+ayahmu dan kamu takut menggunakannya.
 
 653
 01:31:28,170 --> 01:31:29,880
-Spice opened my mind, Gurney.
+Spice membuka pikiranku, Gurney.
 
 654
 01:31:30,880 --> 01:31:32,000
-I can foresee things.
+Saya bisa meramalkan banyak hal.
 
 655
 01:31:34,350 --> 01:31:37,500
-If I go south, all my
-visions lead to horror.
+Jika saya pergi ke selatan, semuanya milikku
+penglihatan menyebabkan kengerian.
 
 656
 01:31:38,280 --> 01:31:40,860
-Billions of corpses
-scattered across the galaxy.
+Miliaran mayat
+tersebar di seluruh galaksi.
 
 657
 01:31:41,700 --> 01:31:42,760
-All dying because of me.
+Semua mati karena aku.
 
 658
 01:31:44,020 --> 01:31:45,080
-Because you lose control.
+Karena Anda kehilangan kendali.
 
 659
 01:31:47,200 --> 01:31:48,500
-Because I gain it.
+Karena saya mendapatkannya.
 
 660
 01:32:06,920 --> 01:32:07,920
-That's a lot of water.
+Itu banyak air.
 
 661
 01:32:10,560 --> 01:32:11,560
@@ -2771,293 +2771,293 @@ Johnny.
 
 662
 01:32:11,780 --> 01:32:13,480
-What? Academy's hopeless.
+Apa? Akademi tidak ada harapan.
 
 663
 01:32:14,560 --> 01:32:15,260
-He's family.
+Dia keluarga.
 
 664
 01:32:15,261 --> 01:32:16,360
-What?
+Apa?
 
 665
 01:32:19,020 --> 01:32:20,020
-Really?
+Benar-benar?
 
 666
 01:32:44,100 --> 01:32:49,070
-You don't need to be a
-prophet to see what's ahead.
+Anda tidak perlu menjadi a
+nabi untuk melihat apa yang ada di depan.
 
 667
 01:32:53,120 --> 01:32:54,280
-Your path leads to war.
+Jalanmu mengarah ke perang.
 
 668
 01:32:56,320 --> 01:32:57,320
-You know that.
+Kamu tahu itu.
 
 669
 01:32:59,820 --> 01:33:00,820
-So war is coming.
+Jadi perang akan datang.
 
 670
 01:33:02,100 --> 01:33:04,820
-What will you do when you
-feel its breath upon your neck?
+Apa yang akan kamu lakukan ketika kamu
+rasakan nafasnya di lehermu?
 
 671
 01:33:09,240 --> 01:33:12,760
-If you don't want to raise an army in
-this house, you still have an option.
+Jika Anda tidak ingin menambah pasukan
+rumah ini, kamu masih punya pilihan.
 
 672
 01:33:16,500 --> 01:33:17,500
-Fire power.
+Kekuatan api.
 
 673
 01:33:19,210 --> 01:33:20,760
-Which you don't have.
+Yang tidak kamu miliki.
 
 674
 01:33:22,980 --> 01:33:24,060
-And here I am.
+Dan inilah saya.
 
 675
 01:33:28,320 --> 01:33:30,480
-I know where your father
-hid the family atomics.
+Aku tahu di mana ayahmu
+menyembunyikan atom keluarga.
 
 676
 01:33:36,160 --> 01:33:38,880
-Every house possesses an atomic arsenal.
+Setiap rumah memiliki persenjataan atom.
 
 677
 01:33:40,560 --> 01:33:41,960
-And I thought ours had been lost.
+Dan saya pikir milik kami telah hilang.
 
 678
 01:33:44,710 --> 01:33:46,840
-It's huge, Johnny.
-It could change everything.
+Besar sekali, Johnny.
+Itu bisa mengubah segalanya.
 
 679
 01:33:52,800 --> 01:33:54,980
-And I could aim the bombs
-at the main spice fields.
+Dan saya bisa mengarahkan bomnya
+di ladang rempah-rempah utama.
 
 680
 01:33:57,610 --> 01:34:00,700
-He who can destroy a
-thing has the real control of it.
+Dia yang dapat menghancurkan a
+sesuatu memiliki kendali nyata atas hal itu.
 
 681
 01:34:02,440 --> 01:34:03,820
-So you can control it and not us?
+Jadi Anda yang bisa mengendalikannya dan bukan kami?
 
 682
 01:34:06,220 --> 01:34:07,741
-You promised me you didn't want power.
+Anda berjanji kepada saya bahwa Anda tidak menginginkan kekuasaan.
 
 683
 01:34:09,810 --> 01:34:11,880
-No matter what I do,
-you still don't trust me.
+Tidak peduli apa yang saya lakukan,
+kamu masih tidak percaya padaku.
 
 684
 01:34:12,090 --> 01:34:14,300
-Because you're a foreigner.
-You're your friend.
+Karena kamu orang asing.
+Kamu adalah temanmu.
 
 685
 01:34:17,070 --> 01:34:18,070
-I'm not a foreigner.
+Saya bukan orang asing.
 
 686
 01:34:26,210 --> 01:34:28,850
-Not to me, but to the desert you are.
+Bukan bagiku, tapi bagimu di gurun pasir.
 
 687
 01:34:30,100 --> 01:34:33,610
-My allegiance is to you. To the Fremen.
+Kesetiaanku padamu. Kepada Fremen.
 
 688
 01:34:34,250 --> 01:34:35,890
-I'm doing this for all of us.
+Saya melakukan ini untuk kita semua.
 
 689
 01:34:37,270 --> 01:34:38,270
-Do you believe me?
+Apakah Anda mempercayai saya?
 
 690
 01:34:46,920 --> 01:34:48,290
-I'll talk to you so far.
+Saya akan berbicara dengan Anda sejauh ini.
 
 691
 01:34:55,610 --> 01:34:56,610
-There.
+Di sana.
 
 692
 01:35:01,240 --> 01:35:03,970
-It's right under everybody's noses.
+Itu tepat di depan hidung semua orang.
 
 693
 01:35:06,130 --> 01:35:07,130
-Not clever.
+Tidak pandai.
 
 694
 01:35:07,160 --> 01:35:10,830
-That's the idea. Nobody would ever
-look in there because it's obvious.
+Itulah idenya. Tidak ada seorang pun yang akan pernah melakukannya
+lihat ke sana karena sudah jelas.
 
 695
 01:35:13,570 --> 01:35:14,570
-Not clever.
+Tidak pandai.
 
 696
 01:35:15,800 --> 01:35:16,800
-Did you find it?
+Apakah kamu menemukannya?
 
 697
 01:35:17,260 --> 01:35:18,770
-I didn't look for it.
+Saya tidak mencarinya.
 
 698
 01:35:19,370 --> 01:35:20,370
-How many heads exactly?
+Berapa banyak kepala sebenarnya?
 
 699
 01:35:22,620 --> 01:35:24,250
-Enough to blow up the whole planet.
+Cukup untuk meledakkan seluruh planet.
 
 700
 01:35:27,630 --> 01:35:28,710
-It's a figure of speech.
+Ini adalah kiasan.
 
 701
 01:35:30,890 --> 01:35:31,890
-You know what I mean.
+Kamu tahu apa maksudku.
 
 702
 01:35:54,020 --> 01:35:55,660
-Only with your genetic heritage.
+Hanya dengan warisan genetik Anda.
 
 703
 01:36:35,450 --> 01:36:38,010
-Your great-great-grandfather's legacy.
+Warisan kakek buyutmu.
 
 704
 01:36:39,110 --> 01:36:42,490
-The 92 original Atreides
-family's atomic warheads.
+92 Atreides asli
+hulu ledak atom keluarga.
 
 705
 01:36:45,970 --> 01:36:48,731
-But that... That is power.
+Tapi itu... Itu adalah kekuatan.
 
 706
 01:36:55,830 --> 01:36:56,830
-Imperial diary.
+Buku harian kekaisaran.
 
 707
 01:36:57,910 --> 01:36:59,250
-Near 10,191.
+Hampir 10.191.
 
 708
 01:37:00,590 --> 01:37:01,590
-Eighth comment.
+Komentar kedelapan.
 
 709
 01:37:02,450 --> 01:37:04,930
-Reports from the south
-of Arrakis arrive rarely.
+Laporan dari selatan
+Arrakis jarang datang.
 
 710
 01:37:06,270 --> 01:37:07,850
-These are barren, burnt lands.
+Ini adalah tanah tandus dan terbakar.
 
 711
 01:37:07,851 --> 01:37:12,170
-Hidden by sandstorms which stretch
-a thousand miles across the equator.
+Tersembunyi oleh badai pasir yang membentang
+seribu mil melintasi garis khatulistiwa.
 
 712
 01:37:14,350 --> 01:37:16,110
-Nothing can live there without faith.
+Tidak ada yang bisa hidup di sana tanpa iman.
 
 713
 01:37:17,890 --> 01:37:21,970
-Which is why our Bene Gesserit
-missionaries have been so productive there.
+Itulah sebabnya Bene Gesserit kami
+para misionaris sangat produktif di sana.
 
 714
 01:37:25,170 --> 01:37:28,724
-Through them we are receiving
-reports of a mysterious figure taking
+Melalui mereka kita menerima
+laporan tentang pengambilan sosok misterius
 
 715
 01:37:28,736 --> 01:37:32,090
-grip on the imaginations of the
-southern fundamentalist tribes.
+pegangan pada imajinasi
+suku fundamentalis selatan.
 
 716
 01:37:33,250 --> 01:37:35,970
-A new Reverend Mother from the north.
+Ibu Terhormat baru dari utara.
 
 717
 01:37:37,230 --> 01:37:40,670
-Spreading word of the imminent
-arrival of the Lusan Al-Ga'ib.
+Menyebarkan berita tentang hal yang akan terjadi
+kedatangan Lusan Al-Ga'ib.
 
 718
 01:37:41,510 --> 01:37:42,870
-The voice from the outer world.
+Suara dari dunia luar.
 
 719
 01:37:44,410 --> 01:37:47,442
-With religious fervor
-rising in the south, and
+Dengan semangat keagamaan
+meningkat di selatan, dan
 
 720
 01:37:47,454 --> 01:37:50,630
-Wadiib strangling spice
-production in the north.
+Bumbu pencekik wadiib
+produksi di utara.
 
 721
 01:37:51,670 --> 01:37:54,250
-Everything points to the escalation of war.
+Semuanya menunjuk pada eskalasi perang.
 
 722
 01:38:01,520 --> 01:38:05,800
-A young, young woman who has been
+Seorang wanita muda, muda yang telah
 
 723
 01:38:06,050 --> 01:38:09,481
-a young, young woman who has been a young,
-young woman who has been a young woman.
+seorang remaja putri yang masih muda,
+wanita muda yang telah menjadi remaja putri.
 
 724
 01:38:09,540 --> 01:38:10,540
-What is it?
+Apa itu?
 
 725
 01:38:11,780 --> 01:38:12,780
-With eyes?
+Dengan mata?
 
 726
 01:38:17,340 --> 01:38:18,900
-You give that child a chance.
+Anda memberi anak itu kesempatan.
 
 727
 01:40:13,640 --> 01:40:16,137
-Listen carefully. Soon
-a man is going to visit
+Dengarkan baik-baik. Segera
+seorang pria akan berkunjung
 
 728
 01:40:16,149 --> 01:40:18,440
-your temple and he may
-want you to perform the rites.
+kuilmu dan dia mungkin
+ingin kamu melakukan ritualnya.
 
 729
 01:40:18,441 --> 01:40:19,441
@@ -3065,362 +3065,362 @@ want you to perform the rites.
 
 730
 01:40:20,040 --> 01:40:21,980
-Reven mother, it is forbidden.
+Wahai ibu, itu dilarang.
 
 731
 01:40:23,440 --> 01:40:25,020
-He mother shall let me.
+Dia ibu akan membiarkan saya.
 
 732
 01:40:25,200 --> 01:40:29,580
-He mother shall let me.
+Dia ibu akan membiarkan saya.
 
 733
 01:42:06,720 --> 01:42:14,300
-An old fashioned artillery, a genius, they're
-literally melting rock on their heads.
+Artileri kuno, memang jenius
+benar-benar melelehkan batu di kepala mereka.
 
 734
 01:42:14,880 --> 01:42:15,960
-I want to go on the ground.
+Saya ingin turun ke lapangan.
 
 735
 01:42:16,640 --> 01:42:18,240
-Prepare my troops, Lord.
+Persiapkan pasukanku, Tuhan.
 
 736
 01:42:18,241 --> 01:42:20,400
-I would recommend you stay inside those.
+Saya akan merekomendasikan Anda tetap di dalamnya.
 
 737
 01:42:20,880 --> 01:42:22,820
-Bring his body to my quarters.
+Bawa tubuhnya ke tempat tinggalku.
 
 738
 01:42:23,740 --> 01:42:25,460
-My poor Darnax are hungry.
+Darnaxku yang malang lapar.
 
 739
 01:42:26,440 --> 01:42:28,000
-There's no food for them on the flight.
+Tidak ada makanan untuk mereka di penerbangan.
 
 740
 01:42:29,300 --> 01:42:31,180
-What are you doing here?
+Apa yang kamu lakukan di sini?
 
 741
 01:42:32,120 --> 01:42:33,120
-It's early morning.
+Ini masih pagi.
 
 742
 01:42:33,520 --> 01:42:34,800
-What are you doing here?
+Apa yang kamu lakukan di sini?
 
 743
 01:42:35,560 --> 01:42:37,040
-It's my feet, brother.
+Ini kakiku, saudaraku.
 
 744
 01:42:44,050 --> 01:42:46,570
-You humiliated our family.
+Anda mempermalukan keluarga kami.
 
 745
 01:42:47,870 --> 01:42:49,290
-You humiliated me.
+Anda mempermalukan saya.
 
 746
 01:42:49,291 --> 01:42:51,290
-In case...
+Dalam hal...
 
 747
 01:42:52,210 --> 01:42:54,150
-I... ...won't die.
+Aku... ...tidak akan mati.
 
 748
 01:43:03,510 --> 01:43:04,630
-We're even up.
+Kami bahkan sudah bangun.
 
 749
 01:43:10,930 --> 01:43:13,610
-And there is our family one more time.
+Dan ada keluarga kami sekali lagi.
 
 750
 01:43:14,970 --> 01:43:16,090
-It will be the last.
+Ini akan menjadi yang terakhir.
 
 751
 01:43:55,710 --> 01:43:57,010
-We'll be back in a few minutes.
+Kami akan kembali dalam beberapa menit.
 
 752
 01:44:03,580 --> 01:44:04,980
-We've been waiting for a long time.
+Kami sudah menunggu lama sekali.
 
 753
 01:44:06,660 --> 01:44:08,640
-We've been waiting for a long time.
+Kami sudah menunggu lama sekali.
 
 754
 01:44:08,641 --> 01:44:10,100
-We've been waiting for a long time.
+Kami sudah menunggu lama sekali.
 
 755
 01:44:10,101 --> 01:44:11,101
-We're waiting.
+Kami menunggu.
 
 756
 01:44:11,740 --> 01:44:12,740
-We'll be back.
+Kami akan kembali.
 
 757
 01:44:27,840 --> 01:44:32,380
-Ushul, in the south, only
-leaders are allowed to speak.
+Ushul, di selatan saja
+pemimpin diperbolehkan untuk berbicara.
 
 758
 01:44:34,180 --> 01:44:35,320
-You must take my place.
+Anda harus menggantikan saya.
 
 759
 01:44:36,020 --> 01:44:36,800
-I can't do that.
+Saya tidak bisa melakukan itu.
 
 760
 01:44:36,840 --> 01:44:39,340
-It is a good time to cross blades with me.
+Ini saat yang tepat untuk berselisih paham denganku.
 
 761
 01:44:40,060 --> 01:44:42,240
-I am weak, I am an easy kill.
+Saya lemah, saya mudah dibunuh.
 
 762
 01:44:43,000 --> 01:44:44,420
-I'd rather cut off my own hand.
+Lebih baik aku memotong tanganku sendiri.
 
 763
 01:44:44,480 --> 01:44:47,720
-We need you, we need the list
-of Ganga'ib to lead our people.
+Kami membutuhkan Anda, kami membutuhkan daftarnya
+Ganga'ib untuk memimpin rakyat kita.
 
 764
 01:44:47,721 --> 01:44:49,540
-You know what I think of all that so long?
+Anda tahu apa yang saya pikirkan selama ini?
 
 765
 01:44:49,560 --> 01:44:51,840
-I don't care what you believe, I believe!
+Saya tidak peduli apa yang Anda yakini, saya percaya!
 
 766
 01:45:05,320 --> 01:45:07,320
-I didn't see it coming.
+Saya tidak melihatnya datang.
 
 767
 01:45:09,600 --> 01:45:10,760
-The Harkins aren't done here.
+Keluarga Harkins belum selesai di sini.
 
 768
 01:45:11,880 --> 01:45:13,360
-They just went back to reload.
+Mereka baru saja kembali untuk mengisi ulang.
 
 769
 01:45:14,060 --> 01:45:15,160
-We're setting thumpers.
+Kami sedang memasang alat pemukul.
 
 770
 01:45:15,940 --> 01:45:17,456
-We'll be moving everyone to the south.
+Kami akan memindahkan semua orang ke selatan.
 
 771
 01:45:17,480 --> 01:45:19,080
-I'll stay behind and cover your retreat.
+Saya akan tetap di belakang dan meliput retret Anda.
 
 772
 01:45:19,360 --> 01:45:20,676
-What are you talking about, Johnny?
+Apa yang kamu bicarakan, Johnny?
 
 773
 01:45:20,700 --> 01:45:21,700
-I can't go with you.
+Aku tidak bisa pergi bersamamu.
 
 774
 01:45:22,240 --> 01:45:23,240
-You know why? I'll stay too.
+Anda tahu mengapa? Aku akan tinggal juga.
 
 775
 01:45:23,540 --> 01:45:25,920
-Nobody stays with me.
+Tidak ada yang tinggal bersamaku.
 
 776
 01:45:26,160 --> 01:45:27,160
-Paul, that's an order!
+Paul, itu perintah!
 
 777
 01:45:27,220 --> 01:45:28,260
-Gurney, how it goes south?
+Gurney, bagaimana arah selatannya?
 
 778
 01:45:28,760 --> 01:45:29,760
-Protect my mother.
+Lindungi ibuku.
 
 779
 01:45:32,200 --> 01:45:32,560
-My lord.
+Tuanku.
 
 780
 01:45:32,840 --> 01:45:33,840
-What's the matter?
+Apa masalahnya?
 
 781
 01:45:33,940 --> 01:45:35,000
-I don't know what to do.
+Saya tidak tahu harus berbuat apa.
 
 782
 01:45:35,180 --> 01:45:36,340
-I don't know what to do.
+Saya tidak tahu harus berbuat apa.
 
 783
 01:45:42,940 --> 01:45:44,300
-He's afraid of the fundamentalist.
+Dia takut pada fundamentalis.
 
 784
 01:45:46,240 --> 01:45:47,320
-He should be.
+Dia seharusnya.
 
 785
 01:46:00,650 --> 01:46:01,650
-Don't resist.
+Jangan melawan.
 
 786
 01:46:16,880 --> 01:46:20,670
-Oh, son, son of a...
+Oh, nak, nak...
 
 787
 01:46:21,210 --> 01:46:23,550
-You see what you've heard of us.
+Anda lihat apa yang Anda dengar tentang kami.
 
 788
 01:46:24,870 --> 01:46:26,530
-You cannot see the future.
+Anda tidak dapat melihat masa depan.
 
 789
 01:46:27,150 --> 01:46:28,610
-You have seen the past.
+Anda telah melihat masa lalu.
 
 790
 01:46:31,330 --> 01:46:32,690
-You are all your mind.
+Anda semua adalah pikiran Anda.
 
 791
 01:46:33,170 --> 01:46:34,770
-You need to drink the water of life.
+Anda perlu minum air kehidupan.
 
 792
 01:46:35,930 --> 01:46:38,110
-And you will see everything.
+Dan Anda akan melihat semuanya.
 
 793
 01:46:41,680 --> 01:46:45,180
-The good hunter always learns
-the highest tune before his hunter.
+Pemburu yang baik selalu belajar
+nada tertinggi sebelum pemburunya.
 
 794
 01:46:46,700 --> 01:46:48,000
-He needs to see.
+Dia perlu melihat.
 
 795
 01:46:49,880 --> 01:46:51,500
-As far as he can see.
+Sejauh yang dia bisa lihat.
 
 796
 01:46:56,540 --> 01:46:57,700
-You need to see.
+Anda perlu melihat.
 
 797
 01:47:00,740 --> 01:47:02,540
-You must drink the water of life.
+Anda harus meminum air kehidupan.
 
 798
 01:47:24,600 --> 01:47:29,220
-Your mind and the world
-has made choices for us.
+Pikiran Anda dan dunia
+telah membuat pilihan untuk kita.
 
 799
 01:47:35,390 --> 01:47:36,390
-Tell them I'll lose you.
+Katakan pada mereka aku akan kehilanganmu.
 
 800
 01:47:36,550 --> 01:47:42,120
-You will never lose me.
+Anda tidak akan pernah kehilangan saya.
 
 801
 01:47:42,520 --> 01:47:44,380
-Not as long as you stay where you are.
+Tidak selama Anda tetap di tempat Anda berada.
 
 802
 01:48:31,600 --> 01:48:33,280
-Spy, left behind.
+Mata-mata, tertinggal.
 
 803
 01:48:34,220 --> 01:48:35,220
-No trace of the others.
+Tidak ada jejak yang lain.
 
 804
 01:48:35,860 --> 01:48:37,860
-They've gone south to hide in the storms.
+Mereka pergi ke selatan untuk bersembunyi di tengah badai.
 
 805
 01:48:43,040 --> 01:48:44,720
-Send this message to the Baron.
+Kirim pesan ini ke Baron.
 
 806
 01:48:45,180 --> 01:48:47,020
-The North has liberated and secured.
+Korea Utara telah membebaskan dan mengamankan.
 
 807
 01:48:47,620 --> 01:48:48,780
-Horace spies at will.
+Horace memata-matai sesuka hati.
 
 808
 01:48:49,880 --> 01:48:50,880
-Yes, no Baron.
+Ya, tidak, Baron.
 
 809
 01:48:52,400 --> 01:48:53,400
-No sir.
+Tidak pak.
 
 810
 01:49:05,210 --> 01:49:08,750
-You killed nine of my
-men with one single blade.
+Anda membunuh sembilan milik saya
+laki-laki dengan satu pisau.
 
 811
 01:49:10,310 --> 01:49:11,310
-She won't talk.
+Dia tidak mau bicara.
 
 812
 01:49:12,270 --> 01:49:13,270
-Tell her that's fine.
+Katakan padanya tidak apa-apa.
 
 813
 01:49:13,970 --> 01:49:16,030
-I already know everything I need to know.
+Saya sudah mengetahui semua yang perlu saya ketahui.
 
 814
 01:49:24,020 --> 01:49:25,460
-All in pleasure, imagine.
+Bayangkan saja.
 
 815
 01:50:32,070 --> 01:50:33,940
-So is she in the detail exit.
+Begitu juga dia di pintu keluar detail.
 
 816
 01:50:35,600 --> 01:50:36,600
-Is that who you are?
+Apakah itu siapa kamu?
 
 817
 01:50:38,900 --> 01:50:40,380
-Who are you so like
-to us? Without men.
+Kamu sangat mirip dengan siapa
+untuk kita? Tanpa laki-laki.
 
 818
 01:50:45,310 --> 01:50:46,700
@@ -3428,43 +3428,43 @@ to us? Without men.
 
 819
 01:52:24,000 --> 01:52:28,000
-Without men, they are just as bad as men.
+Tanpa laki-laki, mereka sama buruknya dengan laki-laki.
 
 820
 01:52:31,260 --> 01:52:33,440
-How do I have to talk to her?
+Bagaimana saya harus berbicara dengannya?
 
 821
 01:52:33,720 --> 01:52:34,720
-So close!
+Sangat dekat!
 
 822
 01:52:36,020 --> 01:52:36,520
-I won't go down to them.
+Saya tidak akan menemui mereka.
 
 823
 01:52:36,521 --> 01:52:38,980
-Don't tell them to.
+Jangan suruh mereka melakukannya.
 
 824
 01:52:38,981 --> 01:52:40,080
-She's coming to me.
+Dia mendatangiku.
 
 825
 01:53:08,000 --> 01:53:09,000
-Paul? Paul? I'm here.
+Paulus? Paulus? Aku disini.
 
 826
 01:53:11,945 --> 01:53:12,945
-I'm here.
+Aku disini.
 
 827
 01:53:17,670 --> 01:53:18,670
-What happened?
+Apa yang telah terjadi?
 
 828
 01:53:20,310 --> 01:53:21,310
-What happened? He's dead.
+Apa yang telah terjadi? Dia meninggal.
 
 829
 01:53:32,060 --> 01:53:33,060
@@ -3472,93 +3472,93 @@ What happened? He's dead.
 
 830
 01:53:33,400 --> 01:53:35,600
-His vital signs are so
-low they can't be detected.
+Tanda-tanda vitalnya demikian
+rendah mereka tidak dapat dideteksi.
 
 831
 01:53:36,440 --> 01:53:37,440
-But he's alive.
+Tapi dia masih hidup.
 
 832
 01:53:37,960 --> 01:53:38,960
-What did you do
-to him? No, not that.
+Apa yang kamu lakukan
+untuk dia? Tidak bukan itu.
 
 833
 01:53:40,770 --> 01:53:42,600
-Why would he do that?
+Kenapa dia melakukan itu?
 
 834
 01:53:43,170 --> 01:53:45,400
-Why would you do
-that? I don't know.
+Mengapa Anda melakukannya?
+itu? Aku tidak tahu.
 
 835
 01:53:45,401 --> 01:53:46,401
-He's dead.
+Dia meninggal.
 
 836
 01:53:46,620 --> 01:53:47,620
-I don't know.
+Aku tidak tahu.
 
 837
 01:53:48,020 --> 01:53:49,020
-I don't know.
+Aku tidak tahu.
 
 838
 01:53:49,100 --> 01:53:50,100
-He's dead.
+Dia meninggal.
 
 839
 01:53:50,820 --> 01:53:51,160
-He's dead.
+Dia meninggal.
 
 840
 01:53:51,580 --> 01:53:51,880
-I don't know.
+Aku tidak tahu.
 
 841
 01:53:51,881 --> 01:53:56,260
-Johnny, his body is fighting the
-poison and he needs your help.
+Johnny, tubuhnya melawan
+racun dan dia membutuhkan bantuanmu.
 
 842
 01:53:56,500 --> 01:53:57,500
-You do it.
+Anda melakukannya.
 
 843
 01:53:58,890 --> 01:53:59,900
-You did this to him.
+Anda melakukan ini padanya.
 
 844
 01:54:00,180 --> 01:54:01,460
-You did this to your own son.
+Kamu melakukan ini pada anakmu sendiri.
 
 845
 01:54:01,800 --> 01:54:03,460
-You do it. Fix it yourself.
+Anda melakukannya. Perbaiki sendiri.
 
 846
 01:54:03,880 --> 01:54:07,500
-Johnny, you might not believe in
-the prophecy, but you're a part of it.
+Johnny, kamu mungkin tidak percaya
+ramalan itu, tapi kamu adalah bagian darinya.
 
 847
 01:54:08,040 --> 01:54:09,040
-You're the poison.
+Kamulah racunnya.
 
 848
 01:54:09,780 --> 01:54:10,780
-You and your lies.
+Kamu dan kebohonganmu.
 
 849
 01:54:11,400 --> 01:54:12,400
-Why would you do
-this? She's a mother.
+Mengapa Anda melakukannya?
+ini? Dia seorang ibu.
 
 850
 01:54:24,740 --> 01:54:25,740
-Someone just.
+Seseorang saja.
 
 851
 01:54:26,720 --> 01:54:27,920
@@ -3566,410 +3566,410 @@ Someone just.
 
 852
 01:54:27,921 --> 01:54:28,921
-She's a mother.
+Dia seorang ibu.
 
 853
 01:54:31,940 --> 01:54:33,920
-You're not going to kill her, are you?
+Anda tidak akan membunuhnya, bukan?
 
 854
 01:54:34,780 --> 01:54:35,940
-You're not going to kill her.
+Anda tidak akan membunuhnya.
 
 855
 01:54:37,280 --> 01:54:38,520
-Because it's very tears.
+Karena itu sangat menangis.
 
 856
 01:56:35,700 --> 01:56:37,380
-She'll come to understand.
+Dia akan mengerti.
 
 857
 01:56:38,880 --> 01:56:40,260
-I've seen it.
+Aku telah melihatnya.
 
 858
 01:56:41,760 --> 01:56:42,760
-You can see.
+Anda bisa melihat.
 
 859
 01:56:43,700 --> 01:56:45,640
-The visions are clear now.
+Penglihatannya sudah jelas sekarang.
 
 860
 01:56:47,960 --> 01:56:51,420
-I see possible futures all at once.
+Saya melihat kemungkinan masa depan sekaligus.
 
 861
 01:56:52,200 --> 01:56:55,680
-Our enemies are all around us.
+Musuh kita ada di sekitar kita.
 
 862
 01:56:56,220 --> 01:56:57,960
-And in so many futures they prevail.
+Dan di banyak masa depan mereka menang.
 
 863
 01:56:59,460 --> 01:57:00,760
-But I do see a way.
+Tapi saya melihat caranya.
 
 864
 01:57:02,380 --> 01:57:04,220
-There is a narrow way through.
+Ada jalan sempit untuk melewatinya.
 
 865
 01:57:14,320 --> 01:57:16,340
-I saw our bloodline mother,
+Saya melihat ibu garis keturunan kami,
 
 866
 01:57:17,790 --> 01:57:19,060
-written across time.
+ditulis melintasi waktu.
 
 867
 01:57:37,010 --> 01:57:38,240
-Did my father know?
+Tahukah ayahku?
 
 868
 01:57:42,420 --> 01:57:47,430
-I found myself until he
-took the worm's poison.
+Saya menemukan diri saya sampai dia
+meminum racun cacing itu.
 
 869
 01:58:01,240 --> 01:58:02,300
-This is how we'll survive.
+Inilah cara kami bertahan hidup.
 
 870
 01:58:04,340 --> 01:58:05,640
-By being our argument.
+Dengan menjadi argumen kami.
 
 871
 01:59:25,321 --> 01:59:26,321
-We will survive.
+Kita akan bertahan.
 
 872
 01:59:46,380 --> 01:59:48,480
-Do you hear me?
-You have the power to stop this.
+Apakah kamu mendengarku?
+Anda mempunyai kekuatan untuk menghentikan ini.
 
 873
 01:59:48,660 --> 01:59:49,660
-No, I'm willing.
+Tidak, aku bersedia.
 
 874
 01:59:49,840 --> 01:59:51,600
-You're not going to
-speak inside the circle.
+Anda tidak akan melakukannya
+berbicara di dalam lingkaran.
 
 875
 01:59:52,080 --> 01:59:53,656
-If you were to speak, you know what to do.
+Jika Anda harus berbicara, Anda tahu apa yang harus dilakukan.
 
 876
 01:59:53,680 --> 01:59:54,680
-Still not, please.
+Tolong, masih belum.
 
 877
 01:59:55,700 --> 01:59:57,240
-I can save him.
+Saya bisa menyelamatkannya.
 
 878
 02:00:09,380 --> 02:00:11,740
-This prophecy is how they enslave us.
+Nubuatan ini adalah bagaimana mereka memperbudak kita.
 
 879
 02:00:12,160 --> 02:00:13,160
-How they dominate us.
+Bagaimana mereka mendominasi kita.
 
 880
 02:00:14,120 --> 02:00:15,880
-You'll get yourself in trouble.
+Anda akan mendapat masalah.
 
 881
 02:00:16,220 --> 02:00:17,260
-This is not your business.
+Ini bukan urusanmu.
 
 882
 02:00:17,800 --> 02:00:19,648
-My bond harkening
-himself killed my family and
+Ikatanku semakin kuat
+dirinya membunuh keluargaku dan
 
 883
 02:00:19,660 --> 02:00:21,480
-gave me a bit of a start
-of remembering mine.
+memberiku sedikit permulaan
+mengingat milikku.
 
 884
 02:00:21,740 --> 02:00:23,040
-This is all of my business.
+Ini semua urusanku.
 
 885
 02:01:12,990 --> 02:01:18,410
-You must take his place by defeating
-him and returning his water to the well.
+Anda harus menggantikannya dengan mengalahkan
+dia dan mengembalikan airnya ke sumur.
 
 886
 02:01:19,150 --> 02:01:22,910
-You think I'm stupid enough to
-deprive myself of the best of us.
+Kamu pikir aku cukup bodoh untuk melakukannya
+menghilangkan diriku dari yang terbaik di antara kita.
 
 887
 02:01:23,550 --> 02:01:25,210
-Did you not give me work somehow?
+Apakah kamu tidak memberiku pekerjaan?
 
 888
 02:01:26,770 --> 02:01:28,170
-I've taken my life or so long.
+Aku sudah mengambil nyawaku atau begitu lama.
 
 889
 02:01:29,350 --> 02:01:30,450
-It is the only way.
+Ini adalah satu-satunya cara.
 
 890
 02:01:31,270 --> 02:01:32,550
-I'm pointing the way!
+Aku menunjukkan jalannya!
 
 891
 02:01:36,250 --> 02:01:37,630
-Ooh, that ass suck!
+Ooh, pantat itu payah!
 
 892
 02:01:38,090 --> 02:01:39,110
-Ooh, thou fizzy!
+Ooh, kamu bersoda!
 
 893
 02:01:39,830 --> 02:01:41,010
-They free pit!
+Mereka membebaskan lubang!
 
 894
 02:01:41,450 --> 02:01:42,450
-Call money!
+Panggil uang!
 
 895
 02:01:59,320 --> 02:02:00,320
-Die!
+Mati!
 
 896
 02:02:11,600 --> 02:02:13,160
-Do you think you could have a chance?
+Apakah Anda pikir Anda punya peluang?
 
 897
 02:02:15,920 --> 02:02:17,660
-It's not the judge.
+Itu bukan hakimnya.
 
 898
 02:02:18,740 --> 02:02:19,740
-It's the judge.
+Itu hakimnya.
 
 899
 02:02:21,400 --> 02:02:24,660
-She says that she's the only
-one who wants to make it.
+Dia mengatakan bahwa dialah satu-satunya
+orang yang ingin membuatnya.
 
 900
 02:02:28,880 --> 02:02:30,780
-You're the one who wants to make it.
+Kaulah yang ingin mewujudkannya.
 
 901
 02:02:31,540 --> 02:02:35,480
-You're the one who wants to make it.
+Kaulah yang ingin mewujudkannya.
 
 902
 02:02:39,380 --> 02:02:42,440
-You're the one who wants to make it.
+Kaulah yang ingin mewujudkannya.
 
 903
 02:02:43,160 --> 02:02:44,600
-I'm going to take it.
+Saya akan mengambilnya.
 
 904
 02:02:45,540 --> 02:02:46,540
-I'll take it.
+Aku akan mengambilnya.
 
 905
 02:02:47,880 --> 02:02:49,980
-Or I'll take it.
+Atau aku akan mengambilnya.
 
 906
 02:02:50,180 --> 02:02:51,880
-I'll take it.
+Aku akan mengambilnya.
 
 907
 02:02:52,180 --> 02:02:53,220
-I'll take it.
+Aku akan mengambilnya.
 
 908
 02:02:56,851 --> 02:02:57,851
-The room.
+Ruangan.
 
 909
 02:02:58,350 --> 02:02:59,350
-Is that the case?
+Apakah itu masalahnya?
 
 910
 02:03:01,510 --> 02:03:02,710
-When you are ready,
+Ketika Anda siap,
 
 911
 02:03:05,830 --> 02:03:12,560
-the judgeless want to make it.
+yang tak punya hakim ingin berhasil.
 
 912
 02:03:12,561 --> 02:03:15,400
-He will be the judge.
+Dia akan menjadi hakimnya.
 
 913
 02:03:27,650 --> 02:03:29,580
-You see the game, Shadi?
+Kamu lihat permainannya, Shadi?
 
 914
 02:03:31,860 --> 02:03:33,160
-I suck like I am.
+Aku payah seperti aku.
 
 915
 02:03:34,260 --> 02:03:35,520
-I should've been hooked.
+Aku seharusnya ketagihan.
 
 916
 02:03:41,960 --> 02:03:44,440
-This is my father's ducal signet.
+Ini adalah stempel kebangsawanan ayahku.
 
 917
 02:03:55,220 --> 02:03:58,720
-All my demon trees, duke of Arrakis!
+Semua pohon iblisku, Adipati Arrakis!
 
 918
 02:04:00,040 --> 02:04:02,120
-Everything did not have seen at me!
+Semuanya tidak terlihat pada saya!
 
 919
 02:04:02,820 --> 02:04:04,280
-Let me start my game!
+Biarkan aku memulai permainanku!
 
 920
 02:04:05,240 --> 02:04:06,240
-Ruined the ghetto!
+Hancurkan ghetto!
 
 921
 02:04:06,241 --> 02:04:08,680
-I should've been hooked.
+Aku seharusnya ketagihan.
 
 922
 02:05:06,280 --> 02:05:08,140
-While Atreides is still alive,
+Saat Atreides masih hidup,
 
 923
 02:05:10,350 --> 02:05:11,480
-he challenges my father.
+dia menantang ayahku.
 
 924
 02:05:13,210 --> 02:05:14,480
-You've never been on Arrakis.
+Anda belum pernah ke Arrakis.
 
 925
 02:05:16,470 --> 02:05:18,000
-It's quite impressive, you'll see.
+Ini cukup mengesankan, Anda akan lihat.
 
 926
 02:05:18,400 --> 02:05:19,601
-Was this all upon your advice?
+Apakah ini semua atas saran Anda?
 
 927
 02:05:20,000 --> 02:05:21,000
-What?
+Apa?
 
 928
 02:05:21,970 --> 02:05:24,700
-Did you counsel my father
-to exterminate the Atreides?
+Apakah Anda menasihati ayah saya
+untuk memusnahkan Atreides?
 
 929
 02:05:24,850 --> 02:05:25,850
-Of course I did.
+Tentu saja saya melakukannya.
 
 930
 02:05:26,240 --> 02:05:27,520
-Why else would it have happened?
+Kenapa lagi hal itu bisa terjadi?
 
 931
 02:05:28,395 --> 02:05:30,600
-You tried to sacrifice an entire bloodline.
+Anda mencoba mengorbankan seluruh garis keturunan.
 
 932
 02:05:30,660 --> 02:05:32,260
-And I was right to do it.
+Dan saya benar melakukannya.
 
 933
 02:05:32,980 --> 02:05:37,620
-The Kuisatzhaderak is a form of
-power that our world has not yet seen.
+Kuisatzhaderak adalah salah satu bentuknya
+kekuatan yang belum pernah dilihat oleh dunia kita.
 
 934
 02:05:38,520 --> 02:05:39,860
-The ultimate power.
+Kekuatan tertinggi.
 
 935
 02:05:41,040 --> 02:05:43,880
-The ninety generations we
-have supervised have Atreides.
+Sembilan puluh generasi kita
+telah diawasi memiliki Atreides.
 
 936
 02:05:44,550 --> 02:05:47,111
-They were promising, but they
-were becoming dangerously defiant.
+Mereka menjanjikan, tapi memang begitu
+menjadi sangat menantang.
 
 937
 02:05:47,710 --> 02:05:49,540
-Their bloodline had to be terminated.
+Garis keturunan mereka harus diakhiri.
 
 938
 02:05:51,110 --> 02:05:53,120
-That is why we have put
-many bloodlines at work.
+Itu sebabnya kami menempatkannya
+banyak garis keturunan di tempat kerja.
 
 939
 02:05:53,121 --> 02:05:54,240
-Several prospects.
+Beberapa prospek.
 
 940
 02:05:54,860 --> 02:05:55,860
-But it's backfired.
+Tapi itu menjadi bumerang.
 
 941
 02:05:56,320 --> 02:05:57,320
-Paul is alive.
+Paulus masih hidup.
 
 942
 02:05:57,780 --> 02:05:59,860
-And if he defeats
-Vader Arthur, my father...
+Dan jika dia menang
+Vader Arthur, ayahku...
 
 943
 02:05:59,861 --> 02:06:02,142
-Your father will lose the
-throne, no matter who prevails.
+Ayahmu akan kehilangan
+takhta, tidak peduli siapa yang menang.
 
 944
 02:06:03,840 --> 02:06:06,460
-But there is one way your
-family can remain in power.
+Tapi ada satu cara untuk Anda
+keluarga bisa tetap berkuasa.
 
 945
 02:06:06,820 --> 02:06:09,820
-And through you, the
-continuation of our stewardship.
+Dan melalui kamu, itu
+kelanjutan penatalayanan kami.
 
 946
 02:06:11,360 --> 02:06:14,260
-One way are you prepared?
+Apakah Anda siap dalam satu cara?
 
 947
 02:06:15,990 --> 02:06:18,180
-He's been preparing me my
-whole life for every mother.
+Dia sudah mempersiapkanku
+seumur hidup untuk setiap ibu.
 
 948
 02:06:21,110 --> 02:06:22,471
-You heading north with
-the others? I'm for Dyken.
+Anda menuju ke utara dengan
+yang lain? Saya mendukung Dyken.
 
 949
 02:06:23,140 --> 02:06:24,140
@@ -3977,281 +3977,281 @@ the others? I'm for Dyken.
 
 950
 02:06:24,980 --> 02:06:27,220
-I follow my leaders.
-If fighting goes north, I go north.
+Saya mengikuti para pemimpin saya.
+Jika pertempuran terjadi di utara, saya pergi ke utara.
 
 951
 02:06:28,340 --> 02:06:29,516
-Paul didn't have a choice, child.
+Paul tidak punya pilihan, Nak.
 
 952
 02:06:29,540 --> 02:06:30,660
-I won't be fighting for him.
+Saya tidak akan berjuang untuknya.
 
 953
 02:06:31,840 --> 02:06:32,920
-I'm fighting for my people.
+Saya berjuang untuk rakyat saya.
 
 954
 02:06:36,720 --> 02:06:38,380
-I came to wish you best of luck.
+Saya datang untuk mendoakan yang terbaik bagi Anda.
 
 955
 02:06:40,030 --> 02:06:41,030
-I wish you the same.
+Saya berharap Anda melakukan hal yang sama.
 
 956
 02:06:43,120 --> 02:06:44,620
-But it seems you've won your battle.
+Tapi sepertinya kamu telah memenangkan pertarunganmu.
 
 957
 02:07:07,210 --> 02:07:08,530
-You took the bait.
+Anda mengambil umpannya.
 
 958
 02:07:16,220 --> 02:07:17,300
-The river is very obliging.
+Sungai ini sangat mewajibkan.
 
 959
 02:07:18,280 --> 02:07:19,540
-It's right on time.
+Ini tepat waktu.
 
 960
 02:07:21,200 --> 02:07:22,320
-We're changing it more deep.
+Kami mengubahnya lebih dalam.
 
 961
 02:07:25,140 --> 02:07:26,380
-I've sealed my colleague.
+Saya sudah menyegel rekan saya.
 
 962
 02:07:52,800 --> 02:07:57,630
-It's production under control.
+Produksinya terkendali.
 
 963
 02:07:59,770 --> 02:08:01,070
-What do we do?
+Apa yang kita lakukan?
 
 964
 02:08:02,930 --> 02:08:04,610
-Send messages to the great houses.
+Kirim pesan ke rumah-rumah besar.
 
 965
 02:08:05,550 --> 02:08:07,910
-Tell them that our
-arachis is on a sonic attack.
+Katakan pada mereka bahwa kita
+arachis sedang melakukan serangan sonik.
 
 966
 02:08:09,530 --> 02:08:11,810
-Tell them the future hangs to the balance.
+Beri tahu mereka bahwa masa depan tergantung pada keseimbangan.
 
 967
 02:08:34,300 --> 02:08:38,770
-Tell them that our
-arachis is on a sonic attack.
+Katakan pada mereka bahwa kita
+arachis sedang melakukan serangan sonik.
 
 968
 02:08:39,180 --> 02:08:40,520
-When the storm hits this ridge,
+Saat badai menghantam punggung bukit ini,
 
 969
 02:08:41,820 --> 02:08:43,540
-Gurney will open the way for you still are.
+Gurney akan membuka jalan bagi Anda.
 
 970
 02:08:44,080 --> 02:08:45,800
-So you can enter the basin from the west
+Jadi Anda bisa memasuki cekungan dari arah barat
 
 971
 02:08:46,440 --> 02:08:48,200
-and distract their defense systems.
+dan mengalihkan perhatian sistem pertahanan mereka.
 
 972
 02:08:49,540 --> 02:08:51,860
-Johnny, I want you and your
-Phidike into that attack from the east.
+Johnny, aku menginginkanmu dan kamu
+Phidike melakukan serangan dari timur.
 
 973
 02:08:53,040 --> 02:08:54,040
-Inside the basin,
+Di dalam baskom,
 
 974
 02:08:55,120 --> 02:08:56,700
-I'll strike from the north, head on,
+Saya akan menyerang dari utara, maju terus,
 
 975
 02:08:57,450 --> 02:08:58,690
-with the fundamentalist troops.
+dengan pasukan fundamentalis.
 
 976
 02:08:59,460 --> 02:09:01,240
-And I'll serve her a king for dessert.
+Dan aku akan menyajikannya sebagai raja untuk hidangan penutup.
 
 977
 02:09:02,040 --> 02:09:04,060
-Remember, I need the Emperor alive.
+Ingat, aku butuh Kaisar hidup-hidup.
 
 978
 02:09:05,300 --> 02:09:06,780
-I don't wish he has something.
+Saya tidak berharap dia memiliki sesuatu.
 
 979
 02:09:06,781 --> 02:09:10,120
-I don't wish he has something.
+Saya tidak berharap dia memiliki sesuatu.
 
 980
 02:09:58,840 --> 02:10:00,640
-I don't wish he has something.
+Saya tidak berharap dia memiliki sesuatu.
 
 981
 02:10:12,790 --> 02:10:13,790
-No, no.
+Tidak tidak.
 
 982
 02:10:14,830 --> 02:10:19,310
-You have any idea who this party could be?
+Anda tahu siapa pesta ini?
 
 983
 02:10:20,250 --> 02:10:21,770
-Something that is your majesty.
+Sesuatu yang merupakan Yang Mulia.
 
 984
 02:10:22,490 --> 02:10:23,110
-That's all we know.
+Hanya itu yang kami tahu.
 
 985
 02:10:23,111 --> 02:10:24,111
-More, more.
+Lebih banyak lagi.
 
 986
 02:10:24,430 --> 02:10:25,010
-Give me more.
+Beri aku lebih banyak.
 
 987
 02:10:25,370 --> 02:10:26,370
-He's a madman.
+Dia orang gila.
 
 988
 02:10:26,890 --> 02:10:26,950
-Mad?
+Gila?
 
 989
 02:10:27,250 --> 02:10:28,250
-Or a familiar man.
+Atau pria yang dikenalnya.
 
 990
 02:10:30,790 --> 02:10:32,010
-That's all you know.
+Hanya itu yang Anda tahu.
 
 991
 02:10:32,830 --> 02:10:33,830
-Really?
+Benar-benar?
 
 992
 02:10:34,930 --> 02:10:36,030
-No, Dave is dead.
+Tidak, Dave sudah mati.
 
 993
 02:10:38,810 --> 02:10:41,590
-Or he went hiding in the southern storms.
+Atau dia bersembunyi di badai selatan.
 
 994
 02:10:41,930 --> 02:10:43,110
-This means the same thing.
+Ini berarti hal yang sama.
 
 995
 02:10:44,370 --> 02:10:45,370
-Your majesty,
+Yang Mulia,
 
 996
 02:10:45,570 --> 02:10:48,510
-the sandstorm that's approaching
-threatens the integrity of our shields.
+badai pasir yang mendekat
+mengancam integritas perisai kita.
 
 997
 02:10:49,470 --> 02:10:51,450
-We recommend going back into orbit.
+Kami merekomendasikan untuk kembali ke orbit.
 
 998
 02:10:51,451 --> 02:10:54,670
-The mountains will
-protect us from most of it.
+Gunung-gunung akan melakukannya
+melindungi kita dari sebagian besarnya.
 
 999
 02:10:55,150 --> 02:10:56,150
-Your majesty.
+Yang Mulia.
 
 1000
 02:10:57,730 --> 02:11:00,330
-Baron, have you ever investigated
+Baron, pernahkah kamu menyelidikinya
 
 1001
 02:11:01,310 --> 02:11:04,170
-the south regions of Aragas?
+wilayah selatan Aragas?
 
 1002
 02:11:05,370 --> 02:11:07,510
-While the entire region is uninhabitable,
+Meskipun seluruh wilayah tidak dapat dihuni,
 
 1003
 02:11:08,010 --> 02:11:09,270
-it's well known, your majesty.
+itu sudah diketahui, Yang Mulia.
 
 1004
 02:11:11,430 --> 02:11:13,370
-Your uninhabited south
+Selatanmu yang tidak berpenghuni
 
 1005
 02:11:14,450 --> 02:11:17,050
-exhibits evidence of human activity.
+menunjukkan bukti aktivitas manusia.
 
 1006
 02:11:17,870 --> 02:11:18,990
-I wasn't aware of this.
+Saya tidak menyadarinya.
 
 1007
 02:11:19,850 --> 02:11:21,910
-I swear to you, I wasn't aware of it.
+Aku bersumpah padamu, aku tidak menyadarinya.
 
 1008
 02:11:27,250 --> 02:11:28,670
-Baron, Dave is alive.
+Baron, Dave masih hidup.
 
 1009
 02:11:30,030 --> 02:11:31,470
-I must find him.
+Saya harus menemukannya.
 
 1010
 02:15:16,230 --> 02:15:21,850
-He's alive.
+Dia hidup.
 
 1011
 02:19:14,000 --> 02:19:15,980
-It's more than a day away.
+Ini lebih dari satu hari lagi.
 
 1012
 02:19:18,680 --> 02:19:19,680
-I'm here.
+Aku disini.
 
 1013
 02:19:43,800 --> 02:19:48,490
-Let's go.
+Ayo pergi.
 
 1014
 02:19:48,850 --> 02:19:48,910
-Let's go.
+Ayo pergi.
 
 1015
 02:19:48,930 --> 02:19:51,570
-I'm not going to touch you,
+aku tidak akan menyentuhmu,
 
 1016
 02:19:52,050 --> 02:19:54,430
-this is the end of it.
+inilah akhirnya.
 
 1017
 02:19:56,430 --> 02:19:57,870
-We have to keep going.
+Kami harus terus berjalan.
 
 1018
 02:20:10,690 --> 02:20:13,990
@@ -4263,212 +4263,211 @@ Amadri! Amadri! Amadri! Amadri!
 
 1020
 02:21:42,400 --> 02:21:47,060
-And my friends.
+Dan teman-temanku.
 
 1021
 02:23:36,500 --> 02:23:40,920
-I will love you as long as I breath.
+Aku akan mencintaimu selama aku bernafas.
 
 1022
 02:23:59,340 --> 02:24:01,500
-You're facing a full invasion, Franklin.
+Anda menghadapi invasi penuh, Franklin.
 
 1023
 02:24:03,460 --> 02:24:06,080
-How can you be so sure the
-great houses are here for me?
+Bagaimana Anda bisa begitu yakin
+rumah-rumah bagus ada di sini untukku?
 
 1024
 02:24:12,280 --> 02:24:15,380
-They may be curious to hear my
-side of the story, don't you think?
+Mereka mungkin penasaran untuk mendengarkan saya
+sisi cerita, bukan begitu?
 
 1025
 02:24:16,680 --> 02:24:21,100
-I am Paul Atreides, son of
-Leto Atreides, Duke of Arrakis.
+Saya Paul Atreides, putra
+Leto Atreides, Adipati Arrakis.
 
 1026
 02:24:22,770 --> 02:24:24,020
-Gurney, my lord.
+Gurney, Tuanku.
 
 1027
 02:24:24,540 --> 02:24:25,840
-Send a warning to all ships.
+Kirim peringatan ke semua kapal.
 
 1028
 02:24:26,480 --> 02:24:30,360
-If the great houses attack, our
-atomics will obliterate all spice fields.
+Jika rumah-rumah besar menyerang, rumah kita
+atom akan melenyapkan semua ladang rempah-rempah.
 
 1029
 02:24:32,400 --> 02:24:33,420
-You're out of your mind.
+Kamu sudah gila.
 
 1030
 02:24:33,860 --> 02:24:34,800
-He's bluffing.
+Dia menggertak.
 
 1031
 02:24:34,820 --> 02:24:36,880
-Consider what you're
-about to do, Paul Atreides.
+Pertimbangkan siapa diri Anda
+akan lakukan, Paul Atreides.
 
 1032
 02:24:37,140 --> 02:24:38,140
-What am I?
+Aku ini apa?
 
 1033
 02:24:46,690 --> 02:24:47,990
-This upset, my lord.
+Ini mengecewakan, Tuanku.
 
 1034
 02:24:50,050 --> 02:24:54,150
-As a servant of the Imperium,
-you would know it might beat.
+Sebagai pelayan Imperium,
+Anda akan tahu itu mungkin akan berhasil.
 
 1035
 02:24:54,350 --> 02:24:55,350
-Your fate!
+Nasibmu!
 
 1036
 02:24:55,850 --> 02:24:57,550
-You'll be lucky to keep your head.
+Anda akan beruntung untuk tetap menjaga pikiran Anda.
 
 1037
 02:25:00,970 --> 02:25:02,410
-I'll take the hand of your daughter.
+Aku akan memegang tangan putrimu.
 
 1038
 02:25:04,750 --> 02:25:09,190
-She will remain safe, and we
-will rule together over the Empire.
+Dia akan tetap aman, dan kita
+akan memerintah bersama atas Kekaisaran.
 
 1039
 02:25:19,110 --> 02:25:24,700
-But you, you have to answer for my father.
+Tapi kamu, kamu harus menjawab untuk ayahku.
 
 1040
 02:25:39,420 --> 02:25:44,360
-I killed him, because he was a
-man that allowed us not meant to rule.
+Aku membunuhnya, karena dia a
+pria yang mengizinkan kita bukan bermaksud untuk memerintah.
 
 1041
 02:25:46,080 --> 02:25:52,860
-In other words, your father was a weak man.
+Dengan kata lain, ayahmu adalah orang yang lemah.
 
 1042
 02:26:01,680 --> 02:26:04,860
-Stand, or choose your champion.
+Berdiri, atau pilih juara Anda.
 
 1043
 02:26:07,360 --> 02:26:09,060
-I am here, Atreides.
+Aku di sini, Atreides.
 
 1044
 02:26:11,520 --> 02:26:14,960
-I need a blade, except mine.
+Aku butuh pisau, kecuali milikku.
 
 1045
 02:26:26,280 --> 02:26:28,580
-Do not stain your hands on the sand.
+Jangan nodai tangan Anda di pasir.
 
 1046
 02:26:50,540 --> 02:26:52,460
-Why does he take such risks?
+Mengapa dia mengambil risiko seperti itu?
 
 1047
 02:26:53,840 --> 02:26:54,980
-What deep lids?
+Kelopak mata yang dalam apa?
 
 1048
 02:27:31,820 --> 02:27:33,800
-You wouldn't be the
-first Rajiv I've killed.
+Anda tidak akan menjadi
+Rajiv pertama yang kubunuh.
 
 1049
 02:27:36,800 --> 02:27:39,220
-May thy knife chip and shatter.
+Semoga pisaumu terkelupas dan pecah.
 
 1050
 02:27:44,100 --> 02:27:46,660
-May thy knife chip and shatter.
+Semoga pisaumu terkelupas dan pecah.
 
 1051
-02:28:13,000 --> 02:28:17,780
-I'll take the hand of your daughter.
+02:28:13.000 --> 02:28:17.780
+Aku akan memegang tangan putrimu.
 
 1052
 02:28:18,761 --> 02:28:20,201
-I'll take the hand of your daughter.
+Aku akan memegang tangan putrimu.
 
 1053
 02:28:37,210 --> 02:28:38,210
-She's your pet?
+Dia peliharaanmu?
 
 1054
 02:28:54,790 --> 02:28:58,010
-Any special attention for the pet?
+Adakah perhatian khusus untuk hewan peliharaannya?
 
 1055
 02:30:02,000 --> 02:30:06,730
-I'll take the hand of your daughter.
+Aku akan memegang tangan putrimu.
 
 1056
 02:30:23,400 --> 02:30:25,560
-You thought well, Atreides.
+Anda berpikir dengan baik, Atreides.
 
 1057
 02:30:31,040 --> 02:30:34,420
-Listen, I gave you!
+Dengar, aku memberimu!
 
 1058
 02:31:28,840 --> 02:31:33,160
-You should have believed.
-You chose the wrong side.
+Anda seharusnya percaya.
+Anda memilih sisi yang salah.
 
 1059
 02:31:34,400 --> 02:31:37,860
-Side? You all people should know.
+Samping? Anda semua orang harus tahu.
 
 1060
 02:31:39,300 --> 02:31:40,960
-There are no sides.
+Tidak ada sisi.
 
 1061
 02:31:42,680 --> 02:31:43,680
-Reverend Mother.
+Ibu Yang Terhormat.
 
 1062
 02:33:39,240 --> 02:33:45,080
-My lord, the great houses have answered.
-They refuse to honor your ascendancy.
+Tuanku, rumah-rumah besar telah menjawab.
+Mereka menolak untuk menghormati kekuasaan Anda.
 
 1063
 02:33:46,740 --> 02:33:47,840
-We have waited your orders.
+Kami telah menunggu pesanan Anda.
 
 1064
 02:33:47,841 --> 02:33:48,921
-We have waited your orders.
+Kami telah menunggu pesanan Anda.
 
 1065
 02:33:50,000 --> 02:33:59,940
-Lead them to paradise.
+Pimpin mereka ke surga.
 
 1066
 02:34:13,020 --> 02:34:16,080
-Hold on! Hold on!
+Tunggu! Tunggu!
 
 1067
 02:34:16,081 --> 02:34:18,840
-Listen to me!
+Dengarkan aku!
 
 1068
 02:34:37,970 --> 02:34:42,750
-Now we all begin.
+Sekarang kita semua mulai.
 
 1069
 02:35:12,900 --> 02:35:17,200
-Now we all begin.
-
+Sekarang kita semua mulai.
