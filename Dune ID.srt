@@ -1,0 +1,5282 @@
+﻿1
+00:00:05,297 --> 00:00:10,177
+{\an8}Mimpi adalah pesan dari dalam diri.
+
+2
+00:00:55,681 --> 00:00:59,351
+<i>Planetku Arrakis sangat indah
+saat matahari terbenam.</i>
+
+3
+00:01:02,813 --> 00:01:05,315
+<i>Berguling di atas pasir,</i>
+
+4
+00:01:05,482 --> 00:01:08,318
+<i>kau bisa melihat rempah di udara.</i>
+
+5
+00:01:20,789 --> 00:01:24,626
+<i>Pada malam hari,
+pemanen rempah mendarat.</i>
+
+6
+00:01:26,128 --> 00:01:30,674
+<i>Orang asing berlomba melawan waktu
+untuk menghindari panas siang hari.</i>
+
+7
+00:01:39,808 --> 00:01:42,978
+<i>Mereka merusak negeri kami
+di depan mata kami.</i>
+
+8
+00:01:43,770 --> 00:01:47,482
+<i>Aku hanya mengenal kekejaman mereka
+terhadap bangsaku.</i>
+
+9
+00:01:52,321 --> 00:01:56,783
+<i>Orang-orang asing ini, Harkonnen,
+datang jauh sebelum aku lahir.</i>
+
+10
+00:01:56,950 --> 00:02:00,704
+<i>Dengan mengendalikan produksi rempah,
+mereka menjadi kaya.</i>
+
+11
+00:02:01,038 --> 00:02:03,415
+<i>Lebih kaya dari Kaisar.</i>
+
+12
+00:02:45,415 --> 00:02:48,585
+<i>Prajurit kami tak bisa
+membebaskan Arrakis dari Harkonnen,</i>
+
+13
+00:02:48,752 --> 00:02:53,215
+<i>tetapi suatu hari,
+atas keputusan Imperial, mereka pergi.</i>
+
+14
+00:03:00,222 --> 00:03:02,599
+<i>Kenapa Kaisar memilih jalan ini?</i>
+
+15
+00:03:04,059 --> 00:03:06,395
+<i>Siapa penindas kami berikutnya?</i>
+
+16
+00:03:41,597 --> 00:03:44,141
+{\an8}TAHUN 10191
+
+17
+00:03:46,059 --> 00:03:52,441
+{\an8}CALADAN
+DUNIA KELUARGA ATREIDES
+
+18
+00:03:57,905 --> 00:03:59,489
+Baguslah kau bangun pagi.
+
+19
+00:04:01,033 --> 00:04:03,994
+Ayahmu ingin kau berpakaian formal
+sebelum Bentara Kaisar tiba.
+
+20
+00:04:04,703 --> 00:04:06,163
+Pakaian formal?
+
+21
+00:04:07,080 --> 00:04:08,248
+Militer?
+
+22
+00:04:08,957 --> 00:04:10,167
+Upacara.
+
+23
+00:04:11,627 --> 00:04:14,087
+Buat apa semua ini
+kalau sudah diputuskan?
+
+24
+00:04:15,380 --> 00:04:16,757
+Upacara.
+
+25
+00:04:19,343 --> 00:04:20,177
+Terima kasih.
+
+26
+00:04:22,053 --> 00:04:24,223
+Jika kau mau, buat aku memberikannya.
+
+27
+00:04:25,349 --> 00:04:26,350
+Gunakan Suara.
+
+28
+00:04:26,975 --> 00:04:28,227
+Bu, aku baru bangun.
+
+29
+00:04:36,443 --> 00:04:37,819
+Beri aku air.
+
+30
+00:04:38,654 --> 00:04:41,114
+Gelas tak bisa mendengarmu.
+Perintahkan aku.
+
+31
+00:05:08,475 --> 00:05:10,310
+Beri aku air.
+
+32
+00:05:22,739 --> 00:05:23,866
+Hampir.
+
+33
+00:05:24,449 --> 00:05:25,450
+Hampir?
+
+34
+00:05:25,617 --> 00:05:28,537
+Butuh tahunan untuk belajar kemampuan
+Bene Gesserit, Paul.
+
+35
+00:05:29,329 --> 00:05:30,998
+Kau terlihat lelah.
+
+36
+00:05:31,832 --> 00:05:32,875
+Mimpi lagi?
+
+37
+00:05:38,797 --> 00:05:39,882
+Tidak.
+
+38
+00:05:42,843 --> 00:05:46,388
+<i>Suhu ekstrem
+dan kondisi cuaca berbahaya</i>
+
+39
+00:05:46,555 --> 00:05:50,142
+<i>membuat kehidupan
+di luar kota Arrakis amat berbahaya</i>
+
+40
+00:05:50,309 --> 00:05:53,437
+<i>dengan badai pasir yang cukup kuat
+untuk merobek logam.</i>
+
+41
+00:05:54,021 --> 00:05:56,607
+<i>Hanya suku asli
+yang dikenal sebagai Fremen</i>
+
+42
+00:05:56,773 --> 00:05:59,234
+<i>bisa beradaptasi untuk bertahan hidup.</i>
+
+43
+00:06:00,569 --> 00:06:03,822
+<i>Lebih suka menghuni
+daerah paling terpencil di Arrakis,</i>
+
+44
+00:06:05,032 --> 00:06:08,535
+<i>Fremen berbagi padang gurun
+dengan cacing pasir raksasa</i>
+
+45
+00:06:08,702 --> 00:06:11,163
+<i>dikenal Fremen sebagai</i> Shai-Hulud.
+
+46
+00:06:11,872 --> 00:06:16,585
+<i>Paparan lama terhadap rempah
+membuat suku ini bermata biru khas,</i>
+
+47
+00:06:17,544 --> 00:06:19,505
+<i>Mata Ibad.</i>
+
+48
+00:06:19,671 --> 00:06:21,340
+<i>Tak banyak yang diketahui tentang Fremen</i>
+
+49
+00:06:22,341 --> 00:06:25,636
+<i>selain mereka berbahaya
+dan tak dapat dipercaya.</i>
+
+50
+00:06:26,887 --> 00:06:31,558
+<i>Serangan Fremen membuat
+panen rempah sangat berbahaya.</i>
+
+51
+00:06:31,725 --> 00:06:35,145
+<i>Bagi Fremen,
+rempah adalah halusinogen keramat</i>
+
+52
+00:06:35,312 --> 00:06:39,191
+<i>yang menjaga kehidupan
+dan memberi manfaat kesehatan besar.</i>
+
+53
+00:06:40,025 --> 00:06:45,322
+<i>Bagi Imperium, rempah digunakan
+oleh navigator dari Spacing Guild</i>
+
+54
+00:06:45,489 --> 00:06:48,116
+<i>untuk menemukan rute aman
+di antara bintang-bintang.</i>
+
+55
+00:06:48,283 --> 00:06:52,538
+<i>Tanpa rempah, perjalanan antarbintang
+mustahil dilakukan,</i>
+
+56
+00:06:52,704 --> 00:06:57,125
+<i>sehingga itu menjadi
+zat paling berharga di alam semesta.</i>
+
+57
+00:07:46,341 --> 00:07:47,467
+Senyum, Gurney.
+
+58
+00:07:48,594 --> 00:07:50,596
+Aku sedang tersenyum.
+
+59
+00:07:51,638 --> 00:07:55,767
+Berapa biaya mereka bepergian
+begitu jauh untuk formalitas ini?
+
+60
+00:07:55,934 --> 00:07:57,144
+Tiga Guild Navigator.
+
+61
+00:07:57,311 --> 00:08:00,939
+Totalnya 1,46 juta, 62 solaris,
+perjalanan pulang-pergi.
+
+62
+00:08:16,914 --> 00:08:20,042
+Atas izin Shaddam IV
+dari Keluarga Corrino,
+
+63
+00:08:20,209 --> 00:08:22,127
+penguasa Takhta Singa Emas
+
+64
+00:08:22,294 --> 00:08:25,005
+dari Kaisar Padishah
+atas Alam Semesta Dikenal,
+
+65
+00:08:25,172 --> 00:08:28,467
+aku berdiri di hadapanmu
+sebagai Bentara Perubahan.
+
+66
+00:08:29,510 --> 00:08:32,304
+Kita disaksikan oleh anggota
+Pengadilan Imperial,
+
+67
+00:08:32,471 --> 00:08:38,184
+perwakilan dari Spacing Guild,
+dan seorang saudari dari Bene Gesserit.
+
+68
+00:08:39,727 --> 00:08:41,938
+Kaisar telah berbicara.
+
+69
+00:08:43,524 --> 00:08:48,070
+"Keluarga Atreides akan segera
+mengambil kendali atas Arrakis
+
+70
+00:08:48,237 --> 00:08:51,323
+dan bertugas sebagai pengurusnya."
+
+71
+00:08:53,075 --> 00:08:54,952
+Kau menerimanya?
+
+72
+00:09:04,253 --> 00:09:06,296
+Kami adalah Keluarga Atreides.
+
+73
+00:09:07,214 --> 00:09:11,134
+Tak ada panggilan yang tidak kami jawab,
+tak ada kepercayaan yang kami khianati.
+
+74
+00:09:11,718 --> 00:09:16,139
+Kaisar minta kami
+membawa perdamaian ke Arrakis.
+
+75
+00:09:16,682 --> 00:09:19,184
+Keluarga Atreides menerimanya.
+
+76
+00:09:19,351 --> 00:09:23,480
+Atreides!
+
+77
+00:09:23,647 --> 00:09:28,026
+Atreides!
+
+78
+00:09:35,158 --> 00:09:36,702
+Meteraimu.
+
+79
+00:10:12,529 --> 00:10:13,780
+Sudah selesai?
+
+80
+00:10:15,449 --> 00:10:16,867
+Sudah selesai.
+
+81
+00:10:43,602 --> 00:10:46,480
+- Bagaimana?
+- Stabilisator terlalu longgar.
+
+82
+00:10:46,647 --> 00:10:48,565
+- Kami akan perbaiki.
+- Terima kasih, Teman.
+
+83
+00:10:48,732 --> 00:10:49,775
+Baik.
+
+84
+00:10:50,484 --> 00:10:51,485
+Duncan.
+
+85
+00:10:51,652 --> 00:10:52,653
+Kawan.
+
+86
+00:10:52,819 --> 00:10:54,238
+Hei.
+
+87
+00:10:54,404 --> 00:10:55,822
+Paul, kawanku.
+
+88
+00:10:57,699 --> 00:10:59,201
+Kau ke Arrakis besok.
+
+89
+00:11:00,160 --> 00:11:01,578
+Dengan tim pendahulu.
+
+90
+00:11:01,745 --> 00:11:04,414
+Ya, aku ke Arrakis besok
+dengan tim pendahulu.
+
+91
+00:11:05,707 --> 00:11:07,376
+Aku ingin ikut bersamamu.
+
+92
+00:11:08,085 --> 00:11:09,002
+Benarkah?
+
+93
+00:11:10,379 --> 00:11:11,797
+Sayang sekali. Tidak.
+
+94
+00:11:13,257 --> 00:11:14,299
+Duncan.
+
+95
+00:11:14,466 --> 00:11:16,760
+Kau ingin aku dapat pengadilan militer?
+
+96
+00:11:17,886 --> 00:11:18,971
+Ada apa?
+
+97
+00:11:19,137 --> 00:11:20,430
+Kau bisa kupercaya?
+
+98
+00:11:20,597 --> 00:11:21,640
+Selalu. Kau tahu itu.
+
+99
+00:11:28,480 --> 00:11:30,148
+Aku terus bermimpi.
+
+100
+00:11:32,568 --> 00:11:34,736
+Tentang Arrakis dan Fremen.
+
+101
+00:11:43,579 --> 00:11:44,913
+Baik.
+
+102
+00:11:45,372 --> 00:11:46,582
+Lalu?
+
+103
+00:11:48,041 --> 00:11:49,209
+Aku melihatmu.
+
+104
+00:11:52,629 --> 00:11:54,131
+<i>Dengan Fremen.</i>
+
+105
+00:11:56,633 --> 00:11:57,843
+Jadi, aku menemukan mereka.
+
+106
+00:11:58,010 --> 00:12:00,387
+Itu pertanda baik, bukan?
+
+107
+00:12:02,973 --> 00:12:03,807
+Lanville!
+
+108
+00:12:10,480 --> 00:12:12,107
+Aku melihatmu mati.
+
+109
+00:12:12,858 --> 00:12:14,985
+Gugur dalam perang.
+
+110
+00:12:16,486 --> 00:12:18,447
+<i>Aku merasa jika aku di situ,</i>
+
+111
+00:12:18,780 --> 00:12:20,532
+<i>kau akan hidup.</i>
+
+112
+00:12:25,204 --> 00:12:26,914
+Pertama, aku tidak akan mati.
+
+113
+00:12:27,247 --> 00:12:28,332
+Kau tak menganggapku serius.
+
+114
+00:12:28,498 --> 00:12:30,083
+Itu sebabnya kau ingin ikut.
+
+115
+00:12:30,250 --> 00:12:31,293
+Dengarkan.
+
+116
+00:12:31,960 --> 00:12:33,629
+Mimpi bagus untuk cerita,
+
+117
+00:12:33,795 --> 00:12:36,173
+tetapi hal penting terjadi
+saat kita terjaga.
+
+118
+00:12:36,340 --> 00:12:37,716
+Di situlah kita mewujudkan sesuatu.
+
+119
+00:12:38,425 --> 00:12:40,427
+Lihat dirimu. Tambah berotot?
+
+120
+00:12:40,802 --> 00:12:41,720
+Benarkah?
+
+121
+00:12:41,887 --> 00:12:43,055
+Tidak.
+
+122
+00:12:45,557 --> 00:12:46,725
+Hei.
+
+123
+00:12:47,643 --> 00:12:49,228
+Sampai jumpa di Arrakis, Kawan.
+
+124
+00:13:24,847 --> 00:13:29,226
+Ayah, aku ingin ikut Duncan Idaho
+pada misi pengintaian ke Arrakis besok.
+
+125
+00:13:29,852 --> 00:13:31,520
+Aku belajar bahasa Fremen, aku berguna.
+
+126
+00:13:31,687 --> 00:13:32,813
+Tidak bisa.
+
+127
+00:13:32,980 --> 00:13:35,440
+Kau akan ke Arrakis
+beberapa minggu lagi, seperti kami.
+
+128
+00:13:35,607 --> 00:13:36,817
+Aku berlatih seumur hidupku.
+
+129
+00:13:36,984 --> 00:13:37,985
+Apa gunanya
+
+130
+00:13:38,151 --> 00:13:40,988
+- jika tidak menghadapi risiko nyata?
+- Kau tahu kenapa, Paul.
+
+131
+00:13:41,154 --> 00:13:43,198
+Kau masa depan Keluarga Atreides.
+
+132
+00:13:43,365 --> 00:13:45,534
+Kakek melawan banteng demi kesenangan!
+
+133
+00:13:45,701 --> 00:13:46,785
+Ya.
+
+134
+00:13:47,578 --> 00:13:49,121
+Dan lihat akibatnya.
+
+135
+00:13:53,500 --> 00:13:55,502
+Aku butuh kau di sisiku.
+
+136
+00:13:56,128 --> 00:13:58,881
+Saat tiba di Arrakis,
+kita akan menghadapi bahaya besar.
+
+137
+00:13:59,047 --> 00:14:00,549
+Bahaya apa?
+
+138
+00:14:00,716 --> 00:14:02,467
+Fremen? Gurun?
+
+139
+00:14:02,634 --> 00:14:04,553
+Bahaya politik.
+
+140
+00:14:06,763 --> 00:14:11,977
+Keluarga Besar memandang kita sebagai
+pemimpin, dan ini mengancam Kaisar.
+
+141
+00:14:12,144 --> 00:14:15,147
+Dengan mengambil Arrakis dari Harkonnen
+dan jadikan milik kita,
+
+142
+00:14:15,314 --> 00:14:17,357
+dia menciptakan panggung untuk perang
+
+143
+00:14:17,524 --> 00:14:19,526
+yang akan melemahkan kedua keluarga.
+
+144
+00:14:21,195 --> 00:14:25,115
+Namun, jika kita teguh,
+dan menggunakan kekuatan sejati Arrakis,
+
+145
+00:14:25,282 --> 00:14:27,075
+kita bisa lebih kuat dari sebelumnya.
+
+146
+00:14:27,576 --> 00:14:29,161
+Apa artinya itu?
+
+147
+00:14:29,328 --> 00:14:31,955
+Menambang rempah,
+membuat Fremen tetap tunduk?
+
+148
+00:14:32,122 --> 00:14:33,665
+- Kita akan sama dengan Harkonnen.
+- Tidak.
+
+149
+00:14:34,958 --> 00:14:37,503
+Dengan bersekutu dengan Fremen.
+
+150
+00:14:38,212 --> 00:14:40,714
+Aku mengutus Duncan Idaho
+untuk mengatur itu.
+
+151
+00:14:42,216 --> 00:14:46,011
+Di Caladan, kita memimpin
+dengan kekuatan udara dan laut.
+
+152
+00:14:46,178 --> 00:14:49,806
+Di Arrakis,
+kita memerlukan kekuatan gurun.
+
+153
+00:14:53,227 --> 00:14:54,811
+Aku ingin kau ikut Dewanku.
+
+154
+00:14:54,978 --> 00:14:56,313
+Pelajari yang kulakukan.
+
+155
+00:14:56,480 --> 00:14:58,148
+Kalau bukan aku, Ayah?
+
+156
+00:14:59,775 --> 00:15:01,193
+Bukan apa?
+
+157
+00:15:02,778 --> 00:15:05,280
+Masa depan Keluarga Atreides.
+
+158
+00:15:17,709 --> 00:15:20,087
+Aku juga bilang ke ayahku
+aku tak menginginkan ini.
+
+159
+00:15:23,966 --> 00:15:25,884
+Aku ingin menjadi pilot.
+
+160
+00:15:27,302 --> 00:15:28,512
+Kau tidak pernah cerita itu.
+
+161
+00:15:31,640 --> 00:15:36,061
+Kakekmu berkata,
+"Orang hebat tidak ingin memimpin.
+
+162
+00:15:36,728 --> 00:15:40,190
+"Dia dipanggil untuk itu,
+dan dia menjawab."
+
+163
+00:15:41,942 --> 00:15:43,819
+Jika kau menolak...
+
+164
+00:15:47,155 --> 00:15:50,117
+kau tetap menjadi satu-satunya hal
+yang aku perlukan.
+
+165
+00:15:51,952 --> 00:15:53,203
+Menjadi anakku.
+
+166
+00:16:03,547 --> 00:16:07,301
+Kutemukan panggilanku.
+Mungkin kau akan menemukan panggilanmu.
+
+167
+00:16:10,846 --> 00:16:12,639
+Demi menghormati mereka...
+
+168
+00:16:15,225 --> 00:16:16,977
+cobalah.
+
+169
+00:16:25,903 --> 00:16:27,905
+Jangan membelakangi pintu.
+
+170
+00:16:29,281 --> 00:16:31,575
+Berapa kali kami harus katakan?
+
+171
+00:16:31,742 --> 00:16:34,077
+Dari langkahmu
+aku tahu itu kau, Gurney Halleck.
+
+172
+00:16:34,244 --> 00:16:36,872
+Mungkin ada yang meniru langkahku.
+
+173
+00:16:37,039 --> 00:16:38,332
+Aku tahu perbedaannya.
+
+174
+00:16:38,498 --> 00:16:40,000
+Kau Ahli Senjata baru?
+
+175
+00:16:40,167 --> 00:16:43,670
+Tanpa Duncan Idaho,
+aku harus berusaha sebaiknya.
+
+176
+00:16:44,880 --> 00:16:45,881
+Pilih bilahmu.
+
+177
+00:16:46,340 --> 00:16:48,008
+Hari ini melelahkan, Gurney.
+
+178
+00:16:48,175 --> 00:16:50,135
+Kita menyanyi saja.
+
+179
+00:16:55,015 --> 00:16:55,849
+Itu tidak sopan.
+
+180
+00:17:13,407 --> 00:17:14,576
+Ayo.
+
+181
+00:17:14,992 --> 00:17:16,078
+Ayo.
+
+182
+00:17:16,244 --> 00:17:17,079
+Pak Tua.
+
+183
+00:17:29,424 --> 00:17:31,510
+Bilah lambat menembus perisai.
+
+184
+00:17:38,809 --> 00:17:39,935
+Aku sedang tak berminat.
+
+185
+00:17:40,644 --> 00:17:41,770
+- Berminat?
+- Ya.
+
+186
+00:17:41,937 --> 00:17:42,938
+Apa hubungannya dengan minat?
+
+187
+00:17:43,105 --> 00:17:45,858
+Kau bertarung saat diperlukan,
+berminat atau tidak.
+
+188
+00:17:46,024 --> 00:17:47,067
+Bertarunglah!
+
+189
+00:17:52,698 --> 00:17:53,574
+Ayo!
+
+190
+00:18:06,253 --> 00:18:07,254
+Kau kalah.
+
+191
+00:18:07,713 --> 00:18:08,839
+Ya.
+
+192
+00:18:09,590 --> 00:18:11,175
+Lihat ke bawah, Tuan.
+
+193
+00:18:11,341 --> 00:18:13,343
+Kau mati bersamaku.
+
+194
+00:18:14,011 --> 00:18:15,804
+Kulihat kau menemukan minatmu.
+
+195
+00:18:28,150 --> 00:18:29,651
+Apakah akan seburuk itu?
+
+196
+00:18:29,818 --> 00:18:32,070
+Kau tidak mengerti, ya?
+
+197
+00:18:32,404 --> 00:18:36,325
+Kau tidak mengerti
+betapa seriusnya keadaan kita.
+
+198
+00:18:38,785 --> 00:18:42,539
+Selama 80 tahun,
+Arrakis milik Keluarga Harkonnen.
+
+199
+00:18:42,706 --> 00:18:45,042
+80 tahun memiliki ladang rempah.
+
+200
+00:18:45,209 --> 00:18:47,002
+Bisa bayangkan kekayaannya?
+
+201
+00:18:47,503 --> 00:18:49,338
+Matamu. Aku perlu melihatnya di matamu.
+
+202
+00:18:49,505 --> 00:18:51,924
+Kau belum pernah bertemu Harkonnen,
+aku pernah.
+
+203
+00:18:52,090 --> 00:18:54,426
+Mereka bukan manusia, mereka brutal!
+
+204
+00:18:55,135 --> 00:18:56,970
+Kau harus siap.
+
+205
+00:19:09,733 --> 00:19:14,196
+{\an8}GIEDI PRIME
+DUNIA KELUARGA HARKONNEN
+
+206
+00:19:38,971 --> 00:19:40,138
+Tuan Baron.
+
+207
+00:19:42,224 --> 00:19:43,892
+Rabban.
+
+208
+00:19:44,643 --> 00:19:47,145
+Kapal terakhir
+telah meninggalkan Arrakis.
+
+209
+00:19:48,230 --> 00:19:49,064
+Sudah selesai.
+
+210
+00:19:49,690 --> 00:19:51,108
+Bagus.
+
+211
+00:19:54,236 --> 00:19:56,154
+Paman, kenapa kita biarkan ini terjadi?
+
+212
+00:19:56,321 --> 00:19:57,489
+Kenapa Kaisar...
+
+213
+00:19:58,574 --> 00:20:00,951
+mengambil semua yang kita bangun
+
+214
+00:20:01,118 --> 00:20:03,370
+dan memberikannya kepada Duke itu?
+
+215
+00:20:03,537 --> 00:20:04,413
+Kenapa?
+
+216
+00:20:04,955 --> 00:20:07,207
+Jangan percaya itu karena cinta.
+
+217
+00:20:09,960 --> 00:20:11,587
+Apa maksudnya?
+
+218
+00:20:17,301 --> 00:20:20,012
+Kapan sebuah hadiah bukanlah hadiah?
+
+219
+00:20:21,889 --> 00:20:24,850
+Pengaruh Atreides semakin bertambah
+
+220
+00:20:25,601 --> 00:20:28,729
+dan Kaisar adalah orang yang cemburu.
+
+221
+00:20:30,981 --> 00:20:33,984
+Orang yang cemburu dan berbahaya.
+
+222
+00:21:45,472 --> 00:21:46,390
+Paul.
+
+223
+00:21:48,100 --> 00:21:49,726
+Paul, bangun.
+
+224
+00:21:55,566 --> 00:21:56,567
+Ada apa?
+
+225
+00:21:56,733 --> 00:21:58,944
+Ganti pakaian dan ikut aku.
+
+226
+00:22:19,423 --> 00:22:20,591
+Ada apa ini?
+
+227
+00:22:20,757 --> 00:22:23,594
+Bunda Ketua Gaius Helen Mohiam di sini.
+
+228
+00:22:24,052 --> 00:22:26,096
+Dia guruku di sekolah Bene Gesserit.
+
+229
+00:22:26,263 --> 00:22:29,266
+Kini dia Truthsayer untuk Kaisar.
+
+230
+00:22:29,808 --> 00:22:31,602
+Dia ingin bertemu denganmu.
+
+231
+00:22:32,186 --> 00:22:33,437
+Kenapa?
+
+232
+00:22:34,021 --> 00:22:36,231
+Dia ingin tahu tentang mimpimu.
+
+233
+00:22:37,733 --> 00:22:39,443
+Dari mana dia tahu tentang mimpiku?
+
+234
+00:22:42,196 --> 00:22:43,655
+Kenapa Dr. Yueh di sini?
+
+235
+00:22:43,822 --> 00:22:45,991
+Dia hanya butuh waktu sebentar.
+
+236
+00:22:46,325 --> 00:22:47,826
+Halo, Tuan Muda.
+
+237
+00:22:48,493 --> 00:22:50,996
+Ibumu memintaku memeriksa tanda vitalmu.
+
+238
+00:22:57,002 --> 00:22:58,295
+Apa yang terjadi?
+
+239
+00:23:02,382 --> 00:23:06,303
+{\an8}Bene Gesserit mengatakan mereka
+bertindak demi kebaikan orang banyak...
+
+240
+00:23:06,678 --> 00:23:08,931
+{\an8}Namun, tanpa mengurangi hormat
+kepada ibumu...
+
+241
+00:23:10,349 --> 00:23:14,269
+{\an8}mereka juga punya maksud sendiri.
+
+242
+00:23:15,521 --> 00:23:16,980
+{\an8}Apa maksudmu?
+
+243
+00:23:17,606 --> 00:23:19,149
+{\an8}Pergilah dengan hati-hati.
+
+244
+00:23:20,067 --> 00:23:22,694
+Jantungnya kuat seperti biasa, Nyonya.
+
+245
+00:23:24,696 --> 00:23:26,782
+Jangan beri tahu siapa pun.
+
+246
+00:23:36,792 --> 00:23:37,918
+Paul...
+
+247
+00:23:42,548 --> 00:23:45,509
+{\an8}Ingat latihanmu.
+
+248
+00:24:05,821 --> 00:24:11,201
+<i>Siapa kau?</i>
+
+249
+00:24:15,664 --> 00:24:17,791
+Mata yang menentang.
+
+250
+00:24:17,958 --> 00:24:19,668
+Seperti ayahnya.
+
+251
+00:24:19,835 --> 00:24:20,669
+Tinggalkan kami.
+
+252
+00:24:21,461 --> 00:24:23,797
+Ikuti semua yang dikatakan Bunda Ketua.
+
+253
+00:24:27,593 --> 00:24:29,011
+Kau usir ibuku di rumahnya sendiri.
+
+254
+00:24:29,178 --> 00:24:30,012
+Kemarilah.
+
+255
+00:24:30,762 --> 00:24:31,680
+Berlutut.
+
+256
+00:24:35,976 --> 00:24:37,769
+Beraninya kau
+menggunakan Suara kepadaku.
+
+257
+00:24:45,319 --> 00:24:46,403
+Taruh tangan kanan dalam kotak.
+
+258
+00:24:48,655 --> 00:24:51,116
+Ibumu menyuruhmu mematuhiku.
+
+259
+00:24:59,249 --> 00:25:01,543
+Aku memegang Gom Jabbar di lehermu.
+
+260
+00:25:02,628 --> 00:25:04,213
+Jarum beracun.
+
+261
+00:25:04,379 --> 00:25:05,631
+Kematian seketika.
+
+262
+00:25:06,757 --> 00:25:08,050
+Ujian ini sederhana.
+
+263
+00:25:08,425 --> 00:25:10,344
+Jika menarik tanganmu dari kotak,
+
+264
+00:25:10,969 --> 00:25:12,513
+kau mati.
+
+265
+00:25:13,514 --> 00:25:15,224
+Apa isi kotaknya?
+
+266
+00:25:16,558 --> 00:25:17,601
+Rasa sakit.
+
+267
+00:25:20,103 --> 00:25:21,438
+Tak perlu memanggil penjaga.
+
+268
+00:25:22,689 --> 00:25:26,068
+Ibumu di balik pintu itu.
+Tak ada yang bisa melewatinya.
+
+269
+00:25:33,033 --> 00:25:34,368
+Kenapa kau melakukan ini?
+
+270
+00:25:36,203 --> 00:25:40,332
+Hewan yang terjebak akan menggigit putus
+kakinya agar bisa lolos.
+
+271
+00:25:41,083 --> 00:25:42,334
+Apa yang akan kau lakukan?
+
+272
+00:26:14,783 --> 00:26:15,868
+Diam.
+
+273
+00:26:25,294 --> 00:26:27,087
+Aku tidak boleh takut.
+
+274
+00:26:28,881 --> 00:26:30,424
+Aku tidak boleh takut.
+
+275
+00:26:36,930 --> 00:26:38,724
+Ketakutan membunuh pikiran.
+
+276
+00:26:40,851 --> 00:26:41,935
+Ketakutan
+
+277
+00:26:42,227 --> 00:26:44,479
+adalah kematian kecil
+yang membawa pemusnahan.
+
+278
+00:26:47,524 --> 00:26:50,319
+Aku akan hadapi rasa takutku
+dan menerimanya.
+
+279
+00:27:05,792 --> 00:27:07,044
+Setelah berlalu...
+
+280
+00:27:15,928 --> 00:27:17,930
+kugunakan mata batinku
+dan melihat jalannya.
+
+281
+00:27:22,601 --> 00:27:24,394
+Ke mana rasa takut pergi,
+
+282
+00:27:25,270 --> 00:27:26,271
+tidak ada yang tersisa.
+
+283
+00:27:31,318 --> 00:27:32,778
+Hanya aku yang tetap ada.
+
+284
+00:27:37,115 --> 00:27:38,116
+Cukup.
+
+285
+00:27:55,050 --> 00:27:59,179
+Seperti menyaring pasir melalui jaring,
+kami menyaring orang.
+
+286
+00:28:00,514 --> 00:28:04,518
+Jika kau tak bisa mengendalikan
+dorongan hatimu, seperti hewan,
+
+287
+00:28:05,060 --> 00:28:06,478
+kami tak bisa membiarkanmu hidup.
+
+288
+00:28:07,354 --> 00:28:09,231
+Kau mewarisi kekuatan
+yang terlalu besar.
+
+289
+00:28:10,148 --> 00:28:11,191
+Karena aku anak seorang duke?
+
+290
+00:28:11,358 --> 00:28:13,151
+Karena kau anak Jessica.
+
+291
+00:28:14,278 --> 00:28:16,738
+Kau punya lebih dari satu warisan, Nak.
+
+292
+00:28:18,365 --> 00:28:19,408
+Jessica?
+
+293
+00:28:26,623 --> 00:28:28,792
+Kau melatihnya dalam Jalan.
+
+294
+00:28:33,338 --> 00:28:35,340
+Ceritakan tentang mimpi-mimpi ini.
+
+295
+00:28:36,133 --> 00:28:38,093
+- Aku bermimpi tadi malam.
+- Kau lihat apa?
+
+296
+00:28:41,013 --> 00:28:42,014
+Seorang gadis.
+
+297
+00:28:42,514 --> 00:28:43,807
+Di Arrakis.
+
+298
+00:28:44,308 --> 00:28:45,642
+Pernah memimpikannya?
+
+299
+00:28:49,813 --> 00:28:51,064
+Berkali-kali.
+
+300
+00:28:53,942 --> 00:28:57,070
+Kau sering memimpikan peristiwa
+yang akan terjadi?
+
+301
+00:29:00,532 --> 00:29:01,783
+Tidak juga.
+
+302
+00:29:05,495 --> 00:29:07,039
+Selamat tinggal, manusia muda.
+
+303
+00:29:07,873 --> 00:29:09,458
+Kuharap kau hidup.
+
+304
+00:29:17,508 --> 00:29:19,468
+Kau harus sampai sejauh itu?
+
+305
+00:29:19,635 --> 00:29:21,011
+Kau mau melatihnya di Jalan
+
+306
+00:29:21,386 --> 00:29:23,222
+dan melanggar aturan kita.
+
+307
+00:29:23,388 --> 00:29:24,932
+Dia punya kekuatan kita.
+
+308
+00:29:25,098 --> 00:29:27,059
+Dia harus diuji sampai batas maksimal.
+
+309
+00:29:28,018 --> 00:29:30,604
+Begitu banyak potensi,
+terbuang pada laki-laki.
+
+310
+00:29:31,355 --> 00:29:33,148
+Kau diminta hanya melahirkan perempuan.
+
+311
+00:29:33,315 --> 00:29:36,568
+Namun, dengan sombongnya,kau pikir bisa
+melahirkan <i>Kwisatz Haderach.</i>
+
+312
+00:29:36,735 --> 00:29:38,070
+Apa aku salah?
+
+313
+00:29:38,362 --> 00:29:41,031
+Kau beruntung dia tidak mati
+di ruangan itu.
+
+314
+00:29:41,198 --> 00:29:43,450
+Jika dia Yang Ditakdirkan,
+maka perjalanannya panjang.
+
+315
+00:29:43,617 --> 00:29:46,411
+Penglihatannya belum terbuka,
+dan kini dia menghadapi bahaya.
+
+316
+00:29:47,746 --> 00:29:50,207
+Namun, rencana kita untuk berabad-abad.
+
+317
+00:29:50,374 --> 00:29:51,959
+Kita punya prospek lain
+
+318
+00:29:52,125 --> 00:29:54,419
+jika dia tidak memenuhi janjinya.
+
+319
+00:29:56,964 --> 00:29:58,423
+Menurutmu harapannya kecil?
+
+320
+00:29:59,633 --> 00:30:02,553
+Di Arrakis, kami sudah
+berusaha sebaiknya untukmu.
+
+321
+00:30:02,719 --> 00:30:04,555
+Sebuah jalan telah dibuka.
+
+322
+00:30:04,721 --> 00:30:06,807
+Semoga dia tidak menyia-nyiakannya.
+
+323
+00:30:54,229 --> 00:30:55,480
+Paul.
+
+324
+00:30:56,440 --> 00:30:57,941
+Apa artinya?
+
+325
+00:30:59,401 --> 00:31:00,986
+Aku bisa menjadi Yang Ditakdirkan?
+
+326
+00:31:01,153 --> 00:31:02,404
+Kau dengar.
+
+327
+00:31:05,866 --> 00:31:09,620
+Bene Gesserit adalah mitra kuat
+untuk Keluarga Besar,
+
+328
+00:31:10,746 --> 00:31:11,872
+tetapi bukan itu saja.
+
+329
+00:31:12,039 --> 00:31:16,043
+Diam-diam kau mengendalikan
+politik Imperium.
+
+330
+00:31:16,835 --> 00:31:17,753
+Aku tahu.
+
+331
+00:31:17,920 --> 00:31:20,297
+Kau tidak tahu segalanya.
+
+332
+00:31:20,464 --> 00:31:22,799
+Selama ribuan tahun
+
+333
+00:31:22,966 --> 00:31:25,010
+kami memadukan garis keturunan
+
+334
+00:31:25,594 --> 00:31:27,596
+- untuk menghadirkan...
+- Yang Ditakdirkan?
+
+335
+00:31:28,764 --> 00:31:30,224
+Pikiran...
+
+336
+00:31:32,184 --> 00:31:36,355
+yang cukup kuat untuk menjembatani
+ruang dan waktu.
+
+337
+00:31:37,189 --> 00:31:38,982
+Masa lalu dan masa depan.
+
+338
+00:31:41,193 --> 00:31:43,278
+Menolong kita ke masa depan
+yang lebih baik.
+
+339
+00:31:44,613 --> 00:31:47,157
+Menurut kami dia sangat dekat sekarang.
+
+340
+00:31:49,201 --> 00:31:51,286
+Ada yang percaya dia sudah di sini.
+
+341
+00:31:55,332 --> 00:31:57,292
+Semua bagian dari rencana.
+
+342
+00:34:15,222 --> 00:34:16,223
+Perisai.
+
+343
+00:34:58,849 --> 00:35:02,728
+"Paru-paruku merasakan udara Waktu,
+Tertiup melewati pasir jatuh..."
+
+344
+00:35:47,439 --> 00:35:48,524
+Thufir Hawat.
+
+345
+00:35:53,070 --> 00:35:54,571
+Tuan muda!
+
+346
+00:35:54,738 --> 00:35:56,865
+Bagaimana rasanya
+berjalan di dunia baru?
+
+347
+00:35:57,032 --> 00:35:58,867
+Menyenangkan, sepertinya.
+
+348
+00:35:59,576 --> 00:36:00,953
+Tuanku.
+
+349
+00:36:01,578 --> 00:36:02,579
+Apa kabar, teman lama?
+
+350
+00:36:03,372 --> 00:36:05,624
+Tim pendahuluku mengamankan kota.
+
+351
+00:36:05,791 --> 00:36:08,627
+Kami masih membereskan beberapa lokasi.
+
+352
+00:36:10,254 --> 00:36:11,588
+Nyonya.
+
+353
+00:36:16,176 --> 00:36:18,053
+<i>Lisan al-Gaib!</i>
+
+354
+00:36:33,986 --> 00:36:36,822
+<i>Lisan al-Gaib!</i>
+
+355
+00:36:37,990 --> 00:36:40,033
+<i>Lisan al-Gaib!</i>
+
+356
+00:36:40,200 --> 00:36:42,286
+<i>Lisan al-Gaib!</i>
+
+357
+00:36:42,452 --> 00:36:45,414
+<i>Lisan al-Gaib!</i>
+
+358
+00:36:53,255 --> 00:36:54,965
+Jangan tertipu oleh sambutannya.
+
+359
+00:36:55,132 --> 00:36:58,010
+Mereka mengikuti aturan majikan lama.
+Wajib hadir.
+
+360
+00:36:58,177 --> 00:37:00,429
+Itu sambutan khas untuk Harkonnen.
+
+361
+00:37:06,977 --> 00:37:07,978
+Atreides!
+
+362
+00:37:08,145 --> 00:37:12,191
+Atreides!
+
+363
+00:37:20,782 --> 00:37:22,993
+Mari kita berteduh.
+
+364
+00:37:23,577 --> 00:37:25,954
+Panas bisa membunuh di tempat ini.
+
+365
+00:37:42,304 --> 00:37:43,972
+Mereka menunjuk kita.
+
+366
+00:37:45,057 --> 00:37:46,058
+Mereka meneriakkan apa?
+
+367
+00:37:46,475 --> 00:37:50,312
+<i>Lisan al-Gaib.</i> "Suara dari Dunia Luar."
+
+368
+00:37:50,479 --> 00:37:52,272
+Itu sebutan mereka untuk "mesias".
+
+369
+00:37:53,398 --> 00:37:56,026
+Artinya Bene Gesserit
+pernah bekerja di sini.
+
+370
+00:37:56,652 --> 00:37:58,862
+Menanamkan takhayul.
+
+371
+00:37:59,196 --> 00:38:01,448
+Menyiapkan jalan, Paul.
+
+372
+00:38:02,157 --> 00:38:06,161
+Mereka sudah berabad-abad
+menunggu <i>Lisan al-Gaib.</i>
+
+373
+00:38:06,912 --> 00:38:07,955
+Mereka melihatmu,
+
+374
+00:38:08,872 --> 00:38:10,707
+mereka melihat tanda-tanda.
+
+375
+00:38:13,460 --> 00:38:15,754
+Mereka melihat
+yang diberitahukan kepada mereka.
+
+376
+00:38:20,926 --> 00:38:21,927
+Siap untuk berangkat.
+
+377
+00:39:05,429 --> 00:39:08,599
+Tembok Perisai.
+Melindungi kota dari cuaca
+
+378
+00:39:08,765 --> 00:39:10,225
+dan cacing.
+
+379
+00:39:57,314 --> 00:39:59,942
+Penduduk menyebut yang besar
+Tangan Tuhan.
+
+380
+00:40:01,902 --> 00:40:05,948
+Tangan Tuhan merusak
+sistem komunikasi kita.
+
+381
+00:40:09,201 --> 00:40:10,619
+Sepi sekali.
+
+382
+00:40:11,703 --> 00:40:12,996
+Ya.
+
+383
+00:40:13,914 --> 00:40:15,666
+Itu yang membuatku khawatir.
+
+384
+00:40:22,589 --> 00:40:24,383
+Itu pelabuhan angkasa luar
+
+385
+00:40:24,550 --> 00:40:27,010
+dan gumpalan debu itu
+adalah kilang rempah.
+
+386
+00:40:27,177 --> 00:40:29,096
+Dua titik paling rentan.
+
+387
+00:40:29,263 --> 00:40:30,514
+Aku ingin kau menjaganya.
+
+388
+00:40:30,681 --> 00:40:33,267
+Jika tak bisa menyaring rempah
+dan membawanya,
+
+389
+00:40:33,433 --> 00:40:34,810
+- kita mati di sini.
+- Tuanku.
+
+390
+00:40:35,644 --> 00:40:38,021
+Matahari semakin tinggi.
+Kita harus tutup pintu.
+
+391
+00:40:42,150 --> 00:40:44,403
+Apa kata mereka tentang tempat ini?
+
+392
+00:40:45,237 --> 00:40:47,447
+"Untuk mandi, gosok bokongmu
+dengan pasir," Tuanku.
+
+393
+00:40:47,614 --> 00:40:49,074
+Itu kata mereka.
+
+394
+00:40:49,241 --> 00:40:50,784
+Itu kata mereka.
+
+395
+00:40:55,539 --> 00:40:58,041
+Kandidat untuk pelayan, Nyonya.
+
+396
+00:41:13,891 --> 00:41:15,350
+Siapa namamu?
+
+397
+00:41:15,517 --> 00:41:17,603
+Shadout Mapes, Nyonya.
+
+398
+00:41:19,521 --> 00:41:22,649
+Yang lain boleh pergi. Terima kasih.
+
+399
+00:41:24,943 --> 00:41:26,153
+Shadout.
+
+400
+00:41:27,070 --> 00:41:28,780
+Itu kata Chakobsa lama.
+
+401
+00:41:29,573 --> 00:41:30,991
+"Penimba sumur."
+
+402
+00:41:32,659 --> 00:41:33,660
+{\an8}Kau seorang Fremen.
+
+403
+00:41:33,827 --> 00:41:35,162
+{\an8}Kau tahu bahasa kuno?
+
+404
+00:41:35,329 --> 00:41:36,705
+Aku tahu banyak hal.
+
+405
+00:41:37,039 --> 00:41:40,292
+Aku tahu ada senjata
+tersembunyi di korsetmu.
+
+406
+00:41:41,084 --> 00:41:42,044
+{\an8}Jangan sekarang.
+
+407
+00:41:42,169 --> 00:41:43,253
+{\an8}Jika ingin menyakitiku,
+
+408
+00:41:43,962 --> 00:41:46,340
+kuperingatkan, apa pun
+yang kau sembunyikan
+
+409
+00:41:47,257 --> 00:41:48,926
+tidak akan cukup.
+
+410
+00:41:50,802 --> 00:41:53,180
+Senjata ini untuk hadiah
+
+411
+00:41:54,181 --> 00:41:56,308
+jika kau benar Yang Ditakdirkan.
+
+412
+00:42:12,157 --> 00:42:13,742
+Kau tahu ini?
+
+413
+00:42:15,118 --> 00:42:16,703
+Itu sebuah <i>crysknife.</i>
+
+414
+00:42:20,582 --> 00:42:21,792
+Kau tahu artinya?
+
+415
+00:42:22,584 --> 00:42:24,670
+{\an8}Bersiaplah untuk kekerasan.
+
+416
+00:42:26,171 --> 00:42:27,631
+Itu pencipta...
+
+417
+00:42:32,970 --> 00:42:35,347
+Pencipta padang gurun.
+
+418
+00:42:38,100 --> 00:42:40,352
+Saat kau hidup dengan ramalan
+untuk sekian lama,
+
+419
+00:42:40,519 --> 00:42:42,855
+saat penyingkapannya mengejutkan.
+
+420
+00:42:43,188 --> 00:42:44,731
+<i>Lisan al-Gaib.</i>
+
+421
+00:42:44,898 --> 00:42:46,942
+Ibu dan anak.
+
+422
+00:42:52,906 --> 00:42:54,616
+Untukmu.
+
+423
+00:42:56,285 --> 00:42:59,830
+Gigi <i>Shai-Hulud.</i>
+
+424
+00:43:47,085 --> 00:43:48,253
+Halo.
+
+425
+00:43:50,881 --> 00:43:53,383
+Kau tak boleh di luar saat ini.
+
+426
+00:43:55,594 --> 00:43:56,929
+Mereka di luar sini.
+
+427
+00:43:58,597 --> 00:44:00,182
+Peziarah Fremen.
+
+428
+00:44:00,766 --> 00:44:02,559
+Mereka tidak peduli panas terik.
+
+429
+00:44:04,520 --> 00:44:07,189
+Aku tak tahu ada pohon kurma di sini.
+
+430
+00:44:08,899 --> 00:44:10,776
+Ini bukan asli dari sini.
+
+431
+00:44:10,943 --> 00:44:12,903
+Mereka takkan bertahan tanpa aku.
+
+432
+00:44:13,403 --> 00:44:17,241
+Setiap hari satu pohon ini minum
+setara untuk lima orang.
+
+433
+00:44:19,409 --> 00:44:21,036
+Dua puluh pohon kurma.
+
+434
+00:44:22,371 --> 00:44:23,830
+Seratus jiwa.
+
+435
+00:44:25,165 --> 00:44:26,959
+Perlu kita cabut? Menghemat air?
+
+436
+00:44:27,125 --> 00:44:28,460
+Tidak.
+
+437
+00:44:28,627 --> 00:44:30,170
+Mereka keramat.
+
+438
+00:44:34,633 --> 00:44:36,051
+Mimpi lama.
+
+439
+00:44:44,142 --> 00:44:49,314
+<i>Organisme terbesar dan paling berbahaya
+di Arrakis adalah cacing pasir,</i>
+
+440
+00:44:49,481 --> 00:44:53,193
+<i>panjangnya bisa mencapai 400 meter.</i>
+
+441
+00:44:53,610 --> 00:44:57,447
+<i>Untuk menghindari suara berirama
+yang memikat cacing pasir,</i>
+
+442
+00:44:57,614 --> 00:45:01,577
+<i>Fremen melintasi gurun
+dengan langkah pasir,</i>
+
+443
+00:45:01,743 --> 00:45:04,705
+<i>gerakan seperti tarian
+dengan irama tidak teratur</i>
+
+444
+00:45:04,872 --> 00:45:07,624
+<i>yang meniru suara alami gurun.</i>
+
+445
+00:45:08,959 --> 00:45:13,088
+<i>Sejumlah tanaman hidup di Arrakis
+berkat Fremen,</i>
+
+446
+00:45:13,255 --> 00:45:16,091
+<i>yang membiakkan
+tanaman Bumi berakar dalam</i>
+
+447
+00:45:16,258 --> 00:45:19,219
+<i>seperti saguaro, burrobush,</i>
+
+448
+00:45:19,386 --> 00:45:23,015
+<i>verbena pasir, dan semak dupa.</i>
+
+449
+00:45:23,682 --> 00:45:26,810
+<i>Pohon gembala memiliki akar terdalam</i>
+
+450
+00:45:26,977 --> 00:45:30,480
+<i>sampai sedalam 137 meter.</i>
+
+451
+00:45:31,481 --> 00:45:36,612
+<i>Tanaman ini bertahan hidup
+di daratan kering dan miskin nutrisi.</i>
+
+452
+00:46:46,932 --> 00:46:48,517
+Ini <i>hunter-seeker.</i>
+
+453
+00:46:48,767 --> 00:46:50,811
+Operatornya pasti dekat.
+
+454
+00:46:55,941 --> 00:46:59,152
+<i>Agen Harkonnen disemen
+ke lubang itu enam minggu lalu.</i>
+
+455
+00:46:59,444 --> 00:47:02,114
+<i>Mengirim </i>hunter-seeker
+<i>lewat pipa air di dalam tembok.</i>
+
+456
+00:47:03,574 --> 00:47:05,909
+Yang Mulia, aku mengecewakanmu.
+Tak ada alasan.
+
+457
+00:47:06,618 --> 00:47:07,619
+Aku akan mengundurkan diri.
+
+458
+00:47:07,786 --> 00:47:09,329
+Kau mundur di saat seperti ini?
+
+459
+00:47:09,496 --> 00:47:12,457
+- Tuan, kehormatanku...
+- Mereka ingin membunuh anakku!
+
+460
+00:47:13,750 --> 00:47:15,210
+Aku tak peduli kehormatanmu.
+
+461
+00:47:15,377 --> 00:47:17,588
+Mau pengampunan? Tangkap mata-mata itu.
+
+462
+00:47:17,880 --> 00:47:19,089
+Yang Mulia.
+
+463
+00:47:26,513 --> 00:47:28,265
+Makhluk itu harus pergi.
+
+464
+00:47:28,891 --> 00:47:30,434
+Kau bisa bicara tanpa takut.
+
+465
+00:47:31,476 --> 00:47:33,645
+Peliharaan kami tak mengerti bahasamu.
+
+466
+00:47:33,812 --> 00:47:35,147
+Keluar.
+
+467
+00:47:39,610 --> 00:47:40,944
+Dia mengerti.
+
+468
+00:47:41,445 --> 00:47:42,946
+Aktifkan keheningan.
+
+469
+00:47:47,701 --> 00:47:50,495
+{\an8}Apa pesan dari Kaisar?
+
+470
+00:47:50,871 --> 00:47:53,665
+{\an8}Dia akan memperkuat kekuasaanmu.
+
+471
+00:47:55,959 --> 00:47:58,212
+{\an8}Dengan tentara Sardaukar-nya.
+
+472
+00:47:58,378 --> 00:48:00,130
+Tak ada yang boleh tahu.
+
+473
+00:48:00,881 --> 00:48:03,675
+Tidak ada satelit di atas Arrakis.
+
+474
+00:48:03,842 --> 00:48:06,720
+Takkan ada yang tahu Atreides mati.
+
+475
+00:48:07,471 --> 00:48:09,181
+Mengenai itu,
+
+476
+00:48:09,348 --> 00:48:12,518
+Duke Leto Atreides tak berarti
+bagi ordo kita.
+
+477
+00:48:12,726 --> 00:48:14,353
+Namun, istrinya dalam perlindungan kami,
+
+478
+00:48:14,520 --> 00:48:16,772
+termasuk anaknya.
+
+479
+00:48:17,314 --> 00:48:19,691
+Biarkan mereka dalam pengasingan.
+
+480
+00:48:23,987 --> 00:48:28,784
+Keluarga Harkonnen
+takkan melanggar perintahmu.
+
+481
+00:48:29,910 --> 00:48:31,495
+Aku berjanji.
+
+482
+00:48:31,662 --> 00:48:33,247
+Kami takkan menyakiti mereka.
+
+483
+00:48:53,600 --> 00:48:55,060
+Jika anak Duke hidup...
+
+484
+00:48:55,227 --> 00:48:57,771
+Tidak ada orang Atreides akan hidup.
+
+485
+00:48:57,938 --> 00:49:00,107
+Tuanku berjanji kepada penyihir.
+
+486
+00:49:00,274 --> 00:49:01,358
+Dia melihat terlalu banyak.
+
+487
+00:49:01,525 --> 00:49:03,110
+Kataku aku takkan menyakiti mereka.
+
+488
+00:49:03,277 --> 00:49:04,486
+Aku akan tepati janjiku.
+
+489
+00:49:04,653 --> 00:49:06,864
+Namun, Arrakis adalah Arrakis.
+
+490
+00:49:08,156 --> 00:49:10,659
+Dan gurun melahap yang lemah.
+
+491
+00:49:12,744 --> 00:49:14,079
+Gurunku.
+
+492
+00:49:16,874 --> 00:49:18,792
+Arrakis-ku.
+
+493
+00:49:20,711 --> 00:49:22,379
+Bukit pasirku.
+
+494
+00:49:25,757 --> 00:49:28,010
+Pertemuan strategi pertamamu.
+
+495
+00:49:28,177 --> 00:49:31,263
+Paul Atreides menangkap
+<i>hunter-seeker</i> dengan tangan kosong
+
+496
+00:49:31,430 --> 00:49:32,556
+bagai pahlawan masa lampau.
+
+497
+00:49:35,100 --> 00:49:37,060
+Terima kasih penghinaannya, Pak Tua.
+
+498
+00:49:37,227 --> 00:49:38,437
+Aku harus mengawasimu.
+
+499
+00:49:39,354 --> 00:49:40,606
+Perhatian!
+
+500
+00:49:48,655 --> 00:49:49,990
+Mari kita mulai.
+
+501
+00:49:52,492 --> 00:49:54,244
+Thufir. Operasi.
+
+502
+00:49:54,578 --> 00:49:56,997
+Aku dapat salinan
+buku keuangan Harkonnen.
+
+503
+00:49:59,541 --> 00:50:04,421
+Harkonnen dapat sepuluh miliar solaris
+dari sini setiap tahun.
+
+504
+00:50:04,588 --> 00:50:07,132
+"Mereka akan mengisap kelimpahan laut
+
+505
+00:50:07,299 --> 00:50:08,800
+"dan harta yang terpendam
+di dalam pasir."
+
+506
+00:50:08,967 --> 00:50:11,220
+Kita takkan dapat hasil sebesar itu
+beberapa lama.
+
+507
+00:50:11,386 --> 00:50:13,388
+Tidak dengan peralatan
+yang mereka tinggalkan.
+
+508
+00:50:14,389 --> 00:50:15,974
+Seberapa buruk?
+
+509
+00:50:21,813 --> 00:50:23,690
+Ini silo rempah.
+
+510
+00:50:25,192 --> 00:50:27,819
+Kita harus isi semuanya.
+
+511
+00:50:28,278 --> 00:50:29,613
+Semua?
+
+512
+00:50:30,322 --> 00:50:32,741
+Setiap 25 hari normal.
+
+513
+00:50:33,325 --> 00:50:35,536
+Sabotase Harkonnen memperlambat kita.
+
+514
+00:50:35,702 --> 00:50:37,371
+Siapa penengahnya?
+
+515
+00:50:37,538 --> 00:50:39,957
+Bukankah ada Hakim Perubahan
+untuk mengawasi transisi?
+
+516
+00:50:40,123 --> 00:50:41,333
+Siapa yang ditunjuk Kaisar?
+
+517
+00:50:41,708 --> 00:50:44,294
+Dr. Liet Kynes. Pakar Ekologi Imperial.
+
+518
+00:50:44,461 --> 00:50:45,963
+Sudah 20 tahun di sini.
+
+519
+00:50:46,129 --> 00:50:47,756
+Kudengar dia eksentrik.
+
+520
+00:50:48,131 --> 00:50:50,342
+Aku ingin melihat panen ladangnya.
+
+521
+00:50:51,218 --> 00:50:52,219
+Sebaiknya jangan, Tuanku.
+
+522
+00:50:52,594 --> 00:50:55,013
+Minta Hakim Perubahan menemani kita.
+
+523
+00:50:55,180 --> 00:50:56,682
+Pertemuan yang lama tertunda.
+
+524
+00:50:56,849 --> 00:50:58,851
+Kita bawa perlindungan Imperial.
+
+525
+00:50:59,017 --> 00:51:00,185
+Seorang sandera.
+
+526
+00:51:00,727 --> 00:51:01,562
+Aku suka itu.
+
+527
+00:51:03,772 --> 00:51:05,315
+Dia di sini, Tuanku.
+
+528
+00:51:29,506 --> 00:51:31,216
+Urus mereka. Mereka teman.
+
+529
+00:51:31,383 --> 00:51:32,384
+Duncan!
+
+530
+00:51:32,926 --> 00:51:33,760
+Kawan!
+
+531
+00:51:39,641 --> 00:51:40,684
+Kau semakin tinggi.
+
+532
+00:51:40,851 --> 00:51:42,477
+Baumu jauh lebih buruk.
+
+533
+00:51:46,356 --> 00:51:48,233
+Empat minggu aku bersama Fremen.
+
+534
+00:51:48,400 --> 00:51:50,944
+Tersembunyi di gurun,
+dalam komunitas yang disebut <i>sietch.</i>
+
+535
+00:51:51,361 --> 00:51:54,114
+Stilgar, pemimpin <i>sietch,
+</i>datang untuk menemuimu, Tuanku.
+
+536
+00:51:54,615 --> 00:51:56,742
+Bagaimana cara <i>sietch</i> bersembunyi?
+
+537
+00:51:56,909 --> 00:51:57,993
+Di bawah tanah.
+
+538
+00:51:58,160 --> 00:51:59,786
+Arrakis penuh dengan gua-gua.
+
+539
+00:51:59,953 --> 00:52:01,205
+Seberapa besar tempatnya?
+
+540
+00:52:01,747 --> 00:52:03,498
+Kuduga 10.000 orang.
+
+541
+00:52:04,374 --> 00:52:05,751
+Ada ratusan <i>sietch.</i>
+
+542
+00:52:07,044 --> 00:52:08,378
+Jutaan Fremen.
+
+543
+00:52:09,338 --> 00:52:10,214
+Kau benar.
+
+544
+00:52:10,380 --> 00:52:14,218
+Perkiraan Harkonnen
+adalah 50.000 di seluruh planet.
+
+545
+00:52:14,384 --> 00:52:16,345
+Fremen mengawasiku
+mencari mereka berhari-hari.
+
+546
+00:52:16,512 --> 00:52:17,846
+Aku tak pernah melihat mereka.
+
+547
+00:52:18,222 --> 00:52:20,724
+Akhirnya, mereka utus prajurit
+untuk membunuhku.
+
+548
+00:52:20,891 --> 00:52:22,226
+Sungguh,
+
+549
+00:52:22,643 --> 00:52:24,603
+belum pernah aku sedekat itu
+dengan kematian.
+
+550
+00:52:25,145 --> 00:52:27,356
+Tak ada petarung yang lebih baik
+di Imperium.
+
+551
+00:52:27,940 --> 00:52:29,399
+Mereka bertarung bagaikan setan.
+
+552
+00:52:29,566 --> 00:52:31,401
+Kekuatan gurun.
+
+553
+00:52:33,820 --> 00:52:35,113
+Duncan.
+
+554
+00:52:35,781 --> 00:52:37,241
+- Kerjamu bagus.
+- Terima kasih, Tuanku.
+
+555
+00:52:37,407 --> 00:52:38,242
+Tuan.
+
+556
+00:52:38,867 --> 00:52:41,328
+Pemimpin mereka punya pisau
+yang tidak mau dia serahkan.
+
+557
+00:52:41,495 --> 00:52:44,206
+<i>Crysknife.</i> Itu keramat bagi rakyatnya.
+
+558
+00:52:44,540 --> 00:52:45,707
+Biarkan dia lewat.
+
+559
+00:53:02,182 --> 00:53:03,016
+Berhenti di situ.
+
+560
+00:53:03,767 --> 00:53:05,435
+Hei!
+
+561
+00:53:10,899 --> 00:53:12,025
+Stilgar.
+
+562
+00:53:12,985 --> 00:53:14,152
+Selamat datang.
+
+563
+00:53:15,529 --> 00:53:19,616
+Aku menghormati martabat orang
+yang menghormati martabatku.
+
+564
+00:53:27,791 --> 00:53:28,709
+Tahan.
+
+565
+00:53:30,419 --> 00:53:31,712
+Terima kasih, Stilgar,
+
+566
+00:53:32,087 --> 00:53:34,715
+untuk hadiah berupa cairan tubuhmu.
+
+567
+00:53:35,674 --> 00:53:37,801
+Kami terima sesuai dengan niatnya.
+
+568
+00:53:45,893 --> 00:53:46,894
+Aku senang kau datang.
+
+569
+00:53:47,936 --> 00:53:51,190
+Aku percaya banyak yang bisa ditawarkan
+oleh bangsa kita.
+
+570
+00:53:51,356 --> 00:53:52,649
+Tidak, kau Orang Luar.
+
+571
+00:53:52,816 --> 00:53:56,904
+Kau datang untuk rempah,
+kau mengambilnya tanpa imbalan.
+
+572
+00:53:58,697 --> 00:53:59,698
+Itu benar.
+
+573
+00:54:01,867 --> 00:54:04,578
+Aku tahu kau menderita
+di tangan Harkonnen.
+
+574
+00:54:05,829 --> 00:54:07,122
+Sebut apa yang kau inginkan.
+
+575
+00:54:07,414 --> 00:54:10,000
+Jika dalam kuasaku,
+aku akan berikan tanpa imbalan.
+
+576
+00:54:10,667 --> 00:54:13,045
+Aku minta ini.
+Jangan mencari <i>sietch</i> kami.
+
+577
+00:54:13,212 --> 00:54:15,589
+Jangan masuk tanah kami tanpa izin.
+
+578
+00:54:16,215 --> 00:54:19,468
+Gurun milik kami
+lama sebelum kau datang.
+
+579
+00:54:19,635 --> 00:54:21,303
+Jadi, silakan ambil rempah,
+
+580
+00:54:21,470 --> 00:54:24,932
+setelah itu,
+kembalilah ke sisi Tembok Perisai ini,
+
+581
+00:54:25,098 --> 00:54:26,850
+dan serahkan gurun kepada Fremen.
+
+582
+00:54:27,017 --> 00:54:29,645
+Panggil Duke
+dengan "tuanku" atau "yang mulia".
+
+583
+00:54:29,811 --> 00:54:31,897
+Gurney... Tunggu sebentar.
+
+584
+00:54:32,356 --> 00:54:33,690
+Kaisar
+
+585
+00:54:33,857 --> 00:54:36,443
+memberikan Arrakis sebagai wilayahku
+
+586
+00:54:36,610 --> 00:54:38,237
+untuk kuperintah dan lindungi.
+
+587
+00:54:38,612 --> 00:54:40,906
+Aku tidak janji tidak pergi ke gurun
+
+588
+00:54:41,073 --> 00:54:43,075
+jika ada tuntutan tugas.
+
+589
+00:54:44,076 --> 00:54:46,411
+Namun, aku takkan mengusik <i>sietch.</i>
+
+590
+00:54:47,162 --> 00:54:49,540
+Kau takkan diburu selama aku memerintah.
+
+591
+00:54:54,127 --> 00:54:55,754
+Itu sangat terhormat.
+
+592
+00:54:56,171 --> 00:54:58,632
+Aku harus pergi.
+Hanya itu yang perlu kukatakan.
+
+593
+00:54:58,799 --> 00:55:00,217
+Kau tak mau tinggal?
+
+594
+00:55:01,009 --> 00:55:02,052
+Kami akan menghormatimu.
+
+595
+00:55:02,594 --> 00:55:05,514
+Kehormatan mengharuskanku
+di tempat lain.
+
+596
+00:55:07,516 --> 00:55:09,935
+{\an8}Aku mengenalimu.
+
+597
+00:55:17,234 --> 00:55:18,443
+Aku tidak suka dia.
+
+598
+00:55:18,610 --> 00:55:20,779
+Rencana kita membuahkan hasil.
+
+599
+00:55:20,946 --> 00:55:22,197
+Namun, apakah butuh waktu?
+
+600
+00:55:22,364 --> 00:55:23,615
+Ya.
+
+601
+00:55:24,616 --> 00:55:26,869
+Butuh waktu.
+
+602
+00:55:29,746 --> 00:55:31,039
+Ini untukmu.
+
+603
+00:55:34,877 --> 00:55:36,086
+Ini <i>paracompass.</i>
+
+604
+00:55:37,045 --> 00:55:39,506
+Bulan di sini punya medan magnet,
+
+605
+00:55:39,673 --> 00:55:41,550
+jadi jarum kompas biasa
+takkan menunjuk ke utara.
+
+606
+00:55:42,384 --> 00:55:44,553
+Dibutuhkan jarum jam pintar
+agar berfungsi.
+
+607
+00:55:44,720 --> 00:55:46,096
+Fremen membuat ini?
+
+608
+00:55:46,555 --> 00:55:49,725
+Juga <i>stillsuit,</i> pemadat pasir,
+dan segala macam alat pintar.
+
+609
+00:55:49,892 --> 00:55:51,768
+Apa itu pemadat pasir?
+
+610
+00:55:54,062 --> 00:55:55,105
+Itu pemadat pasir.
+
+611
+00:55:56,481 --> 00:55:58,650
+Astaga, kau sudah jadi penduduk asli.
+
+612
+00:55:59,193 --> 00:56:00,444
+Kau mengagumi mereka.
+
+613
+00:56:01,737 --> 00:56:03,030
+Benar.
+
+614
+00:56:03,405 --> 00:56:05,782
+Mereka bengis tetapi setia.
+
+615
+00:56:06,200 --> 00:56:07,826
+Mereka terbiasa dengan gurun.
+
+616
+00:56:07,993 --> 00:56:09,161
+Bagian dari gurun.
+
+617
+00:56:09,328 --> 00:56:10,787
+Gurun bagian dari mereka.
+
+618
+00:56:11,622 --> 00:56:12,706
+Tunggu sampai kau melihatnya.
+
+619
+00:56:13,582 --> 00:56:14,958
+Di luar sana indah.
+
+620
+00:56:18,420 --> 00:56:20,380
+<i>Peringatan matahari terbit,
+semua pekerja.</i>
+
+621
+00:56:20,547 --> 00:56:23,342
+<i>Suhu hari ini akan mencapai
+60 derajat Celsius.</i>
+
+622
+00:56:23,509 --> 00:56:28,597
+<i>Saat ini 32 derajat,
+sepuluh menit lagi mencapai 49 derajat.</i>
+
+623
+00:56:29,765 --> 00:56:31,016
+<i>Peringatan terakhir.</i>
+
+624
+00:57:04,424 --> 00:57:06,426
+Hakim Perubahan, Yang Mulia.
+
+625
+00:57:06,593 --> 00:57:08,095
+Dr. Liet Kynes.
+
+626
+00:57:08,637 --> 00:57:10,013
+Tuanku Duke.
+
+627
+00:57:10,889 --> 00:57:12,266
+Selamat datang di Arrakis.
+
+628
+00:57:12,641 --> 00:57:14,476
+Kau Pakar Ekologi Imperial.
+
+629
+00:57:14,726 --> 00:57:16,520
+Terima kasih untuk <i>stillsuit-</i>nya.
+
+630
+00:57:16,687 --> 00:57:18,397
+Itu buatan Fremen.
+
+631
+00:57:18,856 --> 00:57:19,898
+Yang terbaik.
+
+632
+00:57:20,065 --> 00:57:22,818
+Dengan izinmu, Tuan,
+aku harus periksa kostummu...
+
+633
+00:57:24,695 --> 00:57:25,863
+Tidak apa-apa.
+
+634
+00:57:27,573 --> 00:57:29,116
+Tidak apa-apa.
+
+635
+00:57:30,450 --> 00:57:33,412
+Dr. Kynes, kami ada di tanganmu.
+
+636
+00:57:37,875 --> 00:57:42,504
+<i>Stillsuit</i> adalah sistem filtrasi
+yang sangat efisien.
+
+637
+00:57:43,297 --> 00:57:44,882
+Di pagi hari begini pun,
+
+638
+00:57:45,048 --> 00:57:47,593
+kau takkan bertahan dua jam
+tanpa kostum ini.
+
+639
+00:57:48,552 --> 00:57:50,012
+Kostum ini menyejukkan tubuh
+
+640
+00:57:51,013 --> 00:57:53,682
+dan mendaur ulang air
+akibat berkeringat.
+
+641
+00:57:54,975 --> 00:57:57,269
+Gerakan tubuhmu memberikan kekuatan.
+
+642
+00:57:58,312 --> 00:58:02,191
+Di dalam masker, ada tabung
+untuk minum air daur ulang.
+
+643
+00:58:03,192 --> 00:58:06,987
+Jika normal, kostummu takkan kehilangan
+lebih dari setetes air per hari.
+
+644
+00:58:07,321 --> 00:58:08,572
+Sangat mengesankan.
+
+645
+00:58:10,407 --> 00:58:11,617
+Mari kita lihat dirimu.
+
+646
+00:58:13,994 --> 00:58:15,078
+Kau pernah...
+
+647
+00:58:15,579 --> 00:58:16,705
+memakai <i>stillsuit?</i>
+
+648
+00:58:16,872 --> 00:58:18,415
+Tidak, ini pertama kali.
+
+649
+00:58:20,876 --> 00:58:23,253
+Sepatu gurunmu dipasang
+dengan gaya anti slip.
+
+650
+00:58:23,420 --> 00:58:24,588
+Siapa yang mengajarimu?
+
+651
+00:58:25,339 --> 00:58:27,299
+Ini terlihat benar.
+
+652
+00:58:30,260 --> 00:58:33,347
+{\an8}Dia akan mengetahui caramu
+seakan-akan bawaan lahir.
+
+653
+00:58:35,098 --> 00:58:36,099
+Apa kau Fremen?
+
+654
+00:58:38,060 --> 00:58:41,396
+Aku diterima di <i>sietch</i> dan desa.
+
+655
+00:58:41,980 --> 00:58:44,566
+Ayo lihat pasir rempah
+
+656
+00:58:44,733 --> 00:58:47,653
+yang menentukan pencaharianmu.
+
+657
+00:59:25,774 --> 00:59:28,485
+Apa yang kau lakukan
+jika <i>ornithopter-</i>mu jatuh di sini?
+
+658
+00:59:28,652 --> 00:59:30,654
+Sebaiknya jangan jatuh di situ.
+
+659
+00:59:30,821 --> 00:59:32,364
+Itu wilayah cacing.
+
+660
+00:59:35,033 --> 00:59:36,034
+Awan debu.
+
+661
+00:59:37,202 --> 00:59:38,662
+Aku melihatnya.
+
+662
+00:59:39,621 --> 00:59:41,623
+Itu salah satu pemanenmu.
+
+663
+01:00:07,733 --> 01:00:10,694
+Kau bisa lihat rempahnya
+tersebar di permukaan.
+
+664
+01:00:12,237 --> 01:00:14,156
+Kutebak permukaan kaya rempah
+
+665
+01:00:14,323 --> 01:00:15,574
+dari warnanya.
+
+666
+01:00:15,741 --> 01:00:18,327
+Jika lebih tinggi,
+kau dapat pandangan yang lebih baik.
+
+667
+01:00:33,300 --> 01:00:35,594
+Kau lihat pesawat pengintai
+mencari tanda cacing.
+
+668
+01:00:37,638 --> 01:00:39,014
+Tanda cacing?
+
+669
+01:00:39,181 --> 01:00:41,350
+Gelombang pasir bergerak menuju <i>crawler.</i>
+
+670
+01:00:41,517 --> 01:00:45,062
+Cacing mendekati permukaan
+saat mereka menyerang.
+
+671
+01:00:45,896 --> 01:00:47,356
+Jika kau bersabar,
+
+672
+01:00:48,273 --> 01:00:49,816
+kita akan melihatnya.
+
+673
+01:00:50,442 --> 01:00:51,818
+Cacing selalu datang?
+
+674
+01:00:52,152 --> 01:00:54,571
+Selalu. Mereka tertarik suara berirama.
+
+675
+01:00:54,988 --> 01:00:57,032
+Kenapa <i>crawler</i> tidak pakai perisai?
+
+676
+01:00:57,199 --> 01:00:59,493
+Perisai berbahaya di padang pasir.
+
+677
+01:00:59,660 --> 01:01:03,622
+Itu memikat cacing
+dan membuat mereka jadi ganas.
+
+678
+01:01:06,250 --> 01:01:07,251
+Itu seekor cacing?
+
+679
+01:01:19,555 --> 01:01:20,764
+Cacing besar.
+
+680
+01:01:21,431 --> 01:01:22,724
+Matamu tajam.
+
+681
+01:01:23,892 --> 01:01:26,019
+Memanggil <i>crawler</i> Delta Ajax 9.
+
+682
+01:01:26,186 --> 01:01:28,689
+Peringatan tanda cacing.
+Harap merespons.
+
+683
+01:01:28,939 --> 01:01:31,024
+<i>Siapa yang memanggil Delta Ajax 9?</i>
+
+684
+01:01:31,608 --> 01:01:32,442
+<i>Ganti.</i>
+
+685
+01:01:32,609 --> 01:01:34,069
+Mereka tampak cukup tenang.
+
+686
+01:01:34,236 --> 01:01:36,655
+Penerbangan tidak terdaftar.
+Urusan Imperium.
+
+687
+01:01:36,822 --> 01:01:38,824
+Tanda cacing di utara dan timur darimu.
+
+688
+01:01:38,991 --> 01:01:41,076
+3,7 kilometer.
+
+689
+01:01:41,243 --> 01:01:44,496
+<i>Delta Ajax 9, ini Pengintai 1.
+Tanda cacing dikonfirmasi.</i>
+
+690
+01:01:45,998 --> 01:01:48,166
+<i>Bersiaplah untuk kontak.</i>
+
+691
+01:01:51,962 --> 01:01:54,298
+<i>Cacing pada jalur mencegat ke posisimu.</i>
+
+692
+01:01:54,464 --> 01:01:55,966
+<i>Kontak dalam lima menit.</i>
+
+693
+01:01:56,133 --> 01:01:57,968
+Sekarang bagaimana?
+
+694
+01:01:58,135 --> 01:02:00,554
+Mereka panggil <i>carryall
+</i>untuk angkat <i>crawler.</i>
+
+695
+01:02:00,721 --> 01:02:02,806
+Mereka memanen sampai menit terakhir.
+
+696
+01:02:02,973 --> 01:02:04,433
+<i>Memanggil </i>carryall<i> Alpha Zero.</i>
+
+697
+01:02:04,600 --> 01:02:06,351
+<i>Siap untuk rangkaian penambatan.</i>
+
+698
+01:02:06,518 --> 01:02:08,854
+<i>Kontak dalam lima menit. Ganti.</i>
+
+699
+01:02:13,483 --> 01:02:15,360
+<i>Ada yang lihat </i>carryall?
+
+700
+01:02:19,656 --> 01:02:20,949
+Itu dia.
+
+701
+01:02:21,116 --> 01:02:24,786
+<i>Ini </i>carryall<i> Alpha Zero
+menuju Delta Ajax 9.</i>
+
+702
+01:02:25,162 --> 01:02:27,080
+<i>Mendekat dari timurmu.</i>
+
+703
+01:02:27,414 --> 01:02:30,250
+<i>Mengoreksi ketinggian
+dan menyiapkan alat penambatan.</i>
+
+704
+01:02:30,417 --> 01:02:33,629
+<i>Diterima, Alpha Zero.
+Memulai rangkaian penambatan.</i>
+
+705
+01:02:35,756 --> 01:02:37,132
+<i>T-5.</i>
+
+706
+01:02:37,299 --> 01:02:38,300
+<i>Diterima.</i>
+
+707
+01:02:38,467 --> 01:02:39,927
+<i>Bersiaplah untuk terbang dalam 30 detik.</i>
+
+708
+01:02:40,093 --> 01:02:42,930
+<i>Rangkaian penambatan dimulai. Pegangan.</i>
+
+709
+01:02:46,016 --> 01:02:48,393
+<i>Alpha Zero,
+kita melewatkan satu titik kontak.</i>
+
+710
+01:02:48,560 --> 01:02:49,811
+<i>Apa yang terjadi?</i>
+
+711
+01:02:49,978 --> 01:02:51,980
+<i>Salah satu jangkar mati.</i>
+
+712
+01:02:53,023 --> 01:02:54,233
+Sial.
+
+713
+01:02:54,650 --> 01:02:58,487
+Carryall<i> tidak bisa meneruskan.
+Tidak bisa angkat tanpa jangkar itu!</i>
+
+714
+01:02:58,654 --> 01:03:00,364
+<i>Siapa saja!</i>
+
+715
+01:03:00,531 --> 01:03:03,408
+Carryall<i> di sektor ini, harap jawab!</i>
+
+716
+01:03:03,575 --> 01:03:05,452
+<i>Pengintai 1, melapor. Ganti.</i>
+
+717
+01:03:05,619 --> 01:03:07,704
+<i>Hidrolik mati. Takkan bisa.
+Segera evakuasi.</i>
+
+718
+01:03:07,871 --> 01:03:09,373
+<i>- Kontak dalam empat menit.
+- Coba lagi!</i>
+
+719
+01:03:09,665 --> 01:03:11,041
+Berapa orang di <i>crawler</i> itu?
+
+720
+01:03:11,208 --> 01:03:12,417
+21 awak.
+
+721
+01:03:12,584 --> 01:03:13,836
+Kapal kita masing-masing bisa bawa enam.
+
+722
+01:03:14,002 --> 01:03:15,087
+Masih kurang tiga.
+
+723
+01:03:15,838 --> 01:03:16,839
+Kita akan menemukan cara.
+
+724
+01:03:29,351 --> 01:03:31,186
+<i>Ini Duke Leto Atreides.</i>
+
+725
+01:03:31,770 --> 01:03:35,148
+<i>Kami turun untuk menjemput
+awak Delta Ajax 9.</i>
+
+726
+01:03:35,315 --> 01:03:37,192
+<i>Kami mendarat di barat.</i>
+
+727
+01:03:47,536 --> 01:03:49,413
+Setiap generator perisai
+beratnya 100 kg.
+
+728
+01:03:50,205 --> 01:03:52,916
+Gurney, suruh pendamping
+buang generator perisai.
+
+729
+01:03:53,083 --> 01:03:54,001
+Baik, Tuan.
+
+730
+01:03:54,168 --> 01:03:56,170
+Paul, pergi ke belakang <i>ornithopter.</i>
+
+731
+01:03:56,336 --> 01:03:57,337
+Pandu mereka masuk.
+
+732
+01:03:57,504 --> 01:04:01,425
+Delta Ajax 9, taruh tujuh orang
+masing-masing di kapalku sekarang.
+
+733
+01:04:59,816 --> 01:05:01,735
+<i>Kontak dalam dua menit.</i>
+
+734
+01:05:04,029 --> 01:05:06,657
+<i>Semakin dekat.
+Sebaiknya tinggalkan kapal sekarang.</i>
+
+735
+01:05:09,159 --> 01:05:09,993
+Di mana mereka?
+
+736
+01:05:10,160 --> 01:05:12,538
+<i>Pak, ada alasan kenapa protokol dibuat.</i>
+
+737
+01:05:12,704 --> 01:05:14,915
+<i>Jika kita keluar, kita akan mati.</i>
+
+738
+01:05:15,499 --> 01:05:17,793
+<i>Kita bawa banyak rempah.
+Tak bisa ditinggal.</i>
+
+739
+01:05:17,960 --> 01:05:18,794
+Lupakan rempahnya!
+
+740
+01:05:19,294 --> 01:05:21,755
+Aku ingin setiap orang
+keluar dari <i>crawler</i> itu sekarang!
+
+741
+01:05:35,602 --> 01:05:36,603
+Hei!
+
+742
+01:05:36,770 --> 01:05:37,896
+Hei!
+
+743
+01:05:38,063 --> 01:05:40,482
+Tujuh di sini, tujuh di sana!
+
+744
+01:05:42,442 --> 01:05:44,903
+Cepat!
+
+745
+01:05:59,960 --> 01:06:02,754
+Kwisatz Haderach.
+
+746
+01:06:16,018 --> 01:06:19,521
+Kwisatz Haderach <i>bangun.</i>
+
+747
+01:06:28,947 --> 01:06:30,324
+Cepat! Naik!
+
+748
+01:06:39,208 --> 01:06:40,042
+Cacingnya datang!
+
+749
+01:06:43,212 --> 01:06:44,046
+Paul!
+
+750
+01:06:46,507 --> 01:06:47,758
+Paul!
+
+751
+01:06:51,803 --> 01:06:55,015
+Aku mengenali langkahmu, Pak Tua.
+
+752
+01:06:55,682 --> 01:06:56,892
+Bangun!
+
+753
+01:06:57,351 --> 01:06:58,727
+Ayo!
+
+754
+01:07:00,187 --> 01:07:02,439
+Kau kenapa? Ayo! Cepat!
+
+755
+01:07:02,689 --> 01:07:03,941
+Lari!
+
+756
+01:07:29,883 --> 01:07:30,717
+Hei!
+
+757
+01:07:49,361 --> 01:07:50,821
+Diberkatilah Pencipta dan Air-Nya.
+
+758
+01:07:51,864 --> 01:07:54,032
+Diberkatilah kedatangan
+dan kepergian-Nya.
+
+759
+01:07:54,199 --> 01:07:57,035
+Semoga jalan-Nya membersihkan dunia
+
+760
+01:07:57,202 --> 01:07:59,580
+dan menjaga dunia untuk umat-Nya.
+
+761
+01:08:23,270 --> 01:08:24,270
+Hei!
+
+762
+01:08:24,645 --> 01:08:26,648
+- Jangan ambil risiko seperti tadi.
+- Ya.
+
+763
+01:08:26,814 --> 01:08:29,151
+- Kau punya tanggung jawab.
+- Maaf. Takkan terulang.
+
+764
+01:08:29,318 --> 01:08:30,444
+Pergi.
+
+765
+01:08:31,194 --> 01:08:32,446
+Dr. Kynes.
+
+766
+01:08:34,323 --> 01:08:35,823
+Kau melihatnya.
+
+767
+01:08:36,366 --> 01:08:38,327
+Dengan matamu sendiri. Terlihat jelas.
+
+768
+01:08:38,493 --> 01:08:40,621
+Semua yang mereka tinggalkan kacau.
+
+769
+01:08:40,787 --> 01:08:41,872
+Kami dipastikan untuk gagal.
+
+770
+01:08:42,747 --> 01:08:45,167
+<i>Carryall</i> itu sudah tua.
+
+771
+01:08:45,584 --> 01:08:47,627
+Gurun tidak ramah untuk peralatan.
+
+772
+01:08:49,462 --> 01:08:51,048
+Kau tahu apa yang akan terjadi
+
+773
+01:08:51,215 --> 01:08:53,300
+jika produksi rempah
+tidak kembali normal.
+
+774
+01:08:55,594 --> 01:08:59,096
+Aku di sini bukan untuk mendukungmu.
+
+775
+01:08:59,598 --> 01:09:03,727
+Banyak orang sepertimu
+datang dan pergi di Arrakis.
+
+776
+01:09:06,188 --> 01:09:09,774
+Jaga keluargamu baik-baik.
+
+777
+01:09:13,194 --> 01:09:16,156
+Gurun juga tidak ramah kepada manusia.
+
+778
+01:09:32,756 --> 01:09:35,676
+Rempah adalah bahan kimia psikoaktif.
+
+779
+01:09:36,926 --> 01:09:38,804
+Kau terlihat sensitif.
+
+780
+01:09:43,225 --> 01:09:44,225
+Kau akan baik-baik saja.
+
+781
+01:09:45,978 --> 01:09:47,979
+Terima kasih, Dr. Yueh.
+
+782
+01:09:57,531 --> 01:09:59,867
+Itu bukan reaksi alergi.
+
+783
+01:10:01,869 --> 01:10:03,453
+Aku dapat penglihatan.
+
+784
+01:10:06,081 --> 01:10:07,749
+Mataku terbuka lebar.
+
+785
+01:10:09,751 --> 01:10:10,752
+Apa yang kau lihat?
+
+786
+01:10:48,373 --> 01:10:51,960
+Kwisatz Haderach.
+
+787
+01:10:52,127 --> 01:10:55,130
+<i>Kau bisa lihat.</i>
+
+788
+01:11:36,672 --> 01:11:38,257
+<i>Ini membingungkan.</i>
+
+789
+01:11:38,423 --> 01:11:39,842
+<i>Kukira aku melihat kematianku,</i>
+
+790
+01:11:40,008 --> 01:11:41,552
+<i>tetapi bukan kematianku.</i>
+
+791
+01:11:42,427 --> 01:11:46,098
+<i>Aku tahu pisau itu penting.</i>
+
+792
+01:11:48,141 --> 01:11:50,519
+<i>Seseorang akan memberiku bilah,</i>
+
+793
+01:11:50,686 --> 01:11:54,189
+<i>tetapi aku tak tahu siapa, kapan,
+atau di mana.</i>
+
+794
+01:11:56,483 --> 01:12:00,696
+<i>Beberapa hal terlihat jelas.
+Aku bisa merasakannya.</i>
+
+795
+01:12:05,492 --> 01:12:06,952
+<i>Aku tahu kau hamil.</i>
+
+796
+01:12:13,125 --> 01:12:14,877
+Kau tak mungkin tahu itu.
+
+797
+01:12:16,503 --> 01:12:17,629
+Aku nyaris tak mengetahuinya.
+
+798
+01:12:17,796 --> 01:12:19,715
+Baru beberapa minggu.
+
+799
+01:12:26,346 --> 01:12:29,892
+{\an8}SALUSA SECUNDUS
+PLANET TENTARA IMPERIAL
+
+800
+01:13:03,884 --> 01:13:05,928
+{\an8}Kenapa Baron membutuhkan kita?
+
+801
+01:13:06,345 --> 01:13:09,348
+{\an8}Harkonnen melebihi jumlah Atreides.
+
+802
+01:13:10,724 --> 01:13:13,977
+Legiun Atreides
+adalah yang terbaik di Imperium.
+
+803
+01:13:14,478 --> 01:13:16,897
+Dilatih oleh Gurney Halleck
+dan Duncan Idaho.
+
+804
+01:13:17,940 --> 01:13:19,733
+{\an8}Kami adalah Sardaukar.
+
+805
+01:13:20,108 --> 01:13:21,485
+{\an8}Bilah Kaisar.
+
+806
+01:13:22,027 --> 01:13:24,363
+{\an8}Mereka yang melawan kami akan kalah.
+
+807
+01:13:25,280 --> 01:13:26,657
+Benar.
+
+808
+01:13:27,658 --> 01:13:29,243
+Tiga batalion.
+
+809
+01:13:29,409 --> 01:13:30,536
+Sesuai kesepakatan.
+
+810
+01:13:35,999 --> 01:13:38,836
+{\an8}Kaisar memerintahkannya. Dilaksanakan.
+
+811
+01:14:11,118 --> 01:14:13,078
+Kau perlu tahu sesuatu tentang Paul.
+
+812
+01:14:13,245 --> 01:14:14,371
+Tidak.
+
+813
+01:14:15,330 --> 01:14:17,291
+Aku tidak ingin tahu.
+
+814
+01:14:18,000 --> 01:14:19,751
+Sejak kau membawanya ke Bunda Ketua,
+
+815
+01:14:19,918 --> 01:14:21,670
+dia berubah.
+
+816
+01:14:23,380 --> 01:14:24,631
+Dia terganggu.
+
+817
+01:14:26,633 --> 01:14:29,720
+Jessica, kau memberiku seorang putra.
+
+818
+01:14:29,887 --> 01:14:33,098
+Sejak dia lahir,
+aku tak pernah meragukanmu.
+
+819
+01:14:33,265 --> 01:14:35,392
+Aku memercayaimu sepenuhnya.
+
+820
+01:14:35,851 --> 01:14:37,895
+Bahkan ketika kau mencurigakan.
+
+821
+01:14:39,188 --> 01:14:41,023
+Sekarang kutanya satu hal.
+
+822
+01:14:43,734 --> 01:14:45,861
+Jika sesuatu terjadi...
+
+823
+01:14:47,029 --> 01:14:48,322
+kau akan melindungi anak kita?
+
+824
+01:14:50,115 --> 01:14:51,408
+Dengan nyawaku.
+
+825
+01:14:51,575 --> 01:14:54,077
+Aku tidak tanya ibunya.
+Aku tanya Bene Gesserit.
+
+826
+01:14:58,373 --> 01:15:00,334
+Maukah kau melindungi Paul?
+
+827
+01:15:06,089 --> 01:15:07,925
+Kenapa berpikir begini?
+
+828
+01:15:14,473 --> 01:15:16,934
+Leto, ini bukan dirimu.
+
+829
+01:15:22,648 --> 01:15:24,942
+Kupikir kita punya waktu.
+
+830
+01:15:44,086 --> 01:15:46,171
+Selamat malam, Tuan Paul.
+
+831
+01:15:46,755 --> 01:15:48,549
+Selamat malam, Dr. Yueh.
+
+832
+01:15:58,016 --> 01:15:59,268
+<i>Kau harus tidur.</i>
+
+833
+01:16:01,103 --> 01:16:02,437
+Tidak.
+
+834
+01:16:02,604 --> 01:16:03,856
+Tidak seperti itu.
+
+835
+01:16:19,288 --> 01:16:21,415
+Seharusnya aku menikahimu.
+
+836
+01:17:39,826 --> 01:17:41,495
+Hawat. Keamanan.
+
+837
+01:17:43,914 --> 01:17:45,249
+Keamanan.
+
+838
+01:18:48,270 --> 01:18:49,855
+Pak.
+
+839
+01:18:50,814 --> 01:18:52,733
+Perisainya mati.
+
+840
+01:19:01,533 --> 01:19:02,993
+Astaga.
+
+841
+01:19:03,660 --> 01:19:05,871
+Terbangkan semua yang bersenjata! Cepat!
+
+842
+01:19:50,541 --> 01:19:52,292
+Ayo!
+
+843
+01:20:54,271 --> 01:20:56,231
+Ikut aku!
+
+844
+01:21:25,302 --> 01:21:26,303
+Atreides!
+
+845
+01:21:26,470 --> 01:21:27,596
+Atreides!
+
+846
+01:21:56,750 --> 01:21:58,877
+- Sardaukar!
+- Sardaukar!
+
+847
+01:22:21,942 --> 01:22:23,569
+Maaf, Tuanku.
+
+848
+01:22:26,572 --> 01:22:29,449
+Namun, aku telah buat kesepakatan
+dengan Baron.
+
+849
+01:22:31,910 --> 01:22:32,911
+Kenapa?
+
+850
+01:22:33,829 --> 01:22:35,539
+Aku tak punya pilihan.
+
+851
+01:22:36,081 --> 01:22:38,750
+Harkonnen menangkap istriku, Wanna.
+
+852
+01:22:40,002 --> 01:22:42,379
+Mereka menyiksanya dengan keji.
+
+853
+01:22:43,463 --> 01:22:45,465
+Aku akan menebusnya.
+
+854
+01:22:45,632 --> 01:22:47,176
+Dan kaulah harganya.
+
+855
+01:22:50,637 --> 01:22:53,557
+Untuk Paul. Aku akan berusaha sebaiknya.
+
+856
+01:22:54,266 --> 01:22:55,642
+Dan kau,
+
+857
+01:22:56,143 --> 01:22:57,936
+akan membunuh seseorang untukku.
+
+858
+01:23:02,482 --> 01:23:06,028
+Aku akan mengganti gigi kecilmu.
+
+859
+01:23:06,195 --> 01:23:10,240
+Jika kau gigit kuat,
+gigi ini akan hancur.
+
+860
+01:23:11,200 --> 01:23:15,245
+Buang napas,
+dan kau akan mengeluarkan racun.
+
+861
+01:23:15,412 --> 01:23:17,414
+Itu akan menjadi napas terakhirmu.
+
+862
+01:23:18,248 --> 01:23:20,459
+Namun, jika waktunya tepat...
+
+863
+01:23:21,835 --> 01:23:24,046
+Baron juga akan mati.
+
+864
+01:24:57,848 --> 01:24:58,932
+Paul.
+
+865
+01:25:12,905 --> 01:25:14,990
+{\an8}Kita turunkan mereka di gurun.
+
+866
+01:25:16,033 --> 01:25:18,911
+{\an8}Biar cacing menelan mereka.
+
+867
+01:25:20,454 --> 01:25:22,748
+{\an8}Kenapa tak sayat saja leher mereka?
+
+868
+01:25:23,790 --> 01:25:27,127
+{\an8}Kita bisa menghadapi Truthsayer.
+
+869
+01:25:28,253 --> 01:25:30,923
+{\an8}Kita bisa katakan
+kita tidak membunuh mereka.
+
+870
+01:25:38,055 --> 01:25:40,724
+{\an8}Yang ada bekas luka itu tuli.
+
+871
+01:26:21,890 --> 01:26:23,225
+Enyahlah!
+
+872
+01:27:58,987 --> 01:28:01,573
+Aku tak pernah bercinta
+dengan bangsawan.
+
+873
+01:28:04,117 --> 01:28:04,952
+Kau?
+
+874
+01:28:05,536 --> 01:28:07,371
+Tidak semua Bene Gesserit bangsawan.
+
+875
+01:28:07,746 --> 01:28:10,582
+Dia cukup bangsawan bagiku.
+
+876
+01:28:11,583 --> 01:28:13,710
+Kita lempar anak itu ke cacing.
+
+877
+01:28:13,877 --> 01:28:16,004
+Beri dia perpisahan yang panjang.
+
+878
+01:28:16,171 --> 01:28:17,840
+Jangan coba-coba menyentuh ibuku.
+
+879
+01:28:19,174 --> 01:28:20,133
+Jangan bicara.
+
+880
+01:28:26,640 --> 01:28:29,017
+{\an8}Jangan! Kau belum siap.
+
+881
+01:28:31,770 --> 01:28:33,188
+Lepaskan penyumbatnya.
+
+882
+01:28:42,406 --> 01:28:44,324
+Diam.
+
+883
+01:28:45,284 --> 01:28:47,411
+{\an8}Temukan nada yang tepat.
+
+884
+01:28:54,501 --> 01:28:55,961
+{\an8}Kita sudah cukup jauh.
+
+885
+01:28:56,461 --> 01:28:58,463
+{\an8}Mari kita lempar anak itu.
+
+886
+01:29:12,936 --> 01:29:14,271
+Lepaskan penyumbatnya.
+
+887
+01:29:20,736 --> 01:29:21,570
+Bunuh dia.
+
+888
+01:29:30,579 --> 01:29:31,705
+Bebaskan kami.
+
+889
+01:29:45,344 --> 01:29:46,428
+Berhenti!
+
+890
+01:29:46,720 --> 01:29:48,222
+Potong talinya.
+
+891
+01:29:51,016 --> 01:29:52,392
+Berikan pisaunya.
+
+892
+01:30:01,318 --> 01:30:04,238
+Nadamu terlalu dipaksakan.
+
+893
+01:30:12,204 --> 01:30:13,705
+Ini adalah <i>fremkit.</i>
+
+894
+01:30:26,760 --> 01:30:27,803
+Mereka melumpuhkan kapalnya.
+
+895
+01:32:03,357 --> 01:32:06,276
+Dapurmu indah, Sepupu.
+
+896
+01:32:24,545 --> 01:32:27,047
+Ini tulisan tangan Dr. Yueh.
+
+897
+01:32:27,548 --> 01:32:30,008
+"Jika ada yang lolos dari Arrakeen,
+
+898
+01:32:30,175 --> 01:32:32,261
+"ada suar Atreides di <i>fremkit.</i>
+
+899
+01:32:32,427 --> 01:32:34,972
+"Semoga mereka menemukanmu."
+
+900
+01:32:42,396 --> 01:32:43,397
+Tuanku Baron.
+
+901
+01:32:44,815 --> 01:32:45,983
+Dr. Yueh.
+
+902
+01:32:46,149 --> 01:32:47,734
+Pengkhianat.
+
+903
+01:32:48,986 --> 01:32:50,070
+Apa yang kau inginkan?
+
+904
+01:32:51,321 --> 01:32:53,031
+Aku mengacaukan komunikasi
+
+905
+01:32:53,699 --> 01:32:55,200
+dan menurunkan perisai mereka.
+
+906
+01:32:56,827 --> 01:32:59,329
+Kuserahkan Duke dan keluarganya.
+
+907
+01:32:59,496 --> 01:33:01,415
+Sesuai kesepakatan.
+
+908
+01:33:02,040 --> 01:33:04,001
+Apa yang harus kulakukan untukmu?
+
+909
+01:33:04,668 --> 01:33:06,670
+Bebaskan istriku dari penderitaan.
+
+910
+01:33:08,672 --> 01:33:09,673
+Ya.
+
+911
+01:33:43,207 --> 01:33:45,250
+Kataku aku akan membebaskannya.
+
+912
+01:33:45,959 --> 01:33:47,711
+Agar kau bisa bergabung dengannya.
+
+913
+01:33:51,882 --> 01:33:53,300
+Maka bergabunglah dengannya.
+
+914
+01:34:02,768 --> 01:34:04,937
+Menurutmu apa selanjutnya?
+
+915
+01:34:08,690 --> 01:34:10,317
+Ini adalah <i>thumper.</i>
+
+916
+01:34:11,026 --> 01:34:12,611
+Tidak ada <i>stillsuit.</i>
+
+917
+01:34:12,778 --> 01:34:14,571
+Satu hal yang kita butuhkan.
+
+918
+01:34:19,535 --> 01:34:22,871
+Selama ratusan tahun,
+pertikaian kita menelan korban jiwa.
+
+919
+01:34:24,122 --> 01:34:25,749
+Namun, tidak lagi.
+
+920
+01:34:27,376 --> 01:34:30,879
+Anakmu sudah mati. Selirmu sudah mati.
+
+921
+01:34:31,713 --> 01:34:34,424
+Malam ini Keluarga Atreides jatuh.
+
+922
+01:34:37,386 --> 01:34:40,305
+Garis keturunanmu berakhir selamanya.
+
+923
+01:34:53,569 --> 01:34:54,570
+Apa katamu?
+
+924
+01:35:04,705 --> 01:35:06,081
+Di sinilah aku,
+
+925
+01:35:07,416 --> 01:35:09,418
+<i>di sinilah aku tetap ada.</i>
+
+926
+01:36:52,938 --> 01:36:54,106
+Kynes!
+
+927
+01:36:55,065 --> 01:36:56,942
+Di sini tidak aman untukmu.
+
+928
+01:36:57,109 --> 01:36:59,820
+Kau akan mengabari Keluarga Besar
+Landsraad kami dikhianati?
+
+929
+01:36:59,987 --> 01:37:01,905
+Bahwa orang-orang terbaik
+mereka dibunuh?
+
+930
+01:37:02,614 --> 01:37:05,158
+Aku diperintahkan
+untuk tidak mengatakan apa-apa.
+
+931
+01:37:06,159 --> 01:37:07,828
+Tidak melihat apa-apa.
+
+932
+01:37:09,830 --> 01:37:12,207
+Kaisar mengirim kami kemari untuk mati.
+
+933
+01:38:00,464 --> 01:38:02,674
+Ada rempah di tenda.
+
+934
+01:39:28,510 --> 01:39:31,305
+Itu masa depan. Itu akan terjadi.
+
+935
+01:39:45,944 --> 01:39:49,364
+Perang suci meluas di seluruh
+alam semesta bagai api tak terpadamkan.
+
+936
+01:40:02,461 --> 01:40:04,671
+Paul, kau takut. Aku bisa melihatnya.
+
+937
+01:40:05,422 --> 01:40:07,925
+Katakan, apa yang kau takutkan?
+
+938
+01:40:17,476 --> 01:40:19,895
+Tolong aku, kumohon.
+
+939
+01:40:20,604 --> 01:40:21,772
+Paul.
+
+940
+01:40:24,274 --> 01:40:25,108
+Akan datang.
+
+941
+01:40:25,943 --> 01:40:29,196
+<i>Perang suci meluas di seluruh
+alam semesta bagai api tak terpadamkan.</i>
+
+942
+01:40:29,571 --> 01:40:33,659
+Sebuah aliran prajurit yang mengibarkan
+bendera Atreides atas nama ayahku.
+
+943
+01:40:33,825 --> 01:40:34,660
+Paul.
+
+944
+01:40:34,826 --> 01:40:38,622
+Legiun fanatik menyembah
+altar tengkorak ayahku.
+
+945
+01:40:39,540 --> 01:40:41,917
+<i>Perang atas namaku!</i>
+
+946
+01:40:42,084 --> 01:40:43,877
+Semua orang menyerukan namaku!
+
+947
+01:40:44,044 --> 01:40:44,920
+Paul.
+
+948
+01:40:48,632 --> 01:40:50,801
+Paul Atreides.
+
+949
+01:40:50,968 --> 01:40:53,804
+Kau adalah anak ayahmu.
+Kau adalah anakku.
+
+950
+01:40:53,971 --> 01:40:56,974
+Kau adalah Duke Paul Atreides.
+
+951
+01:40:57,641 --> 01:41:00,477
+Kau tahu siapa dirimu.
+
+952
+01:41:00,644 --> 01:41:01,478
+Lepaskan aku!
+
+953
+01:41:03,564 --> 01:41:05,107
+Kau melakukan ini kepadaku!
+
+954
+01:41:05,274 --> 01:41:07,860
+Kalian Bene Gesserit
+membuatku jadi aneh!
+
+955
+01:41:33,010 --> 01:41:35,304
+Ayahku sudah meninggal.
+
+956
+01:42:11,924 --> 01:42:13,300
+Ada orang dekat sini.
+
+957
+01:42:14,301 --> 01:42:15,719
+Kau harus minum.
+
+958
+01:42:17,471 --> 01:42:19,598
+Ini air daur ulang dari tenda.
+
+959
+01:42:27,481 --> 01:42:29,233
+Keringat dan air mata.
+
+960
+01:42:33,028 --> 01:42:34,613
+Ayo kita pergi dari sini.
+
+961
+01:43:47,978 --> 01:43:49,688
+Itu Duncan.
+
+962
+01:43:56,820 --> 01:43:58,071
+Duncan.
+
+963
+01:43:59,656 --> 01:44:00,824
+Nyonya.
+
+964
+01:44:00,991 --> 01:44:01,992
+Paul.
+
+965
+01:44:02,534 --> 01:44:04,745
+Maaf. Ayahmu...
+
+966
+01:44:04,912 --> 01:44:06,121
+Kami tahu.
+
+967
+01:44:08,081 --> 01:44:09,374
+Tuanku Duke.
+
+968
+01:44:22,971 --> 01:44:23,847
+Ini.
+
+969
+01:44:26,016 --> 01:44:27,476
+Minumlah.
+
+970
+01:44:34,983 --> 01:44:38,362
+Harkonnen menyerang semua pusat populasi
+di planet ini sekaligus.
+
+971
+01:44:38,529 --> 01:44:40,948
+Pasti ada sepuluh legiun, ratusan kapal.
+
+972
+01:44:41,114 --> 01:44:42,824
+Sardaukar bersama mereka.
+
+973
+01:44:43,242 --> 01:44:45,160
+- Setidaknya dua batalion.
+- Apa? Kau yakin?
+
+974
+01:44:45,827 --> 01:44:48,330
+Jika kau melawan seorang Sardaukar,
+
+975
+01:44:48,497 --> 01:44:49,498
+kau akan tahu.
+
+976
+01:44:50,791 --> 01:44:53,961
+Kaisar telah berpihak.
+
+977
+01:44:54,878 --> 01:44:56,547
+Apa kata Hakim Perubahan?
+
+978
+01:44:58,215 --> 01:45:00,133
+Kaisar melarangku bicara.
+
+979
+01:45:00,300 --> 01:45:02,052
+Namun, kau ambil risiko menolong kami.
+
+980
+01:45:22,656 --> 01:45:24,283
+Badai akan datang.
+
+981
+01:45:38,422 --> 01:45:40,382
+Badai akan tiba beberapa jam lagi.
+
+982
+01:45:40,549 --> 01:45:41,633
+Kita akan aman di sini.
+
+983
+01:45:43,343 --> 01:45:44,928
+Kau tahu tempat apa ini?
+
+984
+01:45:45,679 --> 01:45:47,931
+Ini stasiun pengujian ekologi tua.
+
+985
+01:45:51,518 --> 01:45:53,270
+Tujuannya untuk menjinakkan planet ini.
+
+986
+01:45:53,437 --> 01:45:55,689
+Membuka air yang terkunci
+di bawah pasir.
+
+987
+01:45:58,859 --> 01:46:01,278
+Arrakis bisa menjadi surga.
+
+988
+01:46:01,445 --> 01:46:04,406
+Pekerjaan telah dimulai,
+tetapi rempah ditemukan.
+
+989
+01:46:04,573 --> 01:46:07,284
+Mendadak, semua ingin pertahankan gurun.
+
+990
+01:46:07,451 --> 01:46:10,287
+Tanat, bisa carikan <i>stillsuit
+</i>untuk tamu kita?
+
+991
+01:46:10,454 --> 01:46:11,580
+Ya, Liet.
+
+992
+01:46:11,747 --> 01:46:13,123
+Shamir, siapkan kopi.
+
+993
+01:46:13,290 --> 01:46:14,708
+Tentu, Liet.
+
+994
+01:46:17,127 --> 01:46:18,962
+Siapa kau di mata Fremen?
+
+995
+01:47:09,096 --> 01:47:12,307
+Kau tahu yang paling ditakuti
+oleh Keluarga Besar, Dr. Kynes?
+
+996
+01:47:13,767 --> 01:47:15,853
+Persis apa yang terjadi
+dengan kita di sini.
+
+997
+01:47:16,937 --> 01:47:19,815
+Sardaukar datang
+dan menghabisi mereka satu per satu.
+
+998
+01:47:22,985 --> 01:47:25,988
+Hanya dengan bersatu
+mereka punya peluang melawan Imperium.
+
+999
+01:47:28,115 --> 01:47:29,825
+Maukah kau menjadi saksi?
+
+1000
+01:47:30,492 --> 01:47:33,412
+Bersaksi bahwa Kaisar menentang kita?
+
+1001
+01:47:33,579 --> 01:47:35,831
+Jika mereka percaya kepadaku,
+
+1002
+01:47:36,623 --> 01:47:40,419
+akan terjadi perang terbuka
+antara Keluarga Besar dan Kaisar.
+
+1003
+01:47:40,586 --> 01:47:42,129
+Kekacauan
+
+1004
+01:47:42,296 --> 01:47:43,630
+di seluruh Imperium.
+
+1005
+01:47:43,922 --> 01:47:47,176
+Mungkin aku bisa memberi Kaisar
+alternatif selain kekacauan.
+
+1006
+01:47:47,926 --> 01:47:49,469
+Kaisar tidak punya anak lelaki.
+
+1007
+01:47:50,012 --> 01:47:51,680
+Putrinya belum menikah.
+
+1008
+01:47:52,055 --> 01:47:54,558
+Kau ingin mengincar takhta?
+
+1009
+01:47:55,017 --> 01:47:58,353
+Kaisar takut akan Atreides.
+Dia membawamu kemari untuk dibunuh.
+
+1010
+01:47:58,520 --> 01:48:00,522
+Apa yang tidak kau pahami?
+
+1011
+01:48:01,106 --> 01:48:04,109
+Kau anak tersesat
+bersembunyi dalam lubang di tanah.
+
+1012
+01:48:08,488 --> 01:48:11,074
+Fremen menyebut soal <i>Lisan al-Gaib.</i>
+
+1013
+01:48:12,075 --> 01:48:13,660
+Hati-hati.
+
+1014
+01:48:14,119 --> 01:48:17,414
+Suara dari Dunia Luar
+yang akan membawa mereka ke surga.
+
+1015
+01:48:18,790 --> 01:48:19,958
+Takhayul.
+
+1016
+01:48:24,880 --> 01:48:27,883
+Aku tahu kau mencintai prajurit Fremen
+dan dia gugur dalam perang.
+
+1017
+01:48:31,345 --> 01:48:34,806
+Aku tahu kau berjalan di dua dunia
+dan dikenal dengan banyak nama.
+
+1018
+01:48:40,187 --> 01:48:41,980
+Aku melihat mimpimu.
+
+1019
+01:48:46,193 --> 01:48:47,402
+Sebagai kaisar, Dr. Kynes,
+
+1020
+01:48:47,569 --> 01:48:50,948
+aku bisa membuat Arrakis jadi surga
+dengan sekali perintah.
+
+1021
+01:48:53,575 --> 01:48:56,453
+{\an8}Menurutmu dia adalah Mahdi?
+
+1022
+01:48:57,496 --> 01:48:59,331
+{\an8}Menurutku dia terlalu muda.
+
+1023
+01:50:46,855 --> 01:50:47,814
+Sardaukar!
+
+1024
+01:50:51,026 --> 01:50:52,194
+Tidak! Duncan!
+
+1025
+01:50:52,361 --> 01:50:53,487
+Paul, tidak!
+
+1026
+01:50:53,654 --> 01:50:54,905
+- Duncan, tidak!
+- Tidak!
+
+1027
+01:50:56,198 --> 01:50:57,366
+- Tidak!
+- Paul, tidak!
+
+1028
+01:50:58,617 --> 01:50:59,785
+Duncan, tidak!
+
+1029
+01:51:00,160 --> 01:51:01,411
+- Dia mengunci pintunya.
+- Duncan!
+
+1030
+01:51:01,578 --> 01:51:02,412
+Tidak!
+
+1031
+01:51:51,670 --> 01:51:52,796
+Dia sudah tiada.
+
+1032
+01:51:53,589 --> 01:51:54,423
+Duncan!
+
+1033
+01:51:54,590 --> 01:51:56,258
+Kita harus pergi. Tidak ada pilihan.
+
+1034
+01:52:03,849 --> 01:52:04,683
+Paul, ayo!
+
+1035
+01:52:05,309 --> 01:52:06,143
+Paul!
+
+1036
+01:52:25,162 --> 01:52:26,663
+Ayo. Ayo!
+
+1037
+01:52:58,737 --> 01:52:59,821
+Ikuti cahaya.
+
+1038
+01:52:59,988 --> 01:53:02,115
+Ada <i>ornithopter</i> siap untuk terbang.
+
+1039
+01:53:02,282 --> 01:53:04,076
+Badai adalah peluang terbaikmu.
+
+1040
+01:53:04,243 --> 01:53:06,828
+Di atas 5.000 meter,
+sebagian besar debu.
+
+1041
+01:53:06,995 --> 01:53:10,916
+Naik ke dalamnya. Tetap di atas.
+Menuju selatan. Cari Fremen.
+
+1042
+01:53:11,083 --> 01:53:12,209
+Kau tidak ikut?
+
+1043
+01:53:12,376 --> 01:53:13,502
+Hanya ada dua kursi.
+
+1044
+01:53:13,669 --> 01:53:15,379
+Aku akan ke stasiun berikutnya
+
+1045
+01:53:15,546 --> 01:53:17,130
+dan melaporkan serangan ini
+ke Landsraad.
+
+1046
+01:53:17,297 --> 01:53:18,507
+Caranya?
+
+1047
+01:53:19,299 --> 01:53:20,676
+Aku seorang Fremen.
+
+1048
+01:53:21,343 --> 01:53:23,011
+Gurun adalah rumahku.
+
+1049
+01:53:23,595 --> 01:53:24,596
+Semoga berhasil.
+
+1050
+01:53:24,763 --> 01:53:25,931
+Semoga berhasil.
+
+1051
+01:56:04,131 --> 01:56:07,050
+{\an8}Kynes. Kau telah mengkhianati Kaisar.
+
+1052
+01:56:07,217 --> 01:56:09,469
+Aku hanya melayani satu tuan.
+
+1053
+01:56:09,636 --> 01:56:12,890
+Namanya <i>Shai-Hulud.</i>
+
+1054
+01:56:57,976 --> 01:56:59,436
+Ada suar jet di belakang.
+
+1055
+01:57:33,428 --> 01:57:35,222
+Paul. Kita tidak cukup tinggi!
+
+1056
+01:58:07,921 --> 01:58:09,256
+Aku tidak boleh takut.
+
+1057
+01:58:09,423 --> 01:58:11,133
+Ketakutan membunuh pikiran.
+
+1058
+01:58:11,300 --> 01:58:14,970
+Ketakutan adalah kematian kecil
+yang membawa pemusnahan.
+
+1059
+01:58:20,601 --> 01:58:23,395
+<i>Lihatlah teman.</i>
+
+1060
+01:58:27,232 --> 01:58:30,068
+<i>Lihatlah teman.</i>
+
+1061
+01:58:33,071 --> 01:58:35,574
+<i>Misteri kehidupan
+bukan masalah untuk dipecahkan...</i>
+
+1062
+01:58:38,911 --> 01:58:41,163
+<i>tetapi kenyataan untuk dialami.</i>
+
+1063
+01:58:44,625 --> 01:58:48,045
+Proses yang tidak dapat dipahami
+dengan menghentikannya.
+
+1064
+01:58:49,296 --> 01:58:51,590
+Kita harus mengikuti aliran proses.
+
+1065
+01:58:52,633 --> 01:58:54,510
+<i>Kita harus menyatu dengannya.</i>
+
+1066
+01:58:55,219 --> 01:58:56,553
+<i>Kita harus mengalir dengannya.</i>
+
+1067
+01:58:56,887 --> 01:58:58,514
+<i>Lepaskan.</i>
+
+1068
+01:58:58,680 --> 01:59:00,641
+<i>Lepaskan.</i>
+
+1069
+01:59:34,591 --> 01:59:37,094
+{\an8}Penyembuhannya belum selesai.
+
+1070
+01:59:47,729 --> 01:59:51,608
+Kami mengejar mereka ke badai Coriolis.
+
+1071
+01:59:53,235 --> 01:59:55,696
+Angin bertiup 800 kilometer per jam.
+
+1072
+02:00:00,492 --> 02:00:02,619
+Tidak ada yang selamat
+dari badai seperti itu.
+
+1073
+02:00:02,786 --> 02:00:04,162
+Mereka sudah mati.
+
+1074
+02:00:05,622 --> 02:00:07,416
+Sudah pasti.
+
+1075
+02:00:14,548 --> 02:00:16,758
+Sudah selesai. Akhirnya.
+
+1076
+02:00:18,927 --> 02:00:20,804
+Kabari Giedi Prime
+
+1077
+02:00:20,971 --> 02:00:23,640
+untuk mulai menjual
+cadangan rempah-rempah.
+
+1078
+02:00:24,516 --> 02:00:26,059
+Namun, pelan-pelan.
+
+1079
+02:00:26,810 --> 02:00:28,562
+Kita tidak ingin harganya turun.
+
+1080
+02:00:29,563 --> 02:00:33,525
+Kau tidak tahu berapa kerugianku
+agar ini terjadi.
+
+1081
+02:00:33,692 --> 02:00:35,986
+Aku hanya punya satu tuntutan.
+
+1082
+02:00:36,528 --> 02:00:37,654
+Pendapatan.
+
+1083
+02:00:38,572 --> 02:00:40,282
+Dapatkan keuntungan, Rabban.
+
+1084
+02:00:41,074 --> 02:00:42,451
+Dapatkan keuntungan besar.
+
+1085
+02:00:42,618 --> 02:00:43,952
+Baik, Paman.
+
+1086
+02:00:45,579 --> 02:00:46,663
+Dan Fremen?
+
+1087
+02:00:47,831 --> 02:00:49,208
+Bunuh mereka semua.
+
+1088
+02:01:12,439 --> 02:01:14,274
+Kita di atas 5.000 meter.
+
+1089
+02:02:52,331 --> 02:02:54,082
+Begitu mendarat, lari ke bebatuan.
+
+1090
+02:04:47,154 --> 02:04:48,906
+Bernapas melalui ini.
+
+1091
+02:05:19,394 --> 02:05:21,438
+Kita harus menemukan Fremen.
+
+1092
+02:05:23,023 --> 02:05:24,316
+Kau baik-baik saja?
+
+1093
+02:05:24,483 --> 02:05:25,609
+Ya.
+
+1094
+02:06:32,801 --> 02:06:34,469
+<i>Paul...</i>
+
+1095
+02:06:41,101 --> 02:06:44,062
+<i>Jangan takut.</i>
+
+1096
+02:06:45,189 --> 02:06:48,150
+<i>Bahkan tikus gurun kecil pun
+bisa bertahan.</i>
+
+1097
+02:06:49,276 --> 02:06:52,487
+<i>Jangan takut.</i>
+
+1098
+02:06:52,654 --> 02:06:54,281
+<i>Kau harus menghadapi rasa takutmu.</i>
+
+1099
+02:06:54,448 --> 02:06:55,866
+<i>Seorang teman...</i>
+
+1100
+02:06:56,116 --> 02:06:59,161
+<i>Seorang teman akan menolongmu.</i>
+
+1101
+02:07:00,579 --> 02:07:02,372
+<i>Ikuti temanmu.</i>
+
+1102
+02:07:05,375 --> 02:07:06,460
+Banyak yang harus kau pelajari.
+
+1103
+02:07:08,795 --> 02:07:11,423
+Aku akan mengajarimu cara-cara gurun.
+
+1104
+02:07:14,801 --> 02:07:16,345
+Ikut aku.
+
+1105
+02:07:44,122 --> 02:07:47,209
+<i>Sietch</i> tempat Duncan tinggal
+
+1106
+02:07:47,876 --> 02:07:49,962
+ada di suatu tempat ke arah sana.
+
+1107
+02:07:52,381 --> 02:07:54,800
+Aku bisa melihat tanaman hijau di sana.
+
+1108
+02:07:55,259 --> 02:07:56,301
+Di sana.
+
+1109
+02:07:56,468 --> 02:07:58,512
+Berarti Fremen tinggal di sana.
+
+1110
+02:08:02,933 --> 02:08:05,018
+Kita akan menyeberang setelah gelap.
+
+1111
+02:08:05,185 --> 02:08:07,062
+Begitu cara Fremen melakukannya.
+
+1112
+02:08:10,232 --> 02:08:12,192
+Kita akan memasuki wilayah cacing.
+
+1113
+02:08:12,818 --> 02:08:14,486
+Jangan berjalan seperti manusia biasa.
+
+1114
+02:08:14,653 --> 02:08:15,821
+Kita bisa mati.
+
+1115
+02:08:15,988 --> 02:08:18,031
+Kita harus berjalan seperti Fremen.
+
+1116
+02:08:18,198 --> 02:08:19,575
+Ini disebut langkah pasir.
+
+1117
+02:08:19,992 --> 02:08:21,869
+Setidaknya menurut buku film di rumah.
+
+1118
+02:08:22,703 --> 02:08:23,954
+Ya. Baik.
+
+1119
+02:08:24,121 --> 02:08:25,581
+Ikuti aku.
+
+1120
+02:08:25,747 --> 02:08:27,416
+Lakukan gerakan yang sama.
+
+1121
+02:08:40,762 --> 02:08:42,222
+Ini arah yang benar.
+
+1122
+02:10:04,972 --> 02:10:05,973
+Cacingnya dekat.
+
+1123
+02:10:06,932 --> 02:10:08,767
+Ayo pergi dari sini.
+
+1124
+02:10:10,727 --> 02:10:11,728
+Tunggu.
+
+1125
+02:10:13,522 --> 02:10:14,523
+Ini pasir tambur.
+
+1126
+02:10:19,778 --> 02:10:20,821
+Lari!
+
+1127
+02:10:27,035 --> 02:10:28,704
+Cepat!
+
+1128
+02:11:40,692 --> 02:11:41,735
+Itu <i>thumper.</i>
+
+1129
+02:11:47,115 --> 02:11:49,034
+Ada yang menyalakan <i>thumper.</i>
+
+1130
+02:12:03,715 --> 02:12:05,884
+Paul! Lari!
+
+1131
+02:12:20,607 --> 02:12:21,859
+Mereka bisa seberapa besar?
+
+1132
+02:12:22,025 --> 02:12:23,193
+Itu gila.
+
+1133
+02:12:27,948 --> 02:12:29,449
+Ada yang memanggilnya.
+
+1134
+02:12:39,543 --> 02:12:41,753
+{\an8}Kita tidak sendirian.
+
+1135
+02:13:01,607 --> 02:13:03,233
+Jangan lari.
+
+1136
+02:13:04,276 --> 02:13:06,695
+Kau akan membuang-buang cairan tubuh.
+
+1137
+02:13:07,905 --> 02:13:08,739
+Tahan.
+
+1138
+02:13:16,538 --> 02:13:17,539
+Stilgar.
+
+1139
+02:13:17,706 --> 02:13:18,540
+Hei!
+
+1140
+02:13:19,166 --> 02:13:22,211
+Kau tahu aku. Aku ada
+saat kau datang ke Dewan ayahku.
+
+1141
+02:13:23,337 --> 02:13:25,380
+Ini anak Duke.
+
+1142
+02:13:25,547 --> 02:13:27,049
+Kenapa kau menunggu?
+
+1143
+02:13:27,216 --> 02:13:28,300
+Kita butuh air mereka.
+
+1144
+02:13:29,259 --> 02:13:31,345
+Ini anak yang kuceritakan.
+
+1145
+02:13:31,512 --> 02:13:32,846
+Kita tidak bisa menyakitinya.
+
+1146
+02:13:33,847 --> 02:13:35,766
+{\an8}Bagaimana dia bisa
+menjadi Lisan al-Gaib?
+
+1147
+02:13:36,016 --> 02:13:37,059
+{\an8}Dia belum membuktikan dirinya.
+
+1148
+02:13:37,226 --> 02:13:38,393
+{\an8}Mereka orang lemah.
+
+1149
+02:13:38,560 --> 02:13:39,770
+Jamis.
+
+1150
+02:13:40,479 --> 02:13:44,525
+Mereka menyeberang dengan berani
+di jalan <i>Shai-Hulud.</i>
+
+1151
+02:13:45,442 --> 02:13:48,403
+Dia tidak berbicara
+atau bertindak seperti orang lemah.
+
+1152
+02:13:49,530 --> 02:13:51,240
+Ayahnya juga tidak.
+
+1153
+02:13:51,406 --> 02:13:53,367
+<i>Thumper-</i>ku menyelamatkan nyawanya.
+
+1154
+02:13:54,076 --> 02:13:56,411
+Pakai akal sehat, Stilgar.
+
+1155
+02:13:56,578 --> 02:13:58,247
+Dia bukan Yang Ditakdirkan.
+
+1156
+02:14:01,041 --> 02:14:02,751
+Kami punya teman-teman yang berkuasa.
+
+1157
+02:14:02,918 --> 02:14:05,963
+Bantu kami ke planet lain, ke Caladan,
+
+1158
+02:14:06,129 --> 02:14:07,339
+kau akan dapat imbalan.
+
+1159
+02:14:07,506 --> 02:14:10,092
+Kekayaan apa yang bisa kau tawarkan
+selain air
+
+1160
+02:14:10,259 --> 02:14:11,760
+dalam dagingmu?
+
+1161
+02:14:16,723 --> 02:14:18,308
+Anak ini masih muda.
+
+1162
+02:14:18,475 --> 02:14:20,602
+Dia bisa belajar cara kita.
+
+1163
+02:14:20,769 --> 02:14:22,855
+Dia mungkin bisa dapat suaka.
+
+1164
+02:14:23,522 --> 02:14:25,732
+Namun, wanita ini tidak terlatih...
+
+1165
+02:14:28,485 --> 02:14:29,903
+dan terlalu tua untuk belajar.
+
+1166
+02:15:02,311 --> 02:15:03,228
+Mundur.
+
+1167
+02:15:04,938 --> 02:15:07,065
+Dia akan memotong leherku.
+
+1168
+02:15:12,237 --> 02:15:14,489
+Kenapa tidak bilang kau wanita mistis?
+
+1169
+02:15:14,656 --> 02:15:16,283
+Dan seorang petarung?
+
+1170
+02:15:16,450 --> 02:15:18,535
+Percakapannya singkat.
+
+1171
+02:15:18,702 --> 02:15:20,787
+Damai, Perempuan.
+
+1172
+02:15:20,954 --> 02:15:22,289
+Damai.
+
+1173
+02:15:23,123 --> 02:15:24,625
+Aku terlalu cepat menilai.
+
+1174
+02:15:33,759 --> 02:15:35,427
+{\an8}Matahari terbit.
+
+1175
+02:15:36,345 --> 02:15:38,180
+{\an8}Kita harus mencapai <i>Sietch</i> Tabr.
+
+1176
+02:15:40,098 --> 02:15:42,267
+{\an8}Nasib orang-orang asing ini
+akan ditentukan di sana.
+
+1177
+02:15:48,065 --> 02:15:49,691
+{\an8}Untuk sementara,
+
+1178
+02:15:50,067 --> 02:15:52,277
+{\an8}mereka menerima dukunganku.
+
+1179
+02:15:54,112 --> 02:15:56,073
+{\an8}Mereka dalam perlindunganku.
+
+1180
+02:16:04,164 --> 02:16:06,291
+Takkan kubiarkan kau
+menyakiti teman-temanku.
+
+1181
+02:16:31,692 --> 02:16:33,568
+Mereka bilang kau <i>Mahdi.</i>
+
+1182
+02:16:34,361 --> 02:16:36,071
+Namun, kau hanya anak kecil.
+
+1183
+02:16:37,698 --> 02:16:38,991
+Kau memilih jalan tersulit.
+
+1184
+02:16:39,156 --> 02:16:40,450
+Ikuti aku.
+
+1185
+02:16:44,162 --> 02:16:45,789
+{\an8}Kita harus pergi!
+
+1186
+02:16:48,040 --> 02:16:49,543
+Berikan kepadaku.
+
+1187
+02:16:56,633 --> 02:16:59,928
+Kau akan menerima pistol maula
+setelah kau pantas.
+
+1188
+02:17:00,304 --> 02:17:01,305
+Berikan kepadaku.
+
+1189
+02:17:07,227 --> 02:17:09,271
+Chani, urus para pendatang baru.
+
+1190
+02:17:09,478 --> 02:17:11,940
+Jaga mereka dalam perjalanan. Ayo.
+
+1191
+02:17:12,107 --> 02:17:13,400
+Aku tidak menerima mereka.
+
+1192
+02:17:20,365 --> 02:17:21,532
+Jamis...
+
+1193
+02:17:21,867 --> 02:17:24,244
+Aku sudah bicara. Tenanglah.
+
+1194
+02:17:24,411 --> 02:17:25,870
+Kau bicara seperti pemimpin.
+
+1195
+02:17:26,955 --> 02:17:28,749
+Namun, yang terkuat memimpin.
+
+1196
+02:17:30,083 --> 02:17:31,834
+Dia mengalahkanmu.
+
+1197
+02:17:33,337 --> 02:17:34,671
+Aku mengajukan <i>amtal.</i>
+
+1198
+02:17:35,839 --> 02:17:38,133
+Kau tidak bisa menantang
+seorang <i>Sayyadina.</i>
+
+1199
+02:17:38,299 --> 02:17:39,425
+Siapa akan mewakilinya?
+
+1200
+02:17:39,800 --> 02:17:42,137
+Jamis, jangan lakukan ini.
+
+1201
+02:17:42,638 --> 02:17:44,723
+Jangan. Malam sebentar lagi berakhir.
+
+1202
+02:17:44,889 --> 02:17:47,643
+Maka matahari akan menyaksikan kematian.
+
+1203
+02:17:47,808 --> 02:17:49,770
+Di mana juaranya?
+
+1204
+02:18:00,697 --> 02:18:02,616
+Aku menerima juaranya.
+
+1205
+02:18:34,231 --> 02:18:38,735
+<i>Paul Atreides harus mati...</i>
+
+1206
+02:18:40,654 --> 02:18:45,200
+<i>agar</i> Kwisatz Haderach <i>bisa bangkit.</i>
+
+1207
+02:18:47,995 --> 02:18:51,039
+<i>Jangan takut.</i>
+
+1208
+02:18:51,748 --> 02:18:53,291
+<i>Jangan melawan.</i>
+
+1209
+02:18:59,423 --> 02:19:01,299
+<i>Ketika kau membunuh orang,</i>
+
+1210
+02:19:02,300 --> 02:19:04,343
+<i>kau membunuh dirimu sendiri.</i>
+
+1211
+02:19:36,001 --> 02:19:38,253
+Aku tidak percaya kau <i>Lisan al-Gaib.</i>
+
+1212
+02:19:39,922 --> 02:19:41,798
+Namun, aku ingin kau mati terhormat.
+
+1213
+02:19:53,519 --> 02:19:56,146
+<i>Crysknife</i> ini pemberian bibiku.
+
+1214
+02:19:59,566 --> 02:20:01,777
+Terbuat dari gigi <i>Shai-Hulud.</i>
+
+1215
+02:20:01,944 --> 02:20:03,570
+Cacing pasir raksasa.
+
+1216
+02:20:05,447 --> 02:20:07,991
+Sebuah kehormatan bagimu
+jika mati sambil memegangnya.
+
+1217
+02:20:12,496 --> 02:20:14,706
+Di mana Orang Asing itu?
+
+1218
+02:20:19,086 --> 02:20:20,963
+Jamis petarung yang baik.
+
+1219
+02:20:22,005 --> 02:20:23,590
+Dia takkan membiarkanmu menderita.
+
+1220
+02:20:25,050 --> 02:20:26,677
+Chani...
+
+1221
+02:20:38,939 --> 02:20:40,107
+Lupakan.
+
+1222
+02:21:35,662 --> 02:21:37,706
+Kiranya pisaumu hancur berkeping-keping.
+
+1223
+02:21:45,589 --> 02:21:47,466
+Sambutlah bilahku.
+
+1224
+02:21:51,053 --> 02:21:52,721
+Dunia ini akan membunuhmu.
+
+1225
+02:21:56,141 --> 02:21:57,643
+Lebih cepat dengan cara ini.
+
+1226
+02:22:37,391 --> 02:22:38,308
+Kau menyerah?
+
+1227
+02:22:41,353 --> 02:22:43,063
+Anak ini tidak tahu aturan kita.
+
+1228
+02:22:43,814 --> 02:22:45,983
+Tidak ada kata menyerah
+dalam aturan <i>amtal.</i>
+
+1229
+02:22:46,149 --> 02:22:47,776
+Hanya kematian jalan keluarnya.
+
+1230
+02:22:56,243 --> 02:22:58,078
+- Dia mempermainkannya?
+- Tidak.
+
+1231
+02:22:59,496 --> 02:23:01,081
+Paul tidak pernah membunuh.
+
+1232
+02:23:11,925 --> 02:23:16,054
+Kwisatz Haderach.
+
+1233
+02:23:19,349 --> 02:23:22,144
+Kwisatz Haderach.
+
+1234
+02:23:22,519 --> 02:23:26,315
+<i>Naiklah. Bangkit.</i>
+
+1235
+02:25:19,011 --> 02:25:20,637
+Kau salah satu dari kami sekarang.
+
+1236
+02:25:20,888 --> 02:25:22,723
+Nyawa ganti nyawa.
+
+1237
+02:25:22,890 --> 02:25:24,766
+Ikut kami ke <i>Sietch</i> Tabr.
+
+1238
+02:25:24,933 --> 02:25:25,809
+Tidak.
+
+1239
+02:25:25,976 --> 02:25:27,477
+Paul harus pergi ke planet lain.
+
+1240
+02:25:27,644 --> 02:25:29,521
+Pasti ada cara. Kau punya penyelundup,
+
+1241
+02:25:29,688 --> 02:25:30,731
+kau punya kapal.
+
+1242
+02:25:30,898 --> 02:25:32,232
+- Tidak.
+- Kau punya...
+
+1243
+02:25:33,317 --> 02:25:35,277
+Kaisar mengirim kita kemari.
+
+1244
+02:25:36,778 --> 02:25:38,447
+Ayahku datang
+
+1245
+02:25:39,406 --> 02:25:41,116
+bukan untuk rempah-rempah,
+
+1246
+02:25:41,825 --> 02:25:43,368
+bukan untuk kekayaannya,
+
+1247
+02:25:44,286 --> 02:25:46,288
+tetapi untuk kekuatan rakyatmu.
+
+1248
+02:25:49,416 --> 02:25:51,376
+Jalanku mengarah ke gurun.
+
+1249
+02:25:54,087 --> 02:25:55,422
+Aku bisa melihatnya.
+
+1250
+02:25:58,008 --> 02:25:59,551
+Jika kau izinkan,
+
+1251
+02:26:00,511 --> 02:26:02,054
+kami akan ikut.
+
+1252
+02:26:50,769 --> 02:26:52,229
+Kekuatan gurun.
+
+1253
+02:26:53,647 --> 02:26:55,232
+Ini baru permulaan.
+
+1254
+02:27:32,352 --> 02:27:34,563
+BERDASARKAN NOVEL DUNE
+KARYA FRANK HERBERT
+
+1255
+02:35:16,233 --> 02:35:18,235
+Terjemahan subtitle
+oleh Nazaret Setiabudi
+
