@@ -1,59 +1,59 @@
 ﻿1
 00:01:42,994 --> 00:01:45,236
-Another glass of...
+Segelas lagi...
 
 2
 00:01:46,569 --> 00:01:47,601
-...rosé?
+...mawar?
 
 3
 00:01:49,209 --> 00:01:52,738
-No.
-The hour is long past.
+TIDAK.
+Jamnya sudah lama berlalu.
 
 4
 00:01:52,738 --> 00:01:53,805
-Check.
+Memeriksa.
 
 5
 00:01:58,042 --> 00:01:59,074
-Check!
+Memeriksa!
 
 6
 00:02:26,312 --> 00:02:27,806
-The case, Santos.
+Kasusnya, Santos.
 
 7
 00:02:27,806 --> 00:02:30,006
-My case. Stand back!
+Kasus saya. Mundur!
 
 8
 00:02:30,006 --> 00:02:31,348
-Do not advance!
+Jangan maju!
 
 9
 00:02:31,348 --> 00:02:32,976
-The case, Santos.
+Kasusnya, Santos.
 
 10
 00:02:32,976 --> 00:02:35,187
-Halt! Evildoer.
+Berhenti! Penjahat.
 
 11
 00:02:35,187 --> 00:02:37,486
-The case, Santos.
+Kasusnya, Santos.
 
 12
 00:02:37,486 --> 00:02:40,654
-Not on your life, waiter.
+Tidak dalam hidupmu, pelayan.
 
 13
 00:02:51,304 --> 00:02:52,798
-Oh, God.
+Ya Tuhan.
 
 14
 00:03:19,057 --> 00:03:20,122
-Go.
+Pergi.
 
 15
 00:03:45,257 --> 00:03:46,984
@@ -61,621 +61,621 @@ Oh, Jamie!
 
 16
 00:03:46,984 --> 00:03:48,920
-<i>Neither Sukie
-nor Jamie are here right now.</i>
+Begitu juga dengan Sukie
+atau Jamie tidak ada di sini sekarang.
 
 17
 00:03:48,920 --> 00:03:50,262
-<i>Leave a message.</i>
+Tinggalkan pesan.
 
 18
 00:03:50,262 --> 00:03:51,626
-<i>Hey, Jamie.</i>
+Hei, Jamie.
 
 19
 00:03:51,626 --> 00:03:53,122
-<i>Are you there?</i>
+Apa kamu di sana?
 
 20
 00:03:53,122 --> 00:03:54,992
-<i>Just wondering,
-are you and Sukie</i>
+Hanya ingin tahu,
+apakah kamu dan Sukie
 
 21
 00:03:54,992 --> 00:03:57,060
-- <i>going to shot night tonight?</i>
-- Oh, my God!
+- akan syuting malam ini?
+- Ya Tuhan!
 
 22
 00:03:57,060 --> 00:03:59,337
-<i>I don't want to be
-stuck there not knowing anyone.</i>
+Saya tidak ingin menjadi seperti itu
+terjebak di sana tanpa mengenal siapa pun.
 
 23
 00:03:59,337 --> 00:04:00,470
-<i>Maybe Carla's going.</i>
+Mungkin Carla akan pergi.
 
 24
 00:04:00,470 --> 00:04:01,966
-<i>Do you know if Carla's going?</i>
+Tahukah kamu jika Carla akan pergi?
 
 25
 00:04:01,966 --> 00:04:03,033
-Are you going?
+Apakah kamu akan pergi?
 
 26
 00:04:04,408 --> 00:04:05,607
-<i>Anyway,
-call me if you would.</i>
+Bagaimanapun,
+hubungi saya jika Anda mau.
 
 27
 00:04:05,607 --> 00:04:07,070
-Come on, back to mama.
+Ayo kembali ke mama.
 
 28
 00:04:07,070 --> 00:04:08,808
-<i>Hope you and Sukie
-are doing well.</i>
+Semoga Anda dan Sukie
+baik-baik saja.
 
 29
 00:04:08,808 --> 00:04:10,777
-<i>Miss you, friend. It's Marian.</i>
+Merindukan mu, teman. Itu Marian.
 
 30
 00:04:13,782 --> 00:04:15,353
-Hey. Marian.
+Hai. Marian.
 
 31
 00:04:16,422 --> 00:04:17,685
-Hi, Bart.
+Hai, Bart.
 
 32
 00:04:17,685 --> 00:04:20,655
-Say, what are you doing
-tomorrow night?
+Katakan, apa yang kamu lakukan
+besok malam?
 
 33
 00:04:20,655 --> 00:04:22,118
-There's a Phish concert.
+Ada konser Phish.
 
 34
 00:04:22,118 --> 00:04:23,460
-What?
+Apa?
 
 35
 00:04:23,460 --> 00:04:25,396
-Phish concert.
+Konser Phish.
 
 36
 00:04:25,396 --> 00:04:27,695
-Great jam band,
-at the Civic Center.
+Band selai yang hebat,
+di Pusat Sipil.
 
 37
 00:04:28,533 --> 00:04:30,258
-Yeah, oh, I...
+Ya, oh, aku...
 
 38
 00:04:30,258 --> 00:04:31,259
-P-H.
+PH.
 
 39
 00:04:31,259 --> 00:04:33,404
-I know how to spell Phish.
+Saya tahu cara mengeja Phish.
 
 40
 00:04:33,404 --> 00:04:35,197
-Y-Yeah, of course.
-I didn't mean to...
+Y-Ya, tentu saja.
+aku tidak bermaksud...
 
 41
 00:04:35,197 --> 00:04:37,903
-- Y-You know, I just meant...
-- Sorry, I have an engagement.
+- K-Kau tahu, maksudku...
+- Maaf, saya punya pertunangan.
 
 42
 00:04:37,903 --> 00:04:40,169
-Okay. Bummer.
+Oke. Kekecewaan.
 
 43
 00:04:40,169 --> 00:04:42,171
-Didn't mean to, you know...
+Tidak bermaksud begitu, kamu tahu...
 
 44
 00:04:42,171 --> 00:04:43,447
-That's fine.
+Tidak apa-apa.
 
 45
 00:04:43,447 --> 00:04:45,383
-Anyhoo, what about...
+Aduh, bagaimana dengan...
 
 46
 00:04:45,383 --> 00:04:47,418
-Please don't use
-that expression.
+Tolong jangan gunakan
+ekspresi itu.
 
 47
 00:04:47,418 --> 00:04:49,354
-- What expression?
--"Anyhoo."
+- Ekspresi apa?
+-"Apa saja."
 
 48
 00:04:49,354 --> 00:04:51,719
-It's not an expression.
+Itu bukan sebuah ekspresi.
 
 49
 00:04:51,719 --> 00:04:53,391
-What is it?
+Apa itu?
 
 50
 00:04:54,922 --> 00:04:56,053
-A word.
+Kata.
 
 51
 00:04:56,053 --> 00:04:58,055
-Please don't use that word.
+Tolong jangan gunakan kata itu.
 
 52
 00:04:58,055 --> 00:05:00,596
-Okay. You-you free Wednesday?
+Oke. Kamu-kamu bebas hari Rabu?
 
 53
 00:05:00,596 --> 00:05:01,993
-Plus, it's not even a word.
-Not really.
+Ditambah lagi, itu bahkan bukan sebuah kata.
+Tidak terlalu.
 
 54
 00:05:01,993 --> 00:05:03,632
-Okay, sure.
-Free for dinner Wednesday?
+Oke, tentu saja.
+Gratis untuk makan malam hari Rabu?
 
 55
 00:05:03,632 --> 00:05:05,502
-There's a new place
-near me, Montana's.
+Ada tempat baru
+dekat saya, Montana.
 
 56
 00:05:05,502 --> 00:05:07,031
-It's very good.
+Ini sangat bagus.
 
 57
 00:05:07,031 --> 00:05:08,901
-Yeah, the food is trendy,
-but it's super gourmet.
+Ya, makanannya trendi,
+tapi ini super lezat.
 
 58
 00:05:08,901 --> 00:05:11,310
-No, I have an engagement
-Wednesday.
+Tidak, aku punya pertunangan
+Rabu.
 
 59
 00:05:12,137 --> 00:05:14,379
-Okay. Huh. Wednesday, too.
+Oke. Hah. Rabu juga.
 
 60
 00:05:15,844 --> 00:05:18,878
-People don't usually
-call them "engagements."
+Orang biasanya tidak melakukannya
+menyebutnya "pertunangan".
 
 61
 00:05:19,749 --> 00:05:21,485
-Do I tell you how to speak?
+Apakah saya memberi tahu Anda cara berbicara?
 
 62
 00:05:22,312 --> 00:05:23,883
-Yes.
+Ya.
 
 63
 00:05:23,883 --> 00:05:25,588
-The fact remains.
+Faktanya tetap ada.
 
 64
 00:05:25,588 --> 00:05:26,985
-The engagement.
+Pertunangan.
 
 65
 00:05:26,985 --> 00:05:28,624
-That's right.
+Itu benar.
 
 66
 00:05:51,108 --> 00:05:52,274
-Oh, my.
+Astaga.
 
 67
 00:05:52,274 --> 00:05:54,012
-Oh, my God. Oh!
+Ya Tuhan. Oh!
 
 68
 00:05:55,015 --> 00:05:56,311
-My God!
+Tuhanku!
 
 69
 00:06:02,218 --> 00:06:04,726
-<i>Neither Sukie
-nor Jamie are here right now.</i>
+Begitu juga dengan Sukie
+atau Jamie tidak ada di sini sekarang.
 
 70
 00:06:04,726 --> 00:06:06,992
-<i>Leave a message.</i>
+Tinggalkan pesan.
 
 71
 00:06:06,992 --> 00:06:09,159
-Jesus, Marian,
-don't call me during sex.
+Yesus, Maria,
+jangan telepon aku saat berhubungan seks.
 
 72
 00:06:09,159 --> 00:06:10,732
-Yes, I am going tonight.
+Ya, aku akan berangkat malam ini.
 
 73
 00:06:10,732 --> 00:06:12,294
-<i>During sex?</i>
+Saat berhubungan seks?
 
 74
 00:06:13,537 --> 00:06:15,132
-- Hi, Sukie.
-<i>- Wow.</i>
+- Hai, Sukie.
+- Wow.
 
 75
 00:06:17,805 --> 00:06:19,708
-- Who? Here?
-<i>- Yes, there.</i>
+- Siapa? Di Sini?
+- Ya disana.
 
 76
 00:06:19,708 --> 00:06:22,480
-Oh, no one's here, babe.
+Oh, tidak ada orang di sini, sayang.
 
 77
 00:06:22,480 --> 00:06:25,373
-- I was just masturbating.
-<i>- Uh-huh.</i>
+- Aku baru saja melakukan masturbasi.
+- Uh huh.
 
 78
 00:06:25,373 --> 00:06:26,616
-Me... me time.
+Aku... waktuku.
 
 79
 00:06:28,585 --> 00:06:30,686
-Let me turn the video down.
+Biarkan saya mengecilkan videonya.
 
 80
 00:06:41,831 --> 00:06:42,764
-No.
+TIDAK.
 
 81
 00:06:42,764 --> 00:06:44,700
-- What?
-- No.
+- Apa?
+- TIDAK.
 
 82
 00:06:45,472 --> 00:06:46,537
-No what, Carla?
+Tidak apa, Carla?
 
 83
 00:06:46,537 --> 00:06:48,066
-You're not wearing that.
+Anda tidak memakai itu.
 
 84
 00:06:49,135 --> 00:06:51,333
-- I just came from work.
-- I came from Toledo.
+- Saya baru saja pulang kerja.
+- Saya datang dari Toledo.
 
 85
 00:06:51,333 --> 00:06:52,510
-I don't dress like it.
+Saya tidak berpakaian seperti itu.
 
 86
 00:06:52,510 --> 00:06:54,842
-- Is Jamie here?
-- Okay, look.
+- Apakah Jamie ada di sini?
+- Oke, lihat.
 
 87
 00:06:54,842 --> 00:06:57,108
-Keep the coat on.
-Take the shirt off underneath.
+Tetap pakai mantelnya.
+Lepaskan baju di bawahnya.
 
 88
 00:06:57,108 --> 00:06:58,714
-And flaunt my breasts?
+Dan memamerkan payudaraku?
 
 89
 00:06:58,714 --> 00:07:00,551
-I'm not here to peddle my wares.
+Aku di sini bukan untuk menjajakan daganganku.
 
 90
 00:07:00,551 --> 00:07:02,014
-Why else would you be here?
+Kenapa lagi kamu ada di sini?
 
 91
 00:07:02,014 --> 00:07:03,620
-To socialize.
+Untuk bersosialisasi.
 
 92
 00:07:03,620 --> 00:07:05,215
-Hello, girls.
+Halo gadis-gadis.
 
 93
 00:07:06,524 --> 00:07:10,352
-All I hear lately is "Y2K, Y2K."
+Yang saya dengar akhir-akhir ini hanyalah "Y2K, Y2K."
 
 94
 00:07:10,352 --> 00:07:12,354
-But Jamie Dobbs
-is here to say...
+Tapi Jamie Dobbs
+di sini untuk mengatakan...
 
 95
 00:07:12,354 --> 00:07:14,422
-Why not 2K?
+Mengapa tidak 2K?
 
 96
 00:07:16,325 --> 00:07:18,426
-New millennium, bring it on.
+Milenium baru, wujudkanlah.
 
 97
 00:07:20,131 --> 00:07:24,366
-Oh, yeah. It's the last
-body shot competition of 1999
+Oh ya. Ini yang terakhir
+kompetisi tembakan tubuh tahun 1999
 
 98
 00:07:24,366 --> 00:07:25,840
-here at Sugar 'n Spice,
+di sini di Sugar 'n Spice,
 
 99
 00:07:25,840 --> 00:07:28,205
-and Jamie is
-last month's winner,
+dan Jamie adalah
+pemenang bulan lalu,
 
 100
 00:07:28,205 --> 00:07:30,581
-so we are gonna salt you up.
+jadi kami akan memberimu garam.
 
 101
 00:07:32,044 --> 00:07:34,211
-Show us where
-the first lick goes, babe.
+Tunjukkan pada kami di mana
+jilatan pertama hilang, sayang.
 
 102
 00:07:34,211 --> 00:07:36,785
-So, first lick...
+Jadi, jilat dulu...
 
 103
 00:07:39,086 --> 00:07:40,382
-Here.
+Di Sini.
 
 104
 00:07:42,120 --> 00:07:43,693
-God, look at that slut.
+Ya Tuhan, lihat pelacur itu.
 
 105
 00:07:43,693 --> 00:07:44,760
-Oh. Hi, Sukie.
+Oh. Hai, Suki.
 
 106
 00:07:44,760 --> 00:07:46,421
-Don't put that woman
+Jangan taruh wanita itu
 
 107
 00:07:46,421 --> 00:07:48,291
-in front of a crowd
-with a microphone.
+di depan orang banyak
+dengan mikrofon.
 
 108
 00:07:48,291 --> 00:07:51,602
-- And then second lick...
-- Well, she likes to entertain.
+- Lalu jilatan kedua...
+- Yah, dia suka menghibur.
 
 109
 00:07:51,602 --> 00:07:53,703
 Ooh!
-Take it off! Take it off!
+Lepaskan! Lepaskan!
 
 110
 00:07:55,331 --> 00:07:56,464
-Here.
+Di Sini.
 
 111
 00:07:58,466 --> 00:08:00,270
-And then she gets
-this reinforcement.
+Dan kemudian dia mendapatkannya
+penguatan ini.
 
 112
 00:08:00,270 --> 00:08:02,976
-- And then third lick...
-- Do you know who she's fucking?
+- Lalu jilatan ketiga...
+- Apakah kamu tahu siapa dia?
 
 113
 00:08:02,976 --> 00:08:04,714
-I don't know that
-she's seeing anyone.
+Saya tidak tahu itu
+dia sedang berkencan dengan siapa pun.
 
 114
 00:08:04,714 --> 00:08:06,309
-She's seeing you, of course.
+Dia melihatmu, tentu saja.
 
 115
 00:08:06,309 --> 00:08:08,179
-Can I have your shirt?
+Bolehkah aku minta bajumu?
 
 116
 00:08:08,179 --> 00:08:09,521
-Here.
+Di Sini.
 
 117
 00:08:11,314 --> 00:08:12,722
-She's a free spirit.
+Dia berjiwa bebas.
 
 118
 00:08:12,722 --> 00:08:14,152
-I admire her.
+Saya mengagumi dia.
 
 119
 00:08:14,152 --> 00:08:15,857
-Free.
-Yeah, that's the problem.
+Bebas.
+Ya, itulah masalahnya.
 
 120
 00:08:15,857 --> 00:08:18,453
-Put a meter on her pussy,
-we could all retire!
+Letakkan satu meter di vaginanya,
+kita semua bisa pensiun!
 
 121
 00:08:18,453 --> 00:08:19,762
-That's not fair, Sukie.
+Itu tidak adil, Sukie.
 
 122
 00:08:19,762 --> 00:08:24,899
-And a lime wedge... right here!
+Dan irisan jeruk nipis... di sini!
 
 123
 00:08:27,033 --> 00:08:28,430
-Pull that out!
+Tarik itu keluar!
 
 124
 00:08:28,430 --> 00:08:30,740
-That is not a public receptacle!
+Itu bukan wadah umum!
 
 125
 00:08:30,740 --> 00:08:33,105
-- Somebody's gonna get hit.
-- Oh. Hi, Sukie.
+- Seseorang akan tertabrak.
+- Oh. Hai, Suki.
 
 126
 00:08:36,616 --> 00:08:38,308
-I've had it with love.
+Aku sudah mendapatkannya dengan cinta.
 
 127
 00:08:38,308 --> 00:08:40,915
-I know bards and troubadours
-are high on it,
+Saya tahu penyair dan penyanyi
+tinggi di atasnya,
 
 128
 00:08:40,915 --> 00:08:42,851
-but I don't believe
-it's relevant to the modern
+tapi aku tidak percaya
+itu relevan dengan modern
 
 129
 00:08:42,851 --> 00:08:45,282
-20th-- soon-to-be 21st--
-century lesbian.
+20-- sebentar lagi tanggal 21--
+lesbian abad.
 
 130
 00:08:45,282 --> 00:08:47,185
-Here are some carrots.
-Those peas are thawed.
+Ini beberapa wortel.
+Kacang polong itu dicairkan.
 
 131
 00:08:47,185 --> 00:08:49,792
-- This right here is
-what it gets you.
+- Ini dia
+apa manfaatnya bagimu.
 - Mm-hmm.
 
 132
 00:08:49,792 --> 00:08:51,629
-So I've hatched a plan,
-my friend.
+Jadi aku sudah membuat rencana,
+temanku.
 
 133
 00:08:51,629 --> 00:08:52,960
-If you'll come help me
+Jika kamu mau datang bantu aku
 
 134
 00:08:52,960 --> 00:08:54,258
-move my shit
-out of Sukie's tomorrow...
+pindahkan omong kosongku
+keluar dari Sukie besok...
 
 135
 00:08:54,258 --> 00:08:55,666
-I'm not getting
-in the middle of that.
+Saya tidak mengerti
+di tengah-tengah itu.
 
 136
 00:08:55,666 --> 00:08:57,129
-I have my own problems.
+Saya punya masalah sendiri.
 
 137
 00:08:57,129 --> 00:08:58,999
-What problems?
+Masalah apa?
 
 138
 00:08:58,999 --> 00:09:00,495
-Internal.
+Intern.
 
 139
 00:09:00,495 --> 00:09:02,068
-- Internal?
-- Yes.
+- Dalaman?
+- Ya.
 
 140
 00:09:02,068 --> 00:09:03,773
-I don't know
-how else to put it.
+Saya tidak tahu
+bagaimana lagi mengatakannya.
 
 141
 00:09:03,773 --> 00:09:06,039
-Problems with
-what I feel internally.
+Masalah dengan
+apa yang saya rasakan secara internal.
 
 142
 00:09:06,039 --> 00:09:07,942
-How can you have
-internal problems?
+Bagaimana kamu bisa memilikinya
+masalah internal?
 
 143
 00:09:07,942 --> 00:09:09,944
-You got your ass all bricked up.
+Kau membuat pantatmu kacau.
 
 144
 00:09:09,944 --> 00:09:13,112
-I'm not certain, honey darling,
-that you have ever
+Aku tidak yakin, sayang sayang,
+yang pernah kamu alami
 
 145
 00:09:13,112 --> 00:09:17,149
-reached deep inside any orifice
-to scoop out your soul
+mencapai jauh di dalam lubang mana pun
+untuk mengambil jiwamu
 
 146
 00:09:17,149 --> 00:09:19,954
-and fling it shamelessly
-at a fellow human being
+dan melemparkannya tanpa malu-malu
+pada sesama manusia
 
 147
 00:09:19,954 --> 00:09:23,155
-and humiliate yourself
-and grovel and weep
+dan mempermalukan dirimu sendiri
+dan merendahkan diri dan menangis
 
 148
 00:09:23,155 --> 00:09:25,894
-and feel your ego
-completely disintegrate,
+dan rasakan egomu
+benar-benar hancur,
 
 149
 00:09:25,894 --> 00:09:28,028
-otherwise known as
-the glory of love.
+atau dikenal sebagai
+kemuliaan cinta.
 
 150
 00:09:28,028 --> 00:09:29,766
-Please don't eat those peas.
+Tolong jangan makan kacang polong itu.
 
 151
 00:09:29,766 --> 00:09:32,362
-Now, my plan is:
-you come help me pack,
+Sekarang, rencana saya adalah:
+kamu datang bantu aku berkemas,
 
 152
 00:09:32,362 --> 00:09:34,969
-- and then we two...
-- I can't. I'm leaving town.
+- lalu kita berdua...
+- Aku tidak bisa. Aku akan meninggalkan kota.
 
 153
 00:09:34,969 --> 00:09:36,674
-What? I am, too.
-That was my plan.
+Apa? Saya juga.
+Itu adalah rencanaku.
 
 154
 00:09:36,674 --> 00:09:37,741
-Where are you going?
+Kemana kamu pergi?
 
 155
 00:09:37,741 --> 00:09:39,336
@@ -683,384 +683,384 @@ Tallahassee, Florida.
 
 156
 00:09:39,336 --> 00:09:41,646
-Why would anybody go
-to Tallahassee, Florida?
+Mengapa ada orang yang pergi
+ke Tallahassee, Florida?
 
 157
 00:09:41,646 --> 00:09:43,307
-My Aunt Ellis lives there.
+Bibiku Ellis tinggal di sana.
 
 158
 00:09:43,307 --> 00:09:44,946
-Can't she move?
+Tidak bisakah dia bergerak?
 
 159
 00:09:44,946 --> 00:09:47,014
-Tallahassee is very nice.
+Tallahassee sangat bagus.
 
 160
 00:09:47,014 --> 00:09:49,016
-It's not glitzy and gross
-like Miami.
+Itu tidak mewah dan kotor
+seperti Miami.
 
 161
 00:09:49,016 --> 00:09:50,545
-It has live oak
-and Spanish moss.
+Ini memiliki pohon ek hidup
+dan lumut Spanyol.
 
 162
 00:09:50,545 --> 00:09:53,790
-Me and Aunt Ellis go to
-the St. Marks Wildlife Preserve.
+Aku dan Bibi Ellis pergi ke
+Suaka Margasatwa St. Marks.
 
 163
 00:09:53,790 --> 00:09:56,023
-There's good birding.
+Ada pengamatan burung yang bagus.
 
 164
 00:09:56,023 --> 00:09:57,695
-Birding?
+mengamati burung?
 
 165
 00:09:57,695 --> 00:09:59,422
-How have I missed out on this?
+Bagaimana saya bisa melewatkan ini?
 
 166
 00:09:59,422 --> 00:10:01,028
-It's very pleasant.
+Ini sangat menyenangkan.
 
 167
 00:10:01,028 --> 00:10:04,031
-So you just came up with this
-wild hair in your ass to bird.
+Jadi, Anda baru saja memikirkan hal ini
+rambut liar di pantatmu ke burung.
 
 168
 00:10:04,803 --> 00:10:06,132
-I've been unhappy,
+aku sedang tidak bahagia,
 
 169
 00:10:06,132 --> 00:10:08,365
-and I'm starting to snap
-at people at work,
+dan aku mulai membentak
+pada orang-orang di tempat kerja,
 
 170
 00:10:08,365 --> 00:10:09,806
-and it's not fair to them.
+dan itu tidak adil bagi mereka.
 
 171
 00:10:09,806 --> 00:10:12,600
-I'm only impatient with myself.
+Aku hanya tidak sabar pada diriku sendiri.
 
 172
 00:10:12,600 --> 00:10:14,305
-Well, we can fix that.
+Ya, kita bisa memperbaikinya.
 
 173
 00:10:14,305 --> 00:10:16,142
-We'll have you running right
-in no time.
+Kami akan membuat Anda berlari dengan benar
+dalam waktu singkat.
 
 174
 00:10:16,142 --> 00:10:18,177
-That's why we take
-this trip together, honey babe.
+Itu sebabnya kami mengambil
+perjalanan bersama ini, sayang sayang.
 
 175
 00:10:18,177 --> 00:10:21,015
-We get our shit together, together.
+Kita menyelesaikan masalah kita bersama-sama.
 
 176
 00:10:21,015 --> 00:10:22,786
-See, I was gonna take
-some time off,
+Lihat, aku akan mengambilnya
+beberapa waktu istirahat,
 
 177
 00:10:22,786 --> 00:10:25,316
-get a drive-away,
-just go potluck anywhere.
+pergi berkendara,
+pergi seadanya saja ke mana saja.
 
 178
 00:10:25,316 --> 00:10:26,691
-Now you can come with me,
+Sekarang kamu bisa ikut denganku,
 
 179
 00:10:26,691 --> 00:10:28,693
-and we can go to Tallahassee
-and bird.
+dan kita bisa pergi ke Tallahassee
+dan burung.
 
 180
 00:10:28,693 --> 00:10:30,354
-What's a drive-away?
+Apa itu drive-away?
 
 181
 00:10:30,354 --> 00:10:31,696
-Free one-way rental.
+Sewa satu arah gratis.
 
 182
 00:10:31,696 --> 00:10:33,698
-You deliver the car
-to wherever some client
+Anda mengantarkan mobilnya
+ke mana pun beberapa klien
 
 183
 00:10:33,698 --> 00:10:35,029
-of the drive-away company
-wants it,
+dari perusahaan drive-away
+menginginkannya,
 
 184
 00:10:35,029 --> 00:10:37,130
-if they got one going
-near your destination.
+jika mereka berhasil
+dekat tujuan Anda.
 
 185
 00:10:37,130 --> 00:10:39,836
-I don't know
-if you'll like Aunt Ellis.
+Saya tidak tahu
+jika kamu suka Bibi Ellis.
 
 186
 00:10:39,836 --> 00:10:42,201
-Are you kidding? A birder?
+Apa Anda sedang bercanda? Seorang pengamat burung?
 
 187
 00:10:42,201 --> 00:10:45,204
-I'll wear
-my great big old straw hat,
+aku akan memakainya
+topi jerami tuaku yang besar dan besar,
 
 188
 00:10:45,204 --> 00:10:48,174
-and she is going to
-L-O-V-E love me.
+dan dia akan melakukannya
+CINTA cintai aku.
 
 189
 00:10:48,174 --> 00:10:50,011
-You know how
-parents and such love me.
+Anda tahu caranya
+orang tua dan semacamnya mencintaiku.
 
 190
 00:10:50,011 --> 00:10:51,782
-They think I got charisma.
+Mereka pikir saya punya karisma.
 
 191
 00:10:51,782 --> 00:10:54,213
-"Oh, Marian,
-who's your loquacious friend?
+"Oh Marian,
+siapa temanmu yang cerewet?
 
 192
 00:10:54,213 --> 00:10:55,720
-"I just love that
-chatty little girl.
+"Aku hanya menyukainya
+gadis kecil yang cerewet.
 
 193
 00:10:55,720 --> 00:10:56,787
-Isn't she something?"
+Bukankah dia sesuatu?"
 
 194
 00:10:56,787 --> 00:10:58,217
-I'm not sure.
+Saya tidak yakin.
 
 195
 00:10:58,217 --> 00:10:59,757
-Don't go finding a problem here.
+Jangan mencari masalah di sini.
 
 196
 00:10:59,757 --> 00:11:01,583
-This is going to be
-F-U-N-N fun, girl.
+Ini akan terjadi
+MENYENANGKAN menyenangkan, gadis.
 
 197
 00:11:01,583 --> 00:11:04,091
-Just come help me move my stuff
-out of Sukie's tomorrow.
+Datang saja bantu aku memindahkan barang-barangku
+keluar dari Sukie besok.
 
 198
 00:11:04,091 --> 00:11:06,654
-Don't worry,
-she's not even gonna be there.
+Jangan khawatir,
+dia bahkan tidak akan berada di sana.
 
 199
 00:11:06,654 --> 00:11:08,161
-<i>Oh, God!</i>
+Ya Tuhan!
 
 200
 00:11:08,161 --> 00:11:09,833
-Take it! Oh, God!
+Ambil! Ya Tuhan!
 
 201
 00:11:09,833 --> 00:11:12,066
-Sukie, don't.
-What are you doing?
+Suki, jangan.
+Apa yang sedang kamu lakukan?
 
 202
 00:11:12,066 --> 00:11:14,431
-I don't want it anymore.
+Saya tidak menginginkannya lagi.
 
 203
 00:11:14,431 --> 00:11:16,433
-You said
-she wouldn't be here.
+Kamu berkata
+dia tidak akan berada di sini.
 
 204
 00:11:16,433 --> 00:11:19,876
-Sukie, I'm just taking
-my own stuff.
+Sukie, aku hanya mengambil
+barang-barangku sendiri.
 
 205
 00:11:19,876 --> 00:11:21,405
-That was a gift.
+Itu adalah hadiah.
 
 206
 00:11:21,405 --> 00:11:22,978
-I wanted you to have it.
+Aku ingin kamu memilikinya.
 
 207
 00:11:22,978 --> 00:11:27,543
-I don't want it if we're not
-going to both use it!
+Aku tidak mau jika kita tidak melakukannya
+akan keduanya menggunakannya!
 
 208
 00:11:27,543 --> 00:11:29,919
-Sukie, it's your wall dildo.
+Sukie, itu mainan dindingmu.
 
 209
 00:11:29,919 --> 00:11:31,481
-No, no, no, no.
+Tidak tidak tidak tidak.
 
 210
 00:11:31,481 --> 00:11:33,252
-And take Alice, too.
+Dan ajak Alice juga.
 
 211
 00:11:33,252 --> 00:11:34,924
-I never liked her.
+Saya tidak pernah menyukainya.
 
 212
 00:11:34,924 --> 00:11:36,618
-And she won't stop barking!
+Dan dia tidak berhenti menggonggong!
 
 213
 00:11:36,618 --> 00:11:39,060
-How can I take the dog, Sukie?
-I don't have a home.
+Bagaimana caranya aku mengambil anjing itu, Sukie?
+Saya tidak punya rumah.
 
 214
 00:11:39,060 --> 00:11:40,556
-Remember, you kicked me out?
+Ingat, kamu mengusirku?
 
 215
 00:11:41,689 --> 00:11:44,593
-Take Alice. Take the wall dildo.
+Ambil Alice. Ambil dindingnya.
 
 216
 00:11:44,593 --> 00:11:46,738
-It's your dildo,
+Itu mainanmu,
 Susanne.
 
 217
 00:11:49,631 --> 00:11:51,138
-Curlie's Drive-Away,
+Perjalanan Curlie,
 
 218
 00:11:51,138 --> 00:11:53,206
-Pennsylvania's most trusted
-name in car delivery.
+Pennsylvania yang paling tepercaya
+nama dalam pengiriman mobil.
 
 219
 00:11:53,206 --> 00:11:54,570
-Curlie speaking.
+Curlie berbicara.
 
 220
 00:11:54,570 --> 00:11:55,912
-<i>Okay,
-it's going to Tallahassee.</i>
+Oke,
+itu akan ke Tallahassee.
 
 221
 00:11:55,912 --> 00:11:57,639
-Uh-huh. Tallahassee, Florida.
+Uh huh. Tallahassee, Florida.
 
 222
 00:11:57,639 --> 00:11:59,509
-<i>Yeah, you have something
-to write this down?</i>
+Ya, kamu punya sesuatu
+untuk menuliskan ini?
 
 223
 00:11:59,509 --> 00:12:02,710
-Yes, I'm writing it down.
-<i>- To 14 Tinywick Road.</i>
+Ya, aku sedang menuliskannya.
+- Ke 14 Jalan Tinywick.
 
 224
 00:12:02,710 --> 00:12:03,788
-Right.
-<i>- Tallahassee.</i>
+Benar.
+- Tallahassee.
 
 225
 00:12:03,788 --> 00:12:04,954
-Sure.
-<i>- You got it?</i>
+Tentu.
+- Kamu mengerti?
 
 226
 00:12:04,954 --> 00:12:06,582
-- Right. Got it.
-- Can you help us?
+- Benar. Mengerti.
+- Bisakah kamu membantu kami?
 
 227
 00:12:06,582 --> 00:12:08,892
-<i>And it's got to be there
-by end of day tomorrow.</i>
+Dan itu harus ada di sana
+pada akhir hari besok.
 
 228
 00:12:08,892 --> 00:12:10,685
-By tomorrow.
-<i>- No later.</i>
+Besok.
+- Tidak nanti.
 
 229
 00:12:10,685 --> 00:12:12,192
-Uh-huh.
-<i>- Okay.</i>
+Uh huh.
+- Oke.
 
 230
 00:12:12,192 --> 00:12:14,293
-Okay.
-<i>- Over and out.</i>
+Oke.
+- Berkali-kali.
 
 231
 00:12:15,395 --> 00:12:18,198
-Can you help us?
-We need a drive-away.
+Bisakah Anda membantu kami?
+Kami perlu jalan-jalan.
 
 232
 00:12:18,198 --> 00:12:21,267
-$250 deposit and a reference.
+Deposit $250 dan referensi.
 
 233
 00:12:21,267 --> 00:12:22,664
-A reference?
+Referensi?
 
 234
 00:12:22,664 --> 00:12:24,501
-Somebody local
-I can break his balls
+Seseorang lokal
+Saya bisa mematahkan bolanya
 
 235
 00:12:24,501 --> 00:12:26,701
-if you don't show up
-where you're supposed to.
+jika kamu tidak muncul
+di tempat yang seharusnya.
 
 236
 00:12:26,701 --> 00:12:28,406
-His balls.
+Bolanya.
 
 237
 00:12:28,406 --> 00:12:31,244
-Can the reference
-be a woman?
-We don't know a lot of men.
+Bisa referensinya
+menjadi seorang wanita?
+Kami tidak mengenal banyak pria.
 
 238
 00:12:32,280 --> 00:12:33,444
-No kidding.
+Tidak bercanda.
 
 239
 00:12:33,444 --> 00:12:36,117
-- Where do you want to go?
+- Ke mana kamu mau pergi?
 - Tallahassee.
 
 240
@@ -1069,388 +1069,388 @@ Tallahassee?
 
 241
 00:12:39,087 --> 00:12:41,386
-What's wrong with Tallahassee?
-It's very nice.
+Ada apa dengan Tallahassee?
+Itu sangat bagus.
 
 242
 00:12:41,386 --> 00:12:43,058
-There's Spanish moss
-and live oak.
+Ada lumut Spanyol
+dan pohon ek hidup.
 
 243
 00:12:43,058 --> 00:12:44,191
-I think Curlie here...
+Saya pikir Curlie di sini...
 
 244
 00:12:44,191 --> 00:12:45,929
-Don't call me Curlie.
+Jangan panggil aku Curlie.
 
 245
 00:12:46,932 --> 00:12:48,866
-Isn't your name Curlie?
+Bukankah namamu Curlie?
 
 246
 00:12:48,866 --> 00:12:50,032
-My name is Curlie.
+Namaku Curlie.
 
 247
 00:12:50,032 --> 00:12:51,836
-We just met. It's too familiar.
+Kita baru saja bertemu. Itu terlalu familiar.
 
 248
 00:12:51,836 --> 00:12:53,904
-Have you ever been
-to Tallahassee?
+Pernahkah kamu
+ke Tallahassee?
 
 249
 00:12:53,904 --> 00:12:55,202
-No, I got good sense.
+Tidak, aku punya akal sehat.
 
 250
 00:12:55,202 --> 00:12:57,974
-- Your car is a Dodge Aries.
+- Mobilmu adalah Dodge Aries.
 - Oh.
 
 251
 00:12:57,974 --> 00:13:00,504
-Okay. Is that a good car?
+Oke. Apakah itu mobil yang bagus?
 
 252
 00:13:00,504 --> 00:13:02,077
-Not really.
+Tidak terlalu.
 
 253
 00:13:04,180 --> 00:13:05,707
-You sell those shirts?
+Anda menjual kaos itu?
 
 254
 00:13:05,707 --> 00:13:07,742
-There's also a place
-here in Wilmington--
+Ada juga tempat
+di sini di Wilmington--
 
 255
 00:13:07,742 --> 00:13:09,711
-fantastic dyke bar,
-the Butter Churn.
+bar gili yang fantastis,
+Pengaduk Mentega.
 
 256
 00:13:09,711 --> 00:13:11,922
-And this place,
-Levi's Barbecue in Charleston.
+Dan tempat ini,
+Barbekyu Levi di Charleston.
 
 257
 00:13:11,922 --> 00:13:13,781
-Memphis-style barbecue,
-really good.
+Barbekyu ala Memphis,
+sangat bagus.
 
 258
 00:13:13,781 --> 00:13:14,991
-Everyone goes
-to Charlie Vergos',
+Semua orang pergi
+kepada Charlie Vergos,
 
 259
 00:13:14,991 --> 00:13:16,289
-- but it's just...
+- tapi itu hanya...
 - Jamie.
 
 260
 00:13:16,289 --> 00:13:17,455
-It's a straight shot
-to Tallahassee.
+Ini adalah pukulan lurus
+ke Tallahassee.
 
 261
 00:13:17,455 --> 00:13:18,720
-Down and across.
+Ke bawah dan ke seberang.
 
 262
 00:13:18,720 --> 00:13:20,227
-Right here's the world's
-largest Dixie cup
+Inilah dunianya
+cangkir Dixie terbesar
 
 263
 00:13:20,227 --> 00:13:21,789
-outside of Mitchell, Georgia.
+di luar Mitchell, Georgia.
 
 264
 00:13:21,789 --> 00:13:23,527
-Direct route, down and across.
+Rute langsung, turun dan menyeberang.
 
 265
 00:13:23,527 --> 00:13:26,200
-We don't need to see
-the world's largest Dixie cup.
+Kita tidak perlu melihat
+piala Dixie terbesar di dunia.
 
 266
 00:13:26,200 --> 00:13:29,005
-We don't need to enjoy life,
-but as long as we're here...
+Kita tidak perlu menikmati hidup,
+tapi selama kita di sini...
 
 267
 00:13:29,005 --> 00:13:31,370
-The world's largest Dixie cup
-is not life.
+Piala Dixie terbesar di dunia
+bukanlah kehidupan.
 
 268
 00:13:31,370 --> 00:13:33,878
-It's a straight shot on
-the interstate, down and across.
+Ini adalah pukulan lurus
+antar negara bagian, bawah dan seberang.
 
 269
 00:13:33,878 --> 00:13:35,308
-The interstate is not life.
+Antar negara bagian bukanlah kehidupan.
 
 270
 00:13:35,308 --> 00:13:37,244
-It is, more than
-the world's largest Dixie cup.
+Memang lebih dari itu
+piala Dixie terbesar di dunia.
 
 271
 00:13:37,244 --> 00:13:39,180
-You're the one
-that wanted to go birding.
-That's nature.
+Kamu satu-satunya
+yang ingin pergi mengamati burung.
+Itu sifatnya.
 
 272
 00:13:39,180 --> 00:13:40,544
-What's a dyke bar?
-That's not nature?
+Apa itu bar gili?
+Itu bukan alam?
 
 273
 00:13:40,544 --> 00:13:42,546
-Even a Dixie cup,
-you could make an argument.
+Bahkan secangkir Dixie,
+Anda bisa membuat argumen.
 
 274
 00:13:42,546 --> 00:13:44,020
-He said it was a rush job.
+Dia mengatakan itu adalah pekerjaan yang terburu-buru.
 
 275
 00:13:44,020 --> 00:13:45,153
-We're supposed to have
-the car there tomorrow.
+Kita seharusnya melakukannya
+mobil di sana besok.
 
 276
 00:13:45,153 --> 00:13:46,517
-Tomorrow can wait a day.
+Besok bisa menunggu sehari.
 
 277
 00:13:46,517 --> 00:13:48,024
-We could even go to Miami.
+Kita bahkan bisa pergi ke Miami.
 
 278
 00:13:48,024 --> 00:13:49,289
-Bikinis and high heels.
+Bikini dan sepatu hak tinggi.
 
 279
 00:13:51,357 --> 00:13:53,029
-A medical doctor?
+Seorang dokter medis?
 
 280
 00:13:53,029 --> 00:13:54,624
-Or a reverend?
+Atau seorang pendeta?
 
 281
 00:13:54,624 --> 00:13:58,793
-Yeah, no, we don't have
-a discount for men of God, no.
+Ya, tidak, kami tidak punya
+diskon untuk abdi Tuhan, tidak.
 
 282
 00:13:58,793 --> 00:14:00,971
-No, not for medical doctors, either.
+Tidak, tidak juga untuk dokter.
 
 283
 00:14:00,971 --> 00:14:02,665
-Make up your mind--
-which are you?
+Ambil keputusan--
+kamu yang mana?
 
 284
 00:14:02,665 --> 00:14:05,470
-It doesn't matter.
-We have no discounts.
+Tidak masalah.
+Kami tidak memiliki diskon.
 
 285
 00:14:05,470 --> 00:14:08,913
-Our everyday low prices
-are already rock bottom.
+Harga murah kami setiap hari
+sudah berada pada titik terendah.
 
 286
 00:14:08,913 --> 00:14:11,278
-Thank you for calling Curlie's.
+Terima kasih telah menelepon Curlie's.
 
 287
 00:14:12,985 --> 00:14:14,919
-Welcome to Curlie's Drive-Away.
+Selamat datang di Curlie's Drive-Away.
 
 288
 00:14:14,919 --> 00:14:18,483
-Well, we're here.
+Ya, kami di sini.
 
 289
 00:14:18,483 --> 00:14:21,024
-Okay. Who are you?
+Oke. Siapa kamu?
 
 290
 00:14:21,851 --> 00:14:24,654
-- The car.
-- The car?
+- Mobil.
+- Mobil?
 
 291
 00:14:24,654 --> 00:14:26,326
-The Dodge Aries.
+Penghindar Aries.
 
 292
 00:14:26,856 --> 00:14:28,592
-The Dodge Aries?
+Penghindar Aries?
 
 293
 00:14:28,592 --> 00:14:29,934
-What are you, a mynah bird?
+Siapa kamu, burung mynah?
 
 294
 00:14:29,934 --> 00:14:31,100
-I'm Curlie.
+Saya Curlie.
 
 295
 00:14:31,100 --> 00:14:32,970
-I understand that.
+Aku mengerti itu.
 
 296
 00:14:32,970 --> 00:14:34,631
-You're not the Dodge.
+Anda bukan si Penghindar.
 
 297
 00:14:35,502 --> 00:14:38,701
-What do you mean,
-we're not the Dodge?
+Apa maksudmu,
+kita bukan Dodge?
 
 298
 00:14:48,515 --> 00:14:50,713
-What's the big deal?
-The car isn't ours.
+Apa masalahnya?
+Mobil itu bukan milik kita.
 
 299
 00:14:50,713 --> 00:14:53,254
-But it's art, and the car
-is ours till Tallahassee.
+Tapi itu seni, dan mobil
+adalah milik kita sampai Tallahassee.
 
 300
 00:14:53,254 --> 00:14:56,488
-And once we get to Tallahassee,
-it stops being art
-and starts being vandalism.
+Dan begitu kita tiba di Tallahassee,
+itu berhenti menjadi seni
+dan mulai menjadi vandalisme.
 
 301
 00:14:56,488 --> 00:14:58,688
-Fuckety-fuck's sake, Marian,
-it'll come off with a little
+Demi Tuhan, Marian,
+itu akan hilang dengan sedikit
 
 302
 00:14:58,688 --> 00:15:00,327
-- soap and water.
-- It won't.
+- sabun dan air.
+- Itu tidak akan terjadi.
 
 303
 00:15:00,327 --> 00:15:02,296
-- Won't what?
-- Come off with soap and water.
+- Tidak akan apa?
+- Lepaskan dengan sabun dan air.
 
 304
 00:15:02,296 --> 00:15:04,760
-- Well, how do you know?
-- I tried.
+- Nah, bagaimana kamu tahu?
+- Saya mencoba.
 
 305
 00:15:04,760 --> 00:15:06,828
-Marian, it's art.
+Marian, itu seni.
 
 306
 00:15:06,828 --> 00:15:08,170
-Stop saying it's art.
+Berhentilah mengatakan itu seni.
 
 307
 00:15:08,170 --> 00:15:09,831
-That doesn't end all discussion.
+Itu tidak mengakhiri semua diskusi.
 
 308
 00:15:09,831 --> 00:15:11,041
-We're gonna be driving through
+Kami akan melewatinya
 
 309
 00:15:11,041 --> 00:15:13,109
-some conservative towns--
-the South.
+beberapa kota konservatif--
+Selatan.
 
 310
 00:15:13,109 --> 00:15:14,902
-- The Bible Belt.
-- Mm, don't I know it.
+- Sabuk Alkitab.
+- Mm, aku tidak mengetahuinya.
 
 311
 00:15:14,902 --> 00:15:16,871
-Honey, I grew up
-where the Bible Belt
+Sayang, aku sudah dewasa
+di mana Sabuk Alkitab
 
 312
 00:15:16,871 --> 00:15:18,642
-meets the ass crack
-of the Pecos River.
+memenuhi celah pantat
+dari Sungai Pecos.
 
 313
 00:15:18,642 --> 00:15:20,908
-Fort Worth is nowhere near
-the "Pay-cos" River.
+Fort Worth sama sekali tidak dekat
+sungai "Bayar-cos".
 
 314
 00:15:20,908 --> 00:15:23,350
-That's "Peck-us,"
-honey darling.
+Itu adalah "Peck-kita,"
+sayang sayang.
 
 315
 00:15:23,350 --> 00:15:25,957
-And the car art is just a part
-of my larger undertaking.
+Dan seni mobil hanyalah sebagian saja
+dari usaha saya yang lebih besar.
 
 316
 00:15:25,957 --> 00:15:27,189
-My project.
+Proyek saya.
 
 317
 00:15:27,189 --> 00:15:29,224
-What's your project?
+Apa proyekmu?
 
 318
 00:15:29,224 --> 00:15:32,931
-Loosening you up so we can
-get you laid, sugar sweet.
+Melonggarkan Anda sehingga kami bisa
+buat kamu santai, gula manis.
 
 319
 00:15:34,000 --> 00:15:35,329
-How long's it been?
+Sudah berapa lama?
 
 320
 00:15:37,762 --> 00:15:39,102
-Weeks?
+Minggu?
 
 321
 00:15:41,073 --> 00:15:42,303
-Months?
+Bulan?
 
 322
 00:15:43,603 --> 00:15:44,569
-Oh, my God, Marian.
+Ya Tuhan, Marian.
 
 323
 00:15:44,569 --> 00:15:46,934
-Don't tell me it's been years.
+Jangan bilang itu sudah bertahun-tahun.
 
 324
 00:15:46,934 --> 00:15:48,870
-H-How many years? Who was it?
+B-Berapa tahun? Siapa itu?
 
 325
 00:15:48,870 --> 00:15:51,213
-You've had sex since
-what's-her-name, haven't you?
+Anda sudah berhubungan seks sejak itu
+siapa namanya, bukan?
 
 326
 00:15:51,776 --> 00:15:52,808
@@ -1458,19 +1458,19 @@ Donna.
 
 327
 00:15:52,808 --> 00:15:54,315
-Yeah, Donna.
+Ya, Donna.
 
 328
 00:15:57,419 --> 00:15:59,056
-Oh, my God.
+Ya Tuhan.
 
 329
 00:15:59,553 --> 00:16:01,718
-Oh, my God. Donna?
+Ya Tuhan. Donna?
 
 330
 00:16:02,622 --> 00:16:04,886
-She work for Al Gore now?
+Dia bekerja untuk Al Gore sekarang?
 
 331
 00:16:04,886 --> 00:16:06,261
@@ -1478,586 +1478,586 @@ Nader.
 
 332
 00:16:06,261 --> 00:16:08,593
-That's right.
-She just looks like Al Gore.
+Itu benar.
+Dia mirip sekali dengan Al Gore.
 
 333
 00:16:09,860 --> 00:16:11,332
-Wait a minute.
+Tunggu sebentar.
 
 334
 00:16:12,236 --> 00:16:15,270
-You said people of yours
-would come in for it.
+Anda mengatakan orang-orang Anda
+akan datang untuk itu.
 
 335
 00:16:17,505 --> 00:16:18,933
-Yes, I did.
+Ya saya lakukan.
 
 336
 00:16:18,933 --> 00:16:22,277
-You call with a drop-off
-in Tallahassee,
+Anda menelepon dengan pengantaran
+di Tallahassee,
 
 337
 00:16:22,277 --> 00:16:23,773
-and then these broads come in
+lalu cewek-cewek ini masuk
 
 338
 00:16:23,773 --> 00:16:26,248
-and say they're ready
-to go to Tallahassee.
+dan bilang mereka sudah siap
+untuk pergi ke Tallahassee.
 
 339
 00:16:26,248 --> 00:16:28,283
-You gave them the car.
+Anda memberi mereka mobil.
 
 340
 00:16:28,283 --> 00:16:30,087
-You don't know who they were?
+Anda tidak tahu siapa mereka?
 
 341
 00:16:30,087 --> 00:16:31,781
-I told you their names.
+Aku sudah memberitahumu nama mereka.
 
 342
 00:16:31,781 --> 00:16:33,222
-Their names, yes, but...
+Nama mereka, ya, tapi...
 
 343
 00:16:33,222 --> 00:16:35,059
-This place is a dump.
+Tempat ini adalah tempat pembuangan sampah.
 
 344
 00:16:35,059 --> 00:16:37,160
-They drive the car
-instead of you.
+Mereka mengendarai mobil
+bukannya kamu.
 
 345
 00:16:37,160 --> 00:16:38,326
-Is that bad?
+Apakah itu buruk?
 
 346
 00:16:38,326 --> 00:16:39,888
-Bad if they find the goods.
+Buruk jika mereka menemukan barangnya.
 
 347
 00:16:39,888 --> 00:16:42,363
-This place is a pigsty.
-Why don't you get a girl in?
+Tempat ini adalah kandang babi.
+Mengapa kamu tidak mengajak seorang gadis masuk?
 
 348
 00:16:42,363 --> 00:16:43,958
-I like clutter.
+Saya suka kekacauan.
 
 349
 00:16:43,958 --> 00:16:45,300
-They didn't have
-a cellular phone?
+Mereka tidak punya
+telepon seluler?
 
 350
 00:16:45,300 --> 00:16:46,532
-Sterile doesn't work for me.
+Steril tidak bekerja untuk saya.
 
 351
 00:16:46,532 --> 00:16:48,204
-He asked you a question,
-dick-yank.
+Dia menanyakanmu sebuah pertanyaan,
+tarik-menarik.
 
 352
 00:16:48,204 --> 00:16:49,766
 - Dick-yank?
-- Flint.
+- Batu api.
 
 353
 00:16:49,766 --> 00:16:50,998
-I'm a dick-yank?
+Aku orang yang brengsek?
 
 354
 00:16:50,998 --> 00:16:52,406
-Don't antagonize.
+Jangan bermusuhan.
 
 355
 00:16:52,406 --> 00:16:54,001
-It's like talking
-to a bucket of wet cement.
+Ini seperti berbicara
+ke ember semen basah.
 
 356
 00:16:54,001 --> 00:16:55,937
-You wouldn't know wet cement
-if it bit you in the ass.
+Anda tidak akan tahu semen basah
+jika itu menggigitmu di pantat.
 
 357
 00:16:55,937 --> 00:16:57,543
-And you would?
+Dan Anda akan melakukannya?
 
 358
 00:16:57,543 --> 00:16:59,908
-So, there's no way
-to get in contact with them?
+Jadi, tidak mungkin
+untuk menghubungi mereka?
 
 359
 00:17:01,580 --> 00:17:02,779
-Not per se.
+Tidak sendiri.
 
 360
 00:17:02,779 --> 00:17:04,253
-"Per se"?!
+"Sendiri"?!
 
 361
 00:17:04,253 --> 00:17:06,717
-They left a local number.
+Mereka meninggalkan nomor lokal.
 
 362
 00:17:06,717 --> 00:17:09,852
-Everybody's got to leave
-a local number.
+Semua orang harus pergi
+nomor lokal.
 
 363
 00:17:09,852 --> 00:17:11,623
-Someone whose balls I can break.
+Seseorang yang bolanya bisa kupatahkan.
 
 364
 00:17:15,858 --> 00:17:18,036
-Now you've gone and done it.
+Sekarang Anda sudah pergi dan melakukannya.
 
 365
 00:17:22,073 --> 00:17:26,000
 Susanne Shinkleman,
-2431 North Garnet.
+2431 Garnet Utara.
 
 366
 00:17:28,805 --> 00:17:31,511
-You better hope your friends
-deliver that car.
+Lebih baik kamu berharap pada temanmu
+mengantarkan mobil itu.
 
 367
 00:17:33,152 --> 00:17:34,283
-Tomorrow.
+Besok.
 
 368
 00:17:37,453 --> 00:17:39,189
-This is great.
+Ini bagus.
 
 369
 00:17:39,189 --> 00:17:41,554
-This is so slutty.
-I love this.
+Ini sangat jorok.
+Aku suka ini.
 
 370
 00:17:41,554 --> 00:17:44,260
-- Hope they have postcards.
-- Uh, Jamie?
+- Semoga mereka punya kartu pos.
+- Eh, Jamie?
 
 371
 00:17:44,260 --> 00:17:46,163
-All right,
-let's put on our war paint.
+Baiklah,
+ayo kita pakai cat perang kita.
 
 372
 00:17:46,163 --> 00:17:47,362
-The Butter Churn awaits.
+Pengocok Mentega menunggu.
 
 373
 00:17:47,362 --> 00:17:48,759
-Jamie,
-I think I'd prefer to...
+jamie,
+Menurutku, aku lebih memilih untuk...
 
 374
 00:17:48,759 --> 00:17:50,728
-No. No, don't even.
+Tidak. Tidak, bahkan jangan.
 
 375
 00:17:50,728 --> 00:17:51,993
-You come with me.
+Kamu datang denganku.
 
 376
 00:17:51,993 --> 00:17:53,764
-I'll show you how this is done.
+Saya akan menunjukkan cara melakukannya.
 
 377
 00:18:02,445 --> 00:18:04,709
-Hiya. Do you know
-where the Butter Churn is?
+Hai. Tahukah kamu
+di mana Pengocok Mentega berada?
 
 378
 00:18:04,709 --> 00:18:06,315
-It's a dyke bar.
+Ini adalah bar tanggul.
 
 379
 00:18:07,219 --> 00:18:09,549
-Or do you have, like,
-a <i>Time Out Wilmington?</i>
+Atau apakah Anda punya, seperti,
+Waktu Istirahat Wilmington?
 
 380
 00:18:09,549 --> 00:18:12,486
-I mean, is there one with,
-uh, gay/lesbian listings?
+Maksudku, apakah ada yang punya,
+eh, daftar gay/lesbian?
 
 381
 00:18:12,486 --> 00:18:14,488
-You wouldn't have one,
-but do you know
+Anda tidak akan memilikinya,
+tapi tahukah kamu
 
 382
 00:18:14,488 --> 00:18:17,623
-if there's a newsstand
-or a lesbian bookstore?
+jika ada kios koran
+atau toko buku lesbian?
 
 383
 00:18:17,623 --> 00:18:20,626
-You know, Sapphic Wonders,
-something like that?
+Anda tahu, Keajaiban Sapphic,
+sesuatu seperti itu?
 
 384
 00:18:24,731 --> 00:18:26,302
-Hello?
+Halo?
 
 385
 00:18:31,835 --> 00:18:33,507
-Confidence.
+Kepercayaan diri.
 
 386
 00:18:33,507 --> 00:18:36,070
-You got to show that you're
-comfortable with the physical.
+Anda harus menunjukkan bahwa Anda memang benar
+nyaman dengan fisik.
 
 387
 00:18:36,070 --> 00:18:38,446
-This isn't like meeting somebody
-at a NOW convention,
+Ini tidak seperti bertemu seseorang
+di konvensi SEKARANG,
 
 388
 00:18:38,446 --> 00:18:40,415
-where you talk about
-dismantling the patriarchy.
+tempat yang kamu bicarakan
+membongkar patriarki.
 
 389
 00:18:40,415 --> 00:18:42,153
-Jamie, I have done this before.
+Jamie, aku pernah melakukan ini sebelumnya.
 
 390
 00:18:42,153 --> 00:18:43,748
-It's just like this.
+Seperti ini saja.
 
 391
 00:18:43,748 --> 00:18:45,255
-One message.
+Satu pesan.
 
 392
 00:18:45,255 --> 00:18:47,818
-You dig the female body.
+Anda menggali tubuh wanita.
 
 393
 00:18:47,818 --> 00:18:49,160
-Your body.
+Tubuhmu.
 
 394
 00:18:49,160 --> 00:18:51,195
-You're like this.
+Kamu seperti ini.
 
 395
 00:18:52,759 --> 00:18:53,989
-Not like this.
+Tidak seperti ini.
 
 396
 00:18:54,761 --> 00:18:57,058
-"Let's dismantle
-the patriarchy."
+“Mari kita bongkar
+patriarki."
 
 397
 00:18:57,058 --> 00:18:58,125
-I have done this before.
+Saya pernah melakukan ini sebelumnya.
 
 398
 00:18:58,125 --> 00:18:59,533
-I am not a schoolmarm.
+Saya bukan kepala sekolah.
 
 399
 00:18:59,533 --> 00:19:01,095
-You fuck people
-that work for Ralph Nader.
+Dasar orang sialan
+yang berhasil untuk Ralph Nader.
 
 400
 00:19:01,095 --> 00:19:03,031
-- Not only.
-- Only in the last four years.
+- Tidak hanya.
+- Hanya dalam empat tahun terakhir.
 
 401
 00:19:03,031 --> 00:19:04,736
-Three years.
+Tiga tahun.
 
 402
 00:19:06,102 --> 00:19:07,574
-And four months and 14 days.
+Dan empat bulan 14 hari.
 
 403
 00:19:09,609 --> 00:19:12,480
-<i>♪ Peanut, peanut butter ♪</i>
+♪ Kacang tanah, selai kacang ♪
 
 404
 00:19:12,480 --> 00:19:14,042
-Okay.
+Oke.
 
 405
 00:19:14,042 --> 00:19:15,384
-<i>♪ Yeah, it tasted real good,
-but it stuck to my teeth... ♪</i>
+♪ Ya, rasanya enak sekali,
+tapi itu menempel di gigiku... ♪
 
 406
 00:19:15,384 --> 00:19:17,045
-You feeling your body?
+Anda merasakan tubuh Anda?
 
 407
 00:19:17,045 --> 00:19:18,882
-Very much so.
+Sangat banyak sehingga.
 
 408
 00:19:18,882 --> 00:19:20,488
-Okay.
+Oke.
 
 409
 00:19:21,887 --> 00:19:23,458
-Who looks good to you?
+Siapa yang terlihat baik bagimu?
 
 410
 00:19:24,263 --> 00:19:26,758
-<i>♪ Peanut, peanut butter... ♪</i>
+♪ Kacang tanah, selai kacang... ♪
 
 411
 00:19:26,758 --> 00:19:28,265
-They all look fine.
+Semuanya terlihat baik-baik saja.
 
 412
 00:19:29,092 --> 00:19:30,366
-Fine?
+Bagus?
 
 413
 00:19:30,366 --> 00:19:31,664
-Like, "You'll do"?
+Seperti, "Kamu akan melakukannya"?
 
 414
 00:19:31,664 --> 00:19:33,534
-"Please, please
-come home with me, baby.
+"Ku mohon
+pulanglah bersamaku, sayang.
 
 415
 00:19:33,534 --> 00:19:34,997
-"You seem totally okay.
+"Sepertinya kamu baik-baik saja.
 
 416
 00:19:34,997 --> 00:19:36,702
-Are there any other mediocre
-ones like you at home?"
+Apakah ada yang biasa-biasa saja lainnya
+orang-orang sepertimu di rumah?"
 
 417
 00:19:36,702 --> 00:19:38,341
-I didn't say
-they all looked mediocre.
+Saya tidak mengatakannya
+mereka semua tampak biasa-biasa saja.
 
 418
 00:19:38,341 --> 00:19:39,705
-I said they all looked fine.
+Saya bilang mereka semua tampak baik-baik saja.
 
 419
 00:19:39,705 --> 00:19:42,477
-Yeah, but not in
-the sense of "super fine."
+Ya, tapi tidak masuk
+arti "sangat baik".
 
 420
 00:19:42,477 --> 00:19:45,315
-In the sense of
-"fine, whatever."
+Dalam artian
+"baiklah, terserah."
 
 421
 00:19:45,315 --> 00:19:47,218
-Why are you jousting with me?
+Mengapa kamu berkelahi denganku?
 
 422
 00:19:48,111 --> 00:19:49,616
-I'm not jousting.
+Aku tidak sedang berkelahi.
 
 423
 00:19:49,616 --> 00:19:50,848
-I'm asking which of these women
+Saya bertanya yang mana di antara wanita-wanita ini
 
 424
 00:19:50,848 --> 00:19:52,586
-you want to throw up
-against the wall
+kamu ingin muntah
+ke dinding
 
 425
 00:19:52,586 --> 00:19:54,148
-and fuck like
-there's no tomorrow.
+dan bercinta seperti
+tidak ada hari esok.
 
 426
 00:19:54,148 --> 00:19:56,392
-Look, Jamie, I'm not a
-"throw up against the wall
+Dengar, Jamie, aku bukan a
+"muntah ke dinding
 
 427
 00:19:56,392 --> 00:19:58,262
-and fuck the daylights out of"
-kind of person.
+dan hilangkan cahaya siang hari"
+tipe orang.
 
 428
 00:19:58,262 --> 00:19:59,758
-Stop trying to make me
-something I'm not.
+Berhentilah mencoba membuatku
+sesuatu yang bukan aku.
 
 429
 00:19:59,758 --> 00:20:02,024
-I'm just trying to
-get you laid, sugar sweet.
+Saya hanya mencoba
+buat kamu santai, gula manis.
 
 430
 00:20:02,024 --> 00:20:03,190
-They sense it,
+Mereka merasakannya,
 
 431
 00:20:03,190 --> 00:20:04,532
-whether you want to fuck them
+apakah kamu ingin meniduri mereka
 
 432
 00:20:04,532 --> 00:20:05,995
-or you think they're just fine.
+atau menurut Anda mereka baik-baik saja.
 
 433
 00:20:05,995 --> 00:20:07,469
-I have to be me.
+Saya harus menjadi saya.
 
 434
 00:20:07,469 --> 00:20:09,504
-It has to be done
-with authenticity.
+Ini harus diselesaikan
+dengan keaslian.
 
 435
 00:20:09,504 --> 00:20:11,506
-- You mean with authority.
-- I mean with authenticity.
+- Maksudmu dengan otoritas.
+- Maksudku dengan keaslian.
 
 436
 00:20:11,506 --> 00:20:14,201
-Authenticity gets you somebody
-that works for Ralph Nader.
+Keaslian membuat Anda menjadi seseorang
+yang bekerja untuk Ralph Nader.
 
 437
 00:20:14,201 --> 00:20:15,708
-You don't know
-what our life was like.
+Anda tidak tahu
+seperti apa hidup kami.
 
 438
 00:20:15,708 --> 00:20:17,446
-You know nothing
-about its worth.
+Kamu tidak tahu apa-apa
+tentang nilainya.
 
 439
 00:20:17,446 --> 00:20:18,876
-Then why didn't
-the two of you move
+Lalu kenapa tidak
+kalian berdua bergerak
 
 440
 00:20:18,876 --> 00:20:20,878
-to Santa Fe and synchronize
-your menstrual cycles?
+ke Santa Fe dan menyinkronkan
+siklus menstruasi Anda?
 
 441
 00:20:20,878 --> 00:20:22,044
-That didn't happen.
+Itu tidak terjadi.
 
 442
 00:20:22,044 --> 00:20:24,145
-That's why you're here
-in a dyke bar
+Itu sebabnya kamu ada di sini
+di bar tanggul
 
 443
 00:20:24,145 --> 00:20:25,487
-looking for cheap, sleazy sex.
+mencari seks yang murah dan kotor.
 
 444
 00:20:25,487 --> 00:20:26,884
-No, I'm not.
+Tidak, bukan aku.
 
 445
 00:20:27,821 --> 00:20:28,820
-This is not me.
+Ini bukan saya.
 
 446
 00:20:28,820 --> 00:20:29,953
-You're right.
-I can't do this.
+Kamu benar.
+Saya tidak bisa melakukan ini.
 
 447
 00:20:29,953 --> 00:20:31,856
-No, Marian.
+Tidak, Marian.
 
 448
 00:20:31,856 --> 00:20:35,728
-I'm sorry, honey girl.
-I-I'm saying you can do this.
+Maafkan aku, gadis sayang.
+Aku-aku bilang kamu bisa melakukan ini.
 
 449
 00:20:35,728 --> 00:20:37,334
-You can do this.
+Kamu bisa melakukan ini.
 
 450
 00:20:37,334 --> 00:20:39,270
-You can be cheap.
-I promise, honey girl.
+Anda bisa menjadi murah.
+Aku berjanji, gadis sayang.
 
 451
 00:20:39,270 --> 00:20:40,568
-Your best self.
+Dirimu yang terbaik.
 
 452
 00:20:40,568 --> 00:20:41,833
-Jamie, I know
-you're well-intentioned,
+Jamie, aku tahu
+kamu bermaksud baik,
 
 453
 00:20:41,833 --> 00:20:43,538
-but this really isn't
-right for me.
+tapi ini sebenarnya tidak
+tepat untukku.
 
 454
 00:20:43,538 --> 00:20:46,475
-You should stay and enjoy
-your night on the town.
+Anda harus tinggal dan menikmati
+malammu di kota.
 
 455
 00:20:47,511 --> 00:20:49,841
-<i>♪ Yeah, come on,
-open up that jar... ♪</i>
+♪ Ya, ayolah,
+buka toples itu... ♪
 
 456
 00:20:49,841 --> 00:20:51,139
-"On the town"?
+"Di kota"?
 
 457
 00:20:51,139 --> 00:20:53,042
-<i>♪ Put it on that cracker ♪</i>
+♪ Taruh di atas kerupuk itu ♪
 
 458
 00:20:53,042 --> 00:20:55,550
-- <i>♪ Peanut, peanut butter ♪</i>
-- <i>♪ Tastes real fine... ♪</i>
+- ♪ Kacang tanah, selai kacang ♪ 
+- ♪ Rasanya enak sekali... ♪
 
 459
 00:21:00,623 --> 00:21:02,656
-Here we go.
+Ini dia.
 
 460
 00:21:02,656 --> 00:21:04,218
-Right here. Look.
+Disini. Lihat.
 
 461
 00:21:04,218 --> 00:21:05,560
-Hold it. Better.
+Tahan. Lebih baik.
 
 462
 00:21:05,560 --> 00:21:07,727
-Great. Turn.
+Besar. Berbelok.
 
 463
 00:21:09,124 --> 00:21:10,598
@@ -2065,15 +2065,15 @@ Oh.
 
 464
 00:21:12,371 --> 00:21:13,766
-Hello.
+Halo.
 
 465
 00:21:14,802 --> 00:21:16,274
-Good evening.
+Selamat malam.
 
 466
 00:21:18,069 --> 00:21:19,739
-I'm Amber.
+Saya Amber.
 
 467
 00:21:19,739 --> 00:21:21,543
@@ -2081,149 +2081,149 @@ Marian.
 
 468
 00:21:23,844 --> 00:21:25,547
-What you reading?
+Apa yang kamu baca?
 
 469
 00:21:26,649 --> 00:21:29,210
-<i>Europeans</i> by Henry James.
+Eropa oleh Henry James.
 
 470
 00:21:29,210 --> 00:21:31,850
-Wow. Thick one.
+Wow. Yang tebal.
 
 471
 00:21:34,085 --> 00:21:35,788
-Hello, Marian.
+Halo, Marian.
 
 472
 00:21:36,824 --> 00:21:38,395
-Hello.
+Halo.
 
 473
 00:21:39,255 --> 00:21:42,828
-So, is this gonna be
-a threesome?
+Jadi, apakah ini akan terjadi
+bertiga?
 
 474
 00:21:42,828 --> 00:21:43,862
-No.
+TIDAK.
 
 475
 00:21:43,862 --> 00:21:45,831
-No, no.
+Tidak tidak.
 
 476
 00:21:45,831 --> 00:21:48,064
-- No.
-- Oh. Okay.
+- TIDAK.
+- Oh. Oke.
 
 477
 00:21:48,064 --> 00:21:50,506
-Rats.
+Tikus.
 
 478
 00:21:53,135 --> 00:21:54,708
-Well...
+Dengan baik...
 
 479
 00:21:56,041 --> 00:21:57,546
-I'll just...
+Saya hanya akan...
 
 480
 00:23:23,997 --> 00:23:25,502
-How was it?
+Bagaimana itu?
 
 481
 00:23:26,967 --> 00:23:28,164
-Bouncy.
+Goyang.
 
 482
 00:23:32,104 --> 00:23:33,708
-How's your book?
+Bagaimana bukumu?
 
 483
 00:23:34,546 --> 00:23:35,842
-Good.
+Bagus.
 
 484
 00:23:35,842 --> 00:23:38,042
-It's about two free spirits
+Ini tentang dua roh bebas
 
 485
 00:23:38,042 --> 00:23:40,011
-who visit a repressed family
-in New England.
+yang mengunjungi keluarga yang tertekan
+di Inggris Baru.
 
 486
 00:23:40,011 --> 00:23:43,817
-Uh, hello. They are all
-repressed in New England.
+Eh, halo. Mereka semua
+ditekan di New England.
 
 487
 00:23:43,817 --> 00:23:46,380
-That is why we are going
-the other way.
+Itu sebabnya kami akan pergi
+Jalan lain.
 
 488
 00:23:46,380 --> 00:23:47,788
-Although there was
-this one chick
+Meskipun ada
+cewek yang satu ini
 
 489
 00:23:47,788 --> 00:23:49,460
-I screwed once
-from New Hampshire.
+Aku mengacau sekali
+dari New Hampshire.
 
 490
 00:23:49,460 --> 00:23:51,121
-Uh, she got her tongue
-so far in me,
+Uh, dia berhasil menguasai lidahnya
+sejauh ini dalam diriku,
 
 491
 00:23:51,121 --> 00:23:53,288
-I swore it was gonna
-wriggle out my asshole.
+Aku bersumpah itu akan terjadi
+keluar dari bajinganku.
 
 492
 00:23:53,288 --> 00:23:54,861
-No, I'm not kidding.
+Tidak, saya tidak bercanda.
 
 493
 00:23:54,861 --> 00:23:56,764
-They say that there's
-advanced yoga people
+Mereka mengatakan bahwa ada
+orang yoga tingkat lanjut
 
 494
 00:23:56,764 --> 00:23:58,502
-in India supposedly
-who can do that.
+di India seharusnya
+siapa yang bisa melakukan itu.
 
 495
 00:23:58,502 --> 00:24:00,504
-Black belts in cunnilingus.
+Sabuk hitam di cunnilingus.
 
 496
 00:24:00,504 --> 00:24:02,869
-They can even
-cunniling themselves.
+Mereka bahkan bisa
+menipu diri mereka sendiri.
 
 497
 00:24:02,869 --> 00:24:05,168
-They got pictures of it
-in, like, medical texts.
+Mereka punya fotonya
+dalam, seperti, teks medis.
 
 498
 00:24:05,168 --> 00:24:06,477
-You got to ask the librarian.
+Anda harus bertanya kepada pustakawan.
 
 499
 00:24:06,477 --> 00:24:08,435
-They don't keep 'em
-in the stacks.
+Mereka tidak menyimpannya
+di tumpukan.
 
 500
 00:24:08,435 --> 00:24:10,074
-Who wrote your book?
+Siapa yang menulis bukumu?
 
 501
 00:24:11,011 --> 00:24:13,616
@@ -2231,11 +2231,11 @@ Henry James...
 
 502
 00:24:13,616 --> 00:24:15,849
-American writer.
+Penulis Amerika.
 
 503
 00:24:15,849 --> 00:24:18,016
-Famous family. His brother, too.
+Keluarga terkenal. Saudaranya juga.
 
 504
 00:24:18,016 --> 00:24:19,083
@@ -2243,238 +2243,238 @@ Rick?
 
 505
 00:24:20,053 --> 00:24:21,558
-No, I'm kidding.
+Tidak, aku bercanda.
 
 506
 00:24:21,558 --> 00:24:23,417
-I know who Henry James is.
+Saya tahu siapa Henry James.
 
 507
 00:24:23,417 --> 00:24:24,957
-White and uptight.
+Putih dan tegang.
 
 508
 00:24:25,861 --> 00:24:29,258
-They had us read
-<i>Portrait of a Lady</i> in school.
+Mereka menyuruh kami membaca
+Potret Seorang Wanita di sekolah.
 
 509
 00:24:29,258 --> 00:24:31,128
-Boy, that was a great read.
+Wah, itu bacaan yang bagus.
 
 510
 00:24:31,128 --> 00:24:34,131
-Like somebody dragging day-old
-spaghetti across my tits.
+Seperti seseorang yang menyeret hari tua
+spageti di payudaraku.
 
 511
 00:24:34,131 --> 00:24:36,936
-That's a very apt simile.
+Itu sebuah perumpamaan yang sangat tepat.
 
 512
 00:24:36,936 --> 00:24:39,609
-- His prose is labyrinthine.
-- Yeah.
+- Prosanya labirin.
+- Ya.
 
 513
 00:24:39,609 --> 00:24:42,040
-Put me off the whole book thing.
+Singkirkan aku dari keseluruhan masalah buku.
 
 514
 00:24:42,040 --> 00:24:44,273
-Henry James is, in fact,
-the reason that I don't read.
+Henry James sebenarnya adalah
+alasan aku tidak membaca.
 
 515
 00:24:44,273 --> 00:24:46,341
-- Uh-huh.
-- Except road signs.
+- Uh huh.
+- Kecuali rambu-rambu jalan.
 
 516
 00:24:46,341 --> 00:24:48,552
-Uh-huh, yeah. I don't think
-you should've brought
-someone back to the room.
+Uh-hah, ya. Saya tidak berpikir
+kamu seharusnya membawanya
+seseorang kembali ke kamar.
 
 517
 00:24:49,984 --> 00:24:51,445
-Okay.
+Oke.
 
 518
 00:24:51,445 --> 00:24:52,787
-I knew this was coming.
+Aku tahu ini akan terjadi.
 
 519
 00:24:52,787 --> 00:24:54,525
-How do you think I felt?
+Menurutmu bagaimana perasaanku?
 
 520
 00:24:54,525 --> 00:24:56,120
-You told me to have
-a night on the town.
+Kamu menyuruhku untuk memilikinya
+suatu malam di kota.
 
 521
 00:24:56,120 --> 00:24:58,353
-Yeah, people say things.
-It's not always what they feel.
+Ya, orang-orang mengatakan banyak hal.
+Hal ini tidak selalu seperti yang mereka rasakan.
 
 522
 00:24:58,353 --> 00:25:00,663
-Yeah, well, I'm from Texas.
-We don't read minds.
+Ya, saya dari Texas.
+Kami tidak membaca pikiran.
 
 523
 00:25:00,663 --> 00:25:02,027
-We operate on
-a handshake basis.
+Kami melakukan operasi
+dasar jabat tangan.
 
 524
 00:25:02,027 --> 00:25:03,897
-- What does that mean?
--"Hiya. How you doing?
+- Maksudnya itu apa?
+-"Hai. Bagaimana kabarmu?
 
 525
 00:25:03,897 --> 00:25:05,261
-"How much for that Cadillac car?
+"Berapa harga mobil Cadillac itu?
 
 526
 00:25:05,261 --> 00:25:07,296
-How would you like to have
-oral sex?" Texas!
+Bagaimana Anda ingin memilikinya
+seks oral?" Texas!
 
 527
 00:25:07,296 --> 00:25:08,902
-- Okay.
-- Where you from, girl?
+- Oke.
+- Dari mana asalmu, Nak?
 
 528
 00:25:08,902 --> 00:25:10,134
-- Not Texas.
-- I know that.
+- Bukan Texas.
+- Saya tahu itu.
 
 529
 00:25:10,134 --> 00:25:12,433
-- Well, then why'd you ask?
-- I...
+- Lalu kenapa kamu bertanya?
+- SAYA...
 
 530
 00:25:12,433 --> 00:25:15,436
-<i>♪ You teach me ♪</i>
+♪ Kamu mengajariku ♪
 
 531
 00:25:15,436 --> 00:25:17,207
-I don't know. I'm...
+Aku tidak tahu. Aku...
 
 532
 00:25:17,207 --> 00:25:20,309
-<i>♪ You teach me ♪</i>
+♪ Kamu mengajariku ♪
 
 533
 00:25:20,309 --> 00:25:21,849
-<i>♪ You ♪</i>
+♪ Kamu ♪
 
 534
 00:25:21,849 --> 00:25:23,246
-Sorry.
+Maaf.
 
 535
 00:25:23,246 --> 00:25:24,984
-<i>♪ Teach me ♪</i>
+♪ Ajari aku ♪
 
 536
 00:25:24,984 --> 00:25:28,592
-<i>♪ You teach me... ♪</i>
+♪ Kamu mengajariku... ♪
 
 537
 00:25:30,629 --> 00:25:32,794
-No. I'm sorry.
+Tidak, aku minta maaf.
 
 538
 00:25:32,794 --> 00:25:33,960
-Why are you sorry?
+Mengapa kamu menyesal?
 
 539
 00:25:33,960 --> 00:25:36,457
-You're good. I'm a little...
+Kamu baik. Saya sedikit...
 
 540
 00:25:36,457 --> 00:25:37,832
-No, I'm a big baby sometimes.
+Tidak, terkadang aku sudah menjadi bayi besar.
 
 541
 00:25:37,832 --> 00:25:40,802
-Uncle Gino's!
+milik Paman Gino!
 
 542
 00:25:41,904 --> 00:25:44,542
-You are not going
-to believe this.
+Kamu tidak pergi
+untuk mempercayai ini.
 
 543
 00:25:45,270 --> 00:25:47,270
-See over there?
+Lihat di sana?
 
 544
 00:25:47,270 --> 00:25:48,678
-UNG soccer team.
+Tim sepak bola UNG.
 
 545
 00:25:48,678 --> 00:25:49,976
-Uh-huh.
+Uh huh.
 
 546
 00:25:49,976 --> 00:25:52,110
-I was in line next to Doreen,
-the captain.
+Saya mengantri di sebelah Doreen,
+Kapten.
 
 547
 00:25:52,110 --> 00:25:53,243
-Uh-huh.
+Uh huh.
 
 548
 00:25:53,243 --> 00:25:54,915
-They're very committed lesbians,
+Mereka lesbian yang sangat berkomitmen,
 
 549
 00:25:54,915 --> 00:25:56,081
-and they're on their way
-to Marietta, Georgia,
+dan mereka sedang dalam perjalanan
+ke Marietta, Georgia,
 
 550
 00:25:56,081 --> 00:25:57,720
-which is practically on our way.
+yang praktis sedang dalam perjalanan.
 
 551
 00:25:57,720 --> 00:25:59,018
-Not exactly.
+Tidak tepat.
 
 552
 00:25:59,018 --> 00:26:00,723
-We were supposed to deliver
-the car today.
+Kami seharusnya mengirimkannya
+mobil hari ini.
 
 553
 00:26:00,723 --> 00:26:02,087
-Should we look at the map,
-see how long...
+Haruskah kita melihat peta,
+lihat berapa lama...
 
 554
 00:26:02,087 --> 00:26:04,155
-Forget the map.
-After today's game,
+Lupakan petanya.
+Setelah pertandingan hari ini,
 
 555
 00:26:04,155 --> 00:26:06,421
-these girls are gonna have
-a basement party.
+gadis-gadis ini akan memilikinya
+pesta bawah tanah.
 
 556
 00:26:06,421 --> 00:26:07,763
-And guess who's invited.
+Dan tebak siapa yang diundang.
 
 557
 00:26:07,763 --> 00:26:09,193
-I'm sure you are.
+Saya yakin kamu.
 
 558
 00:26:09,193 --> 00:26:10,260
@@ -2482,191 +2482,191 @@ Nuh-uh.
 
 559
 00:26:11,461 --> 00:26:13,065
-Us.
+Kita.
 
 560
 00:26:13,065 --> 00:26:14,231
-You see?
+Kamu melihat?
 
 561
 00:26:14,231 --> 00:26:16,706
-Shit happens when
-you eat at Uncle Gino's.
+Sial terjadi ketika
+kamu makan di rumah Paman Gino.
 
 562
 00:26:17,500 --> 00:26:20,237
-Goal! Goal!
+Sasaran! Sasaran!
 
 563
 00:27:02,578 --> 00:27:04,116
-Hello?
+Halo?
 
 564
 00:27:04,116 --> 00:27:05,986
-<i>Well,
-here I am, my thumb up my ass.</i>
+Dengan baik,
+inilah aku, jempolku mengacungkan pantatku.
 
 565
 00:27:05,986 --> 00:27:08,417
-- They didn't.
-- <i>No.</i>
+- Mereka tidak melakukannya.
+- TIDAK.
 
 566
 00:27:08,417 --> 00:27:10,694
-That's all right.
-We've got a plan B.
+Tidak apa-apa.
+Kami punya rencana B.
 
 567
 00:27:10,694 --> 00:27:11,992
-<i>Another way to get them back?</i>
+Cara lain untuk mendapatkannya kembali?
 
 568
 00:27:11,992 --> 00:27:13,961
-Yes, sir.
+Ya pak.
 
 569
 00:27:15,294 --> 00:27:17,393
-- <i>I'm not gonna wait forever.</i>
-- Yes, sir.
+- Aku tidak akan menunggu selamanya.
+- Ya pak.
 
 570
 00:27:17,393 --> 00:27:18,669
-I understand that, sir.
+Saya mengerti itu, Pak.
 
 571
 00:27:18,669 --> 00:27:19,967
-<i>You do understand?</i>
+Anda mengerti?
 
 572
 00:27:19,967 --> 00:27:22,068
-- You got my word on it.
-- <i>Your word.</i>
+- Kamu mengerti maksudku.
+- Katamu.
 
 573
 00:27:22,068 --> 00:27:24,906
-Let me just...
+Biarkan aku...
 
 574
 00:27:26,778 --> 00:27:28,107
-No-show.
+Tidak hadir.
 
 575
 00:27:30,439 --> 00:27:34,245
-<i>♪ And I think
-I'm gonna miss you ♪</i>
+♪ Dan menurutku
+Aku akan merindukanmu ♪
 
 576
 00:27:34,245 --> 00:27:39,690
-<i>♪ For a long, long time ♪</i>
+♪ Untuk waktu yang sangat lama ♪
 
 577
 00:27:39,690 --> 00:27:41,692
-<i>♪ 'Cause I've done ♪</i>
+♪ Karena aku sudah melakukannya ♪
 
 578
 00:27:41,692 --> 00:27:45,696
-<i>♪ Everything I know ♪</i>
+♪ Semua yang aku tahu ♪
 
 579
 00:27:45,696 --> 00:27:50,096
-<i>♪ To try and make you mine ♪</i>
+♪ Untuk mencoba dan menjadikanmu milikku ♪
 
 580
 00:27:50,096 --> 00:27:55,596
-<i>♪ And I think
-I'm gonna love you ♪</i>
+♪ Dan menurutku
+Aku akan mencintaimu ♪
 
 581
 00:27:55,596 --> 00:27:57,741
-<i>♪ For a long ♪</i>
+♪ Untuk waktu yang lama ♪
 
 582
 00:27:57,741 --> 00:28:02,009
-<i>♪ Long time. ♪</i>
+♪ Lama sekali. ♪
 
 583
 00:28:20,159 --> 00:28:21,732
-Rotate right.
+Putar ke kanan.
 
 584
 00:28:29,731 --> 00:28:31,874
-<i>♪ I feel so bad ♪</i>
+♪ Aku merasa sangat tidak enak ♪
 
 585
 00:28:31,874 --> 00:28:35,339
-<i>♪ I've got a worried mind ♪</i>
+♪ Pikiranku khawatir ♪
 
 586
 00:28:35,339 --> 00:28:38,078
-<i>♪ I'm so lonesome
-all the time... ♪</i>
+♪ Aku sangat kesepian
+sepanjang waktu... ♪
 
 587
 00:28:38,078 --> 00:28:39,508
-Um...
+eh...
 
 588
 00:28:39,508 --> 00:28:40,817
-Ca-Can we, um...
+B-Bisakah kita, um...
 
 589
 00:28:40,817 --> 00:28:42,379
-See, actually,
-we're just friends.
+Lihat, sebenarnya,
+kami hanya berteman.
 
 590
 00:28:42,379 --> 00:28:48,154
-<i>♪ Baby behind on Blue Bayou ♪</i>
+♪ Sayang di belakang Blue Bayou ♪
 
 591
 00:28:50,961 --> 00:28:55,359
-<i>♪ Saving nickels, saving dimes ♪</i>
+♪ Menghemat uang receh, menghemat uang receh ♪
 
 592
 00:28:56,329 --> 00:28:57,625
-Come on, Marian.
+Ayolah, Marian.
 
 593
 00:28:57,625 --> 00:28:59,198
-<i>♪ Working till
-the sun don't shine ♪</i>
+♪ Bekerja sampai
+matahari tidak bersinar ♪
 
 594
 00:29:00,727 --> 00:29:02,234
-It's no big deal.
+Ini bukan masalah besar.
 
 595
 00:29:02,234 --> 00:29:05,171
-<i>♪ Looking forward
-to happier times ♪</i>
+♪ Menantikan
+ke saat-saat yang lebih bahagia ♪
 
 596
 00:29:05,171 --> 00:29:08,174
-<i>♪ On Blue Bayou ♪</i>
+♪ Di Bayou Biru ♪
 
 597
 00:29:09,375 --> 00:29:12,739
-<i>♪ I'm going back someday ♪</i>
+♪ Aku akan kembali suatu hari nanti ♪
 
 598
 00:29:12,739 --> 00:29:14,818
-<i>♪ Come what may ♪</i>
+♪ Apa pun yang terjadi ♪
 
 599
 00:29:14,818 --> 00:29:18,316
-<i>♪ To Blue Bayou ♪</i>
+♪ Ke Blue Bayou ♪
 
 600
 00:29:20,089 --> 00:29:22,386
-<i>♪ Where the folks are fun ♪</i>
+♪ Dimana orang-orangnya bersenang-senang ♪
 
 601
 00:29:22,386 --> 00:29:25,026
-<i>♪ And the world is mine ♪</i>
+♪ Dan dunia adalah milikku ♪
 
 602
 00:29:25,026 --> 00:29:28,898
-<i>♪ On Blue Bayou... ♪</i>
+♪ Di Blue Bayou... ♪
 
 603
 00:29:35,366 --> 00:29:37,665
@@ -2675,121 +2675,121 @@ to happier times ♪</i>
 
 604
 00:29:37,665 --> 00:29:39,337
-Who the fuck are you?
+Siapa kamu?
 
 605
 00:29:39,337 --> 00:29:41,537
-Since when do women
-curse like that?
+Sejak kapan wanita
+kutukan seperti itu?
 
 606
 00:29:43,407 --> 00:29:44,980
-You know Jamie Dobbs?
+Anda kenal Jamie Dobbs?
 
 607
 00:29:44,980 --> 00:29:47,543
-- Do you know Jamie Dobbs?
-- You guttersnipe.
+- Apakah kamu kenal Jamie Dobbs?
+- Kamu pengecut.
 
 608
 00:29:47,543 --> 00:29:50,348
-Should've known
-it was about that cunt!
+Seharusnya sudah tahu
+itu tentang wanita jalang itu!
 
 609
 00:29:50,348 --> 00:29:52,955
-And Marian Pallavi?
+Dan Marian Pallavi?
 
 610
 00:29:54,783 --> 00:29:56,222
-You-you shouldn't do that.
+Kamu-kamu tidak seharusnya melakukan itu.
 
 611
 00:29:56,222 --> 00:29:58,158
-He can't fight back.
-He can't hit a girl.
+Dia tidak bisa melawan.
+Dia tidak bisa memukul seorang gadis.
 
 612
 00:29:58,158 --> 00:29:59,753
-He's old-school.
+Dia kuno.
 
 613
 00:29:59,753 --> 00:30:02,294
-We just want to locate
-your friends.
+Kami hanya ingin mencari lokasinya
+teman Anda.
 
 614
 00:30:02,294 --> 00:30:04,659
-They inadvertently took
-something that belongs to us.
+Mereka secara tidak sengaja mengambil
+sesuatu yang menjadi milik kita.
 
 615
 00:30:04,659 --> 00:30:06,760
-- We don't want to hurt them.
-- They're not my friends.
+- Kami tidak ingin menyakiti mereka.
+- Mereka bukan temanku.
 
 616
 00:30:06,760 --> 00:30:08,234
-Hurt 'em as much as you want.
+Sakiti mereka sebanyak yang kamu mau.
 
 617
 00:30:08,234 --> 00:30:09,939
-Okay.
+Oke.
 
 618
 00:30:09,939 --> 00:30:12,337
-It would be helpful
-if you had a picture.
+Itu akan sangat membantu
+jika kamu punya gambarnya.
 
 619
 00:30:14,979 --> 00:30:16,209
-Picture? Yeah.
+Gambar? Ya.
 
 620
 00:30:21,018 --> 00:30:23,821
-Got a picture of one of 'em.
+Punya foto salah satu dari mereka.
 
 621
 00:30:30,720 --> 00:30:34,524
-If you find 'em, give it to her.
+Jika kamu menemukannya, berikan padanya.
 
 622
 00:30:34,524 --> 00:30:36,064
-Okay.
+Oke.
 
 623
 00:30:36,902 --> 00:30:38,429
-Will do.
+Akan melakukan.
 
 624
 00:30:39,201 --> 00:30:41,498
-<i>♪ Where those fishing boats ♪</i>
+♪ Dimana perahu nelayan itu ♪
 
 625
 00:30:41,498 --> 00:30:44,072
-<i>♪ With their sails afloat ♪</i>
+♪ Dengan layar mereka terapung ♪
 
 626
 00:30:44,072 --> 00:30:49,077
-<i>♪ If I could only see... ♪</i>
+♪ Seandainya aku bisa melihat... ♪
 
 627
 00:30:50,047 --> 00:30:52,410
-If you bring someone back,
-just...
+Jika Anda membawa seseorang kembali,
+hanya...
 
 628
 00:30:52,410 --> 00:30:54,247
-I'll take my book to the office.
+Aku akan membawa bukuku ke kantor.
 
 629
 00:30:54,247 --> 00:30:56,513
-<i>♪ How happy I'd be... ♪</i>
+♪ Betapa bahagianya aku... ♪
 
 630
 00:30:56,513 --> 00:30:59,351
-I still have
-a couple of chapters left.
+saya masih mempunyai
+tinggal beberapa bab lagi.
 
 631
 00:31:01,586 --> 00:31:02,959
@@ -2797,359 +2797,359 @@ Marian.
 
 632
 00:31:04,587 --> 00:31:06,787
-We don't yet know exactly
-where they are,
+Kami belum mengetahui secara pasti
+di mana mereka,
 
 633
 00:31:06,787 --> 00:31:08,525
-but we do know who they are.
+tapi kita tahu siapa mereka.
 
 634
 00:31:08,525 --> 00:31:10,263
-We've got a picture of one of
-the girls. We're all set to...
+Kami punya foto salah satunya
+gadis-gadis. Kami siap untuk...
 
 635
 00:31:10,263 --> 00:31:11,858
-<i>Oh,
-who gives a shit who they are?</i>
+Oh,
+siapa yang peduli siapa mereka?
 
 636
 00:31:11,858 --> 00:31:13,068
-<i>I want the package.</i>
+Saya ingin paketnya.
 
 637
 00:31:13,068 --> 00:31:14,399
-We will find
-and deliver the package.
+Kita akan menemukan
+dan mengirimkan paketnya.
 
 638
 00:31:14,399 --> 00:31:16,401
-Under control.
-<i>- I am unhappy.</i>
+Di bawah kendali.
+- Saya tidak senang.
 
 639
 00:31:16,401 --> 00:31:18,469
-I understand that
-you are unhappy, sir.
+aku mengerti itu
+Anda tidak bahagia, Tuan.
 
 640
 00:31:18,469 --> 00:31:19,866
-<i>Damn right I am.</i>
+Benar sekali.
 
 641
 00:31:19,866 --> 00:31:21,802
-I've got my two best men
-on the...
+Aku punya dua orang terbaikku
+di...
 
 642
 00:31:28,514 --> 00:31:30,151
-All right.
+Baiklah.
 
 643
 00:31:30,151 --> 00:31:32,252
-Get some coffee.
+Dapatkan kopi.
 
 644
 00:31:32,252 --> 00:31:35,024
-You two are gonna be
-driving all night.
+Kalian berdua akan menjadi seperti itu
+mengemudi sepanjang malam.
 
 645
 00:32:25,868 --> 00:32:27,274
-Where you headed, miss?
+Kemana tujuanmu, Nona?
 
 646
 00:32:27,969 --> 00:32:29,210
-Home.
+Rumah.
 
 647
 00:32:29,905 --> 00:32:31,311
-And where's that?
+Dan dimana itu?
 
 648
 00:32:31,311 --> 00:32:33,181
-Some motel. I don't know.
+Beberapa motel. Aku tidak tahu.
 
 649
 00:32:33,181 --> 00:32:35,117
-You don't know?
+Anda tidak tahu?
 
 650
 00:32:35,117 --> 00:32:37,086
-I can't remember the name.
+Saya tidak ingat namanya.
 
 651
 00:32:37,086 --> 00:32:39,088
-A motel on the highway.
+Sebuah motel di jalan raya.
 
 652
 00:32:39,088 --> 00:32:40,650
-And where you coming from?
+Dan dari mana asalmu?
 
 653
 00:32:40,650 --> 00:32:41,915
-A house.
+Rumah.
 
 654
 00:32:41,915 --> 00:32:43,521
-Whose house?
+Rumah siapa?
 
 655
 00:32:43,521 --> 00:32:44,720
-I don't know.
+Aku tidak tahu.
 
 656
 00:32:44,720 --> 00:32:46,392
-It was a slumber party.
+Itu adalah pesta tidur.
 
 657
 00:32:47,461 --> 00:32:50,330
-Little old for slumber parties,
-aren't you, miss?
+Sedikit tua untuk pesta tidur,
+bukan begitu, Nona?
 
 658
 00:32:51,168 --> 00:32:54,004
-Look, mister...
+Lihat, tuan...
 
 659
 00:33:13,124 --> 00:33:14,618
-You know what?
+Kamu tahu apa?
 
 660
 00:33:16,556 --> 00:33:18,787
-I'm gonna drop you off at home.
+Aku akan mengantarmu ke rumah.
 
 661
 00:33:18,787 --> 00:33:20,954
-Aw.
+Ah.
 
 662
 00:33:22,758 --> 00:33:26,432
-<i>♪ You know it's true,
-you know it... ♪</i>
+♪ Kamu tahu itu benar,
+kamu tahu itu... ♪
 
 663
 00:33:50,986 --> 00:33:55,527
-<i>♪ Gonna see my baby again ♪</i>
+♪ Akan bertemu bayiku lagi ♪
 
 664
 00:33:56,530 --> 00:34:01,236
-<i>♪ Gonna be with
-some of my friends ♪</i>
+♪ Akan bersama
+beberapa temanku ♪
 
 665
 00:34:01,236 --> 00:34:04,932
-<i>♪ Maybe I'll feel better again ♪</i>
+♪ Mungkin aku akan merasa lebih baik lagi ♪
 
 666
 00:34:04,932 --> 00:34:07,077
-<i>♪ On Blue Bayou ♪</i>
+♪ Di Bayou Biru ♪
 
 667
 00:34:11,116 --> 00:34:15,811
-<i>♪ Saving nickels, saving dimes ♪</i>
+♪ Menghemat uang receh, menghemat uang receh ♪
 
 668
 00:34:15,811 --> 00:34:20,882
-<i>♪ Working till
-the sun don't shine ♪</i>
+♪ Bekerja sampai
+matahari tidak bersinar ♪
 
 669
 00:34:20,882 --> 00:34:25,392
-<i>♪ Looking forward
-to happier times ♪</i>
+♪ Menantikan
+ke saat-saat yang lebih bahagia ♪
 
 670
 00:34:25,392 --> 00:34:28,164
-<i>♪ On Blue Bayou ♪</i>
+♪ Di Bayou Biru ♪
 
 671
 00:34:30,168 --> 00:34:33,565
-<i>♪ I'm going back someday ♪</i>
+♪ Aku akan kembali suatu hari nanti ♪
 
 672
 00:34:33,565 --> 00:34:35,105
-<i>♪ Come what may ♪</i>
+♪ Apa pun yang terjadi ♪
 
 673
 00:34:35,105 --> 00:34:39,637
-<i>♪ To Blue Bayou ♪</i>
+♪ Ke Blue Bayou ♪
 
 674
 00:34:39,637 --> 00:34:41,243
-<i>♪ Where the folk... ♪</i>
+♪ Dimana orang-orangnya... ♪
 
 675
 00:35:53,414 --> 00:35:55,614
-<i>Hey, handsome.</i>
+Hai tampan.
 
 676
 00:36:26,449 --> 00:36:28,042
-Hey, handsome.
+Hai tampan.
 
 677
 00:36:28,042 --> 00:36:30,143
-Want to get plastered?
+Ingin diplester?
 
 678
 00:36:33,819 --> 00:36:35,522
-I'll drive
-when it's my turn.
+saya akan mengemudi
+ketika tiba giliranku.
 
 679
 00:36:35,522 --> 00:36:37,524
-At the end of three hours.
+Di akhir tiga jam.
 
 680
 00:36:37,524 --> 00:36:39,625
-I have no sympathy for you,
-my friend.
+Aku tidak punya simpati padamu,
+temanku.
 
 681
 00:36:39,625 --> 00:36:41,792
-You could've just asked her,
-and you'd be fine right now.
+Anda bisa saja bertanya padanya,
+dan kamu akan baik-baik saja saat ini.
 
 682
 00:36:41,792 --> 00:36:44,366
-I just asked. She answered.
+Saya hanya bertanya. Dia menjawab.
 
 683
 00:36:44,366 --> 00:36:45,928
-But you cannot relate
-to the public,
+Tapi Anda tidak bisa memahaminya
+kepada publik,
 
 684
 00:36:45,928 --> 00:36:48,238
-which, in a service profession,
-is a big fucking handicap.
+yang, dalam profesi jasa,
+adalah cacat besar.
 
 685
 00:36:48,238 --> 00:36:49,602
-And that sound
+Dan suara itu
 
 686
 00:36:49,602 --> 00:36:51,241
-is beginning to get irritating.
+mulai menjengkelkan.
 
 687
 00:36:51,241 --> 00:36:52,737
-Well, your lectures
-are getting irritating.
+Nah, kuliahmu
+menjadi menjengkelkan.
 
 688
 00:36:52,737 --> 00:36:55,245
-I don't lecture, my friend.
-That's my point.
+Saya tidak mengajar, teman saya.
+Itu maksudku.
 
 689
 00:36:55,245 --> 00:36:57,379
-I take people in. I react.
+Saya mengajak orang masuk. Saya bereaksi.
 
 690
 00:36:57,379 --> 00:36:59,546
-I read people
-to get what I want.
+Saya membaca orang
+untuk mendapatkan apa yang saya inginkan.
 
 691
 00:36:59,546 --> 00:37:01,614
-You, though,
-you think life is this
+Namun kamu
+kamu pikir hidup adalah ini
 
 692
 00:37:01,614 --> 00:37:03,781
-orderly series of people
-to beat the shit out of.
+serangkaian orang yang tertib
+untuk mengalahkannya.
 
 693
 00:37:03,781 --> 00:37:06,014
-Well, real life
-is not like that.
+Ya, kehidupan nyata
+tidak seperti itu.
 
 694
 00:37:06,014 --> 00:37:08,423
-You only see it that way
-because you're not nourished
+Anda hanya melihatnya seperti itu
+karena kamu tidak diberi nutrisi
 
 695
 00:37:08,423 --> 00:37:11,591
-by human contact, the human
-give-and-take, so forth.
+melalui kontak manusia, manusia
+memberi-dan-menerima, dan seterusnya.
 
 696
 00:37:11,591 --> 00:37:13,593
-Uh-uh. "Me want, me take."
+Uh-uh. "Aku mau, aku ambil."
 
 697
 00:37:13,593 --> 00:37:15,023
-That's what you're
-comfortable with.
+Itulah dirimu
+nyaman dengan.
 
 698
 00:37:15,023 --> 00:37:16,530
-- Yeah, yeah.
-- Caveman shit.
+- Ya, ya.
+- Sialan manusia gua.
 
 699
 00:37:16,530 --> 00:37:17,894
-You don't engage
-the whole person.
+Anda tidak terlibat
+seluruh orang.
 
 700
 00:37:17,894 --> 00:37:20,028
-Well, you did a great job
-helping me engage
+Ya, Anda melakukan pekerjaan dengan baik
+membantu saya terlibat
 
 701
 00:37:20,028 --> 00:37:23,229
-that very agile harpy.
+harpy yang sangat lincah itu.
 
 702
 00:37:23,229 --> 00:37:24,769
-Didn't have to.
+Tidak perlu.
 
 703
 00:37:24,769 --> 00:37:26,870
-No need whatsoever
-for the physical approach,
+Tidak perlu apa pun
+untuk pendekatan fisik,
 
 704
 00:37:26,870 --> 00:37:29,169
-which you couldn't see
-because you don't savor
+yang tidak bisa kamu lihat
+karena kamu tidak menikmatinya
 
 705
 00:37:29,169 --> 00:37:30,676
-the stuff of life.
+hal-hal kehidupan.
 
 706
 00:37:30,676 --> 00:37:32,381
-I'm not a sissy boy,
-if that's what you mean.
+Aku bukan anak banci,
+jika itu yang kamu maksud.
 
 707
 00:37:32,381 --> 00:37:34,614
-Kiss my ass. I...
+Cium pantatku. SAYA...
 
 708
 00:37:35,914 --> 00:37:38,387
-- Hello?
-<i>- Okay, we're on track.</i>
+- Halo?
+- Oke, kita berada di jalur yang benar.
 
 709
 00:37:38,387 --> 00:37:40,389
-<i>Marian Pallavi was picked up
-for vagrancy</i>
+Marian Pallavi dijemput
+untuk gelandangan
 
 710
 00:37:40,389 --> 00:37:42,754
-<i>last night in Marietta, Georgi.</i>
+tadi malam di Marietta, Georgi.
 
 711
 00:37:42,754 --> 00:37:44,888
-<i>- Just north of Atlanta.</i>
-- On it.
+- Tepat di utara Atlanta.
+- Di atasnya.
 
 712
 00:37:45,957 --> 00:37:47,528
@@ -3157,93 +3157,93 @@ Georgia.
 
 713
 00:38:00,477 --> 00:38:01,707
-Thank you.
+Terima kasih.
 
 714
 00:38:02,743 --> 00:38:03,775
-For what?
+Untuk apa?
 
 715
 00:38:04,514 --> 00:38:06,613
-Just picking me up.
+Hanya menjemputku.
 
 716
 00:38:06,613 --> 00:38:08,450
-Am I not gonna pick you up?
+Apakah aku tidak akan menjemputmu?
 
 717
 00:38:08,450 --> 00:38:10,276
-Hard not to.
+Sulit untuk tidak melakukannya.
 
 718
 00:38:10,276 --> 00:38:12,586
-"Ma'am, your friend here
-is in the hoosegow.
-Care to come get her?"
+"Nyonya, temanmu di sini
+ada di Hoosegow.
+Mau datang menjemputnya?"
 
 719
 00:38:12,586 --> 00:38:14,390
-I'll come get you
-all day, every day.
+Aku akan menjemputmu
+sepanjang hari setiap hari.
 
 720
 00:38:14,390 --> 00:38:16,282
-I will not let a friend of mine
-rot in prison
+Aku tidak akan membiarkan temanku
+membusuk di penjara
 
 721
 00:38:16,282 --> 00:38:18,493
-longer than is
-absolutely necessary.
+lebih lama dari sebelumnya
+mutlak diperlukan.
 
 722
 00:38:18,493 --> 00:38:21,628
-And so I say thank you.
+Jadi saya mengucapkan terima kasih.
 
 723
 00:38:26,866 --> 00:38:29,636
-Course, you ain't told me
-how you come to be in prison,
+Tentu saja, kamu belum memberitahuku
+bagaimana kamu bisa berada di penjara,
 
 724
 00:38:29,636 --> 00:38:32,232
-and I've been careful
-not to ask,
+dan aku sudah berhati-hati
+untuk tidak bertanya,
 
 725
 00:38:32,232 --> 00:38:34,707
-but damn, Marian,
+tapi sialnya, Marian,
 
 726
 00:38:34,707 --> 00:38:38,238
-landing yourself in prison is
-a very hopeful sign for you.
+mendaratkan dirimu di penjara adalah
+pertanda yang sangat penuh harapan bagimu.
 
 727
 00:38:38,238 --> 00:38:40,240
-I think it was jail,
-not prison.
+Saya pikir itu penjara,
+bukan penjara.
 
 728
 00:38:40,240 --> 00:38:41,780
-Oh. I'm sorry.
+Oh. Saya minta maaf.
 
 729
 00:38:41,780 --> 00:38:44,178
-Uh, you ain't told me
-how you come to be in jail.
+Eh, kamu belum memberitahuku
+bagaimana kamu bisa masuk penjara.
 
 730
 00:38:44,178 --> 00:38:45,982
-It wasn't hell-raising.
+Itu tidak membuat heboh.
 
 731
 00:38:45,982 --> 00:38:47,753
-Sorry to disappoint.
+Maaf mengecewakan.
 
 732
 00:38:47,753 --> 00:38:50,624
-A policeman didn't like my tone.
+Seorang polisi tidak menyukai nada bicaraku.
 
 733
 00:38:50,624 --> 00:38:51,922
@@ -3251,139 +3251,139 @@ Oh.
 
 734
 00:38:52,760 --> 00:38:54,595
-You copped some attitude.
+Anda mengambil beberapa sikap.
 
 735
 00:38:55,224 --> 00:38:56,861
-I don't have attitude.
+Saya tidak punya sikap.
 
 736
 00:38:58,535 --> 00:39:00,469
-Marian, if I may,
+Marian, kalau boleh,
 
 737
 00:39:00,469 --> 00:39:02,735
-there are certain things in life
+ada hal-hal tertentu dalam hidup
 
 738
 00:39:02,735 --> 00:39:05,540
-which you got to sense
-and understand
+yang harus Anda rasakan
+dan mengerti
 
 739
 00:39:05,540 --> 00:39:07,674
-in order to live life,
+untuk menjalani hidup,
 
 740
 00:39:07,674 --> 00:39:10,710
-and one of the things that
-you got to understand is, uh...
+dan salah satu hal itu
+yang harus kamu pahami adalah, uh...
 
 741
 00:39:10,710 --> 00:39:13,042
-well, all these
-funny little creatures
+baiklah, semua ini
+makhluk kecil yang lucu
 
 742
 00:39:13,042 --> 00:39:15,517
-that you probably noticed
-walking around on two legs,
+yang mungkin Anda perhatikan
+berjalan dengan dua kaki,
 
 743
 00:39:15,517 --> 00:39:17,079
-we call 'em human beings.
+kami menyebutnya manusia.
 
 744
 00:39:17,917 --> 00:39:19,884
-Got to understand
-what makes 'em tick.
+Harus mengerti
+apa yang membuat mereka tergerak.
 
 745
 00:39:19,884 --> 00:39:22,425
-And your whole social situation,
+Dan seluruh situasi sosial Anda,
 
 746
 00:39:22,425 --> 00:39:23,888
-you got to understand
-what that is.
+kamu harus mengerti
+apa itu.
 
 747
 00:39:23,888 --> 00:39:24,790
-Uh-huh.
+Uh huh.
 
 748
 00:39:24,790 --> 00:39:26,220
-You know what that means?
+Anda tahu apa maksudnya?
 
 749
 00:39:26,220 --> 00:39:27,562
-"Social situation"?
+"Situasi sosial"?
 
 750
 00:39:27,562 --> 00:39:29,465
-I know what
-"social situation" means.
+Saya tahu apa
+Yang dimaksud dengan “situasi sosial”.
 
 751
 00:39:29,465 --> 00:39:30,664
-Okay, good.
+Oke bagus.
 
 752
 00:39:30,664 --> 00:39:32,633
-So, the whole thing
-with a cop is--
+Jadi, semuanya
+dengan polisi adalah--
 
 753
 00:39:32,633 --> 00:39:34,899
-and you should remember this
-for future reference--
+dan kamu harus mengingat ini
+untuk referensi di masa mendatang--
 
 754
 00:39:34,899 --> 00:39:38,364
-when you're in
-a social situation with a cop,
+saat kamu masuk
+situasi sosial dengan polisi,
 
 755
 00:39:38,364 --> 00:39:40,267
-there ain't no social situation.
+tidak ada situasi sosial.
 
 756
 00:39:40,267 --> 00:39:43,204
-There's a "keep your fucking
-mouth shut" situation.
+Ada kalimat "jagalah sialanmu
+situasi tutup mulut".
 
 757
 00:39:43,204 --> 00:39:45,272
-There's a "yes, sir" situation
-is what there is.
+Ada situasi "ya, tuan".
+itulah yang ada.
 
 758
 00:39:45,272 --> 00:39:47,340
-Believe me, honey doll,
-I've been dating a cop
+Percayalah, boneka sayang,
+Saya telah berkencan dengan seorang polisi
 
 759
 00:39:47,340 --> 00:39:48,847
-for two years now, and...
+selama dua tahun sekarang, dan...
 
 760
 00:39:48,847 --> 00:39:50,552
-I ain't talking through
-my vulva here.
+Aku tidak bicara apa-apa
+vulvaku di sini.
 
 761
 00:39:50,552 --> 00:39:52,950
-Thank you. I understand.
+Terima kasih. Saya mengerti.
 
 762
 00:39:52,950 --> 00:39:55,117
-But if authority
-is being abused,
+Tapi jika otoritas
+sedang disalahgunakan,
 
 763
 00:39:55,117 --> 00:39:57,724
-- there's an obligation to...
-- Holy shit.
+- ada kewajiban untuk...
+- Astaga.
 
 764
 00:39:59,189 --> 00:40:00,760
@@ -3391,580 +3391,580 @@ Florida.
 
 765
 00:40:05,129 --> 00:40:06,733
-Lesbian...
+lesbi...
 
 766
 00:40:06,733 --> 00:40:11,540
-don't let the sun
-go down on you here.
+jangan biarkan matahari
+turunkan kamu di sini.
 
 767
 00:40:31,626 --> 00:40:34,057
-You okay?
+Anda baik-baik saja?
 
 768
 00:40:34,057 --> 00:40:35,993
-Spare tire.
+Ban serap.
 
 769
 00:40:50,845 --> 00:40:52,013
-What?
+Apa?
 
 770
 00:40:55,080 --> 00:40:56,783
-Something burning?
+Sesuatu terbakar?
 
 771
-00:41:12,603 --> 00:41:14,834
-Jamie, it's cold.
+00:41:12,603 ​​--> 00:41:14,834
+Jamie, ini dingin.
 
 772
 00:41:17,366 --> 00:41:18,640
-Don't touch it.
+Jangan menyentuhnya.
 
 773
 00:41:20,369 --> 00:41:21,940
-I saw this movie once where
+Saya pernah melihat film ini di mana
 
 774
 00:41:21,940 --> 00:41:24,547
-they come across this box,
-the people in the movie,
+mereka menemukan kotak ini,
+orang-orang di film itu,
 
 775
 00:41:24,547 --> 00:41:26,043
-and they opened the box,
+dan mereka membuka kotak itu,
 
 776
 00:41:26,043 --> 00:41:29,849
-and it was, like,
-really, really bad.
+dan itu, seperti,
+sungguh, sangat buruk.
 
 777
 00:41:44,492 --> 00:41:46,998
-Head!
+Kepala!
 
 778
 00:41:56,614 --> 00:41:58,273
-No, I'm kidding.
+Tidak, aku bercanda.
 
 779
 00:41:58,273 --> 00:42:01,045
-It was a minor traffic accident.
+Itu adalah kecelakaan lalu lintas ringan.
 
 780
 00:42:01,045 --> 00:42:02,508
-Fast stop.
+Berhenti cepat.
 
 781
 00:42:02,508 --> 00:42:05,786
-His, uh, face hit the wheel.
+Wajahnya membentur kemudi.
 
 782
 00:42:05,786 --> 00:42:07,953
-Looking at a pretty girl,
-weren't you, Flint?
+Melihat seorang gadis cantik,
+bukan begitu, Flint?
 
 783
 00:42:09,724 --> 00:42:11,693
-No more looking at
-pretty girls for you, right?
+Tidak perlu lagi melihat
+gadis cantik untukmu, kan?
 
 784
 00:42:13,519 --> 00:42:14,960
-That's right.
+Itu benar.
 
 785
 00:42:14,960 --> 00:42:17,831
-So, are they, like,
-wanted or something?
+Jadi, apakah mereka, seperti,
+diinginkan atau apa?
 
 786
 00:42:17,831 --> 00:42:20,669
-Oh, no, no. No, they're not
-in trouble at all.
+Oh, tidak, tidak. Tidak, mereka bukan
+dalam kesulitan sama sekali.
 
 787
 00:42:20,669 --> 00:42:22,495
-Just drove off
-with something we need.
+Baru saja pergi
+dengan sesuatu yang kita perlukan.
 
 788
 00:42:22,495 --> 00:42:24,101
-Didn't even know they had it.
+Bahkan tidak tahu mereka memilikinya.
 
 789
 00:42:24,101 --> 00:42:26,906
-So, what were you all
-doing here last night?
+Jadi, apa kabar kalian semua?
+lakukan di sini tadi malam?
 
 790
 00:42:27,777 --> 00:42:30,305
-Just making out.
+Hanya bermesraan.
 
 791
 00:42:30,305 --> 00:42:32,208
-Oh, yeah?
+Oh ya?
 
 792
 00:42:32,208 --> 00:42:33,715
-With who?
+Dengan siapa?
 
 793
 00:42:35,915 --> 00:42:38,049
-No kiss-and-tell, huh?
+Tidak perlu berciuman dan memberi tahu, ya?
 
 794
 00:42:39,688 --> 00:42:42,119
-Anyway, we need to find
-those girls to get our...
+Bagaimanapun, kita perlu menemukannya
+gadis-gadis itu untuk mendapatkan...
 
 795
 00:42:43,320 --> 00:42:44,990
-sample case back.
+contoh kasus kembali.
 
 796
 00:42:44,990 --> 00:42:47,795
-And when we heard Doreen here
-paid Marian's fine, we thought,
+Dan ketika kami mendengar Doreen di sini
+membayar denda Marian, kami berpikir,
 
 797
 00:42:47,795 --> 00:42:49,390
-well, you girls might know
-where they're headed.
+baiklah, kalian mungkin tahu
+kemana tujuan mereka.
 
 798
 00:42:49,390 --> 00:42:52,030
-How did you know about
-its being Doreen's check?
+Bagaimana kamu tahu tentang
+itu cek Doreen?
 
 799
 00:42:52,030 --> 00:42:54,296
-We have contacts
-in law enforcement.
+Kami memiliki kontak
+dalam penegakan hukum.
 
 800
 00:42:58,973 --> 00:43:00,500
-No, no.
+Tidak tidak.
 
 801
 00:43:00,500 --> 00:43:01,842
-We should just call the cops.
+Kita harus memanggil polisi saja.
 
 802
 00:43:01,842 --> 00:43:03,239
-We will, Jamie.
+Kami akan melakukannya, Jamie.
 
 803
 00:43:03,239 --> 00:43:06,473
-First, we should see
-what's in here.
+Pertama, kita harus melihat
+apa yang ada di sini.
 
 804
 00:43:06,473 --> 00:43:08,013
-Why? I don't want to look.
+Mengapa? Saya tidak ingin melihat.
 
 805
 00:43:08,013 --> 00:43:10,048
-- Why do I have to look?
-- Jamie, listen.
+- Kenapa aku harus mencarinya?
+- Jamie, dengarkan.
 
 806
 00:43:10,048 --> 00:43:12,479
-Whoever sliced that head off
-knows who we are.
+Siapa pun yang memotong kepala itu
+tahu siapa kita.
 
 807
 00:43:12,479 --> 00:43:14,052
-This might tell us
-who they are,
+Ini mungkin memberi tahu kita
+siapa mereka,
 
 808
 00:43:14,052 --> 00:43:16,021
-so we won't be
-at a disadvantage.
+jadi kita tidak akan menjadi seperti itu
+dalam posisi yang kurang menguntungkan.
 
 809
 00:43:16,021 --> 00:43:18,386
-The police can find out,
-and the police can protect us.
+Polisi bisa mengetahui,
+dan polisi bisa melindungi kita.
 
 810
 00:43:18,386 --> 00:43:20,190
-Protect us?
+Lindungi kami?
 
 811
 00:43:20,190 --> 00:43:22,522
-They're not the Secret Service,
-and we're not Chelsea Clinton.
+Mereka bukan Dinas Rahasia,
+dan kami bukan Chelsea Clinton.
 
 812
 00:43:22,522 --> 00:43:23,996
-What do we lose by looking?
+Apa ruginya jika kita melihatnya?
 
 813
 00:43:25,395 --> 00:43:26,900
-Look.
+Lihat.
 
 814
 00:43:27,804 --> 00:43:30,035
-I just want to know
-what's going on.
+saya hanya ingin tahu
+apa yang sedang terjadi.
 
 815
 00:43:31,269 --> 00:43:33,038
-This might tell us.
+Ini mungkin memberi tahu kita.
 
 816
 00:43:33,843 --> 00:43:35,139
-I bet it's locked.
+Aku yakin itu terkunci.
 
 817
 00:43:59,231 --> 00:44:01,869
-- We got to call the cops.
-- Why?
+- Kita harus memanggil polisi.
+- Mengapa?
 
 818
 00:44:01,869 --> 00:44:03,233
-That was awful.
+Itu sangat buruk.
 
 819
 00:44:03,233 --> 00:44:05,202
-You just said
-not to call the cops.
+Anda baru saja berkata
+untuk tidak memanggil polisi.
 
 820
 00:44:05,202 --> 00:44:06,808
-In ignorance.
+Dalam ketidaktahuan.
 
 821
 00:44:06,808 --> 00:44:08,205
-No, what you said was true.
+Tidak, apa yang kamu katakan itu benar.
 
 822
 00:44:08,205 --> 00:44:09,976
-The cops could think
-you're involved.
+Polisi bisa berpikir
+kamu terlibat.
 
 823
 00:44:09,976 --> 00:44:11,538
-You just spent
-the night in jail.
+Anda baru saja menghabiskan
+malam di penjara.
 
 824
 00:44:11,538 --> 00:44:12,979
-For vagrancy.
+Untuk gelandangan.
 
 825
 00:44:12,979 --> 00:44:15,377
-We wouldn't have anything
-to do with... that.
+Kami tidak akan mendapatkan apa pun
+ada hubungannya dengan... itu.
 
 826
 00:44:15,377 --> 00:44:16,719
-Okay, honey, cool your jets.
+Oke, sayang, dinginkan jetmu.
 
 827
 00:44:16,719 --> 00:44:17,951
-Here's what we do.
+Inilah yang kami lakukan.
 
 828
 00:44:17,951 --> 00:44:19,953
-First, we get to Tallahassee.
+Pertama, kita sampai ke Tallahassee.
 
 829
 00:44:19,953 --> 00:44:21,383
-Bye!
+Selamat tinggal!
 
 830
 00:44:23,420 --> 00:44:25,893
-How about next time,
-you let me do all the talking?
+Bagaimana kalau lain kali,
+kamu membiarkan aku yang bicara?
 
 831
 00:44:25,893 --> 00:44:27,422
-Sure, gassing is
-what you're good at.
+Tentu saja, penyerangan dengan gas beracun
+apa yang kamu kuasai.
 
 832
 00:44:27,422 --> 00:44:29,193
-Well it sure as hell
-ain't what you're good at.
+Ya, tentu saja
+bukan itu keahlianmu.
 
 833
 00:44:29,193 --> 00:44:31,096
-I'm not a suck-up or a salesman.
+Saya bukan seorang yang suka menyedot atau menjual.
 
 834
 00:44:31,096 --> 00:44:32,361
-Uh-huh.
-You think you would've gotten
+Uh huh.
+Anda pikir Anda akan mendapatkannya
 
 835
 00:44:32,361 --> 00:44:33,868
-the address
-where they're headed?
+alamat
+kemana tujuan mereka?
 
 836
 00:44:33,868 --> 00:44:36,101
-I don't think so, Mr. Sunshine.
+Saya rasa tidak, Tn. Sunshine.
 
 837
 00:44:36,101 --> 00:44:38,004
-Okay, we've got
-some hard driving to do.
+Oke, kita punya
+beberapa mengemudi yang sulit untuk dilakukan.
 
 838
 00:44:38,004 --> 00:44:40,039
-Bye!
+Selamat tinggal!
 
 839
 00:44:44,144 --> 00:44:45,847
-Welcome to El Conquistador.
+Selamat datang di El Conquistador.
 
 840
 00:44:45,847 --> 00:44:48,410
-Yeah, hiya. Do you have a room
-for two right away?
+Ya, hai. Apakah Anda punya kamar
+untuk dua orang sekaligus?
 
 841
 00:44:48,410 --> 00:44:50,852
-Uh, we do have one available.
-Yes. How many nights?
+Eh, kami punya satu yang tersedia.
+Ya. Berapa malam?
 
 842
 00:44:50,852 --> 00:44:53,415
-Well, tonight,
-and then we'll play it by ear.
+Nah, malam ini,
+dan kemudian kita akan memainkannya dengan telinga.
 
 843
 00:44:53,415 --> 00:44:54,823
-You take the Rainbow Card?
+Anda mengambil Kartu Pelangi?
 
 844
 00:44:54,823 --> 00:44:56,385
-Uh, I'm sure we do.
+Eh, aku yakin begitu.
 
 845
 00:44:56,385 --> 00:44:58,453
-Yes, actually, that's just
-a, uh, Visa specialty card.
+Ya, sebenarnya itu saja
+a, eh, kartu khusus Visa.
 
 846
 00:44:58,453 --> 00:45:00,323
-Yeah, but they give
-a percentage of each purchase
+Ya, tapi mereka memberi
+persentase dari setiap pembelian
 
 847
 00:45:00,323 --> 00:45:02,424
-to gay, lesbian, bi,
-transgender charities.
+untuk gay, lesbian, bi,
+badan amal transgender.
 
 848
 00:45:02,424 --> 00:45:03,964
-You do that, right?
+Anda melakukan itu, kan?
 
 849
 00:45:03,964 --> 00:45:05,196
-Well, the issuer would be
-the one to take care of that.
+Ya, penerbitnya adalah
+orang yang mengurus itu.
 
 850
 00:45:05,196 --> 00:45:06,736
-Do you have
-a super reinforced safe
+Apakah kamu mempunyai
+brankas yang sangat diperkuat
 
 851
 00:45:06,736 --> 00:45:08,331
-for sensitive materials?
+untuk bahan sensitif?
 
 852
 00:45:08,331 --> 00:45:09,772
-We do have in-room safes
+Kami memiliki brankas di kamar
 
 853
 00:45:09,772 --> 00:45:11,807
-for any valuables
-that you may have.
+untuk barang berharga apa pun
+yang mungkin Anda miliki.
 
 854
 00:45:11,807 --> 00:45:13,567
-This place is
-lesbian-friendly, right?
+Tempat ini adalah
+ramah lesbian, bukan?
 
 855
 00:45:13,567 --> 00:45:15,371
-Uh, yes. Uh, well, sure.
+Eh, ya. Eh, tentu saja.
 
 856
 00:45:15,371 --> 00:45:17,274
-We're friendly to anyone
-who wants to stay.
+Kami ramah kepada siapa pun
+siapa yang ingin tinggal.
 
 857
 00:45:17,274 --> 00:45:18,341
-Do you have ice?
+Apakah kamu punya es?
 
 858
 00:45:23,546 --> 00:45:27,581
-<i>♪ I've been waitin' on you,
-girl... ♪</i>
+♪ Aku sudah menunggumu,
+gadis... ♪
 
 859
 00:45:27,581 --> 00:45:29,286
-This is it?
+Ini dia?
 
 860
 00:45:30,553 --> 00:45:32,223
-They said Farm Road 80.
+Mereka bilang Jalan Pertanian 80.
 
 861
 00:45:33,028 --> 00:45:34,764
-What's the matter?
+Apa masalahnya?
 
 862
 00:45:34,764 --> 00:45:36,931
-Afraid of the stuff of life?
+Takut dengan hal-hal kehidupan?
 
 863
 00:45:36,931 --> 00:45:40,264
-<i>♪ Lovin' another guy ♪</i>
+♪ Mencintai pria lain ♪
 
 864
 00:45:41,971 --> 00:45:45,973
-<i>♪ Ooh, babe ♪</i>
+♪ Ooh, sayang ♪
 
 865
 00:45:46,811 --> 00:45:49,042
-<i>♪ I love you ♪</i>
+♪ Aku cinta kamu ♪
 
 866
 00:45:51,673 --> 00:45:55,785
-<i>♪ Ooh, babe ♪</i>
+♪ Ooh, sayang ♪
 
 867
 00:45:55,785 --> 00:45:58,744
-<i>♪ I love you... ♪</i>
+♪ Aku cinta kamu... ♪
 
 868
 00:45:58,744 --> 00:46:02,055
-Is this, um... Slappy's?
+Apakah ini, um... milik Slappy?
 
 869
 00:46:02,055 --> 00:46:03,991
-That's right.
+Itu benar.
 
 870
 00:46:06,424 --> 00:46:10,723
-Have you seen two, um,
-nonlocal women come in here?
+Pernahkah Anda melihat dua, um,
+wanita nonlokal datang ke sini?
 
 871
 00:46:10,723 --> 00:46:12,164
-That's one of them.
+Itu salah satunya.
 
 872
 00:46:14,168 --> 00:46:15,398
-I was sittin' here listening
+Aku sedang duduk di sini mendengarkan
 
 873
 00:46:15,398 --> 00:46:17,103
-to Junior Kimbrough
-a couple years back.
+kepada Junior Kimbrough
+beberapa tahun yang lalu.
 
 874
 00:46:17,103 --> 00:46:20,370
-One girl come in here,
-appear to be to me a half local.
+Seorang gadis masuk ke sini,
+bagi saya tampaknya setengah lokal.
 
 875
 00:46:20,370 --> 00:46:23,472
-I don't recollect two
-come in here any time recent.
+Saya tidak ingat dua
+datang ke sini kapan saja baru-baru ini.
 
 876
 00:46:26,708 --> 00:46:28,576
-Now, that's true.
+Sekarang, itu benar.
 
 877
 00:46:28,576 --> 00:46:30,479
-Love will bite your ass.
+Cinta akan menggigit pantatmu.
 
 878
 00:46:33,748 --> 00:46:37,618
-<i>♪ Ooh, babe ♪</i>
+♪ Ooh, sayang ♪
 
 879
 00:46:37,618 --> 00:46:39,994
-<i>♪ I love you. ♪</i>
+♪ Aku cinta kamu. ♪
 
 880
 00:46:41,228 --> 00:46:43,096
-Oh, I can send Sukie.
+Oh, aku bisa mengirim Sukie.
 
 881
 00:46:43,096 --> 00:46:45,131
-But why would these people
-just be waiting there
+Tapi mengapa orang-orang ini melakukannya
+tunggu saja disana
 
 882
 00:46:45,131 --> 00:46:46,594
-in the drive-away office?
+di kantor perjalanan?
 
 883
 00:46:46,594 --> 00:46:47,870
-Well, clearly, this was not
+Jelas, ini bukan masalahnya
 
 884
 00:46:47,870 --> 00:46:49,498
-your garden-variety
-decapitation.
+varietas taman Anda
+pemenggalan kepala.
 
 885
 00:46:49,498 --> 00:46:51,005
-This was some kind of a...
+Ini adalah semacam...
 
 886
 00:46:51,005 --> 00:46:52,941
-Well, I don't know what it was,
+Yah, aku tidak tahu apa itu,
 
 887
 00:46:52,941 --> 00:46:55,603
-but they know
-we have their stuff.
+tapi mereka tahu
+kami memiliki barang-barang mereka.
 
 888
 00:46:55,603 --> 00:46:56,846
-Yeah?
+Ya?
 
 889
 00:46:56,846 --> 00:46:59,541
-Look, Marian,
-they can't find us.
+Lihat, Marian,
+mereka tidak dapat menemukan kita.
 
 890
 00:46:59,541 --> 00:47:02,214
-Maybe they're waiting
-for us to find them.
+Mungkin mereka sedang menunggu
+bagi kita untuk menemukannya.
 
 891
 00:47:02,214 --> 00:47:04,117
-That's the only place
-we'd know to call.
+Itu satu-satunya tempat
+kami tahu harus menelepon.
 
 892
 00:47:04,117 --> 00:47:06,284
-But why would we get
-in touch with them?
+Tapi mengapa kita mendapatkannya
+berhubungan dengan mereka?
 
 893
 00:47:07,188 --> 00:47:09,188
-Sell it back, shake 'em down.
+Jual kembali, kocok habis.
 
 894
 00:47:09,188 --> 00:47:11,784
-Which, incidentally,
-is not such a bad idea.
+Yang kebetulan,
+bukanlah ide yang buruk.
 
 895
 00:47:11,784 --> 00:47:13,192
@@ -3972,234 +3972,234 @@ Jamie.
 
 896
 00:47:13,192 --> 00:47:14,897
-Look, I didn't invent extortion.
+Dengar, aku tidak menciptakan pemerasan.
 
 897
 00:47:14,897 --> 00:47:16,899
-But, Jamie,
-why would Susanne help us?
+Tapi, Jamie,
+mengapa Susanne membantu kami?
 
 898
 00:47:16,899 --> 00:47:18,296
-She hates you.
+Dia membencimu.
 
 899
 00:47:18,296 --> 00:47:21,365
-Oh, she's had
-two days to cool off.
+Oh, dia sudah melakukannya
+dua hari untuk menenangkan diri.
 
 900
 00:47:21,365 --> 00:47:23,532
-Get the fuck back
-in that lockup.
+Dapatkan kembali
+di penjara itu.
 
 901
 00:47:24,469 --> 00:47:26,909
-Officer Kracik said
-I could speak to my attorney.
+Kata Petugas Kracik
+Saya bisa berbicara dengan pengacara saya.
 
 902
 00:47:26,909 --> 00:47:29,340
-Attorney?
-Are you a college boy?
+Pengacara?
+Apakah kamu seorang mahasiswa?
 
 903
 00:47:29,340 --> 00:47:32,508
-Officer Kracik said
-I could speak to my lawyer.
+Kata Petugas Kracik
+Saya bisa berbicara dengan pengacara saya.
 
 904
 00:47:32,508 --> 00:47:34,840
-Officer Kracik
-ain't running booking.
+Petugas Kracik
+tidak menjalankan pemesanan.
 
 905
 00:47:34,840 --> 00:47:36,545
-I'm running booking, jackass.
+Aku sedang melakukan pemesanan, brengsek.
 
 906
 00:47:36,545 --> 00:47:38,679
-- He said...
-- You want me to walk over there
+- Dia berkata...
+- Kamu ingin aku berjalan ke sana
 
 907
 00:47:38,679 --> 00:47:40,285
-and kick your number-running ass
+dan tendang pantatmu yang nomor satu
 
 908
 00:47:40,285 --> 00:47:42,287
-back into
-the Delaware fucking River?
+kembali ke
+Sungai Delaware?
 
 909
 00:47:42,287 --> 00:47:45,125
-Who's running booking?
+Siapa yang menjalankan pemesanan?
 
 910
 00:47:45,125 --> 00:47:46,896
-- You are.
-- Who is?
+- Anda.
+- Siapa yang?
 
 911
 00:47:46,896 --> 00:47:49,030
-- You are.
-- No fucking shit!
+- Anda.
+- Tidak apa-apa!
 
 912
 00:47:49,030 --> 00:47:50,691
-- Shink!
-- Yeah.
+- Bersinar!
+- Ya.
 
 913
 00:47:50,691 --> 00:47:52,066
-Telephone.
+Telepon.
 
 914
 00:47:53,498 --> 00:47:54,794
-Sergeant Shinkleman.
+Sersan Shinkleman.
 
 915
 00:47:54,794 --> 00:47:56,763
-Hey. It's me.
+Hai. Ini aku.
 
 916
 00:47:56,763 --> 00:47:58,468
-<i>Oh, what a lovely surprise.</i>
+Oh, kejutan yang menyenangkan.
 
 917
 00:47:58,468 --> 00:48:00,800
-Sukie, come on, now.
-Let's be friends. I...
+Sukie, ayolah, sekarang.
+Mari berteman. SAYA...
 
 918
 00:48:00,800 --> 00:48:03,275
-Did the two creeps find you?
-<i>- What?</i>
+Apakah kedua orang aneh itu menemukanmu?
+- Apa?
 
 919
 00:48:03,275 --> 00:48:05,244
-The two weirdos looking for you.
+Dua orang aneh mencarimu.
 
 920
 00:48:05,244 --> 00:48:06,509
-I tried to be helpful.
+Saya mencoba untuk membantu.
 
 921
 00:48:07,413 --> 00:48:09,413
-Uh, but who were they?
-<i>- How should I know?</i>
+Eh, tapi siapa mereka?
+- Bagaimana mungkin saya mengetahuinya?
 
 922
 00:48:09,413 --> 00:48:11,316
-Bill collectors,
-herpes patients.
+Penagih tagihan,
+pasien herpes.
 
 923
 00:48:11,316 --> 00:48:13,186
-Two more people
-you fucked over somehow.
+Dua orang lagi
+kamu kacau entah bagaimana.
 
 924
 00:48:13,186 --> 00:48:15,991
-<i>- George and Lennie.</i>
-- George and Lennie?
+- George dan Lennie.
+- George dan Lennie?
 
 925
 00:48:17,126 --> 00:48:19,852
-<i>Of Mice and Men.</i>
-Have you read any books?
+Dari tikus dan manusia.
+Apakah kamu sudah membaca buku apa pun?
 
 926
 00:48:19,852 --> 00:48:21,524
-Books, maybe not, but, sweetie,
+Buku, mungkin tidak, tapi, sayang,
 
 927
 00:48:21,524 --> 00:48:23,394
-I'm gonna help you break
-a big murder case.
+Aku akan membantumu istirahat
+kasus pembunuhan besar.
 
 928
 00:48:23,394 --> 00:48:25,693
-"Break a big murder case"?
+"Memecahkan kasus pembunuhan besar"?
 
 929
 00:48:25,693 --> 00:48:28,498
-<i>Just go over
-to Curlie's Drive-Away.</i>
+Pergi saja
+ke Curlie's Drive-Away.
 
 930
 00:48:28,498 --> 00:48:30,533
-Curlie's Drive-Away?
-<i>- Yeah.</i>
+Perjalanan Curlie?
+- Ya.
 
 931
 00:48:30,533 --> 00:48:33,305
-<i>And you ask Curlie about...</i>
+Dan Anda bertanya pada Curlie tentang...
 
 932
 00:48:33,305 --> 00:48:35,670
-Whoa, whoa, whoa.
-Turn that down!
+Wah, wah, wah.
+Matikan itu!
 
 933
 00:48:37,014 --> 00:48:38,772
-Ask him about the what
-in the attaché case?
+Tanyakan padanya tentang apa
+dalam kasus atase?
 
 934
 00:48:38,772 --> 00:48:41,148
-<i>You should see what they got
-locked up in that thing.</i>
+Anda harus melihat apa yang mereka dapatkan
+terkunci di dalam benda itu.
 
 935
 00:48:41,148 --> 00:48:42,710
-Jamie, that is about
+Jamie, itu tentang
 
 936
 00:48:42,710 --> 00:48:45,416
-the dumbest thing
-I've ever heard, and I'm a cop.
+hal yang paling bodoh
+Saya pernah mendengarnya, dan saya seorang polisi.
 
 937
 00:48:45,416 --> 00:48:47,418
-Why would I make it up?
-Just go to Curlie's Drive-Away.
+Mengapa saya harus menebusnya?
+Pergi saja ke Curlie's Drive-Away.
 
 938
 00:48:47,418 --> 00:48:48,991
-I guarantee you someone's there.
+Saya jamin ada seseorang di sana.
 
 939
 00:48:48,991 --> 00:48:51,587
-You guarantee?
-I'm supposed to believe you?
+Anda menjamin?
+Aku seharusnya percaya padamu?
 
 940
 00:48:51,587 --> 00:48:54,029
-Fine. You know what?
-If no one's there,
+Bagus. Kamu tahu apa?
+Jika tidak ada orang di sana,
 
 941
 00:48:54,029 --> 00:48:55,855
-I'll take Alice.
+Aku akan membawa Alice.
 
 942
 00:48:55,855 --> 00:48:57,461
-<i>Really? Swear?</i>
+Benar-benar? Bersumpah?
 
 943
 00:48:57,461 --> 00:48:59,694
-Yes, I swear. I pussy-promise.
-I will take the dog.
+Ya, aku bersumpah. Aku berjanji.
+Saya akan mengambil anjing itu.
 
 944
 00:48:59,694 --> 00:49:02,466
-You'll never have to deal
-with her again.
+Anda tidak perlu berurusan
+bersamanya lagi.
 
 945
 00:49:03,337 --> 00:49:05,568
-<i>A juke joint where?</i>
+Tempat juke dimana?
 
 946
 00:49:05,568 --> 00:49:07,603
@@ -4207,77 +4207,77 @@ Wetumpka, Alabama.
 
 947
 00:49:07,603 --> 00:49:09,242
-Well, outside of Wetumpka.
+Nah, di luar Wetumpka.
 
 948
 00:49:09,242 --> 00:49:10,507
-They hadn't been there,
+Mereka belum pernah ke sana,
 
 949
 00:49:10,507 --> 00:49:13,939
-but a very personable
-music lover
+tapi sangat ramah
+penggemar musik
 
 950
 00:49:13,939 --> 00:49:15,611
-told us of another juke joint
+memberi tahu kami tentang kedai juke lainnya
 
 951
 00:49:15,611 --> 00:49:17,514
-- fairly close by called...
-- You see?
+- cukup dekat disebut...
+- Kamu melihat?
 
 952
 00:49:17,514 --> 00:49:18,713
-Stop!
+Berhenti!
 
 953
 00:49:18,713 --> 00:49:20,484
-Called Ike's.
+Disebut Ike.
 
 954
 00:49:21,355 --> 00:49:23,355
-<i>Maybe he said "Mike's."</i>
+Mungkin dia bilang, "Mike's."
 
 955
 00:49:23,355 --> 00:49:25,093
-<i>Maybe he said "Mike."</i>
+Mungkin dia berkata, "Mike."
 
 956
 00:49:25,093 --> 00:49:27,260
-Uh, "Mike" or... But whatever.
+Uh, "Mike" atau... Tapi terserah.
 
 957
 00:49:27,260 --> 00:49:29,130
-I think the soccer team
-was just confused
+Saya pikir tim sepak bola
+hanya bingung
 
 958
-00:49:29,130 --> 00:49:31,132
-about which joint
-these girls were going to,
+00:49:29,130 ​​--> 00:49:31,132
+tentang sendi yang mana
+gadis-gadis ini akan pergi,
 
 959
 00:49:31,132 --> 00:49:32,694
-so we're gonna drive...
+jadi kita akan berkendara...
 
 960
 00:49:32,694 --> 00:49:35,400
-Stop saying words.
+Berhenti mengucapkan kata-kata.
 
 961
 00:49:35,400 --> 00:49:38,073
-One of the girls
-finally used a credit card.
+Salah satu gadis
+akhirnya pakai kartu kredit.
 
 962
 00:49:38,073 --> 00:49:39,635
-They arrived in Tallahassee
+Mereka tiba di Tallahassee
 
 963
 00:49:39,635 --> 00:49:43,177
-and checked into a hotel
-called El Conquistador.
+dan check in ke hotel
+disebut El Conquistador.
 
 964
 00:49:44,004 --> 00:49:45,377
@@ -4285,164 +4285,164 @@ Tallahassee.
 
 965
 00:49:45,377 --> 00:49:47,016
-<i>I want you to get
-your asses over there</i>
+Aku ingin kamu mendapatkannya
+pantatmu di sana
 
 966
 00:49:47,016 --> 00:49:49,117
-<i>and take care of it right away.</i>
+dan segera mengurusnya.
 
 967
 00:49:49,117 --> 00:49:50,613
-Not a juke joint.
+Bukan kedai juke.
 
 968
 00:49:50,613 --> 00:49:52,252
-You should arrive
-by early morning.
+Anda harus tiba
+menjelang pagi hari.
 
 969
 00:49:52,252 --> 00:49:53,385
-I'll meet you there.
+Aku akan menemuimu disana.
 
 970
 00:49:53,385 --> 00:49:55,651
-Uh, I'll level with you, Chief.
+Uh, aku akan sejajar denganmu, Ketua.
 
 971
 00:49:55,651 --> 00:49:57,620
-Flint and me could use
-a little shut-eye.
+Flint dan aku bisa menggunakannya
+sedikit menutup mata.
 
 972
 00:49:57,620 --> 00:49:59,556
-We have not slept
-since the night before last,
+Kami belum tidur
+sejak malam sebelumnya,
 
 973
 00:49:59,556 --> 00:50:01,657
-and we...
+dan kita...
 
 974
 00:50:01,657 --> 00:50:03,263
-Hello?
+Halo?
 
 975
 00:50:04,497 --> 00:50:06,695
-- Chief?
-- Who's in Tallahassee?
+- Ketua?
+- Siapa yang di Tallahassee?
 
 976
 00:50:07,698 --> 00:50:09,170
-Certainly.
+Tentu.
 
 977
 00:50:09,170 --> 00:50:11,106
-There are a number of places
-I can recommend locally,
+Ada beberapa tempat
+Saya dapat merekomendasikan secara lokal,
 
 978
 00:50:11,106 --> 00:50:12,536
-or right here at the hotel,
+atau di sini, di hotel,
 
 979
 00:50:12,536 --> 00:50:15,077
-we have Espadrilles
-for casual dining,
+kami punya Espadrilles
+untuk bersantap santai,
 
 980
 00:50:15,077 --> 00:50:16,705
-or we have Baxter's by the Pool,
+atau kita punya Baxter's by the Pool,
 
 981
 00:50:16,705 --> 00:50:19,741
-which is our more elegant venue
-down in the lower level.
+yang merupakan tempat kami yang lebih elegan
+turun di tingkat yang lebih rendah.
 
 982
 00:50:20,876 --> 00:50:22,183
-Maybe we should stay here.
+Mungkin sebaiknya kita tetap di sini.
 
 983
 00:50:22,183 --> 00:50:23,712
-Replenish the ice.
+Isi kembali esnya.
 
 984
 00:50:28,222 --> 00:50:30,323
-This is great, but how...
+Ini bagus, tapi bagaimana...
 
 985
 00:50:30,323 --> 00:50:32,721
-Ladies, are we enjoying
-a beverage this evening?
+Nona, apakah kita menikmatinya?
+minuman malam ini?
 
 986
 00:50:34,263 --> 00:50:36,395
-Rainbow.
+Pelangi.
 
 987
 00:50:36,395 --> 00:50:37,528
-Yes.
+Ya.
 
 988
 00:50:37,528 --> 00:50:39,992
-Uh, can we get
-some champagne, please?
+Eh, bisakah kita mendapatkannya
+tolong, sedikit sampanye?
 
 989
 00:50:39,992 --> 00:50:41,730
-Like, a really, really good one?
+Seperti, yang sangat, sangat bagus?
 
 990
 00:50:41,730 --> 00:50:42,797
-Of course.
+Tentu saja.
 
 991
 00:50:43,833 --> 00:50:46,834
-Won't you have to pay
-for the card at some point?
+Bukankah kamu harus membayar
+untuk kartu itu suatu saat nanti?
 
 992
 00:50:46,834 --> 00:50:48,440
-Theoretically.
+Secara teoretis.
 
 993
 00:50:56,879 --> 00:50:58,120
-So...
+Jadi...
 
 994
 00:51:00,014 --> 00:51:03,158
-I've been thinking
-about it, and...
+Aku sudah berpikir
+tentang itu, dan...
 
 995
 00:51:04,557 --> 00:51:08,020
-...finally dawned on me that
-you are not the kind of person
+...akhirnya aku sadar akan hal itu
+kamu bukan tipe orang seperti itu
 
 996
 00:51:08,020 --> 00:51:11,727
-that a girl brings to
-a roadside motel for a quickie.
+yang dibawa seorang gadis
+sebuah motel pinggir jalan untuk seks kilat.
 
 997
 00:51:12,565 --> 00:51:14,631
-Now, I have heard of
-the more soulful sex
+Sekarang, saya telah mendengarnya
+seks yang lebih penuh perasaan
 
 998
 00:51:14,631 --> 00:51:17,634
-where you have a nice dinner
-and conversation first
+tempat Anda menikmati makan malam yang menyenangkan
+dan percakapan terlebih dahulu
 
 999
 00:51:17,634 --> 00:51:19,570
-so it all comes out of
-someplace deeper,
+jadi semuanya keluar
+suatu tempat yang lebih dalam,
 
 1000
 00:51:19,570 --> 00:51:22,408
-but I usually have stuff to do.
+tapi biasanya aku ada urusan yang harus dilakukan.
 
 1001
 00:51:23,213 --> 00:51:25,213
@@ -4450,336 +4450,336 @@ Perrier-Jouët Belle Epoque '95.
 
 1002
 00:51:25,213 --> 00:51:27,743
-You mean you want
-to sleep with me?
+Maksudmu kamu mau
+untuk tidur denganku?
 
 1003
 00:51:28,713 --> 00:51:32,286
-Marian, you have got to have
-a good, steamy fuck.
+Marian, kamu harus memilikinya
+bercinta yang bagus dan beruap.
 
 1004
 00:51:32,286 --> 00:51:34,288
-Something I decided
+Sesuatu yang saya putuskan
 
 1005
 00:51:34,288 --> 00:51:35,784
-last night
-while I was lying in bed
+tadi malam
+saat aku sedang berbaring di tempat tidur
 
 1006
 00:51:35,784 --> 00:51:38,787
-before I started masturbating,
-and I figure,
+sebelum saya mulai melakukan masturbasi,
+dan menurutku,
 
 1007
 00:51:38,787 --> 00:51:43,055
-it's important to me,
-I should take care of it myself.
+itu penting bagiku,
+Saya harus mengurusnya sendiri.
 
 1008
 00:51:43,055 --> 00:51:44,529
-Especially since, with you,
+Terutama karena, bersamamu,
 
 1009
 00:51:44,529 --> 00:51:46,564
-it's got to be with somebody
-who cares for you.
+itu pasti dengan seseorang
+siapa yang peduli padamu.
 
 1010
 00:51:46,564 --> 00:51:47,632
-Am I right?
+Apakah saya benar?
 
 1011
 00:51:48,634 --> 00:51:51,140
-Can't just be a finger
-jiggling your clit and adios.
+Tidak bisa hanya dengan satu jari
+menggoyangkan klitoris dan adios Anda.
 
 1012
 00:51:52,407 --> 00:51:54,209
-- Thank you.
-- My pleasure. Madame?
+- Terima kasih.
+- Dengan senang hati. Nyonya?
 
 1013
 00:51:54,209 --> 00:51:55,738
-Yes, please.
+Ya silahkan.
 
 1014
 00:51:55,738 --> 00:51:57,938
-But is it a good idea
-for us to have sex?
+Tapi apakah itu ide yang bagus
+bagi kita untuk berhubungan seks?
 
 1015
 00:51:57,938 --> 00:51:59,544
-I mean, we're good friends,
+Maksudku, kita adalah teman baik,
 
 1016
 00:51:59,544 --> 00:52:01,546
-and maybe it's not supposed
-to be more than that.
+dan mungkin itu tidak seharusnya
+menjadi lebih dari itu.
 
 1017
 00:52:01,546 --> 00:52:02,976
-Maybe we shouldn't risk
-ruining it.
+Mungkin sebaiknya kita tidak mengambil risiko
+merusaknya.
 
 1018
 00:52:02,976 --> 00:52:06,584
-Look, you can always find
-reasons to not have sex,
+Lihat, Anda selalu dapat menemukannya
+alasan untuk tidak berhubungan seks,
 
 1019
 00:52:06,584 --> 00:52:09,554
-and if you think about them
-too much, guess what.
+dan jika Anda memikirkannya
+terlalu banyak, coba tebak.
 
 1020
 00:52:09,554 --> 00:52:11,754
-- You never have sex.
-- Exactly.
+- Kamu tidak pernah berhubungan seks.
+- Tepat.
 
 1021
 00:52:11,754 --> 00:52:13,723
-Like my high school
-guidance counselor.
+Seperti masa SMAku
+bimbingan konseling.
 
 1022
 00:52:13,723 --> 00:52:16,330
-She was always saying
-that this or that
+Dia selalu berkata
+itu ini atau itu
 
 1023
 00:52:16,330 --> 00:52:18,200
-- would be inappropriate.
-- Uh-huh.
+- tidak pantas.
+- Uh huh.
 
 1024
 00:52:18,200 --> 00:52:20,466
-But when I finally
-got her to relax,
+Tapi ketika aku akhirnya
+membuat dia rileks,
 
 1025
 00:52:22,096 --> 00:52:23,403
-the sex was great.
+seksnya luar biasa.
 
 1026
 00:52:23,403 --> 00:52:25,273
-Ladies, have we decided?
+Nona, sudahkah kita memutuskan?
 
 1027
 00:52:27,475 --> 00:52:29,673
-Don't rush us, buddy.
+Jangan terburu-buru, sobat.
 
 1028
 00:52:30,412 --> 00:52:33,710
-First, we'll dance.
+Pertama, kita akan menari.
 
 1029
 00:52:44,657 --> 00:52:48,527
-Maybe I do overthink things.
+Mungkin aku terlalu memikirkan banyak hal.
 
 1030
 00:52:50,300 --> 00:52:51,530
-Yeah.
+Ya.
 
 1031
 00:52:52,665 --> 00:52:55,534
-Got to keep that brain loose,
-let that mind fly.
+Harus menjaga otak itu tetap longgar,
+biarkan pikiran itu terbang.
 
 1032
 00:52:59,505 --> 00:53:02,739
-There was this one time
-I was with Debbie Augenblick.
+Ada suatu waktu
+Saya bersama Debbie Augenblick.
 
 1033
 00:53:02,739 --> 00:53:04,070
-Ah, you know Debbie.
+Ah, kamu tahu Debbie.
 
 1034
 00:53:04,070 --> 00:53:07,139
-She's got this humongous dildo
-she's got mounted
+Dia punya penis buatan yang sangat besar
+dia sudah dipasang
 
 1035
 00:53:07,139 --> 00:53:08,712
-on a Black & Decker
-circular sander,
+pada Black & Decker
+penggiling melingkar,
 
 1036
 00:53:08,712 --> 00:53:11,880
-and she had me going
-like my brains were gonna
+dan dia menyuruhku pergi
+seperti otakku akan melakukannya
 
 1037
 00:53:11,880 --> 00:53:13,651
-come out the top
-of my freaking skull.
+keluarlah yang teratas
+tengkorakku yang aneh.
 
 1038
 00:53:13,651 --> 00:53:16,082
-I mean, I came like the
-Grand Burlington motherfuck...
+Maksudku, aku datang seperti itu
+Keparat Grand Burlington...
 
 1039
 00:53:16,082 --> 00:53:21,461
-<i>♪ Watch the sunrise
-from a tropic isle ♪</i>
+♪ Saksikan matahari terbit
+dari pulau tropis ♪
 
 1040
 00:53:23,223 --> 00:53:26,928
-<i>♪ Just remember, darling ♪</i>
+♪ Ingat saja, sayang ♪
 
 1041
 00:53:26,928 --> 00:53:29,469
-<i>♪ All the while ♪</i>
+♪ Sementara itu ♪
 
 1042
 00:53:31,473 --> 00:53:36,245
-<i>♪ You belong to me... ♪</i>
+♪ Kamu milikku... ♪
 
 1043
 00:56:08,696 --> 00:56:10,322
-One accomplishment.
+Satu pencapaian.
 
 1044
 00:56:10,322 --> 00:56:12,566
-Huh? Name me one.
+Hah? Beri aku satu nama.
 
 1045
 00:56:12,566 --> 00:56:15,030
-At least I'm in the arena
-dealing with people.
+Setidaknya aku ada di arena
+berurusan dengan orang-orang.
 
 1046
 00:56:15,030 --> 00:56:16,966
-Those girls wound you up
-like a top.
+Gadis-gadis itu melukaimu
+seperti gasing.
 
 1047
 00:56:17,936 --> 00:56:20,772
-Flint, have you ever
-fucked a woman
+Flint, pernahkah kamu
+meniduri seorang wanita
 
 1048
 00:56:20,772 --> 00:56:22,510
-on a creaky porch swing
+di ayunan teras yang berderit
 
 1049
 00:56:22,510 --> 00:56:24,237
-on a warm summer evening--
-crickets, so forth?
+pada malam musim panas yang hangat--
+jangkrik, dan sebagainya?
 
 1050
 00:56:24,237 --> 00:56:27,548
-I mean, just fucked her
-like there's no tomorrow,
+Maksudku, baru saja menidurinya
+seperti tidak ada hari esok,
 
 1051
 00:56:27,548 --> 00:56:29,418
-trousers around your ankles,
+celana panjang di sekitar pergelangan kaki Anda,
 
 1052
 00:56:29,418 --> 00:56:31,816
-belt jangling,
-yelling to beat the band,
+sabuk bergemerincing,
+berteriak untuk mengalahkan band,
 
 1053
 00:56:31,816 --> 00:56:34,555
-slamming away
-like a Cincinnati jackhammer.
+membanting pergi
+seperti palu Cincinnati.
 
 1054
 00:56:34,555 --> 00:56:36,590
-Yes, people might stroll by
+Ya, orang mungkin lewat
 
 1055
 00:56:36,590 --> 00:56:38,119
-and see you
-looking foolish up there
+dan sampai jumpa
+tampak bodoh di atas sana
 
 1056
 00:56:38,119 --> 00:56:39,560
-slapping ham on the veranda,
+menampar ham di beranda,
 
 1057
 00:56:39,560 --> 00:56:42,596
-but that is the price you pay
-for interaction.
+tapi itulah harga yang harus kamu bayar
+untuk interaksi.
 
 1058
 00:56:42,596 --> 00:56:45,126
-If this is too messy for you,
-then you will spend
+Jika ini terlalu berantakan bagimu,
+maka kamu akan menghabiskannya
 
 1059
 00:56:45,126 --> 00:56:47,766
-the rest of
-your miserable fucking life
+sisa
+hidupmu yang menyedihkan
 
 1060
 00:56:47,766 --> 00:56:50,802
-just hitting people and then
-pulling your measly little pud.
+hanya memukul orang dan kemudian
+menarik puding kecilmu.
 
 1061
 00:56:50,802 --> 00:56:52,166
-Can't wait to tell the chief.
+Tidak sabar untuk memberi tahu ketua.
 
 1062
 00:56:52,166 --> 00:56:54,509
-Yeah, and why don't you
-also tell him
+Ya, dan kenapa tidak
+juga katakan padanya
 
 1063
 00:56:54,509 --> 00:56:56,445
-that you're
-a social fucking imbecile
+bahwa kamu
+orang bodoh dalam pergaulan
 
 1064
 00:56:56,445 --> 00:56:58,139
-that I've been carrying
-on my back
+yang selama ini aku bawa
+di belakangku
 
 1065
 00:56:58,139 --> 00:57:00,416
-all the way from Philadelphia!
+jauh-jauh dari Philadelphia!
 
 1066
 00:57:18,533 --> 00:57:20,161
-Help.
+Membantu.
 
 1067
 00:57:29,106 --> 00:57:30,677
-"Big case."
+“Kasus besar.”
 
 1068
 00:57:31,471 --> 00:57:33,075
-That woman.
+Wanita itu.
 
 1069
 00:57:36,652 --> 00:57:39,378
-Won't anybody save Curlie?
+Tidak adakah yang akan menyelamatkan Curlie?
 
 1070
 00:58:00,335 --> 00:58:02,170
-Wake me in Tallahassee.
+Bangunkan aku di Tallahassee.
 
 1071
 00:58:02,170 --> 00:58:03,842
-Yes, sir.
+Ya pak.
 
 1072
 00:59:24,661 --> 00:59:27,761
-Honey, we eating soon?
+Sayang, kita akan segera makan?
 
 1073
 00:59:27,761 --> 00:59:29,598
-Okay.
+Oke.
 
 1074
 00:59:31,591 --> 00:59:33,833
-Oh. All right.
+Oh. Baiklah.
 
 1075
 01:00:05,625 --> 01:00:07,394
@@ -4787,20 +4787,20 @@ Jamie?
 
 1076
 01:00:07,394 --> 01:00:12,366
-Waited for you
-as long as I could.
+Menunggumu
+selama aku bisa.
 
 1077
 01:00:14,601 --> 01:00:16,612
-Jamie, no!
+Jamie, tidak!
 
 1078
 01:00:24,785 --> 01:00:26,347
-Jamie, why?
+Jamie, kenapa?
 
 1079
 01:00:32,190 --> 01:00:33,992
-Oh, my God.
+Ya Tuhan.
 
 1080
 01:00:33,992 --> 01:00:35,323
@@ -4808,556 +4808,556 @@ Marian.
 
 1081
 01:00:36,458 --> 01:00:38,227
-Sir?
+Pak?
 
 1082
 01:00:38,227 --> 01:00:39,833
-- Sir.
+- Pak.
 - Hmm?
 
 1083
 01:00:40,902 --> 01:00:42,836
-Tallahassee, sir.
+Tallahassee, Pak.
 
 1084
 01:00:42,836 --> 01:00:45,597
-Where to, exactly?
+Ke mana tepatnya?
 
 1085
 01:00:45,597 --> 01:00:47,808
-Yes, um...
+Ya, um...
 
 1086
 01:00:48,602 --> 01:00:49,744
-The track.
+Jalanan.
 
 1087
 01:00:49,744 --> 01:00:51,812
-Dog track? Yes, sir.
+Jalur anjing? Ya pak.
 
 1088
 01:00:51,812 --> 01:00:53,605
-Those penises are trouble,
+Penis itu bermasalah,
 Jamie.
 
 1089
 01:00:53,605 --> 01:00:55,079
-Oh, come on now.
+Oh, ayolah sekarang.
 
 1090
 01:00:55,079 --> 01:00:57,917
-I thought you were
-gonna loosen up.
+Saya pikir begitu
+akan melonggarkan.
 
 1091
 01:00:57,917 --> 01:00:59,853
-You gonna work your way
-through all of them?
+Anda akan bekerja sesuai keinginan Anda
+melalui semuanya?
 
 1092
 01:00:59,853 --> 01:01:02,152
-No. I like this one.
+Tidak, aku suka yang ini.
 
 1093
 01:01:03,155 --> 01:01:05,727
-Oh, come on. Don't be mad.
+Oh ayolah. Jangan marah.
 
 1094
 01:01:06,356 --> 01:01:07,553
-Last night was beautiful,
+Tadi malam indah sekali,
 
 1095
 01:01:07,553 --> 01:01:09,225
-but you fell asleep
-and I didn't get my turn
+tapi kamu tertidur
+dan aku tidak mendapatkan giliranku
 
 1096
 01:01:09,225 --> 01:01:10,831
-on the waterslide,
-if you know what I'm saying.
+di seluncuran air,
+jika Anda tahu apa yang saya katakan.
 
 1097
 01:01:10,831 --> 01:01:12,657
-Okay! -All right!
+Oke! -Baiklah!
 
 1098
 01:01:12,657 --> 01:01:15,066
-Everyone, relax. Stay calm.
+Semuanya, santai. Tetap tenang.
 
 1099
 01:01:15,066 --> 01:01:17,002
-We're here for two things.
+Kami di sini untuk dua hal.
 
 1100
 01:01:18,333 --> 01:01:20,137
-Careful with that thing,
-you fucking moron!
+Hati-hati dengan hal itu,
+dasar bodoh!
 
 1101
 01:01:20,137 --> 01:01:21,842
-Screw you!
+Dasar!
 
 1102
 01:01:21,842 --> 01:01:23,668
-We're here for two items.
+Kami di sini untuk dua item.
 
 1103
 01:01:23,668 --> 01:01:25,076
-Whoa. She's naked.
+Wah. Dia telanjang.
 
 1104
 01:01:25,076 --> 01:01:27,474
-All right, no big deal.
-Just a naked lady.
+Baiklah, bukan masalah besar.
+Hanya seorang wanita telanjang.
 
 1105
 01:01:27,474 --> 01:01:28,849
-We're here for two items.
+Kami di sini untuk dua item.
 
 1106
 01:01:28,849 --> 01:01:30,983
-Yes, this. Please and thank you.
+Iya ini. Silahkan dan terima kasih.
 
 1107
 01:01:30,983 --> 01:01:33,084
-- And the head box.
-- Head box!
+- Dan kotak kepalanya.
+- Kotak kepala!
 
 1108
 01:01:33,084 --> 01:01:34,888
-Fuck you!
-Don't you fucking lecture me!
+Persetan denganmu!
+Jangan menceramahiku!
 
 1109
 01:01:34,888 --> 01:01:36,956
-All right, ladies.
-No need to panic. One more time.
+Baiklah, nona-nona.
+Tidak perlu panik. Sekali lagi.
 
 1110
 01:01:36,956 --> 01:01:38,991
-Please and thank you.
-We're all friends here.
+Silahkan dan terima kasih.
+Kita semua berteman di sini.
 
 1111
 01:01:38,991 --> 01:01:41,620
-Two items. Don't panic. Okay.
+Dua item. Jangan panik. Oke.
 
 1112
 01:01:41,620 --> 01:01:43,864
-Let's get this show on the road.
+Mari kita tayangkan pertunjukan ini.
 
 1113
 01:01:45,558 --> 01:01:47,802
-Yeah, baby.
+Yeah sayang.
 
 1114
 01:01:47,802 --> 01:01:55,040
-You're such a big, bouncy,
-beautiful baby.
+Kamu sangat besar, goyang,
+bayi yang cantik.
 
 1115
 01:01:56,109 --> 01:01:58,846
-Love doesn't have to die, baby.
+Cinta tidak harus mati, sayang.
 
 1116
 01:02:00,608 --> 01:02:02,344
-Whoa.
+Wah.
 
 1117
 01:02:02,344 --> 01:02:04,753
-This is so groovy.
+Ini sangat asyik.
 
 1118
 01:02:04,753 --> 01:02:07,756
-Now I can love you forever.
+Sekarang aku bisa mencintaimu selamanya.
 
 1119
 01:02:07,756 --> 01:02:09,384
-Whoa.
+Wah.
 
 1120
 01:02:09,384 --> 01:02:10,792
-And ever
+Dan pernah
 
 1121
 01:02:11,652 --> 01:02:15,357
-and ever and ever
+dan selama-lamanya
 
 1122
 01:02:15,357 --> 01:02:20,494
-- and ever and ever.
-- And ever and ever.
+- dan selama-lamanya.
+- Dan selama-lamanya.
 
 1123
 01:02:20,494 --> 01:02:24,971
-Never to wilt, never to wane.
+Tidak pernah layu, tidak pernah berkurang.
 
 1124
 01:02:24,971 --> 01:02:29,074
-Never to wilt,
-never to wane.
+Jangan pernah layu,
+tidak pernah berkurang.
 
 1125
 01:02:29,074 --> 01:02:33,705
-Never to wilt, never to wane.
+Tidak pernah layu, tidak pernah berkurang.
 
 1126
 01:02:33,705 --> 01:02:38,017
-Never to wilt,
-never to wane.
+Jangan pernah layu,
+tidak pernah berkurang.
 
 1127
 01:02:38,017 --> 01:02:41,746
-Never to wilt, never to wane.
+Tidak pernah layu, tidak pernah berkurang.
 
 1128
 01:02:41,746 --> 01:02:45,420
-Never to wilt...
+Jangan pernah layu...
 
 1129
 01:02:49,226 --> 01:02:50,964
-Took 'em straight here.
+Bawa mereka langsung ke sini.
 
 1130
 01:02:50,964 --> 01:02:52,130
-Haven't debriefed 'em, Chief.
+Belum menanyai mereka, Chief.
 
 1131
 01:02:52,130 --> 01:02:54,132
-Figured you want to do
-the talking.
+Kupikir kamu ingin melakukannya
+yang berbicara.
 
 1132
 01:02:57,731 --> 01:02:59,434
-This is all they had?
+Hanya ini yang mereka punya?
 
 1133
 01:02:59,434 --> 01:03:01,172
-What's all they had?
+Apa saja yang mereka punya?
 
 1134
 01:03:02,307 --> 01:03:06,848
-Ladies, you're a day late
-and a dick short.
+Nona, kamu terlambat satu hari
+dan penisnya pendek.
 
 1135
 01:03:06,848 --> 01:03:08,883
-What are you talking about?
+Apa yang kamu bicarakan?
 
 1136
 01:03:08,883 --> 01:03:11,116
-The senator's penis
-is not in the case!
+Penis senator
+tidak dalam kasus ini!
 
 1137
 01:03:11,116 --> 01:03:13,613
-- Not in the...
-- Well, that just figures.
+- Tidak di...
+- Ya, itu hanya angka.
 
 1138
 01:03:13,613 --> 01:03:15,285
-Come on, girls.
+Ayolah teman-teman.
 
 1139
 01:03:15,285 --> 01:03:16,990
-Where's the last phallus?
+Dimana lingga terakhirnya?
 
 1140
 01:03:20,191 --> 01:03:22,490
-You didn't check the case
-before you left?
+Anda tidak memeriksa kasusnya
+sebelum kamu pergi?
 
 1141
 01:03:22,866 --> 01:03:24,459
-I-I...
+II...
 
 1142
 01:03:24,459 --> 01:03:26,098
-He's been stepping on his dick
-the whole way down, Chief.
+Dia sudah menginjak penisnya
+sampai ke bawah, Ketua.
 
 1143
 01:03:26,098 --> 01:03:28,001
-What have you done, jerk-off?
+Apa yang telah kamu lakukan, brengsek?
 
 1144
 01:03:28,001 --> 01:03:29,871
-I got the Spanish guy's head,
+Aku mendapatkan kepala orang Spanyol itu,
 Einstein!
 
 1145
 01:03:29,871 --> 01:03:31,334
-They gave you the combination,
+Mereka memberi Anda kombinasinya,
 
 1146
 01:03:31,334 --> 01:03:33,336
-and it still took you
-15 minutes!
+dan itu masih membutuhkanmu
+15 menit!
 
 1147
 01:03:33,336 --> 01:03:35,041
-- I never slip up.
-- Right, left,
+- Aku tidak pernah tergelincir.
+- Kanan kiri,
 
 1148
 01:03:35,041 --> 01:03:36,845
-past the first number.
+melewati angka pertama.
 
 1149
 01:03:49,959 --> 01:03:53,224
-The senator is a good man.
+Senator adalah orang baik.
 
 1150
 01:03:54,095 --> 01:03:56,997
-He smoked marijuana
-once in college.
+Dia menghisap ganja
+sekali saat kuliah.
 
 1151
 01:03:56,997 --> 01:03:58,361
-Many of us did.
+Banyak dari kita melakukannya.
 
 1152
 01:03:58,361 --> 01:04:00,869
-It was a different time.
+Itu adalah waktu yang berbeda.
 
 1153
 01:04:00,869 --> 01:04:03,938
-He went to a party
-and met a hippie chick,
+Dia pergi ke pesta
+dan bertemu dengan cewek hippie,
 
 1154
 01:04:03,938 --> 01:04:06,468
-Tiffany Plaster Caster.
+Kastor Plester Tiffany.
 
 1155
 01:04:12,608 --> 01:04:13,915
-Housekeeping.
+Pembenahan.
 
 1156
 01:04:15,840 --> 01:04:20,185
-She took a plaster cast
-of his excited...
+Dia mengambil gips
+dari kegembiraannya...
 
 1157
 01:04:21,881 --> 01:04:23,221
-...thing.
+...benda.
 
 1158
 01:04:24,587 --> 01:04:28,523
-She made one model
-of each of her "old men."
+Dia membuat satu model
+dari masing-masing "orang tuanya".
 
 1159
 01:04:31,132 --> 01:04:33,660
-At the time, the senator
-didn't know that someday
+Saat itu, senator
+tidak mengetahuinya suatu hari nanti
 
 1160
 01:04:33,660 --> 01:04:36,905
-he'd be called on to serve
-his community, his state,
+dia akan dipanggil untuk melayani
+komunitasnya, negaranya,
 
 1161
 01:04:36,905 --> 01:04:39,534
-and perhaps someday, his nation.
+dan mungkin suatu hari nanti, bangsanya.
 
 1162
 01:04:41,604 --> 01:04:42,834
-He was just a kid.
+Dia masih kecil.
 
 1163
 01:04:46,145 --> 01:04:50,149
-His penis passed
-from hand to hand.
+Penisnya lewat
+dari tangan ke tangan.
 
 1164
 01:04:50,149 --> 01:04:52,283
-Finally ended up
-with an international collector
+Akhirnya berakhir
+dengan kolektor internasional
 
 1165
 01:04:52,283 --> 01:04:55,187
-named
-Alejandro Santos y Obrador.
+bernama
+Alejandro Santos dan Obrador.
 
 1166
 01:04:55,187 --> 01:04:58,586
-You saw him, sort of.
+Anda melihatnya, semacam itu.
 
 1167
 01:05:13,502 --> 01:05:16,802
-This penis cannot become
-a piece of merchandise.
+Penis ini tidak bisa menjadi
+sepotong barang dagangan.
 
 1168
 01:05:16,802 --> 01:05:19,442
-Think of it: eBay,
+Bayangkan saja: eBay,
 
 1169
 01:05:19,442 --> 01:05:23,743
-"Senator Gary Channel's
-ding-dong, lightly used."
+"Senator Gary Channel
+ding-dong, ringan digunakan."
 
 1170
 01:05:23,743 --> 01:05:26,218
-Comments, reviews.
+Komentar, ulasan.
 
 1171
 01:05:26,218 --> 01:05:28,616
-Think of what
-it would do to him.
+Pikirkan apa
+itu akan berdampak padanya.
 
 1172
 01:05:28,616 --> 01:05:32,994
-His children, his family,
-his career.
+Anak-anaknya, keluarganya,
+karirnya.
 
 1173
 01:05:36,263 --> 01:05:39,198
-We're not unreasonable.
+Kami bukannya tidak masuk akal.
 
 1174
 01:05:39,198 --> 01:05:40,969
-We'll gladly pay for it.
+Kami dengan senang hati akan membayarnya.
 
 1175
 01:05:41,895 --> 01:05:42,927
-We just...
+Kami hanya...
 
 1176
 01:05:42,927 --> 01:05:44,896
-Will you please shut up!
+Maukah kamu diam!
 
 1177
 01:05:44,896 --> 01:05:46,106
-That wasn't my idea!
+Itu bukan ideku!
 
 1178
 01:05:46,106 --> 01:05:47,734
-I was just trying
-to keep us awake.
+Saya hanya mencoba
+untuk membuat kita tetap terjaga.
 
 1179
 01:05:47,734 --> 01:05:48,801
-I was experimenting.
+Saya sedang bereksperimen.
 
 1180
 01:05:48,801 --> 01:05:50,077
-But you liked it.
+Tapi kamu menyukainya.
 
 1181
 01:05:50,077 --> 01:05:51,375
-- No, I didn't!
-- I could tell.
+- Tidak, aku tidak melakukannya!
+- Aku tahu.
 
 1182
 01:05:51,375 --> 01:05:53,113
-Hey, it was the Irish coffee.
-I was drunk!
+Hei, itu kopi Irlandia.
+Saya mabuk!
 
 1183
 01:05:53,113 --> 01:05:54,543
-Drunk on cock.
+Mabuk pada ayam.
 
 1184
 01:05:54,543 --> 01:05:56,347
-- No! I didn't.
-- It's not my thing.
+- TIDAK! saya tidak melakukannya.
+- Itu bukan kesukaanku.
 
 1185
 01:05:56,347 --> 01:05:58,019
-I was just trying
-to help you be a man.
+Saya hanya mencoba
+untuk membantumu menjadi seorang pria.
 
 1186
 01:05:58,019 --> 01:05:59,911
-- To understand life.
-- No!
+- Untuk memahami kehidupan.
+- TIDAK!
 
 1187
 01:05:59,911 --> 01:06:02,518
-- The stuff of life!
-- No, no, no!
+- Hal-hal dalam hidup!
+- Tidak tidak tidak!
 
 1188
 01:06:05,092 --> 01:06:08,029
-God, man,
-what are you doing?!
+Ya Tuhan, kawan,
+Apa yang sedang kamu lakukan?!
 
 1189
 01:06:41,493 --> 01:06:42,525
-Mommy.
+Mama.
 
 1190
 01:07:04,483 --> 01:07:06,186
-All right, we have to
-get back to the hotel
+Baiklah, kita harus melakukannya
+kembali ke hotel
 
 1191
 01:07:06,186 --> 01:07:07,682
-and grab the penis
-out of the bed.
+dan ambil penisnya
+keluar dari tempat tidur.
 
 1192
 01:07:07,682 --> 01:07:08,947
-Then we switch hotels.
+Lalu kami berpindah hotel.
 
 1193
 01:07:08,947 --> 01:07:11,059
-You grab the penis.
-I'll meet you at the hotel.
+Anda ambil penisnya.
+Aku akan menemuimu di hotel.
 
 1194
 01:07:11,059 --> 01:07:12,489
-Okay. The La Lanterna.
+Oke. La Lanterna.
 
 1195
 01:07:12,489 --> 01:07:14,887
-I'll check in
-under the name Abzug.
+Saya akan check in
+dengan nama Abzug.
 
 1196
 01:07:14,887 --> 01:07:17,131
-- Where are you going?
-- Art store.
+- Kemana kamu pergi?
+- Toko seni.
 
 1197
 01:07:24,303 --> 01:07:26,470
-Next customer, please.
+Tolong pelanggan selanjutnya.
 
 1198
 01:07:26,470 --> 01:07:29,275
 Shinkleman.
-Going to Tallahassee.
+Pergi ke Tallahassee.
 
 1199
 01:07:29,275 --> 01:07:31,002
-Don't ask me why.
+Jangan tanya kenapa.
 
 1200
 01:07:33,807 --> 01:07:35,578
-<i>Committee to Reelect.</i>
+Komite untuk Memilih Kembali.
 
 1201
 01:07:35,578 --> 01:07:37,415
-I need to speak to the senator.
+Saya perlu berbicara dengan senator.
 
 1202
 01:07:37,415 --> 01:07:40,946
-<i>Well, who should I say
-is calling?</i>
+Nah, siapa yang harus saya katakan
+sedang memanggil?
 
 1203
 01:07:40,946 --> 01:07:43,355
-Someone who has his...
+Seseorang yang memiliki...
 
 1204
 01:07:44,853 --> 01:07:47,062
-...personal effects.
+...efek pribadi.
 
 1205
 01:08:17,985 --> 01:08:20,491
-<i>Who is this?</i>
+Siapa ini?
 
 1206
 01:08:20,491 --> 01:08:21,822
@@ -5365,81 +5365,81 @@ Senator?
 
 1207
 01:08:21,822 --> 01:08:24,297
-<i>Yes. Who is this?</i>
+Ya. Siapa ini?
 
 1208
 01:08:24,297 --> 01:08:27,168
-Somebody who wants
-a million dollars.
+Seseorang yang ingin
+Satu juta dolar.
 
 1209
 01:08:27,168 --> 01:08:30,765
-If you can get it by tonight,
-you can have your thing back.
+Jika Anda bisa mendapatkannya malam ini,
+kamu bisa mendapatkan barangmu kembali.
 
 1210
 01:08:30,765 --> 01:08:32,404
-Everybody's things.
+Barang milik semua orang.
 
 1211
 01:08:32,404 --> 01:08:35,176
-I'll tell you where to bring
-the money. Come alone.
+Aku akan memberitahumu ke mana harus membawanya
+uang. Datang sendiri.
 
 1212
 01:08:35,176 --> 01:08:37,178
-If you're not alone,
+Jika Anda tidak sendirian,
 
 1213
 01:08:37,178 --> 01:08:39,213
-believe me, I'll know it.
+percayalah, aku akan mengetahuinya.
 
 1214
 01:08:49,225 --> 01:08:50,455
-Someone named Jamie Dobbs
+Seseorang bernama Jamie Dobbs
 
 1215
 01:08:50,455 --> 01:08:52,050
-made a phone call
-from here last night.
+membuat panggilan telepon
+dari sini tadi malam.
 
 1216
 01:08:52,050 --> 01:08:53,326
-Uh, yeah. Mm-hmm.
+Eh, ya. Mm-hmm.
 
 1217
 01:08:54,956 --> 01:08:56,824
-Well, this is for her.
+Ya, ini untuknya.
 
 1218
 01:08:56,824 --> 01:08:58,265
-Oh, I'm sorry, miss.
+Oh, maafkan aku, nona.
 
 1219
 01:08:58,265 --> 01:08:59,530
-You've missed them.
+Anda merindukan mereka.
 
 1220
 01:08:59,530 --> 01:09:02,269
-Um, her-her friend
-just checked them out.
+Um, dia-temannya
+baru saja memeriksanya.
 
 1221
 01:09:22,225 --> 01:09:23,851
-Done.
+Selesai.
 
 1222
 01:09:25,855 --> 01:09:26,887
-With what?
+Dengan apa?
 
 1223
 01:09:26,887 --> 01:09:29,230
-Tell you later.
-I'm gonna clean up.
+Beritahu kamu nanti.
+Aku akan membersihkannya.
 
 1224
 01:09:30,057 --> 01:09:31,595
-Want to join me?
+Mau bergabung denganku?
 
 1225
 01:10:01,055 --> 01:10:02,593
@@ -5447,477 +5447,477 @@ Jamie.
 
 1226
 01:10:04,729 --> 01:10:06,333
-I want...
+Saya ingin...
 
 1227
 01:10:06,333 --> 01:10:07,928
-Uh-huh?
+Uh huh?
 
 1228
 01:10:07,928 --> 01:10:10,997
-I... I-I want...
+Aku... Aku ingin...
 
 1229
 01:10:10,997 --> 01:10:13,505
-What do you want, sugar sweet?
+Apa yang kamu inginkan, gula manis?
 
 1230
 01:10:15,608 --> 01:10:18,103
-I want to make love
-with the senator's penis.
+saya mau bercinta
+dengan penis senator.
 
 1231
 01:11:20,640 --> 01:11:22,541
-<i>♪ Fire ♪</i>
+♪ Api ♪
 
 1232
 01:11:23,445 --> 01:11:25,610
-<i>♪ I bid you to burn ♪</i>
+♪ Aku memintamu untuk membakarnya ♪
 
 1233
 01:11:28,076 --> 01:11:29,845
-<i>♪ Fire ♪</i>
+♪ Api ♪
 
 1234
 01:11:29,845 --> 01:11:33,046
-<i>♪ I bid you to learn ♪</i>
+♪ Saya mengundang Anda untuk belajar ♪
 
 1235
 01:11:39,494 --> 01:11:40,757
-Who are you?
+Siapa kamu?
 
 1236
 01:11:42,255 --> 01:11:43,859
-Democrats.
+Demokrat.
 
 1237
 01:11:43,859 --> 01:11:45,432
-Mind if we sit down?
+Keberatan jika kita duduk?
 
 1238
 01:11:45,432 --> 01:11:48,336
-<i>♪ Got your mind,
-you turn around ♪</i>
+♪ Punya pikiranmu,
+kamu berbalik ♪
 
 1239
 01:11:48,336 --> 01:11:50,701
-<i>♪ You've been so blind ♪</i>
+♪ Kamu sangat buta ♪
 
 1240
 01:11:50,701 --> 01:11:53,902
-<i>♪ You fall behind, oh, no ♪</i>
+♪ Kamu tertinggal, oh, tidak ♪
 
 1241
 01:11:53,902 --> 01:11:55,343
-Are they all there?
+Apakah mereka semua ada di sana?
 
 1242
 01:11:55,343 --> 01:11:57,411
-<i>♪ Fire ♪</i>
+♪ Api ♪
 
 1243
 01:11:57,411 --> 01:11:59,413
-<i>♪ I'll take you to burn ♪</i>
+♪ Aku akan mengajakmu membakar ♪
 
 1244
 01:11:59,413 --> 01:12:00,678
-Count 'em.
+Hitung saja.
 
 1245
 01:12:02,143 --> 01:12:03,879
-<i>♪ Fire ♪</i>
+♪ Api ♪
 
 1246
 01:12:04,783 --> 01:12:06,915
-<i>♪ I'll take you to learn ♪</i>
+♪ Aku akan mengajakmu belajar ♪
 
 1247
 01:12:12,351 --> 01:12:16,331
-<i>♪ You've been living
-like a little girl... ♪</i>
+♪ Kamu sudah hidup
+seperti gadis kecil... ♪
 
 1248
 01:12:17,158 --> 01:12:18,696
-We didn't deserve this...
+Kami tidak pantas menerima ini...
 
 1249
 01:12:20,095 --> 01:12:21,798
-this commodification.
+komodifikasi ini.
 
 1250
 01:12:23,769 --> 01:12:25,967
-These are all good people.
+Ini semua adalah orang-orang baik.
 
 1251
 01:12:25,967 --> 01:12:28,739
-Important people, too,
-some of them.
+Orang-orang penting juga
+beberapa dari mereka.
 
 1252
 01:12:29,841 --> 01:12:33,579
-There's the head of one of the
-bigger Fortune 500 companies.
+Itu adalah kepala salah satu dari mereka
+perusahaan Fortune 500 yang lebih besar.
 
 1253
 01:12:34,549 --> 01:12:37,649
-The owner of
-a large-market football team.
+Pemilik dari
+tim sepak bola pasar besar.
 
 1254
 01:12:39,246 --> 01:12:40,850
-A Supreme Court justice.
+Seorang hakim Mahkamah Agung.
 
 1255
 01:12:42,150 --> 01:12:44,348
-<i>♪ Fire... ♪</i>
+♪ Api... ♪
 
 1256
 01:12:44,348 --> 01:12:48,429
-You little people
-titillate yourselves
+Kalian orang-orang kecil
+menggairahkan dirimu sendiri
 
 1257
 01:12:48,429 --> 01:12:50,959
-with something
-that was never meant for you,
+dengan sesuatu
+itu tidak pernah dimaksudkan untukmu,
 
 1258
 01:12:50,959 --> 01:12:55,227
-trafficking in
-other people's attainments.
+perdagangan masuk
+pencapaian orang lain.
 
 1259
 01:12:55,227 --> 01:12:56,800
-Senator, save the sanctimony.
+Senator, simpan kesuciannya.
 
 1260
 01:12:56,800 --> 01:12:59,803
-And hand over
-the million smackers.
+Dan serahkan
+sejuta pukulan.
 
 1261
 01:13:01,906 --> 01:13:04,973
-I used to believe in
-the unfettered free market.
+Saya dulu percaya
+pasar bebas yang tidak terkekang.
 
 1262
 01:13:04,973 --> 01:13:07,008
-<i>♪ Fire ♪</i>
+♪ Api ♪
 
 1263
 01:13:09,111 --> 01:13:10,946
-<i>♪ Fire... ♪</i>
+♪ Api... ♪
 
 1264
 01:13:10,946 --> 01:13:12,079
-I don't know.
+Aku tidak tahu.
 
 1265
 01:13:15,821 --> 01:13:17,315
-<i>♪ Fire... ♪</i>
+♪ Api... ♪
 
 1266
 01:13:17,315 --> 01:13:18,657
-Whose head, Senator?
+Kepala siapa, Senator?
 
 1267
 01:13:18,657 --> 01:13:22,958
-Don't get lofty with me, women.
+Jangan sombong padaku, wanita.
 
 1268
 01:13:26,425 --> 01:13:28,029
-Did we do the wrong thing?
+Apakah kita melakukan hal yang salah?
 
 1269
 01:13:29,296 --> 01:13:31,164
-What if he's the next president?
+Bagaimana jika dia presiden berikutnya?
 
 1270
 01:13:32,233 --> 01:13:33,936
-You girls are cute.
+Kalian gadis-gadis manis.
 
 1271
 01:13:33,936 --> 01:13:37,104
-My friends and me are having
-a little basement party later.
+Aku dan temanku sedang bersenang-senang
+pesta kecil di ruang bawah tanah nanti.
 
 1272
 01:13:37,104 --> 01:13:38,545
-You want to join?
+Anda ingin bergabung?
 
 1273
 01:13:46,984 --> 01:13:48,456
-Not tonight.
+Tidak malam ini.
 
 1274
 01:13:52,220 --> 01:13:54,022
-Sukie?
+Suki?
 
 1275
 01:13:54,022 --> 01:13:55,155
-There you are.
+Anda disana.
 
 1276
 01:13:55,155 --> 01:13:57,190
-So what was that
-crackhead phone call about?
+Jadi apa itu tadi?
+panggilan telepon gila tentang?
 
 1277
 01:13:57,190 --> 01:13:59,192
-Wha-What do you mean?
-How'd you know I'd be here?
+A-Apa maksudmu?
+Bagaimana kamu tahu aku akan berada di sini?
 
 1278
 01:13:59,192 --> 01:14:01,535
-How many dyke bars are there
-in Tallahassee?
+Ada berapa batang gili
+di Tallahassee?
 
 1279
 01:14:01,535 --> 01:14:03,801
-What, are you an executive now?
+Apa, apakah Anda seorang eksekutif sekarang?
 
 1280
 01:14:03,801 --> 01:14:05,572
-Did they, uh, make you
-the president
+Apakah mereka, eh, yang membuatmu
+Presiden
 
 1281
 01:14:05,572 --> 01:14:07,167
-of Little Miss Liar Pants, Inc.?
+dari Little Miss Liar Pants, Inc.?
 
 1282
 01:14:08,236 --> 01:14:10,236
-Oh, this? No, I just, uh...
+Oh ini? Tidak, aku hanya, eh...
 
 1283
 01:14:22,250 --> 01:14:23,887
-'Cause we thought
-they didn't know where we were,
+Karena kami berpikir
+mereka tidak tahu di mana kita berada,
 
 1284
 01:14:23,887 --> 01:14:25,592
-but somehow they did,
-and this morning,
+tapi entah bagaimana mereka melakukannya,
+dan pagi ini,
 
 1285
 01:14:25,592 --> 01:14:27,220
-they put us in the back
-of a Toyota Tercel
+mereka menempatkan kami di belakang
+dari Toyota Tercel
 
 1286
 01:14:27,220 --> 01:14:29,024
-and took us to the dog track,
-and I'm sure
+dan membawa kami ke jalur anjing,
+dan saya yakin
 
 1287
 01:14:29,024 --> 01:14:30,894
-they were gonna kill us,
-but lucky for us,
+mereka akan membunuh kita,
+tapi beruntung bagi kami,
 
 1288
 01:14:30,894 --> 01:14:32,698
-they had left
-the most important penis behind.
+mereka telah pergi
+penis terpenting di belakang.
 
 1289
 01:14:32,698 --> 01:14:35,932
-Well, you've had a full day.
+Nah, Anda sudah menjalani hari penuh.
 
 1290
 01:14:38,838 --> 01:14:41,102
-She's yours now.
+Dia milikmu sekarang.
 
 1291
 01:14:42,468 --> 01:14:45,141
-Hang on. This doesn't look good.
+Tunggu sebentar. Ini sepertinya tidak bagus.
 
 1292
 01:15:02,290 --> 01:15:03,927
-Motherfucker.
+Keparat.
 
 1293
 01:15:12,707 --> 01:15:14,608
-What's she chasing?
+Apa yang dia kejar?
 
 1294
 01:15:14,608 --> 01:15:16,038
-Yeah.
+Ya.
 
 1295
 01:15:16,777 --> 01:15:18,106
-We forgot to tell you about
+Kami lupa memberi tahu Anda tentangnya
 
 1296
 01:15:18,106 --> 01:15:20,339
-the suave guy's head
-in the hatbox.
+kepala pria ramah tamah itu
+di kotak topi.
 
 1297
 01:15:27,689 --> 01:15:30,657
-Boy, I think
-I could win against him.
+Wah, menurutku
+Saya bisa menang melawan dia.
 
 1298
 01:15:30,657 --> 01:15:32,659
-And now we get to just
-keep on going.
+Dan sekarang kita sampai pada hal yang adil
+lanjutkan.
 
 1299
 01:15:32,659 --> 01:15:35,090
-Who's gonna complain
-if we keep the car?
+Siapa yang akan mengeluh
+jika kita menyimpan mobilnya?
 
 1300
 01:15:35,090 --> 01:15:37,389
-Things could not have
-worked out better.
+Hal-hal tidak mungkin terjadi
+bekerja lebih baik.
 
 1301
 01:15:37,389 --> 01:15:39,633
-Well, I guess.
+Yah, kurasa.
 
 1302
 01:15:40,361 --> 01:15:42,031
-What's wrong?
+Apa yang salah?
 
 1303
 01:15:42,031 --> 01:15:46,101
-I am fully aware that the
-senator is a terrible person,
+Saya sadar sepenuhnya bahwa
+senator adalah orang yang buruk,
 
 1304
 01:15:46,101 --> 01:15:48,466
-but I have to admit,
+tapi harus kuakui,
 
 1305
 01:15:48,466 --> 01:15:50,336
-I'll miss his...
+aku akan merindukannya...
 
 1306
 01:15:50,336 --> 01:15:51,744
-No worries, girl.
+Jangan khawatir, Nak.
 
 1307
 01:15:52,505 --> 01:15:54,241
-I made a cast.
+Saya membuat pemeran.
 
 1308
 01:15:54,241 --> 01:15:55,880
-And two copies.
+Dan dua salinan.
 
 1309
 01:15:57,653 --> 01:15:59,114
-Great.
+Besar.
 
 1310
 01:15:59,114 --> 01:16:00,687
-But why two?
+Tapi kenapa dua?
 
 1311
 01:16:00,687 --> 01:16:02,282
-For each other.
+Untuk satu sama lain.
 
 1312
 01:16:02,282 --> 01:16:04,449
-Ladies, your visitor is here.
+Nona, pengunjung Anda ada di sini.
 
 1313
 01:16:04,449 --> 01:16:06,484
-Can we get our car?
+Bisakah kita mendapatkan mobil kita?
 
 1314
 01:16:06,484 --> 01:16:09,960
-You know, hers and hers.
+Anda tahu, miliknya dan miliknya.
 
 1315
 01:16:13,735 --> 01:16:14,965
-Aunt Ellis.
+Bibi Ellis.
 
 1316
 01:16:16,265 --> 01:16:17,770
-Oh, hello, darling.
+Oh, halo sayang.
 
 1317
 01:16:17,770 --> 01:16:19,365
-- She's your aunt?
-- Uh-huh.
+- Dia bibimu?
+- Uh huh.
 
 1318
 01:16:19,365 --> 01:16:20,773
-Uncle John met her in church.
+Paman John bertemu dengannya di gereja.
 
 1319
 01:16:20,773 --> 01:16:22,566
-Watch what you say.
-She's very religious.
+Perhatikan apa yang Anda katakan.
+Dia sangat religius.
 
 1320
 01:16:22,566 --> 01:16:24,810
-So good to see you.
+Senang bertemu denganmu.
 
 1321
 01:16:25,747 --> 01:16:27,010
-This is my friend Jamie.
+Ini temanku Jamie.
 
 1322
 01:16:27,010 --> 01:16:28,616
-Oh, how are you,
-young lady?
+Oh, apa kabarmu,
+wanita muda?
 
 1323
 01:16:28,616 --> 01:16:30,112
-This your first time
-in Tallahassee?
+Ini pertama kalinya bagimu
+di Tallahassee?
 
 1324
 01:16:30,112 --> 01:16:32,884
-Yes, ma'am,
-and what a beautiful city.
+Ya Bu,
+dan betapa indahnya kota ini.
 
 1325
 01:16:32,884 --> 01:16:35,689
-- Not like Miami.
-- Oh, no, no.
+- Tidak seperti Miami.
+- Oh, tidak, tidak.
 
 1326
 01:16:35,689 --> 01:16:37,922
-Not like Miami.
+Tidak seperti Miami.
 
 1327
 01:16:37,922 --> 01:16:39,891
-You able to stay with us long?
+Anda bisa tinggal bersama kami lama?
 
 1328
 01:16:39,891 --> 01:16:41,354
-No, unfortunately...
+Tidak, sayangnya...
 
 1329
 01:16:41,354 --> 01:16:43,059
-Right after birding,
-we're off to Massachusetts.
+Tepat setelah mengamati burung,
+kami berangkat ke Massachusetts.
 
 1330
 01:16:43,059 --> 01:16:45,127
-- We just decided last night.
+- Kami baru saja memutuskan tadi malam.
 - Jamie.
 
 1331
 01:16:45,127 --> 01:16:46,931
-Well, what do they have
-in Massachusetts
+Ya, apa yang mereka punya
+di Massachusetts
 
 1332
 01:16:46,931 --> 01:16:49,527
-that we don't have right here
-in North Florida?
+yang tidak kita miliki di sini
+di Florida Utara?
 
 1333
 01:16:49,527 --> 01:16:51,639
-Women can get married there.
+Wanita bisa menikah di sana.
 
 1334
 01:16:55,777 --> 01:16:57,205
-To each other?
+Satu sama lain?
 
 1335
 01:16:59,682 --> 01:17:01,011
@@ -5925,342 +5925,341 @@ Hmm.
 
 1336
 01:17:02,014 --> 01:17:04,784
-Well, that's an innovation.
+Ya, itu sebuah inovasi.
 
 1337
 01:17:19,427 --> 01:17:21,295
-Ladies!
+Wanita!
 
 1338
 01:17:35,045 --> 01:17:37,982
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1339
 01:17:37,982 --> 01:17:41,150
-<i>♪ Lying beside you ♪</i>
+♪ Berbaring di sampingmu ♪
 
 1340
 01:17:41,150 --> 01:17:44,791
-<i>♪ Feeling your heart
-beat in time ♪</i>
+♪ Rasakan hatimu
+mengalahkan tepat waktu ♪
 
 1341
 01:17:44,791 --> 01:17:48,091
-<i>♪ Same as mine ♪</i>
+♪ Sama seperti milikku ♪
 
 1342
 01:17:49,589 --> 01:17:51,864
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1343
 01:17:51,864 --> 01:17:55,494
-<i>♪ Since I'm beside you ♪</i>
+♪ Karena aku di sampingmu ♪
 
 1344
 01:17:55,494 --> 01:17:59,036
-<i>♪ And I'm your wife
-and you're mine ♪</i>
+♪ Dan aku istrimu
+dan kamu milikku ♪
 
 1345
 01:17:59,036 --> 01:18:03,810
-<i>♪ Everything's fine, fine ♪</i>
+♪ Semuanya baik-baik saja, baiklah ♪
 
 1346
 01:18:04,813 --> 01:18:07,979
-<i>♪ You were the second thing
-that I ♪</i>
+♪ Kamu adalah yang kedua
+bahwa aku ♪
 
 1347
 01:18:07,979 --> 01:18:10,817
-<i>♪ I ever knew ♪</i>
+♪ Aku pernah tahu ♪
 
 1348
 01:18:10,817 --> 01:18:14,953
-<i>♪ Didn't think there was
-anything on this earth ♪</i>
+♪ Tidak kusangka ada
+apa pun di bumi ini ♪
 
 1349
 01:18:14,953 --> 01:18:18,385
-<i>♪ That you couldn't do ♪</i>
+♪ Itu tidak bisa kamu lakukan ♪
 
 1350
 01:18:19,685 --> 01:18:22,191
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1351
 01:18:22,191 --> 01:18:25,392
-<i>♪ Lying beside you ♪</i>
+♪ Berbaring di sampingmu ♪
 
 1352
 01:18:25,392 --> 01:18:29,495
-<i>♪ Feeling your heart
-beat in time ♪</i>
+♪ Rasakan hatimu
+mengalahkan tepat waktu ♪
 
 1353
 01:18:29,495 --> 01:18:32,971
-<i>♪ Same as mine ♪</i>
+♪ Sama seperti milikku ♪
 
 1354
 01:18:33,875 --> 01:18:36,337
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1355
 01:18:36,337 --> 01:18:39,703
-<i>♪ Since I'm beside you ♪</i>
+♪ Karena aku di sampingmu ♪
 
 1356
 01:18:39,703 --> 01:18:43,707
-<i>♪ And I'm your wife
-and you're mine ♪</i>
+♪ Dan aku istrimu
+dan kamu milikku ♪
 
 1357
 01:18:43,707 --> 01:18:48,987
-<i>♪ Everything's fine, fine ♪</i>
+♪ Semuanya baik-baik saja, baiklah ♪
 
 1358
 01:18:48,987 --> 01:18:52,419
-<i>♪ Hands still strong
-and fingers straight ♪</i>
+♪ Tangan masih kuat
+dan jari lurus ♪
 
 1359
 01:18:52,419 --> 01:18:56,093
-<i>♪ Where have you been,
-for goodness' sake? ♪</i>
+♪ Kemana saja kamu,
+demi kebaikan? ♪
 
 1360
 01:18:56,093 --> 01:18:59,558
-<i>♪ What do you feel
-from this point, huh? ♪</i>
+♪ Apa yang kamu rasakan
+dari titik ini, ya? ♪
 
 1361
 01:18:59,558 --> 01:19:02,935
-<i>♪ What will it take? ♪</i>
+♪ Apa yang diperlukan? ♪
 
 1362
 01:19:19,382 --> 01:19:21,580
-<i>♪ You were the second thing ♪</i>
+♪ Kamu adalah yang kedua ♪
 
 1363
 01:19:21,580 --> 01:19:25,793
-<i>♪ That I ever knew ♪</i>
+♪ Yang pernah kuketahui ♪
 
 1364
 01:19:25,793 --> 01:19:29,995
-<i>♪ Didn't think there was
-anything on this earth ♪</i>
+♪ Tidak kusangka ada
+apa pun di bumi ini ♪
 
 1365
 01:19:29,995 --> 01:19:33,867
-<i>♪ You couldn't do ♪</i>
+♪ Kamu tidak bisa melakukan ♪
 
 1366
 01:20:06,693 --> 01:20:09,067
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1367
 01:20:09,067 --> 01:20:12,532
-<i>♪ Lying beside you ♪</i>
+♪ Berbaring di sampingmu ♪
 
 1368
 01:20:12,532 --> 01:20:16,140
-<i>♪ Feeling your heart
-beat in time ♪</i>
+♪ Rasakan hatimu
+mengalahkan tepat waktu ♪
 
 1369
 01:20:16,140 --> 01:20:19,374
-<i>♪ Same as mine ♪</i>
+♪ Sama seperti milikku ♪
 
 1370
 01:20:20,949 --> 01:20:23,345
-<i>♪ Here I am ♪</i>
+♪ Inilah aku ♪
 
 1371
 01:20:23,345 --> 01:20:26,810
-<i>♪ Since I'm beside you ♪</i>
+♪ Karena aku di sampingmu ♪
 
 1372
 01:20:26,810 --> 01:20:30,451
-<i>♪ And I'm your wife
-and you're mine ♪</i>
+♪ Dan aku istrimu
+dan kamu milikku ♪
 
 1373
 01:20:30,451 --> 01:20:35,621
-<i>♪ Everything's fine, fine. ♪</i>
+♪ Semuanya baik-baik saja. ♪
 
 1374
 01:20:37,524 --> 01:20:39,097
-<i>♪ Well... ♪</i>
+♪ Ya... ♪
 
 1375
 01:20:41,462 --> 01:20:46,203
-<i>♪ I got my mojo working,
-but it-it won't work on you ♪</i>
+♪ Mojo-ku berfungsi,
+tapi itu-itu tidak akan berhasil padamu ♪
 
 1376
 01:20:46,203 --> 01:20:49,602
-<i>♪ Yeah, I got my mojo working ♪</i>
+♪ Ya, mojo-ku berfungsi ♪
 
 1377
 01:20:49,602 --> 01:20:52,341
-<i>♪ It just won't work on you ♪</i>
+♪ Itu tidak akan berhasil padamu ♪
 
 1378
 01:20:52,341 --> 01:20:55,443
-<i>♪ Well, I'm going
-to love you so ♪</i>
+♪ Baiklah, aku berangkat
+sangat mencintaimu ♪
 
 1379
 01:20:55,443 --> 01:20:58,347
-<i>♪ Till I don't know what to do ♪</i>
+♪ Sampai aku tidak tahu harus berbuat apa ♪
 
 1380
 01:20:59,955 --> 01:21:03,319
-<i>♪ I got my four-leaf clover
-all a-hangin' high ♪</i>
+♪ Aku mendapatkan semanggi berdaun empat
+semuanya sangat menyenangkan ♪
 
 1381
 01:21:03,319 --> 01:21:06,421
-<i>♪ Got my black cat bones
-all clear and dry ♪</i>
+♪ Punya tulang kucing hitamku
+semuanya bersih dan kering ♪
 
 1382
 01:21:06,421 --> 01:21:08,786
-<i>♪ Got my mojo working ♪</i>
+♪ Mojo-ku berfungsi ♪
 
 1383
 01:21:08,786 --> 01:21:11,558
-<i>♪ It won't work on you ♪</i>
+♪ Itu tidak akan berhasil padamu ♪
 
 1384
 01:21:11,558 --> 01:21:14,099
-<i>♪ Yeah, I'm going
-to love you so ♪</i>
+♪ Ya, aku berangkat
+sangat mencintaimu ♪
 
 1385
 01:21:14,099 --> 01:21:17,069
-<i>♪ Till I don't know what to do ♪</i>
+♪ Sampai aku tidak tahu harus berbuat apa ♪
 
 1386
 01:21:18,600 --> 01:21:21,942
-<i>♪ I got my hoodoo ashes
-all around your place ♪</i>
+♪ Aku mendapatkan abu hoodoo-ku
+di sekitar tempatmu ♪
 
 1387
 01:21:21,942 --> 01:21:25,209
-<i>♪ Got my black cat boots
-underneath your bed ♪</i>
+♪ Punya sepatu bot kucing hitamku
+di bawah tempat tidurmu ♪
 
 1388
 01:21:25,209 --> 01:21:27,376
-<i>♪ Got my mojo working ♪</i>
+♪ Mojo-ku berfungsi ♪
 
 1389
 01:21:27,376 --> 01:21:29,741
-<i>♪ It won't work on you ♪</i>
+♪ Itu tidak akan berhasil padamu ♪
 
 1390
 01:21:29,741 --> 01:21:32,678
-<i>♪ Yeah, I'm going
-to love you so ♪</i>
+♪ Ya, aku berangkat
+sangat mencintaimu ♪
 
 1391
 01:21:32,678 --> 01:21:35,384
-<i>♪ Till I don't know what to do ♪</i>
+♪ Sampai aku tidak tahu harus berbuat apa ♪
 
 1392
 01:21:37,454 --> 01:21:39,388
-<i>♪ I got my mojo working ♪</i>
+♪ Mojoku berfungsi ♪
 
 1393
 01:21:39,388 --> 01:21:40,851
-<i>♪ Oh, let me hear it ♪</i>
+♪ Oh, biarkan aku mendengarnya ♪
 
 1394
 01:21:40,851 --> 01:21:42,391
-<i>♪ Got my mojo working ♪</i>
+♪ Mojo-ku berfungsi ♪
 
 1395
 01:21:42,391 --> 01:21:43,788
-<i>♪ Come on by, now ♪</i>
+♪ Ayo, sekarang ♪
 
 1396
 01:21:43,788 --> 01:21:45,460
-<i>♪ I got my mojo working ♪</i>
+♪ Mojoku berfungsi ♪
 
 1397
 01:21:45,460 --> 01:21:47,297
-<i>♪ Like, I mean,
-you know, turn me off ♪</i>
+♪ Seperti, maksudku,
+kamu tahu, matikan aku ♪
 
 1398
 01:21:47,297 --> 01:21:49,431
-- <i>♪ I got my mojo working ♪</i>
-- <i>♪ Yeah ♪</i>
+- ♪ Mojoku berfungsi ♪ 
+- ♪ Ya ♪
 
 1399
 01:21:49,431 --> 01:21:51,796
-<i>♪ I got my mojo working ♪</i>
+♪ Mojoku berfungsi ♪
 
 1400
 01:21:51,796 --> 01:21:53,105
-<i>♪ Yeah, I know you have ♪</i>
+♪ Ya, aku tahu kamu punya ♪
 
 1401
 01:21:53,105 --> 01:21:54,942
-<i>♪ I got my mojo working ♪</i>
+♪ Mojoku berfungsi ♪
 
 1402
 01:21:54,942 --> 01:21:57,802
-<i>♪ Yeah, I got my mojo working ♪</i>
+♪ Ya, mojo-ku berfungsi ♪
 
 1403
 01:21:57,802 --> 01:22:00,805
-<i>♪ But it just won't
-work on you ♪</i>
+♪ Tapi itu tidak akan terjadi
+bekerja padamu ♪
 
 1404
 01:22:00,805 --> 01:22:04,578
-<i>♪ Yeah, yeah, yeah, yeah,
-I got my mojo working ♪</i>
+♪ Ya, ya, ya, ya,
+Saya membuat mojo saya berfungsi ♪
 
 1405
 01:22:04,578 --> 01:22:07,284
-<i>♪ It won't work on you ♪</i>
+♪ Itu tidak akan berhasil padamu ♪
 
 1406
 01:22:07,284 --> 01:22:10,320
-<i>♪ Yeah, I'm going
-to love you so ♪</i>
+♪ Ya, aku berangkat
+sangat mencintaimu ♪
 
 1407
 01:22:10,320 --> 01:22:13,323
-<i>♪ Till I don't know what to do ♪</i>
+♪ Sampai aku tidak tahu harus berbuat apa ♪
 
 1408
 01:22:13,323 --> 01:22:18,130
-<i>♪ Yeah, I got a Gypsy woman
-giving me advice ♪</i>
+♪ Ya, aku punya wanita Gipsi
+memberiku nasihat ♪
 
 1409
 01:22:18,130 --> 01:22:21,133
-<i>♪ Red-hot tip
-gonna keep on ice ♪</i>
+♪ Tip yang sangat panas
+akan tetap di atas es ♪
 
 1410
 01:22:21,133 --> 01:22:23,333
-<i>♪ I got my mojo working ♪</i>
+♪ Mojoku berfungsi ♪
 
 1411
 01:22:23,333 --> 01:22:25,467
-<i>♪ It won't work on you ♪</i>
+♪ Itu tidak akan berhasil padamu ♪
 
 1412
 01:22:26,437 --> 01:22:28,866
-<i>♪ Yeah, I'm going
-to love you so ♪</i>
+♪ Ya, aku berangkat
+sangat mencintaimu ♪
 
 1413
 01:22:28,866 --> 01:22:33,376
-<i>♪ Till I don't know
-what to do. ♪</i>
-
+♪ Sampai aku tidak tahu
+apa yang harus dilakukan. ♪
