@@ -1,205 +1,205 @@
-1
+﻿1
 00:00:25,325 --> 00:00:27,729
-PJ, ini Kapten Vogel.
-Apakah kamu membacakanku? Lebih.
+PJ, this is Captain Vogel.
+Do you read me? Over.
 
 2
 00:00:30,698 --> 00:00:32,466
-Keras dan jelas, Kapten.
-Lebih.
+Loud and clear, Captain.
+Over.
 
 3
 00:00:32,499 --> 00:00:34,401
-PJ, mulailah memulai 
-pendakianmu.
+<i>PJ, start initiating</i>
+<i>your ascent.</i>
 
 4
 00:00:34,434 --> 00:00:36,303
-Topan yang 
-sedang berkembang
+<i>That typhoon that's</i>
+<i>been developing</i>
 
 5
 00:00:36,336 --> 00:00:38,171
-lepas 
-cekungan Pasifik Barat Laut
+<i>off the Northwestern</i>
+<i>Pacific basin</i>
 
 6
 00:00:38,205 --> 00:00:40,107
-sedang menambah kecepatan.
+<i>is picking up speed.</i>
 
 7
 00:00:40,140 --> 00:00:41,341
-Waktu kepulangan kami 
-bertambah tiga jam.
+<i>Our return time has</i>
+<i>increased by three hours.</i>
 
 8
 00:00:41,375 --> 00:00:43,176
-Kami perlu membuat Anda 
-siap, selesai.
+<i>We need to get you</i>
+<i>up top, over.</i>
 
 9
 00:00:43,210 --> 00:00:45,479
-Ya, ya, Kapten.
-Tapi, eh, aku belum selesai
+Aye-aye, Captain.
+But, uh, I haven't finished
 
 10
 00:00:45,513 --> 00:00:47,715
-mengamankan hulu ledak.
-Saya berada di panel terakhir.
+securing the warhead.
+I am on the last panel.
 
 11
 00:00:47,749 --> 00:00:50,718
-Saya tahu, dan saya sudah menelepon.
+I know, and I've made the call.
 
 12
 00:00:50,752 --> 00:00:51,686
-Kami akan menyelesaikannya besok.
+We'll finish it tomorrow.
 
 13
 00:00:53,353 --> 00:00:56,223
-Ya, tapi, eh, ini akan terjadi
-menunda jadwal kami.
+Yes, but, uh, this will
+delay our schedule.
 
 14
 00:00:56,256 --> 00:00:58,626
-PJ, area ini adalah ujian
-zona selama Perang Dunia II.
+PJ, this area was a testing
+zone during World War II.
 
 15
 00:00:58,660 --> 00:01:01,629
-Sampai para nelayan itu menemukannya
-kehidupan laut yang mati itu,
+Until those fishermen found
+that dead marine life,
 
 16
 00:01:01,663 --> 00:01:05,432
-daerah ini baik-baik saja
-selama 75 tahun. Lebih.
+this area was just fine
+for 75 years. Over.
 
 17
 00:01:05,465 --> 00:01:07,134
-Ya, Kapten, tapi kita harus melakukannya
-setidaknya merantainya,
+Yes, Captain, but we should
+at least chain it,
 
 18
 00:01:07,167 --> 00:01:08,703
-kamu tahu, untuk berjaga-jaga.
+you know, just in case.
 
 19
 00:01:08,736 --> 00:01:10,237
-Maksudku, kamu bilang begitu
-dirimu sendiri topan...
+I mean, you said to
+yourself the typhoon...
 
 20
 00:01:11,873 --> 00:01:14,274
-Oke, PJ, sudah
-lima menit untuk menghubungkannya
+Okay, PJ, you have
+five minutes to chain it
 
 21
 00:01:14,308 --> 00:01:15,577
-dan kemudian kamu harus melakukannya
-mulailah melakukan pendakian Anda.
+and then you have to
+start making your ascent.
 
 22
 00:01:15,610 --> 00:01:17,344
-Itu adalah perintah.
+That is an order.
 
 23
 00:01:17,377 --> 00:01:18,546
-Menyalin?
+Copy?
 
 24
 00:01:18,580 --> 00:01:20,447
-Salin itu, Kapten.
+<i>Copy that, Captain.</i>
 
 25
 00:01:20,480 --> 00:01:21,616
-Baiklah.
+All right.
 
 26
 00:01:37,699 --> 00:01:41,168
-Uh, Kapten, aku hampir
-kehilangan kepala bor.
+Uh, Captain, I almost
+lost the drillhead.
 
 27
 00:01:41,201 --> 00:01:44,137
-Formasi batuan ini di sini
-berbeda di daerah ini.
+This rock formation here
+is different in this area.
 
 28
 00:01:44,171 --> 00:01:45,372
-Aku tidak tahu.
+I don't know.
 
 29
 00:01:45,405 --> 00:01:48,576
-Itu lebih lembut atau lebih lemah.
+It's, it's softer or weaker.
 
 30
 00:01:48,610 --> 00:01:50,344
-Saya tidak bisa terus bekerja
-hal ini
+I cannot continue to work
+on this
 
 31
 00:01:50,377 --> 00:01:51,746
-dengan peralatannya
-Saat ini saya punya.
+with the equipment
+I currently have.
 
 32
 00:01:51,779 --> 00:01:53,881
-Saya akan memulai
-pendakian. Lebih.
+I'm going to start
+the ascent. Over.
 
 33
 00:01:53,915 --> 00:01:56,116
-Dipahami.
-Mulai pendakian. Lebih.
+Understood.
+Start the ascent. Over.
 
 34
 00:02:04,626 --> 00:02:08,195
-Kapten, ada
-arus rip berkembang.
+Captain, there is a
+rip current developing.
 
 35
 00:02:08,228 --> 00:02:10,865
-Saya berjuang untuk mengendalikan kapal selam.
+I'm fighting to control the sub.
 
 36
 00:02:10,898 --> 00:02:13,568
-Ada banyak pergerakan
-di dasar laut.
+There is a lot of movement
+on the ocean floor.
 
 37
 00:02:13,601 --> 00:02:17,371
-Visibilitas saya nol dan saya
-monitor masuk dan keluar.
+My visibility is zero and my
+monitors are cutting in and out.
 
 38
 00:02:17,404 --> 00:02:20,240
-Wah, wah, wah,
-apa maksudmu gerakan?
+Whoa, whoa, whoa,
+what do you mean movement?
 
 39
 00:02:20,273 --> 00:02:22,510
-PJ, jarakmu sangat 
-dekat
+<i>PJ, you're in extremely</i>
+<i>close proximity</i>
 
 40
 00:02:22,543 --> 00:02:26,446
-ke berpotensi hidup
-bahan peledak nuklir.
+to a potentially live
+nuclear explosive.
 
 41
 00:02:26,480 --> 00:02:28,448
-Lihat, aku bisa menjadi matamu,
+<i>Look, I can be your eyes,</i>
 
 42
 00:02:28,482 --> 00:02:30,150
-tapi aku perlu tahu persisnya
-apa yang terjadi di bawah sana.
+but I need to know exactly
+what's going on down there.
 
 43
 00:02:35,255 --> 00:02:39,192
-Saya telah mendapatkan kembali visibilitas dan saya
-saya melanjutkan pendakian. Lebih.
+I have regained visibility and I
+am continuing the ascent. Over.
 
 44
 00:02:49,469 --> 00:02:52,640
@@ -208,31 +208,31 @@ PJ.
 45
 00:02:52,674 --> 00:02:56,243
 PJ? PJ!
-PJ, masuklah.
+PJ, come in.
 
 46
 00:03:01,314 --> 00:03:02,950
-Penjaga Pantai, apakah Anda menirunya?
+Coast Guard, do you copy?
 
 47
 00:03:02,984 --> 00:03:06,453
-Ini Vogel dari Ocean Clean
-di Palung Mariana.
+This is Vogel from Ocean Clean
+at the Mariana Trench .
 
 48
 00:03:06,486 --> 00:03:08,623
-Kami mempunyai masalah di dalamnya
-sang Penantang dalam.
+We have a problem in
+the Challenger deep.
 
 49
 00:03:08,656 --> 00:03:11,826
-Saya katakan sekali lagi, kita mempunyai masalah
-di dalam Challenger. Lebih.
+I say again, we have a problem
+in the Challenger deep. Over.
 
 50
 00:03:15,295 --> 00:03:17,899
-Penjaga Pantai, Mayday, Mayday,
-hari maya!
+Coast Guard, Mayday, Mayday,
+Mayday!
 
 51
 00:03:33,014 --> 00:03:34,849
@@ -240,339 +240,339 @@ Milly.
 
 52
 00:03:34,882 --> 00:03:36,483
-Hei, benarkah
-melihat apa yang terjadi?
+Hey, have you
+seen what's going on?
 
 53
 00:03:36,517 --> 00:03:37,752
-Hei, maaf, Peter.
+Hey, sorry, Peter.
 
 54
 00:03:37,785 --> 00:03:38,920
-Sophie akan mendarat,
+Sophie's about to land,
 
 55
 00:03:38,953 --> 00:03:40,621
-Saya mencoba merencanakan keseluruhan ini
+I'm trying to plan this whole
 
 56
 00:03:40,655 --> 00:03:42,289
-akhir sekolah
-perayaan tahun.
+end of the school
+year celebration.
 
 57
 00:03:42,322 --> 00:03:42,890
-Oke, tapi ada
-sesuatu sedang terjadi.
+Okay, but there's
+something happening.
 
 58
 00:03:42,924 --> 00:03:45,660
-Lihat apa yang terjadi.
+See what's happening.
 
 59
 00:03:45,693 --> 00:03:47,662
-Oke, aku tidak akan kembali
-sebelum hari berakhir.
+Okay, I'm not going to be back
+before the end of the day.
 
 60
 00:03:47,695 --> 00:03:49,296
-Jadi, jika Anda bisa saja
-mengirimkan laporan,
+So if you could just
+send out the reports,
 
 61
 00:03:49,329 --> 00:03:50,497
-pastikan datanya keluar,
-akan dicadangkan.
+make sure the data goes out,
+gets backed up.
 
 62
 00:03:50,531 --> 00:03:51,866
-Saya tahu Anda sudah melakukannya
-melakukan ini semua sebelumnya,
+I know you've
+done this all before,
 
 63
 00:03:51,899 --> 00:03:53,300
-tapi terus kabari aku, oke?
+but just keep me posted, okay?
 
 64
 00:03:53,333 --> 00:03:54,301
-Milly, ada
-sesuatu sedang terjadi.
+Milly, there's
+something happening.
 
 65
 00:03:54,334 --> 00:03:56,804
-Masih ada lagi.
+There's more.
 
 66
 00:03:56,838 --> 00:03:58,806
-Tunggu, apa itu?
+Wait, what is that?
 
 67
 00:03:58,840 --> 00:04:01,308
-Mengapa kita melonjak
-di Filipina?
+Why are we spiking
+in the Philippines?
 
 68
 00:04:01,341 --> 00:04:02,677
-Kami awalnya melihat sebuah gerakan
-dari garis patahan
+We initially saw a movement
+of the fault line
 
 69
 00:04:02,710 --> 00:04:03,778
-di Lempeng Mariana di sini.
+at the Mariana Plate here.
 
 70
 00:04:03,811 --> 00:04:04,879
--Kamu bisa melihatnya.
--Tunggu, tidak.
+-You can see.
+-Wait, no.
 
 71
 00:04:04,912 --> 00:04:06,379
-Ini tidak masuk akal.
+This doesn't make any sense.
 
 72
 00:04:06,413 --> 00:04:08,348
-Bagaimana yang pertama direkam
-membaca begitu besar?
+How is the first recorded
+reading so large?
 
 73
 00:04:08,381 --> 00:04:09,884
-Kami belum mengambil satu pun
-gempa awal yang akan mengindikasikan
+We haven't picked up any
+foreshocks that would indicate
 
 74
 00:04:09,917 --> 00:04:11,519
-gempa bumi sebesar
-ukurannya akan datang.
+an earthquake of
+the size is coming.
 
 75
 00:04:11,552 --> 00:04:13,521
-Tidak ada yang mengarah pada hal ini.
+Nothing leading up to this.
 
 76
 00:04:13,554 --> 00:04:16,389
-Berapa besarnya
-kapan pertama kali menyerang?
+What was the magnitude
+when it first hit?
 
 77
 00:04:16,423 --> 00:04:17,959
-Awalnya itu mengenai a
-3.4 di Richter.
+Initially it hit a
+3.4 in the Richter.
 
 78
 00:04:17,992 --> 00:04:19,493
-Tidak ada yang luar biasa.
+Nothing out of the ordinary.
 
 79
 00:04:19,527 --> 00:04:20,962
-Kemudian jatuh dan kami mengalaminya
-beberapa kegiatan yang lebih kecil.
+Then it dropped and we had
+some smaller activities.
 
 80
 00:04:20,995 --> 00:04:23,731
-Kemudian mengambil 6.1.
+Then it picked up a 6.1.
 
 81
 00:04:23,765 --> 00:04:25,398
-Kemudian 7,3 dan kemudian 8.
+Then a 7.3 and then an 8.
 
 82
 00:04:25,432 --> 00:04:26,768
-Jika ini terus meningkat...
+If this keeps increasing...
 
 83
 00:04:26,801 --> 00:04:29,036
--Sebuah 8?
--Ya.
+-An 8?
+-Yes.
 
 84
 00:04:29,070 --> 00:04:30,805
-Apakah Anda yakin ini akurat?
+Are you sure these are accurate?
 
 85
 00:04:34,008 --> 00:04:35,810
-Kita harus pergi.
+We gotta go.
 
 86
 00:04:35,843 --> 00:04:39,580
-Ya, kami sudah memeriksanya tiga kali
-setiap dan semua anomali.
+Yeah, we triple checked for
+any and all anomalies.
 
 87
 00:04:39,614 --> 00:04:41,716
-Setelah mencapai 7.3, itu dimulai
-melompat-lompat lagi.
+Once it hit a 7.3, it started
+jumping around again.
 
 88
 00:04:41,749 --> 00:04:43,416
-Saya belum menduganya
-belum menemukan polanya,
+I haven't figured
+out a pattern yet,
 
 89
 00:04:43,450 --> 00:04:44,986
-tapi bacaannya begitu
-terus mendaki.
+but the readings are
+steadily climbing.
 
 90
 00:04:45,019 --> 00:04:46,821
-Kami beruntung hal itu tidak terjadi
-menghantam dekat daratan.
+We're lucky it didn't
+hit near land.
 
 91
 00:04:46,854 --> 00:04:49,590
-Guam dan kepulauan Mariana
-sedang waspada terhadap tsunami sekarang.
+Guam and the Mariana islands
+are on tsunami watch now.
 
 92
 00:04:49,624 --> 00:04:52,727
-Peter, yang terbesar yang tercatat
-gempa berkekuatan 9,5
+Peter, the largest recorded
+earthquake is a 9.5
 
 93
 00:04:52,760 --> 00:04:54,762
-dan kamu bilang
-ini dimulai pada jam 8.
+and you're saying
+this started at an 8.
 
 94
 00:04:54,796 --> 00:04:57,598
-Dan itu masih menanjak.
+And it's still climbing.
 
 95
 00:04:57,632 --> 00:05:01,569
-Maksudku secara teori, kita bisa lulus
-9,5 tetapi tidak dalam hidup kita.
+I mean in theory, we could pass
+a 9.5 but not in our lifetime.
 
 96
 00:05:01,602 --> 00:05:03,470
-Garis patahan
-jangan berpindah secepat itu.
+The fault lines
+don't shift that fast.
 
 97
 00:05:03,504 --> 00:05:04,872
--Setidaknya mereka tidak seharusnya melakukannya.
--Aku tahu.
+-At least they shouldn't.
+-I know.
 
 98
 00:05:04,906 --> 00:05:07,742
-Juga, DHS dan FEMA punya
-keduanya meminta
+Also, the DHS and FEMA have
+been both requesting
 
 99
 00:05:07,775 --> 00:05:10,410
-proyeksi menit ke menit
-mengenai kemungkinan evakuasi.
+minute to minute projections
+on evacuation contingencies.
 
 100
 00:05:10,443 --> 00:05:12,412
-Satu detik, ini terjadi begitu saja.
+One second, this just happened.
 
 101
 00:05:12,445 --> 00:05:14,749
-Bagaimana gempa yang terjadi selama ini
-cincin api sudah begitu besar?
+How are the quakes all along the
+ring of fire already so large?
 
 102
 00:05:14,782 --> 00:05:16,617
-saya tidak yakin,
-itulah mengapa kami membutuhkanmu.
+I'm not sure,
+that's why we need you.
 
 103
 00:05:18,485 --> 00:05:22,056
-Anda hanya mengangkatnya
-satu amplitudo awal.
+You picked up only
+one initial amplitude.
 
 104
 00:05:22,089 --> 00:05:24,692
-Bagaimana satu gempa terjadi
-mencapai semua tempat ini?
+How did one earthquake
+hit all of these places?
 
 105
 00:05:24,725 --> 00:05:27,460
-Jaraknya 2000 mil.
+They are 2000 miles apart.
 
 106
 00:05:27,494 --> 00:05:29,564
-Tidak, ini terlalu besar
-menjadi gempa bumi.
+No, this is too big
+to be an earthquake.
 
 107
 00:05:29,597 --> 00:05:31,032
-Ini lebih seperti sebuah ledakan.
+This is more like an explosion.
 
 108
 00:05:31,065 --> 00:05:32,465
-Ya, itulah yang terjadi
-berita itu mengatakan.
+Yeah, that's what
+the news is saying.
 
 109
 00:05:32,499 --> 00:05:33,801
-Awalnya mereka berpikir
-sebuah anjungan minyak meledak
+At first they thought
+an oil rig exploded
 
 110
 00:05:33,835 --> 00:05:35,670
-dan menyebabkan reaksi berantai.
+and caused chain reaction.
 
 111
 00:05:35,703 --> 00:05:37,104
-Sekarang mereka berkata
-itu sesuatu yang lebih besar.
+Now they're saying
+it's something bigger.
 
 112
 00:05:37,138 --> 00:05:39,607
-Sebuah perusahaan, disewa untuk membersihkan
-senjata nuklir,
+A firm, hired to clean up
+nuclear weapons,
 
 113
 00:05:39,640 --> 00:05:40,775
-entah bagaimana dimulai
-gempa bumi ini.
+somehow started
+these earthquakes.
 
 114
 00:05:40,808 --> 00:05:42,643
-Senjata nuklir?
+Nuclear weapons?
 
 115
 00:05:42,677 --> 00:05:45,079
-Nuklir tua seperti Perang Dunia II
-di Challenger Deep.
+Old nuclear like World War II
+in the Challenger Deep.
 
 116
 00:05:45,112 --> 00:05:47,447
-Operasi mereka terganggu
-Pasifik,
+Their operation disturbed
+the Pacific,
 
 117
 00:05:47,480 --> 00:05:50,417
-Filipina, dan
-garis lempeng Australia,
+the Philippines, and
+the Australian plate lines,
 
 118
 00:05:50,450 --> 00:05:53,120
-dan dipicu
-gempa besar.
+and triggered
+a massive earthquake.
 
 119
 00:05:53,154 --> 00:05:55,723
-Gerak dari konvergen
-piring menyebabkan limbah
+The motion from the convergent
+plates caused the waste
 
 120
 00:05:55,756 --> 00:05:58,391
-untuk langsung naik
-ke dalam mantel atas bumi.
+to go directly up
+into Earth's upper mantle.
 
 121
 00:05:58,425 --> 00:06:01,028
-Ledakan ini
-menyebabkan gempa-gempa ini.
+This explosion
+caused these quakes.
 
 122
 00:06:01,062 --> 00:06:03,496
-Tes Bikini Atoll.
+The Bikini Atoll tests.
 
 123
 00:06:03,531 --> 00:06:04,565
-Ya.
+Yeah.
 
 124
 00:06:04,599 --> 00:06:06,433
@@ -580,721 +580,721 @@ Oh.
 
 125
 00:06:06,466 --> 00:06:08,435
-Hai sayang. 
-Aku hanya menelepon.
+<i>Hi, sweetheart.</i>
+<i>I'm just calling.</i>
 
 126
 00:06:08,468 --> 00:06:11,539
-Josh, dengar, kita sudah jemput
-pembacaan yang sangat besar dan tidak teratur,
+Josh, listen, we picked up
+very large, irregular readings,
 
 127
 00:06:11,572 --> 00:06:13,808
-dan ada gempa bumi
-sepanjang lingkaran api.
+and there are earthquakes
+all along the ring of fire.
 
 128
 00:06:20,648 --> 00:06:21,414
-Pergi pergi pergi!
+Go, go, go!
 
 129
 00:06:34,095 --> 00:06:37,665
-Milly? 
-Milly?
+<i>Milly?</i>
+<i>Milly?</i>
 
 130
 00:06:37,698 --> 00:06:39,634
--Anda baik-baik saja?
--Ya, ya, aku di sini.
+-You okay?
+-Yeah, yeah, I'm here.
 
 131
 00:06:39,667 --> 00:06:40,635
-Apa itu? 
-Apa yang sedang terjadi?
+<i>What is it?</i>
+<i>What's going on?</i>
 
 132
 00:06:40,668 --> 00:06:42,103
-Saya belum yakin.
+I'm not sure yet.
 
 133
 00:06:42,136 --> 00:06:43,638
-Itu menangkap kita
-benar-benar lengah.
+It's caught us
+completely off-guard.
 
 134
 00:06:43,671 --> 00:06:45,106
-Ada piring besar
-pergerakan di Asia.
+There's large plate
+movement in Asia.
 
 135
 00:06:45,139 --> 00:06:47,041
-Dan sepanjang 
-lingkaran api.
+<i>And all along</i>
+<i>the ring of fire.</i>
 
 136
 00:06:47,074 --> 00:06:48,709
-Kita perlu mencari tahu
-keluar waktu interval.
+We need to figure
+out an interval time.
 
 137
 00:06:48,743 --> 00:06:50,678
-Dan kita harus masuk
-kontak dengan Sophie.
+And we need to get in
+contact with Sophie.
 
 138
 00:06:50,711 --> 00:06:52,146
-Terus lakukan apa 
-yang Anda lakukan, itu akan meneleponnya.
+<i>Just keep doing what</i>
+<i>you're doing, it'll call her.</i>
 
 139
 00:06:52,179 --> 00:06:53,948
-Saya pikir penerbangannya 
-masih mengudara.
+<i>I think her flight's</i>
+<i>still in the air.</i>
 
 140
 00:06:53,981 --> 00:06:55,448
-Saya akan memberi tahu Anda 
-begitu saya mendapat kabar terbaru.
+<i>I'll let you know</i>
+<i>the second I have an update.</i>
 
 141
 00:06:55,482 --> 00:06:57,618
--Aku mencintaimu.
--Aku pun mencintaimu.
+<i>-I love you. </i>
+-I love you, too.
 
 142
 00:07:02,189 --> 00:07:03,624
-Petrus, apakah kamu punya
-pemetaan proyeksi?
+Peter, do you have
+the projection mapping?
 
 143
 00:07:03,658 --> 00:07:05,960
-Jadi saya memberi makan bacaannya
-menjadi algoritma AI
+So I fed the readings
+into an AI algorithm
 
 144
 00:07:05,993 --> 00:07:08,495
-untuk merencanakan gerakan hipotetis.
+to plot hypothetical movement.
 
 145
 00:07:08,529 --> 00:07:11,198
-Baiklah, saya masukan semuanya
-kami mengambil sejauh ini.
+All right, I input everything
+we picked up so far.
 
 146
 00:07:11,232 --> 00:07:14,669
-Filipina, Taiwan, Jepang.
+The Philippines, Taiwan, Japan.
 
 147
 00:07:14,702 --> 00:07:15,870
-Dan jangan lupa
-tentang Australia.
+And don't forget
+about Australia.
 
 148
 00:07:15,903 --> 00:07:16,871
-Australia, mengerti.
+Australia, got it.
 
 149
 00:07:19,941 --> 00:07:22,442
-Ada aktivitas di barat
-tepi Lempeng Pasifik.
+There's activity at the western
+edge of the Pacific Plate.
 
 150
 00:07:35,756 --> 00:07:38,526
-Dalam 72 jam bagian timur
-sisi Lempeng Pasifik
+In 72 hours the eastern
+side of the Pacific Plate
 
 151
 00:07:38,559 --> 00:07:41,028
-akan memiliki hal yang sama
-pergeseran tektonik.
+will have the same
+tectonic shift.
 
 152
 00:07:41,062 --> 00:07:42,897
-Seluruh pantai barat
-dari Amerika
+The entire west coast
+of the U.S.
 
 153
 00:07:42,930 --> 00:07:46,734
-dan efek knock-on
-akan mencakup Amerika Tengah.
+and the knock-on effect
+would include Central America.
 
 154
 00:07:46,767 --> 00:07:49,904
-Semua mengalami gempa bumi
-mulai dari 8.0.
+All experiencing earthquakes
+starting at 8.0.
 
 155
 00:07:49,937 --> 00:07:53,040
-Ini sedang berjalan
-Lingkar Pasifik menuju kita.
+It's working its way around
+the Pacific Rim towards us.
 
 156
 00:07:53,074 --> 00:07:54,909
-Ketika sampai di sini...
+When it gets here...
 
 157
 00:07:54,942 --> 00:07:56,911
-Kehancuran
-akan menjadi...
+The destruction
+would be...
 
 158
 00:07:56,944 --> 00:07:58,779
-Tdk terduga.
+Unfathomable.
 
 159
 00:08:00,614 --> 00:08:02,083
-Baiklah, Petrus,
-Saya harus mengambil ini.
+All right, Peter,
+I have to take this.
 
 160
 00:08:02,116 --> 00:08:03,851
-Hubungi Gayle di FEMA.
+Call Gayle at FEMA.
 
 161
 00:08:03,884 --> 00:08:05,753
-Pastikan dia sudah bangun
-untuk mempercepat segalanya
+Make sure she's up
+to speed on everything
 
 162
 00:08:05,786 --> 00:08:07,021
-dan pastikan mereka memilikinya
-proyeksi terkini.
+and make sure they have
+the latest projections.
 
 163
 00:08:12,827 --> 00:08:14,095
--Mama...
--Sayang.
+-Mom...
+<i>-Sweetheart.</i>
 
 164
 00:08:14,128 --> 00:08:15,262
-Lupakan tentang klaim bagasi.
+Forget about baggage claim.
 
 165
 00:08:15,296 --> 00:08:16,797
-Bu, kami masih di udara.
+<i>Mom, we're still in the air.</i>
 
 166
 00:08:16,831 --> 00:08:19,600
-Kami sedang dialihkan
-ke bandara lain,
+We're being diverted
+to another airport,
 
 167
 00:08:19,633 --> 00:08:21,035
-tapi ternyata belum
-belum dialokasikan.
+but it hasn't been
+allocated yet.
 
 168
 00:08:21,068 --> 00:08:23,571
-Apa yang kru katakan?
+What did the crew say?
 
 169
 00:08:23,604 --> 00:08:26,941
-Kapten membuat pengumuman
-tentang gempa bumi di Seattle
+The captain made an announcement
+about some earthquake in Seattle
 
 170
 00:08:26,974 --> 00:08:30,011
-dan kemudian kami menunggu
-untuk landasan pacu alternatif.
+and then that we were waiting
+for an alternate runway.
 
 171
 00:08:30,044 --> 00:08:32,246
-Apa yang sedang terjadi?
+What's going on?
 
 172
 00:08:32,279 --> 00:08:34,582
-Sophie, di sana
-adalah gempa bumi.
+Sophie, there
+was an earthquake.
 
 173
 00:08:34,615 --> 00:08:36,250
-Dan landasan pacunya
-kemungkinan besar rusak
+And the runway's
+are most likely damaged
 
 174
 00:08:36,283 --> 00:08:38,152
-atau penuh dengan pesawat yang dilarang terbang.
+or full of grounded planes.
 
 175
 00:08:38,185 --> 00:08:40,955
-Tetap tenang dan lakukan saja
-apa yang mereka katakan padamu, oke?
+Stay calm and just do
+what they tell you, okay?
 
 176
 00:08:40,988 --> 00:08:43,257
-Permisi, Nona.
+Excuse me, Miss.
 
 177
 00:08:43,290 --> 00:08:45,659
-Kami meminta Anda menahan diri
-dari menggunakan perangkat seluler
+We ask that you refrain
+from using mobile devices
 
 178
 00:08:45,693 --> 00:08:47,294
-selagi kami berputar-putar.
-Terima kasih.
+while we're circling.
+Thank you.
 
 179
 00:08:47,328 --> 00:08:49,697
-Maaf.
-Aku sedang menelepon ibuku.
+Sorry.
+I'm on the phone with my mom.
 
 180
 00:08:49,730 --> 00:08:51,232
-Katakan saja pada ibumu
-bahwa kamu mencintainya
+Just tell your mom
+that you love her
 
 181
 00:08:51,265 --> 00:08:52,800
-dan berangkat pada saat itu
-Aku kembali lagi.
+and be off by the time
+I come back around.
 
 182
 00:08:52,833 --> 00:08:54,602
-Oh, tidak, tapi aku--
+Oh, no, but I--
 
 183
 00:08:54,635 --> 00:08:56,303
-Hei, dengarkan saja 
-apa yang dikatakan kru.
+<i>Hey, just listen to</i>
+<i>what the crew says.</i>
 
 184
 00:08:56,337 --> 00:08:59,173
-Silakan hubungi kami sebagai
-segera setelah Anda mendarat
+Please call us as
+soon as you've landed
 
 185
 00:08:59,206 --> 00:09:00,775
-dan ayahmu akan datang
-dan menjemputmu.
+and your dad will come
+and pick you up.
 
 186
 00:09:00,808 --> 00:09:03,244
-Hemat daya baterai sebanyak 
-yang Anda bisa
+<i>Save as much battery power</i>
+<i>as you can</i>
 
 187
 00:09:03,277 --> 00:09:04,812
-dan jika Anda melihatnya
-botol air,
+and if you see any
+water bottles,
 
 188
 00:09:04,845 --> 00:09:06,247
-masukkan ke dalam tasmu, oke?
+put them in your bag, okay?
 
 189
 00:09:06,280 --> 00:09:09,216
-Oke, Bu.
-Aku mencintaimu.
+Okay, Mom.
+I love you.
 
 190
 00:09:09,250 --> 00:09:10,551
-Aku pun mencintaimu.
+I love you, too.
 
 191
 00:09:31,172 --> 00:09:32,706
-Oke, sepertinya kita paham
-yang hidup.
+Okay, looks like we got
+a live one.
 
 192
 00:09:53,194 --> 00:09:56,297
-Mayor Anderson, tinggalkan TCP dan 
-naik ke pesawat S&R. Lebih.
+<i>Major Anderson, leave TCP and</i>
+<i>head up the aircraft S&R. Over.</i>
 
 193
 00:09:56,330 --> 00:09:58,032
-Salin itu, Pak.
-Saya akan memberi tahu tim saya.
+Copy that, sir.
+I'll let my team know.
 
 194
 00:09:58,065 --> 00:09:59,900
--Sersan.
--Pak.
+-Sergeant.
+-Sir.
 
 195
 00:09:59,934 --> 00:10:00,968
-Saya sudah meminta untuk berangkat
-tim pencarian dan penyelamatan
+I've asked to head up
+the search and rescue team
 
 196
 00:10:01,001 --> 00:10:02,136
-untuk pesawat yang jatuh.
+for the downed aircraft.
 
 197
 00:10:02,169 --> 00:10:02,970
-Mereka telah memberi saya izin.
+They've given me the go ahead.
 
 198
 00:10:03,003 --> 00:10:04,872
-Dimengerti, Pak.
+Understood, sir.
 
 199
 00:10:04,905 --> 00:10:06,407
-Saya akan menelepon
-kontrol lalu lintas udara,
+I'm going to call
+air traffic control,
 
 200
 00:10:06,440 --> 00:10:07,741
-mencari tahu di mana pesawat-pesawat itu
-sedang membentur beton.
+find out where those airplanes
+are hitting the concrete.
 
 201
 00:10:07,775 --> 00:10:09,743
-Oke, Pak.
+Roger that, sir.
 
 202
 00:10:10,878 --> 00:10:12,379
-Saya mendapatkannya.
-Saya mendapatkannya.
+I got it.
+I got it.
 
 203
 00:10:12,413 --> 00:10:13,314
-Ya, ini--
+Yeah, this is--
 
 204
 00:10:17,184 --> 00:10:18,119
-Ya, tunggu.
+Yeah, hold.
 
 205
 00:10:20,754 --> 00:10:23,324
-Itu Gedung Putih...
-untukmu.
+It's the White House...
+for you.
 
 206
 00:10:27,928 --> 00:10:30,998
-Halo, ini Dr. Anderson
-di NEIC.
+Hello, this is Dr. Anderson
+at the NEIC.
 
 207
 00:10:31,031 --> 00:10:33,167
-Dr.Anderson.
-Saya Jenderal West,
+Dr. Anderson.
+I'm General West,
 
 208
 00:10:33,200 --> 00:10:35,736
-Direktur
-Badan Keamanan Nasional.
+Director of the
+National Security Agency.
 
 209
 00:10:35,769 --> 00:10:37,037
-Ya, Jenderal.
-Saya tahu siapa Anda.
+Yes, General.
+I know who you are.
 
 210
 00:10:37,071 --> 00:10:38,939
-Oke bagus.
+Okay, good.
 
 211
 00:10:38,973 --> 00:10:40,407
-Saya yakin kantor Anda juga demikian
-pada tingkat ancaman berwarna merah.
+I'm sure your office is
+at threat level red.
 
 212
 00:10:40,441 --> 00:10:42,409
-Itu sebabnya saya menelepon.
+<i>That's why I'm calling.</i>
 
 213
 00:10:42,443 --> 00:10:45,079
-Aku kenal saudaramu,
+I know your brother,
 Dresden Anderson.
 
 214
 00:10:45,112 --> 00:10:49,083
-Aku butuh bantuannya, tapi tidak
-lagi memiliki info kontaknya.
+I need his help, but I no
+longer have his contact info.
 
 215
 00:10:49,116 --> 00:10:50,784
-Saya juga tidak. Jenderal--
+Neither do I. General--
 
 216
 00:10:50,818 --> 00:10:53,354
-Ketika dia berhenti,
-dia keluar dari jaringan.
+When he quit,
+he went off the grid.
 
 217
 00:10:53,387 --> 00:10:55,890
-Aku ingin kamu menemukannya
-langsung.
+I need you to find him
+immediately.
 
 218
 00:10:55,923 --> 00:10:58,926
-Anda adalah NSA.
-Mengapa Anda membutuhkan bantuan saya?
+You're the NSA.
+Why do you need my help?
 
 219
 00:10:58,959 --> 00:11:00,761
-Dokter, apakah jalur ini aman?
+Doctor, is this line secure?
 
 220
 00:11:00,794 --> 00:11:02,997
-TIDAK.
+No.
 
 221
 00:11:03,030 --> 00:11:05,099
-Anda punya waktu tiga hari untuk melakukannya
-suruh dia menghubungiku.
+You have three days to
+get him to contact me.
 
 222
 00:11:05,132 --> 00:11:07,201
-Dan apa yang harus saya katakan?
+And what should I say?
 
 223
 00:11:07,234 --> 00:11:08,335
-Sebutkan Star Wars.
+Mention Star Wars.
 
 224
 00:11:12,139 --> 00:11:14,341
-Perang Bintang.
+Star Wars.
 
 225
 00:11:14,375 --> 00:11:15,943
-Star Wars suka filmnya?
+Star Wars like the movie?
 
 226
 00:11:15,976 --> 00:11:19,046
-Tidak, Petrus.
+No, Peter.
 
 227
 00:11:19,079 --> 00:11:22,349
-Star Wars adalah senjata
-inisiatif dimulai pada tahun 80an.
+Star Wars was a weapons
+initiative started in the 80s.
 
 228
 00:11:26,153 --> 00:11:28,122
-Jadi, kakakmu bekerja
-untuk pemerintah?
+So, your brother worked
+for the government?
 
 229
 00:11:28,155 --> 00:11:32,993
-Dia adalah seorang ilmuwan dan kemudian
-menjadi teknisi senjata.
+He was a scientist and then
+became a weapons technician.
 
 230
 00:11:33,027 --> 00:11:38,465
-Mereka meninjau kembali proyek tersebut beberapa kali
-tahun yang lalu dan kemudian dia dipecat.
+They revisited the project a few
+years ago and then he got fired.
 
 231
 00:11:38,499 --> 00:11:39,900
-Dan kemudian dia memilahnya
-menghilang.
+And then he just sort
+of disappeared.
 
 232
 00:11:42,970 --> 00:11:45,139
-Lalu apa yang terjadi?
+Then what happened?
 
 233
 00:11:45,172 --> 00:11:48,442
-Pekerjaan benar-benar merupakan satu-satunya gairahnya
-dan itu membuatnya hancur.
+Work was really his only passion
+and it kind of broke him.
 
 234
 00:11:48,475 --> 00:11:50,778
-Dia tidak pernah pulih.
+He never recovered.
 
 235
 00:11:50,811 --> 00:11:56,183
-Dia mulai mengisolasi,
-memutuskan hubungan dengan orang-orang.
+He started to isolate,
+cut off ties from people.
 
 236
 00:11:56,217 --> 00:12:01,088
-Saya mencoba membuatnya menjelaskan
-apa yang terjadi, tapi dia tidak melakukannya.
+I tried to get him to explain
+what happened, but he wouldn't.
 
 237
 00:12:01,121 --> 00:12:03,290
-Tapi saat kamu sedang berbicara
-tentang saudaramu...
+But when you're talking
+about your brother...
 
 238
 00:12:03,324 --> 00:12:07,828
-Petrus, berhenti saja.
+Peter, just stop.
 
 239
 00:12:07,861 --> 00:12:11,765
-Bayangkan jika Einstein terjebak
-dalam paranoia Ted Kaczynski
+Imagine if Einstein was trapped
+in the paranoia of Ted Kaczynski
 
 240
 00:12:11,799 --> 00:12:13,901
-dengan ego Elon Musk.
+with the ego of Elon Musk.
 
 241
 00:12:13,934 --> 00:12:15,102
-Astaga.
+Sheesh.
 
 242
 00:12:15,135 --> 00:12:17,371
-Ya, itu saudaraku.
+Yeah, that's my brother.
 
 243
 00:12:17,404 --> 00:12:20,007
-Saya masih merindukannya.
-Saya masih mencintainya.
+I still miss him.
+I still love him.
 
 244
 00:12:20,040 --> 00:12:23,177
-Dan dia brilian.
+And he's brilliant.
 
 245
 00:12:23,210 --> 00:12:25,746
-Tinggalkan pesan. 
-Mungkin aku akan meneleponmu kembali.
+<i>Leave a message.</i>
+<i>Maybe I'll call you back.</i>
 
 246
 00:12:28,415 --> 00:12:32,520
-Dresden. Itu Milly.
+Dresden. It's Milly.
 
 247
 00:12:32,554 --> 00:12:36,824
-Mantan bosmu,
-Saya kira, baru saja menelepon.
+Your ex-boss,
+I guess, just called.
 
 248
 00:12:36,857 --> 00:12:39,493
-Dengar, aku tidak tahu apa
-kamu melakukannya kali ini,
+Look, I don't know what
+you did this time,
 
 249
 00:12:39,527 --> 00:12:41,328
-tapi semua orang mencarimu.
+but everyone's looking for you.
 
 250
 00:12:41,362 --> 00:12:43,397
-Baiklah, kamu tidak melakukannya
-harus meneleponku kembali.
+All right, you don't
+have to call me back.
 
 251
 00:12:43,430 --> 00:12:44,999
-Tapi jika Anda bisa
-panggil kembali jenderal,
+But if you could
+call back the general,
 
 252
 00:12:45,032 --> 00:12:47,434
-katanya menyebutkan Star Wars
+he said to mention Star Wars
 
 253
 00:12:47,468 --> 00:12:48,769
-dan kamu punya waktu tiga hari.
+and that you have three days.
 
 254
 00:12:59,446 --> 00:13:02,216
-Hadirin sekalian, 
-kita diberi landasan pacu
+<i>Ladies and gentlemen,</i>
+<i>we were allocated a runway</i>
 
 255
 00:13:02,249 --> 00:13:04,485
-namun volume pesawat 
-memperpanjang proses pembersihan
+<i>but the volume of planes</i>
+<i>extended the clearing process</i>
 
 256
 00:13:04,519 --> 00:13:07,321
-dan itu menghabiskan banyak bahan bakar.
+<i>and it's cost us a lot of fuel.</i>
 
 257
 00:13:07,354 --> 00:13:08,922
-Kita harus melakukan 
-pendaratan darurat
+<i>We have to make</i>
+<i>an emergency landing</i>
 
 258
 00:13:08,956 --> 00:13:14,128
-di 
-hamparan tanah terdekat dan teraman.
+<i>on the closest and</i>
+<i>safest stretch of land.</i>
 
 259
 00:13:14,161 --> 00:13:16,430
-Tetap duduk dengan 
-sabuk pengaman terpasang.
+<i>Remain seated with</i>
+<i>your seat belts fastened.</i>
 
 260
 00:13:16,463 --> 00:13:18,499
-Awak pesawat, duduklah 
-dan bersiaplah
+<i>Flight crew, take your seats</i>
+<i>and prepare</i>
 
 261
 00:13:18,533 --> 00:13:19,534
-untuk pendaratan darurat.
+<i>for an emergency landing.</i>
 
 262
 00:13:25,272 --> 00:13:28,510
-Jika kita mengikuti pola yang sama
-seperti Jepang dan Australia,
+If we follow the same patterns
+as Japan and Australia,
 
 263
 00:13:28,543 --> 00:13:30,210
-gempa akan terjadi
-terus tumbuh.
+the quakes will
+continue to grow.
 
 264
 00:13:30,244 --> 00:13:31,912
-Kami tidak bisa mengikuti.
+We can't keep up.
 
 265
 00:13:31,945 --> 00:13:33,280
-Kita tidak akan punya waktu
-untuk mengeluarkan semua orang.
+We won't have time
+to get everyone out.
 
 266
 00:13:33,314 --> 00:13:35,517
-Apalagi dengan landasan pacu
-sudah rusak.
+Especially with the runways
+already damaged.
 
 267
 00:13:35,550 --> 00:13:38,152
-Efek ketukan
-kita tidak dapat mengukurnya sepenuhnya.
+The knock-on effect
+we can't fully measure.
 
 268
 00:13:38,185 --> 00:13:41,055
-Seperti gunung berapi busur pulau,
-lempeng zona subduksi.
+Like island arc volcanoes,
+subduction zone plates.
 
 269
 00:13:41,088 --> 00:13:42,923
-Bagaimana jika kita mencoba dan mengalihkannya
-sebagian energinya
+What if we try and divert
+some of the energy
 
 270
 00:13:42,956 --> 00:13:44,091
-sepanjang garis lempeng?
+along the plate lines?
 
 271
 00:13:44,124 --> 00:13:46,360
-Hal itu akan menimbulkan masalah yang lebih besar.
+It would cause a bigger problem.
 
 272
 00:13:46,393 --> 00:13:48,262
-Lihatlah ke pantai.
+Look up the coast.
 
 273
 00:13:48,295 --> 00:13:51,265
-Lempeng-lempeng di sebelahnya berisi
-zona subduksi Cascadia.
+The neighboring plates contain
+the Cascadia subduction zone.
 
 274
 00:13:51,298 --> 00:13:54,068
-Pacific Northwest punya
-telah jatuh tempo sebesar sembilan
+The Pacific Northwest has
+been due a magnitude of nine
 
 275
 00:13:54,101 --> 00:13:57,539
-selama lebih dari 75 tahun.
+for over 75 years.
 
 276
 00:13:57,572 --> 00:13:59,173
-Itu hanya masalah waktu saja.
+It's only a matter of time.
 
 277
 00:14:02,409 --> 00:14:05,547
-Hadirin sekalian, 
-kami akan melakukan kontak.
+<i>Ladies and gentlemen,</i>
+<i>we are about to make contact.</i>
 
 278
 00:14:05,580 --> 00:14:07,214
-Dapatkan 
-posisi penjepit sekarang.
+<i>Get into</i>
+<i>the brace position now.</i>
 
 279
 00:14:43,685 --> 00:14:46,120
@@ -1302,38 +1302,38 @@ Oh!
 
 280
 00:14:46,153 --> 00:14:46,887
-Turun.
+Get down.
 
 281
 00:14:53,360 --> 00:14:55,396
-Itu adalah 7.1.
+That was a 7.1.
 
 282
 00:14:55,429 --> 00:14:57,532
-Yang pertama adalah 6.3.
+The first was 6.3.
 
 283
 00:14:57,565 --> 00:14:59,667
-Lempeng-lempeng itu bergerak sangat cepat.
+The plates are moving so fast.
 
 284
 00:14:59,701 --> 00:15:01,468
-Itu tidak menyerah
-tanda peringatan biasa,
+It's not giving off
+the usual warning signs,
 
 285
 00:15:01,503 --> 00:15:04,471
-jadi kami tidak mengangkatnya
-membaca sampai terlambat.
+so we're not picking up
+readings until it's too late.
 
 286
 00:15:04,506 --> 00:15:05,673
-Jelas sekali, Anda belum melakukannya
-telah menganalisis
+Clearly, you haven't
+been analyzing
 
 287
 00:15:05,707 --> 00:15:07,609
-informasinya dengan benar.
+the information correctly.
 
 288
 00:15:07,642 --> 00:15:09,143
@@ -1341,178 +1341,178 @@ Dresden.
 
 289
 00:15:09,176 --> 00:15:12,647
-Bagaimana kamu bisa masuk?
+How did you get in?
 
 290
 00:15:12,680 --> 00:15:15,149
-Itu pertanyaan pertamamu?
+That's your first question?
 
 291
 00:15:15,182 --> 00:15:18,152
-Tidak heran Anda belum melakukannya
-sudah menemukan jawabannya.
+No wonder you haven't
+figured this out yet.
 
 292
 00:15:18,185 --> 00:15:20,454
-Aku perlu melihatnya
-semua yang kalian punya.
+I'm going to need to see
+everything you guys got.
 
 293
 00:15:20,487 --> 00:15:21,689
-Dresden, hai.
+Dresden, hi.
 
 294
 00:15:21,723 --> 00:15:23,190
 Peter Houston,
-Senang bertemu dengan Anda.
+nice to meet you.
 
 295
 00:15:23,223 --> 00:15:23,957
-Mendengar banyak tentangmu.
+Heard so much about you.
 
 296
 00:15:27,729 --> 00:15:30,230
-Jadi, saya baru saja menelepon.
+So, I just called.
 
 297
 00:15:30,264 --> 00:15:33,167
-Aku tidak menyangka kamu akan muncul.
+I didn't expect you to show up.
 
 298
 00:15:33,200 --> 00:15:36,403
-Sepertinya aku perlu panggilan telepon
-untuk mengetahui kamu membutuhkan bantuanku?
+Think I needed a phone call
+to know you needed my help?
 
 299
 00:15:36,437 --> 00:15:38,205
-Aku tahu kamu memang begitu
-di atas kepalamu.
+I knew you were
+in over your head.
 
 300
 00:15:38,238 --> 00:15:41,375
-Saat gempa itu dimulai,
-Aku sedang dalam perjalanan.
+Moment those quakes started,
+I was on my way.
 
 301
 00:15:41,408 --> 00:15:42,943
-Jadi, ayo mulai bekerja.
+So, let's get to work.
 
 302
 00:15:45,245 --> 00:15:47,582
-Semuanya, harap tetap tenang.
+<i>Everybody, please remain calm.</i>
 
 303
 00:15:47,615 --> 00:15:50,417
-Jika Anda bisa bergerak, 
-silakan berjalan perlahan
+<i>If you are able to move,</i>
+<i>please slowly make your way</i>
 
 304
 00:15:50,451 --> 00:15:53,487
-kepada anggota Staf Kabin kami 
-di area pintu keluar darurat.
+<i>to our member of Cabin Staff</i>
+<i>in the emergency exit area.</i>
 
 305
 00:15:53,521 --> 00:15:55,389
-Dengarkan.
-Jika kamu mampu bergerak,
+Listen up.
+If you are able to move,
 
 306
 00:15:55,422 --> 00:15:57,659
-tolong berjalan perlahan
-ke bagian belakang pesawat.
+please make your way slowly
+to the back of the plane.
 
 307
 00:15:57,692 --> 00:16:00,394
-Jika kamu terluka, tetaplah di tempat,
+If you are injured, stay put,
 
 308
 00:16:00,427 --> 00:16:04,198
-dan aku akan datang
-dengan kotak P3K.
+and I'm going to come around
+with the first aid kit.
 
 309
 00:16:04,231 --> 00:16:05,165
-Apakah Anda baik-baik saja, tuan?
+Are you okay, sir?
 
 310
 00:16:08,636 --> 00:16:10,404
 Sophie?
-Sophie, kamu baik-baik saja?
+Sophie, are you alright?
 
 311
 00:16:10,437 --> 00:16:11,739
-Aku hidup.
+<i>I'm alive.</i>
 
 312
 00:16:11,773 --> 00:16:13,608
-aku masih di pesawat,
-tapi kami jatuh.
+I'm still in the plane,
+but we crashed.
 
 313
 00:16:13,641 --> 00:16:16,276
-Sayang, kamu masih hidup,
-dan itulah yang terpenting.
+Sweetie, you're alive,
+and that's all that matters.
 
 314
 00:16:16,310 --> 00:16:18,045
-Anda perlu mendengarkan saya.
+<i>You need to listen to me.</i>
 
 315
 00:16:18,078 --> 00:16:20,548
-Anda harus melepaskannya
-pesawat sesegera mungkin.
+You need to get off that
+plane as soon as possible.
 
 316
 00:16:20,582 --> 00:16:22,416
-Kamu tidak aman.
+You're not safe.
 
 317
 00:16:22,449 --> 00:16:23,651
-Kamu ada di mana?
+Where are you?
 
 318
 00:16:23,685 --> 00:16:25,720
-eh...
+Um...
 
 319
 00:16:25,753 --> 00:16:27,755
-Saya pikir kita berada di Discovery Park.
+I think we're in Discovery Park.
 
 320
 00:16:27,789 --> 00:16:30,023
-Saya pikir saya mengerti
-halaman benteng dan kapel.
+I think I see
+the fort lot and chapel.
 
 321
 00:16:30,057 --> 00:16:31,191
-Saya akan mengirimkan lokasi saya kepada Anda.
+I'll send you my location.
 
 322
 00:16:39,099 --> 00:16:40,067
-Apa itu tadi?
+What was that?
 
 323
 00:16:40,100 --> 00:16:41,803
-Aku tidak tahu.
+<i>I don't know.</i>
 
 324
 00:16:41,836 --> 00:16:43,538
-Rasanya seperti kita berada di ujung tanduk
-dari tebing atau semacamnya.
+It feels like we're n the edge
+of a cliff or something.
 
 325
 00:16:43,571 --> 00:16:46,273
-Setiap orang!
-Pergilah ke bagian belakang pesawat!
+Everyone!
+Get to the back of the plane!
 
 326
 00:16:46,306 --> 00:16:48,141
-Sekarang!
+Now!
 
 327
 00:16:50,344 --> 00:16:53,247
-Sophie? Sophie, ayahmu 
-datang menjemputmu.
+<i>Sophie? Sophie, your dad</i>
+<i>is coming for you.</i>
 
 328
 00:16:53,280 --> 00:16:54,549
@@ -1520,217 +1520,217 @@ Sophie!
 
 329
 00:17:01,789 --> 00:17:03,290
-Saya sedang dalam perjalanan.
+I'm on my way.
 
 330
 00:17:03,323 --> 00:17:04,391
-Saya punya koordinatnya
-untuk pesawat.
+I have the coordinates
+for the plane.
 
 331
 00:17:04,424 --> 00:17:05,560
-Mereka mendarat di Discovery Park.
+They landed in Discovery Park.
 
 332
 00:17:05,593 --> 00:17:06,694
-Mereka mendarat.
+They landed.
 
 333
 00:17:06,728 --> 00:17:08,563
-Dan dia masih hidup,
+And she's still alive,
 
 334
 00:17:08,596 --> 00:17:11,465
-tapi mereka duduk bebek
-sampai gempa berikutnya terjadi.
+but they are sitting ducks
+until the next quake hits.
 
 335
 00:17:11,498 --> 00:17:14,101
-aku akan menemukannya.
-Aku akan segera menemuinya.
+I'll find her.
+I'll be to her soon.
 
 336
 00:17:22,175 --> 00:17:25,078
-Josh! Yosua?
+Josh! Joshua?
 
 337
 00:17:26,146 --> 00:17:28,115
-Garisnya turun.
+The lines are down.
 
 338
 00:17:28,148 --> 00:17:30,585
-Menara seluler tidak dapat menampungnya
-frekuensi gempa ini.
+Cell towers can't take the
+frequencies of these quakes.
 
 339
 00:17:30,618 --> 00:17:32,587
-Berapa banyak waktu yang kita punya?
+How much time do we have?
 
 340
 00:17:32,620 --> 00:17:34,288
-70 jam untuk dievakuasi
-Pantai Barat
+70 hours to evac
+the West Coast
 
 341
 00:17:34,321 --> 00:17:36,423
-dan Amerika Tengah
-sebelum ditelan.
+and Central America
+before it's swallowed.
 
 342
 00:17:41,228 --> 00:17:43,363
--Ayo, buka pintunya.
--Apakah kita akan baik-baik saja?
+-Come on, open the doors.
+-Are we gonna be okay?
 
 343
 00:17:43,397 --> 00:17:45,499
-Pintu depan, macet.
-Saya tidak bisa membukanya.
+The front door, it's jammed.
+I can't open it.
 
 344
 00:17:45,533 --> 00:17:47,735
-Menurutmu, jika aku
-hancurkan salah satu jendela ini
+Do you think if I
+smash one of these windows
 
 345
 00:17:47,769 --> 00:17:49,169
-bahwa kita dapat melewatinya?
+that we can fit through it?
 
 346
 00:17:49,202 --> 00:17:51,204
-Mungkin Anda bisa lolos,
+Maybe you could fit through,
 
 347
 00:17:51,238 --> 00:17:52,640
-tapi kita akan membutuhkannya
-sekitar 5.000 pon kekuatan
+but we're going to need
+about 5,000 pounds of force
 
 348
 00:17:52,674 --> 00:17:55,375
-untuk membukanya.
+to break it open.
 
 349
 00:17:55,409 --> 00:17:56,744
-Baiklah, opsi berikutnya.
+All right, next option.
 
 350
 00:18:01,883 --> 00:18:04,519
-Tunggu, ini satu lagi.
+Hold on, it's another one.
 
 351
 00:18:04,552 --> 00:18:06,621
-Kapten, kamu harus pergi
-radio dan keluar sekarang.
+Captain, you need to leave
+the radio and get out now.
 
 352
 00:18:06,654 --> 00:18:08,523
-Tanah sedang terbuka.
+The ground is opening.
 
 353
 00:18:08,556 --> 00:18:11,158
-Saya perlu mencoba setiap frekuensi.
-Tidak ada yang tahu kita di sini.
+I need to try every frequency.
+No one knows we're here.
 
 354
 00:18:11,191 --> 00:18:13,360
-Anda tidak punya waktu.
-Pesawat akan berpisah.
+You don't have time.
+The plane is about to separate.
 
 355
 00:18:19,433 --> 00:18:22,235
-Sudah tenang.
+It's settling.
 
 356
 00:18:22,269 --> 00:18:25,172
-Apakah kamu baik-baik saja?
+Are you all right?
 
 357
 00:18:25,205 --> 00:18:27,307
-Saya akan baik-baik saja.
-Sepertinya lenganku patah.
+I'll be fine.
+I think I broke my arm.
 
 358
 00:18:28,843 --> 00:18:31,646
-Apakah kamu baik-baik saja?
-Apakah kamu terluka?
+Are you okay?
+Are you hurt?
 
 359
 00:18:31,679 --> 00:18:33,213
-Menurutku, aku baik-baik saja.
+I think I'm doing okay.
 
 360
 00:18:33,246 --> 00:18:34,515
-Bagus. Apakah Anda bersedia dan
-dapat membantu saya?
+Good. Are you willing and
+able to help me?
 
 361
 00:18:36,751 --> 00:18:38,686
--Eh, tentu saja.
--Besar.
+-Uh, sure.
+-Great.
 
 362
 00:18:38,720 --> 00:18:41,421
-Saya mengambil beberapa kursus pada awalnya
-bantuan CPR di sekolah menengah.
+I took a few courses at first
+aid in CPR in high school.
 
 363
 00:18:41,455 --> 00:18:43,457
-Besar. Itu hebat.
+Great. That's great.
 
 364
 00:18:43,490 --> 00:18:44,559
-Maka Anda dapat membantu saya dengan itu
-penumpang lainnya, kalau begitu.
+Then you can help me with the
+rest of the passengers, then.
 
 365
 00:18:44,592 --> 00:18:46,694
-Oke.
+Okay.
 
 366
 00:18:46,728 --> 00:18:48,228
-Kita harus turun dari pesawat ini
+We need to get off this plane
 
 367
 00:18:48,261 --> 00:18:49,864
-sebelum yang lain
-gempa bumi menelan kita.
+before another
+earthquake swallows us.
 
 368
 00:18:49,897 --> 00:18:53,568
-Ada tangga di belakang.
-Kita bisa menggunakannya, oke?
+There's a ladder in the rear.
+We can use that, okay?
 
 369
 00:18:53,601 --> 00:18:55,268
-Apakah tidak ada penerbangan lain
-petugas? Saya tidak--
+Are there no other flight
+attendants? I don't--
 
 370
 00:18:55,302 --> 00:18:57,705
-Tidak, itu pesawat kecil.
+No, it's a small plane.
 
 371
 00:18:57,739 --> 00:19:00,575
-Hei, semuanya, begitulah kami
-akan tampil
+Hey, everyone, we are
+going to be performing
 
 372
 00:19:00,608 --> 00:19:03,578
-keadaan darurat
-evakuasi pesawat.
+an emergency
+aircraft evacuation.
 
 373
 00:19:03,611 --> 00:19:06,380
-Saya membutuhkan Anda yang lengkap dan lengkap
-kerjasama dan dengarkan aku.
+I need your complete and utter
+cooperation and listen to me.
 
 374
 00:19:06,413 --> 00:19:08,281
-Oke?
+Okay?
 
 375
 00:19:08,315 --> 00:19:10,585
-aku akan meninggalkanmu
-di tangan...
+I'm going to leave you
+in the hands of...
 
 376
 00:19:10,618 --> 00:19:12,252
@@ -1738,1668 +1738,1668 @@ Sophie.
 
 377
 00:19:12,285 --> 00:19:13,721
-Sophie, dia pergi
-untuk membantumu
+Sophie, she is going
+to help you
 
 378
 00:19:13,755 --> 00:19:16,724
-sementara aku mengumpulkan keadaan darurat
-peralatan.
+while I gather the emergency
+equipment.
 
 379
 00:19:16,758 --> 00:19:18,660
-Kita perlu mengatur diri kita sendiri
-sehingga penumpangnya terluka
+We need to organize ourselves
+so that the injured passengers
 
 380
 00:19:18,693 --> 00:19:20,695
-turun dari pesawat terlebih dahulu.
+get off the plane first.
 
 381
 00:19:20,728 --> 00:19:22,730
-Kalau kita bilang tenang,
-kita bisa melewati ini dengan cepat
+If we say calm,
+we can get through this quickly
 
 382
 00:19:22,764 --> 00:19:24,599
-dan bersama-sama dengan aman.
+and safely together.
 
 383
 00:19:24,632 --> 00:19:25,867
-Terima kasih.
+Thank you.
 
 384
 00:19:28,703 --> 00:19:31,271
-Oke, semuanya.
+Okay, everyone.
 
 385
 00:19:31,304 --> 00:19:32,674
-Apa yang akan kamu lakukan, Bu?
+What would you do, Mom?
 
 386
 00:19:34,642 --> 00:19:36,744
-Wanita dan pria,
-jika kita ingin hidup,
+Ladies and gentlemen,
+if we want to live,
 
 387
 00:19:36,778 --> 00:19:39,647
-kita harus mulai mendengarkan.
-Oke?
+we need to start listening.
+Okay?
 
 388
 00:19:39,681 --> 00:19:42,449
-Kita harus turun dari pesawat ini
-sebelum gempa berikutnya terjadi
+We need to get off of this plane
+before another earthquake hits
 
 389
 00:19:42,482 --> 00:19:45,653
-dan satu-satunya cara yang kita lakukan
-itu jika kita bekerja sama.
+and the only way we do
+that is if we work together.
 
 390
 00:19:45,687 --> 00:19:47,655
-Kami akan melempar tali
-tangga dari pintu keluar belakang,
+We're going to throw a rope
+ladder off the back exit,
 
 391
 00:19:47,689 --> 00:19:48,623
-dan turun dari pesawat.
+and get off the plane.
 
 392
 00:19:48,656 --> 00:19:50,223
-Jangan terburu-buru.
+No rushing.
 
 393
 00:19:50,257 --> 00:19:51,224
-Silahkan dan terima kasih.
+Please, and thank you.
 
 394
 00:19:54,896 --> 00:19:57,665
-Wah!
+Whoa!
 
 395
 00:20:09,944 --> 00:20:11,746
-Gempa telah mencapai
-Amerika Selatan
+The quakes have reached
+South America
 
 396
 00:20:11,779 --> 00:20:12,980
-dan sedang menuju ke arah kita.
+and are heading our way.
 
 397
 00:20:13,014 --> 00:20:14,749
-Bagaimana kita bisa memperlambat
-lempeng tektonik?
+How can we slow
+the tectonic plates?
 
 398
 00:20:14,782 --> 00:20:16,216
-Biar kutunjukkan padamu, oke?
+Let me show you, okay?
 
 399
 00:20:19,620 --> 00:20:23,524
-Oke, dengarkan.
+Okay, listen up.
 
 400
 00:20:23,558 --> 00:20:26,694
-Bayangkan saja ini adalah sebuah piring.
+Just imagine this is a plate.
 
 401
 00:20:26,728 --> 00:20:30,798
-Saat lempeng mulai bergerak
-dengan begitu banyak kekuatan,
+When the plate starts to move
+with so much force,
 
 402
 00:20:30,832 --> 00:20:33,467
-lempeng-lempeng yang berdekatan
-harus pindah.
+the neighboring plates
+have to move.
 
 403
 00:20:33,500 --> 00:20:36,470
-Dan momentumnya sangat besar,
-mereka tidak akan berhenti.
+And the momentum is so great,
+they won't stop.
 
 404
 00:20:36,504 --> 00:20:38,740
-Mereka tidak bisa berhenti sendiri.
+They can't stop on their own.
 
 405
 00:20:38,773 --> 00:20:43,678
-Jadi yang kita perlukan adalah kekuatan
-kuat sehingga akan melawannya.
+So what we need is a force so
+strong that it'll counteract it.
 
 406
 00:20:43,711 --> 00:20:45,345
-Cukup sederhana?
+Simple enough?
 
 407
 00:20:45,378 --> 00:20:48,516
-Ya, terjadi pergeseran lempeng
-arah sebaliknya.
+Yes, a plate shift in
+the opposite direction.
 
 408
 00:20:48,549 --> 00:20:50,383
-Mari kita lakukan pelacakan
-menghasilkan perangkat lunak
+Let's have the tracking
+software generate
 
 409
 00:20:50,417 --> 00:20:52,687
-lokasi dampak yang tepat
-untuk lonjakan energi
+the precise impact location
+for the energy surge
 
 410
 00:20:52,720 --> 00:20:55,823
-itu akan menetralisir
-momentum lempeng.
+that'll neutralize
+the plates momentum.
 
 411
 00:20:55,857 --> 00:20:58,960
-Oke, saya belum pernah menggunakannya
-suatu program sedemikian rupa,
+Okay, I've never used
+a program to such a degree,
 
 412
 00:20:58,993 --> 00:21:01,328
-tapi secara teori,
-Saya kira itu bisa berhasil.
+but in theory,
+I suppose it could work.
 
 413
 00:21:01,361 --> 00:21:02,797
-Maksudku, aku harus memasukkan beberapa.
+I mean, I'd have to input some.
 
 414
 00:21:02,830 --> 00:21:04,264
-Apakah kamu masih di sekolah?
+Are you still in school?
 
 415
 00:21:06,333 --> 00:21:07,802
-Lakukan saja dan
-simpan koordinat itu.
+Just do it and
+save those coordinates.
 
 416
 00:21:07,835 --> 00:21:09,302
-Dresden, ikut aku sekarang.
+Dresden, come with me now.
 
 417
 00:21:20,581 --> 00:21:22,583
-Kami semua tahu betapa pintarnya Anda.
+We all know how smart you are.
 
 418
 00:21:22,617 --> 00:21:25,586
-Dan kami oh
-sangat bersyukur itu
+And we are oh
+so very grateful that
 
 419
 00:21:25,620 --> 00:21:28,089
-yang dimiliki Dresden yang perkasa
-menghiasi kami dengan--
+the mighty Dresden has
+graced us with his--
 
 420
 00:21:28,122 --> 00:21:29,524
-Anda sepertinya tidak mengerti.
+You don't seem to understand.
 
 421
 00:21:29,557 --> 00:21:31,659
-Tidak, untuk sekali ini,
-kamu tidak mengerti.
+No, for once,
+you don't understand.
 
 422
 00:21:31,692 --> 00:21:34,529
-Inilah yang kami lakukan di sini,
-dr hari ke hari,
+This is what we do here,
+day in and day out,
 
 423
 00:21:34,562 --> 00:21:36,831
-dan itu mungkin tidak menjalankan
-sesuai keinginanmu,
+and it might not run the
+way that you like it to,
 
 424
 00:21:36,864 --> 00:21:38,666
-tapi inilah jalannya
-Saya menjalankan banyak hal.
+but this is the way
+I run things.
 
 425
 00:21:38,699 --> 00:21:41,334
-Ini adalah duniaku,
-persis seperti caramu memiliki milikmu.
+This is my world,
+just the way you have yours.
 
 426
 00:21:41,368 --> 00:21:42,970
-Milly, ini bukan tentang itu.
+Milly, it's not about that.
 
 427
 00:21:43,004 --> 00:21:45,940
-TIDAK.
+No.
 
 428
 00:21:45,973 --> 00:21:47,842
-Anda mungkin tidak memahami hal ini,
+You might not understand this,
 
 429
 00:21:47,875 --> 00:21:51,612
-tapi sebenarnya aku suka dan peduli
-tentang orang-orang yang bekerja dengan saya.
+but I actually like and care
+about the people I work with.
 
 430
 00:21:51,646 --> 00:21:54,682
-Pasti mereka merasakannya
-hal yang sama tentangku.
+Pretty sure they feel
+the same way about me.
 
 431
 00:21:54,715 --> 00:21:59,554
-Dan anak itu di sana,
-dia mungkin bukan siapa-siapa bagimu.
+And that kid in there,
+he might be a nobody to you.
 
 432
 00:21:59,587 --> 00:22:01,589
-Tapi dia telah memilih
-untuk tinggal di sini dan membantu kami
+But he has chosen
+to stay here and help us
 
 433
 00:22:01,622 --> 00:22:03,758
-dengan cara terbaik yang dia bisa,
+in the best way he can,
 
 434
 00:22:03,791 --> 00:22:06,961
-padahal dia punya teman dan
-keluarga di rumah yang membutuhkannya.
+even though he has friends and
+family back home that need him.
 
 435
 00:22:06,994 --> 00:22:09,396
-Dan dia tahu di belakang
-dari kepalanya
+And he knows in the back
+of his head
 
 436
 00:22:09,429 --> 00:22:13,067
-ada peluang yang sangat bagus
-dia tidak akan pernah melihat mereka lagi.
+there is a very good chance
+he will never see them again.
 
 437
 00:22:15,402 --> 00:22:16,971
-Apakah semua ini
-menghubungi Anda?
+Is any of this
+getting through to you?
 
 438
 00:22:20,041 --> 00:22:21,441
-Bagus.
+Good.
 
 439
 00:22:21,474 --> 00:22:22,543
-Jadi mari kita coba lagi.
+So let's try this again.
 
 440
 00:22:28,649 --> 00:22:30,651
--Sekarang...
--Um, sebenarnya...
+-Now...
+-Um, actually...
 
 441
 00:22:30,685 --> 00:22:32,019
-Saya masih penasaran
-tentang referensi Star Wars.
+I'm still curious
+about the Star Wars reference.
 
 442
 00:22:34,522 --> 00:22:37,390
-Ya, tentu saja begitu, Peter.
+Well, bet you are, Peter.
 
 443
 00:22:39,126 --> 00:22:42,630
-Jadi proyek Star Wars, AKA
+So the Star Wars project, A.K.A.
 
 444
 00:22:42,663 --> 00:22:45,600
-Strategi Reagan
-Inisiatif Pertahanan,
+Reagan's Strategic
+Defense Initiative,
 
 445
 00:22:45,633 --> 00:22:48,435
-Teknologi Perang Dingin itu
-akan menghasilkan
+Cold War Tech that
+would generate
 
 446
 00:22:48,468 --> 00:22:51,438
-perisai pangkalan luar angkasa
-itu akan
+an outer space base shield
+that would
 
 447
 00:22:51,471 --> 00:22:53,608
-membuat nuklir
-rudal sudah ketinggalan zaman.
+render nuclear
+missiles obsolete.
 
 448
 00:22:53,641 --> 00:22:56,744
-Proyek dibongkar
-empat tahun kemudian pada tahun '87.
+Project was dismantled
+four years later in '87.
 
 449
 00:22:56,777 --> 00:22:59,547
-Setidaknya itulah yang terjadi
-kata mereka kepada publik.
+At least that's what
+they told the public.
 
 450
 00:22:59,580 --> 00:23:03,017
-Tetapi faktanya,
-rudal, laser,
+But in fact,
+missiles, the lasers,
 
 451
 00:23:03,050 --> 00:23:05,485
-berkas partikel
-senjata masih ada.
+the particle beam
+weapons still exist.
 
 452
 00:23:05,519 --> 00:23:07,955
-Mereka sudah berada di sana sepanjang waktu
-waktu hanya menambahkan
+They've been up there the whole
+time just adding
 
 453
 00:23:07,989 --> 00:23:11,626
-hingga semakin meningkat
-daftar sampah luar angkasa.
+to the ever increasing
+list of space junk.
 
 454
 00:23:11,659 --> 00:23:14,028
-Saya bingung.
-Bagaimana hal ini membantu?
+I'm confused.
+How does this help?
 
 455
 00:23:14,061 --> 00:23:16,664
-Empat tahun yang lalu,
-pemerintahan terakhir
+Four years ago,
+last administration
 
 456
 00:23:16,697 --> 00:23:20,635
-menandatangani Nasional
-Undang-Undang Otorisasi Pertahanan
+signed the National
+Defense Authorization Act
 
 457
 00:23:20,668 --> 00:23:22,770
-di mana mereka mulai
-melakukan pemeliharaan
+where they started to
+carry out maintenance
 
 458
 00:23:22,803 --> 00:23:25,573
-dan menjadikannya operasional.
+and making it operational.
 
 459
 00:23:25,606 --> 00:23:31,779
-Jika kita memfokuskan laser pada
-tepi timur lempeng,
+If we focus the laser on
+the plate's eastern edge,
 
 460
 00:23:31,812 --> 00:23:33,814
-sebenarnya mungkin saja demikian
-cukup untuk menghentikannya.
+it actually might be
+enough to halt it.
 
 461
 00:23:35,182 --> 00:23:37,184
-Kalau begitu ayo kita lakukan.
+Then let's do it.
 
 462
 00:23:37,218 --> 00:23:39,654
-Kami tidak bisa.
+We can't.
 
 463
 00:23:39,687 --> 00:23:43,591
-Jika musuh kita mengetahui hal itu
-Star Wars ada,
+If our enemies knew that
+Star Wars exists,
 
 464
 00:23:43,624 --> 00:23:45,092
-mereka bisa menggunakannya
-untuk menghancurkan dunia.
+they could use it
+to destroy the world.
 
 465
 00:23:47,728 --> 00:23:51,866
-Dresden, dunia
-akan berakhir bagaimanapun juga.
+Dresden, the world
+is going to end regardless.
 
 466
 00:23:51,899 --> 00:23:56,203
-Star Wars adalah satu-satunya cara untuk melakukannya
-hentikan piringnya, biarlah.
+Star Wars is the only way to
+stop the plate, than so be it.
 
 467
 00:23:56,237 --> 00:23:58,005
-Pasti ada cara yang lebih baik.
+There's got to be a better way.
 
 468
 00:23:58,039 --> 00:23:59,573
-Kami tidak punya waktu.
+We don't have time.
 
 469
 00:23:59,607 --> 00:24:01,742
-Setiap menit kita berada
-membuang-buang jutaan,
+Every minute we are
+wasting millions,
 
 470
 00:24:01,776 --> 00:24:03,744
-miliaran nyawa
-di sekitar garis.
+billions of lives
+around the line.
 
 471
 00:24:03,778 --> 00:24:05,212
-Saya rasa kita belum punya
-ada ide yang lebih baik.
+I don't think we have
+any better ideas.
 
 472
 00:24:05,246 --> 00:24:05,980
-Tidak ada yang bertanya padamu.
+Nobody asked you.
 
 473
 00:24:08,849 --> 00:24:11,953
-Lalu apakah kamu punya
-ada ide yang lebih baik?
+Then do you have
+any better ideas?
 
 474
 00:24:11,986 --> 00:24:14,755
-Satu ide yang lebih baik itu
-kita dapat menerapkannya tepat waktu?
+One single better idea that
+we can implement in time?
 
 475
 00:24:16,023 --> 00:24:17,158
-Tidak, saya tidak melakukannya.
+No, I don't.
 
 476
 00:24:18,726 --> 00:24:19,459
-Kamu benar.
+You're right.
 
 477
 00:24:20,761 --> 00:24:21,862
-Mari kita terapkan Star Wars.
+Let's implement Star Wars.
 
 478
 00:24:23,030 --> 00:24:24,732
-Terima kasih.
+Thank you.
 
 479
 00:24:24,765 --> 00:24:26,100
-Jangan berterima kasih padaku dulu.
+Don't thank me yet.
 
 480
 00:24:29,637 --> 00:24:32,106
-Saya tidak mengerti mengapa
-saluran telepon masih terputus.
+I don't get why the
+phone lines are still down.
 
 481
 00:24:32,139 --> 00:24:34,108
-Satelit cadangan seharusnya
-sudah mulai masuk sekarang.
+The backup satellite should
+have kicked in by now.
 
 482
 00:24:34,141 --> 00:24:35,776
-Kami membutuhkan cara
-untuk menghubungi Washington.
+We need a way
+to contact Washington.
 
 483
 00:24:37,645 --> 00:24:39,246
-Kita hanya bisa duduk-duduk dan menunggu.
+We can just sit around and wait.
 
 484
 00:24:39,280 --> 00:24:42,850
-Anda berada di es tipis sekarang.
+You're on thin ice right now.
 
 485
 00:24:42,883 --> 00:24:43,918
-Apakah Anda punya ide yang lebih baik?
+Do you have any better ideas?
 
 486
 00:24:43,951 --> 00:24:45,786
-Ya.
+Yes.
 
 487
 00:24:45,820 --> 00:24:47,955
-Aku punya teman itu
-bekerja untuk NSC.
+I have a friend that
+works for the NSC.
 
 488
 00:24:47,989 --> 00:24:49,590
-Kantornya dekat.
+Her office is close by.
 
 489
 00:24:49,623 --> 00:24:51,192
-Saya benar-benar pergi
-untuk kuliah bersamanya.
+I actually went
+to college with her.
 
 490
 00:24:51,225 --> 00:24:53,794
-Dia mengerjakan proyek tersebut
-pertama kalinya.
+She worked on the project
+the first time around.
 
 491
 00:24:53,828 --> 00:24:56,564
-Dia akan memiliki jalur kerja
-ke Washington.
+She'll have a working line
+to Washington.
 
 492
 00:24:56,597 --> 00:24:59,934
-Kami tidak akan mengemudi
-sepanjang jalan melintasi kota.
+We're not going to drive
+all the way across town.
 
 493
 00:25:07,208 --> 00:25:09,043
-Tempat parkirnya lewat sini.
+The parking lot's this way.
 
 494
 00:25:25,993 --> 00:25:27,561
-Menurutmu aku parkir di sana?
+Think I parked in there?
 
 495
 00:25:34,001 --> 00:25:35,236
-Ayo pergi.
+Come on, let's go.
 
 496
 00:25:40,875 --> 00:25:42,276
-Ya.
+Yep.
 
 497
 00:25:42,309 --> 00:25:43,677
-Ini dia.
+This is it.
 
 498
 00:25:49,817 --> 00:25:51,819
-Ayo.
+Come on.
 
 499
 00:25:51,852 --> 00:25:54,989
-Ia selalu melakukan hal ini.
-Tunggu sebentar.
+It always does this.
+Just give it a second.
 
 500
 00:25:55,022 --> 00:25:56,924
-Ayo. Ayo.
+Come on. Come on.
 
 501
 00:25:58,259 --> 00:25:59,927
-Ini dia.
-Aku sudah bilang.
+There we go.
+I told you.
 
 502
 00:25:59,960 --> 00:26:01,962
-Besar.
-Ayo pergi dari sini.
+Great.
+Let's get out of here.
 
 503
 00:26:01,996 --> 00:26:03,097
-Ayo pergi.
+Let's go.
 
 504
 00:26:19,180 --> 00:26:22,016
-Jadi teman di NSC ini.
+So this friend at the NSC.
 
 505
 00:26:22,049 --> 00:26:24,018
-Dr Diane Wright.
+Dr. Diane Wright.
 
 506
 00:26:24,051 --> 00:26:26,220
-menurut mu
-dia akan tetap di sana?
+Do you think
+she'll still be there?
 
 507
 00:26:26,253 --> 00:26:28,022
-Kami masih bekerja, bukan?
+We're still working, aren't we?
 
 508
 00:26:28,055 --> 00:26:30,057
-Dia akan berada di sana.
+She'll be there.
 
 509
 00:26:30,091 --> 00:26:32,226
-Ini hidupnya.
+It's her life.
 
 510
 00:26:32,259 --> 00:26:33,994
-Dia menempatkan segalanya
-ke dalam pekerjaannya.
+She puts everything
+into her work.
 
 511
 00:26:36,697 --> 00:26:39,133
-Hanya jika pemerintah mau
-telah benar-benar mendengarkannya.
+Only if the government would
+have actually listened to her.
 
 512
 00:26:51,278 --> 00:26:53,314
-Pak.
-Saya sudah memuat koordinatnya.
+Sir.
+I've loaded the coordinates.
 
 513
 00:26:53,347 --> 00:26:55,749
-Ini pada dasarnya lurus
-ditembak dari sini.
+It's basically a straight
+shot from here.
 
 514
 00:26:55,783 --> 00:26:57,918
-Semua unit, ayo bergerak
-untuk menutup kolom.
+All units, let's move
+to close column.
 
 515
 00:26:57,952 --> 00:27:00,054
-Jaga kecepatan di bawah 25
-pada kesenjangan satuan
+Keep the speed under 25
+on a unit gap
 
 516
 00:27:00,087 --> 00:27:01,856
-tidak lebih dari 50 meter, lebih.
+of no more than 50 meters, over.
 
 517
 00:27:01,889 --> 00:27:03,357
-Menyalin.
+<i>Copy.</i>
 
 518
 00:27:18,739 --> 00:27:19,740
-Baiklah.
-Tidak ada jalan lain.
+All right.
+There's no way around that.
 
 519
 00:27:19,773 --> 00:27:21,108
-Kami sepenuhnya diblokir.
+We're completely blocked.
 
 520
 00:27:21,142 --> 00:27:23,210
-Seberapa jauh kita dari pesawat?
+How far are we from the plane?
 
 521
 00:27:23,244 --> 00:27:25,880
-Tidak jauh.
-15-20 menit paling lama.
+Not far.
+15-20 minutes tops.
 
 522
 00:27:25,913 --> 00:27:27,882
-Tapi dengan berjalan kaki
-itu akan memakan waktu lebih dari satu jam.
+But on foot
+it'll be over an hour.
 
 523
 00:27:27,915 --> 00:27:28,949
-Ayolah, kita tidak punya
-waktu seperti itu.
+Come on, we don't have
+that kind of time.
 
 524
 00:27:28,983 --> 00:27:30,384
-Kami kehabisan pilihan lain.
+We're out of other options.
 
 525
 00:27:30,417 --> 00:27:32,186
-Tidak. Kami tidak bisa mendapatkannya
-keluar dari kendaraan.
+No. We can't get
+out of the vehicle.
 
 526
 00:27:32,219 --> 00:27:33,754
-Orang-orang ini membutuhkannya
-makanan dan air.
+These people need
+food and water.
 
 527
 00:27:33,787 --> 00:27:35,089
-Kami tidak bisa membawa
-semua perbekalan,
+We can't carry
+all the supplies,
 
 528
 00:27:35,122 --> 00:27:36,457
-apalagi peralatan medisnya.
+let alone the medical equipment.
 
 529
 00:27:36,490 --> 00:27:37,391
-Pasti ada cara lain.
+There's got to be another way.
 
 530
 00:27:38,993 --> 00:27:41,195
-Bagaimana dengan jangka panjangnya?
+What about the long way around?
 
 531
 00:27:41,228 --> 00:27:42,863
-Tunggu. Apakah tidak ada kuburan?
+Wait. Isn't there a cemetery?
 
 532
 00:27:45,399 --> 00:27:47,701
-Ya.
-Tepat di belakang gedung-gedung ini.
+Yes.
+Right behind these buildings.
 
 533
 00:27:47,735 --> 00:27:50,104
-Kamu benar.
+You're right.
 
 534
 00:27:50,137 --> 00:27:51,772
-Baiklah. Mendengarkan.
+All right. Listen.
 
 535
 00:27:51,805 --> 00:27:53,140
-Ada sebuah gerbang disekitarnya
-setengah mil ke belakang.
+There was a gate about
+a half a mile back.
 
 536
 00:27:53,174 --> 00:27:55,910
-Kami mendapatkan kecepatan yang cukup, kami dapat menariknya
-sebuah rig melewatinya.
+We get enough speed, we can pull
+a rig right through it.
 
 537
 00:27:55,943 --> 00:27:58,412
-Kita bisa menghindarinya
-semua puing-puing ini.
+We can avoid
+all this rubble.
 
 538
 00:27:58,445 --> 00:27:59,680
-Salin, Sersan.
+Copy, Sergeant.
 
 539
 00:28:04,251 --> 00:28:05,019
-Harap berada di sana, Sophie.
+Please be there, Sophie.
 
 540
 00:28:15,496 --> 00:28:17,731
-Ayo. Cepat.
-Saya butuh bantuan.
+Come on. Quick.
+I need help.
 
 541
 00:28:22,870 --> 00:28:25,005
-Ini sudah sangat buruk.
+It's already so bad.
 
 542
 00:28:25,039 --> 00:28:27,241
-Ini hanya akan menjadi lebih buruk
-jika kita tidak bersatu.
+It's only going to get worse
+if we don't get it together.
 
 543
 00:28:50,397 --> 00:28:52,800
-Tentu saja,
-kami memiliki uplink khusus.
+Of course,
+we have a dedicated uplink.
 
 544
 00:28:52,833 --> 00:28:56,136
-Meskipun aman untuk mengatakannya, saya tidak pernah
-diharapkan dapat memanfaatkan SDI.
+Though it's safe to say, I never
+expected to utilize the SDI.
 
 545
 00:28:57,404 --> 00:28:58,872
-Dari apa yang Anda katakan,
+From what you're saying,
 
 546
 00:28:58,906 --> 00:29:00,074
-tampaknya memang begitu
-satu-satunya pilihan kita.
+it seems that this is
+our only choice.
 
 547
 00:29:04,345 --> 00:29:06,046
-Jenderal Barat...
+General West...
 
 548
 00:29:06,080 --> 00:29:08,349
-Ini Dr.Diane Wright
-di Komunikasi Seattle.
+This is Dr. Diane Wright
+at the Seattle Comms.
 
 549
 00:29:08,382 --> 00:29:10,317
-Saya tahu siapa Anda, dokter.
+I know who you are, doctor.
 
 550
 00:29:10,351 --> 00:29:12,987
-Sekarang, jika saya berbicara kepada Anda,
-Saya berasumsi bahwa Dresden adalah--
+Now, if I'm speaking to you,
+I'm assuming that Dresden is--
 
 551
 00:29:13,020 --> 00:29:14,522
-Wes, ya, aku di sini.
+Wes, yeah, I'm here.
 
 552
 00:29:14,556 --> 00:29:15,923
-Tapi aku tidak terlalu senang.
+I'm not very happy, though.
 
 553
 00:29:17,525 --> 00:29:20,261
-Tapi Anda bisa berterima kasih
-adikku, Milly.
+But you can thank
+my sister, Milly.
 
 554
 00:29:20,294 --> 00:29:23,330
-Aku yakin kakakmu sudah memberitahumu
-mengapa aku perlu berbicara denganmu.
+I'm sure your sister told you
+why I needed to speak with you.
 
 555
 00:29:23,364 --> 00:29:25,199
-Ya, kamu butuh bantuanku.
+Yeah, you need my help.
 
 556
 00:29:25,232 --> 00:29:27,034
-Sebelum Anda mengatakan hal lain,
-saya ingin kamu tahu
+Before you say anything else,
+I want you to know
 
 557
 00:29:27,067 --> 00:29:29,203
-bahwa aku bersedia
-untuk melupakan masa lalu.
+that I'm willing
+to forget the past.
 
 558
 00:29:29,236 --> 00:29:31,338
-Jika Anda membantu kami sekarang,
-kita berhasil melewatinya,
+If you help us now,
+we make it through,
 
 559
 00:29:31,372 --> 00:29:33,240
-tidak akan ada konsekuensinya.
+there'll be no ramifications.
 
 560
 00:29:33,274 --> 00:29:35,142
-Apa yang dia lakukan?
+What did he do?
 
 561
 00:29:35,175 --> 00:29:37,845
-Berjalan keluar dengan akses
-dan kode penembakan
+Walked out with the access
+and the firing codes
 
 562
 00:29:37,878 --> 00:29:41,048
-untuk senjata itu
-dia memutuskan untuk menggunakannya sekarang.
+to the weapons that
+he's decided to use now.
 
 563
 00:29:41,081 --> 00:29:43,017
-Tidak ada negara yang harus melakukannya
-memiliki kekuatan sebesar itu.
+No country should
+have that much power.
 
 564
 00:29:43,050 --> 00:29:44,852
-Dresden, itu rahasia.
+Dresden, that's confidential.
 
 565
 00:29:44,885 --> 00:29:47,221
-Saya harus melakukannya, untuk menyelamatkan dunia.
+I had to, to save the world.
 
 566
 00:29:47,254 --> 00:29:49,923
-Ya, itulah yang terjadi
-yang akan kita lakukan sekarang.
+Well, that's what
+we're about to do now.
 
 567
 00:29:49,957 --> 00:29:53,160
-Tepat sekali, itulah sebabnya kami
-membutuhkan Anda untuk membawanya online.
+Exactly, which is why we
+need you to bring it online.
 
 568
 00:29:53,193 --> 00:29:55,429
-Rekayasa kami saat ini
-tim hampir tidak bisa
+Our current engineering
+team can barely
 
 569
 00:29:55,462 --> 00:29:58,065
-menavigasi yang kuno
-sistem operasi,
+navigate the archaic
+operating system,
 
 570
 00:29:58,098 --> 00:30:00,868
-belum lagi
-firewall yang Anda pasang.
+not to mention the
+firewalls you put in.
 
 571
 00:30:00,901 --> 00:30:04,238
-Dr. Wright, saya mengerti maksud Anda
-akrab dengan sistem ini.
+Dr. Wright, I understand you're
+familiar with this system.
 
 572
 00:30:04,271 --> 00:30:06,040
-Kurang lebihnya, Pak.
+<i>More or less, sir.</i>
 
 573
 00:30:06,073 --> 00:30:07,509
-Meskipun aku tidak pernah diciptakan
-menyadari bahwa senjata itu
+Although I was never made
+aware that the weapons
 
 574
 00:30:07,542 --> 00:30:09,577
-bahwa Dresden dan aku
-sedang mengerjakan
+that Dresden and I
+were working on
 
 575
 00:30:09,611 --> 00:30:11,445
-pernah ada
-dibuat operasional.
+were ever being
+made operational.
 
 576
 00:30:11,478 --> 00:30:13,548
-Mereka belum melakukannya. 
-Itu sebabnya saya berbicara dengan Anda.
+<i>They haven't.</i>
+<i>That's why I'm talking to you.</i>
 
 577
 00:30:13,581 --> 00:30:16,383
-Saya butuh yang asli
-tim teknik.
+I need the original
+engineering team.
 
 578
 00:30:16,417 --> 00:30:20,087
-Sejauh ini, perhitungan kami
-semuanya bersifat hipotetis.
+So far, our calculations
+have been all hypothetical.
 
 579
 00:30:20,120 --> 00:30:22,356
-Tidak mungkin
-untuk menguji sistem
+There has been no way
+to test the system
 
 580
 00:30:22,389 --> 00:30:24,892
-dan tidak ada ruang untuk kesalahan.
+and no room for error.
 
 581
 00:30:24,925 --> 00:30:27,061
-Tuan, pernahkah Anda melihat
-proyeksi pelat terbaru?
+Sir, have you seen the
+latest plate projections?
 
 582
 00:30:27,094 --> 00:30:28,896
-Apakah Anda ingin saya terlindas
-datanya sekali lagi bersamamu?
+Do you want me to run over
+the data one more time with you?
 
 583
 00:30:28,929 --> 00:30:31,932
-Dokter, saya hormat
-keahlian Anda,
+Doctor, I respect
+your expertise,
 
 584
 00:30:31,965 --> 00:30:35,169
-tapi tugasku adalah membuat
-keputusan-keputusan yang sulit.
+but my job is to make
+the hard decisions.
 
 585
 00:30:35,202 --> 00:30:38,506
-Dr Wright, seberapa cepat Anda bisa
-membuat sistem aktif dan berjalan?
+Dr. Wright, how quickly can you
+get the system up and running?
 
 586
 00:30:38,540 --> 00:30:41,141
-Ini sebenarnya sudah aktif dan berjalan.
-Tapi ini agak kikuk.
+It's actually up and running.
+It's a little clunky, though.
 
 587
 00:30:41,175 --> 00:30:44,311
-Saya rasa teknisi Anda baik hati
-dari mengacaukan hal ini.
+I think your engineers kind
+of screwed this thing up.
 
 588
 00:30:44,345 --> 00:30:46,914
-Perlu Anda masuk ke 
-antarmuka senjata.
+<i>Need you to sign into</i>
+<i>the weapons interface.</i>
 
 589
 00:30:46,947 --> 00:30:51,085
-Validasi inisiasi 
-dengan kode SWP Anda.
+<i>Validate initiation</i>
+<i>with your SWP code.</i>
 
 590
 00:30:51,118 --> 00:30:52,186
-Masuk.
+Entered.
 
 591
 00:30:53,454 --> 00:30:54,522
-Siapa yang punya koordinatnya?
+Who has the coordinates?
 
 592
 00:30:54,556 --> 00:30:56,123
-Aku memiliki mereka.
+I have them.
 
 593
 00:30:56,156 --> 00:30:57,592
-Dan sekali jenderal
-memasukkan kode SWP-nya
+And once the general
+enters his SWP code
 
 594
 00:30:57,625 --> 00:30:59,293
-dan mengaktifkan inisiasi,
+and activates the initiation,
 
 595
 00:30:59,326 --> 00:31:02,129
-Saya bisa menyambungkannya ke server
-ID dan kita bisa mendapatkan akses.
+I can plug them into server
+ID and we can gain access.
 
 596
 00:31:02,162 --> 00:31:02,896
--Oke.
--Bagus.
+-Okay.
+-Good.
 
 597
 00:31:18,479 --> 00:31:20,314
-Kapten?
+Captain?
 
 598
 00:31:20,347 --> 00:31:21,348
 Arthur,
-Bisakah kamu mendengarku?
+can you hear me?
 
 599
 00:31:28,288 --> 00:31:29,289
-Hati-hati.
+Be careful.
 
 600
 00:31:37,197 --> 00:31:39,667
-Oke teman-teman,
-ada tiga poin
+Okay, guys,
+there are three points
 
 601
 00:31:39,701 --> 00:31:43,270
-kita perlu menargetkan, masing-masing pada
-setidaknya 300 mil dari pantai.
+we need to target, each at
+least 300 miles off the coast.
 
 602
 00:31:43,303 --> 00:31:46,073
-Jauh dari masa lalu
-landas kontinen.
+Way out past
+the continental shelf.
 
 603
 00:31:46,106 --> 00:31:48,676
-Oke, titik paling utara
-berada di Teluk Alaska.
+Okay, the northernmost point
+is in the Gulf of Alaska.
 
 604
 00:31:48,710 --> 00:31:54,549
-Kita punya 51, 43'33" utara,
-138, 1'14" barat.
+We have 51, 43'33" north,
+138, 1'14" west.
 
 605
 00:31:54,582 --> 00:31:59,186
-Poin kedua di tengah jalan
-pelatnya berada 5 22'21" utara.
+The second point halfway down
+the plate is 5 22'21" north.
 
 606
 00:31:59,219 --> 00:32:02,256
-Kami memiliki 116 48'42" barat
+We have 116 48'42" west
 
 607
 00:32:02,289 --> 00:32:04,992
-dan yang ketiga tegak lurus
-ke Amerika Selatan adalah
+and the third perpendicular
+to South America is
 
 608
 00:32:05,025 --> 00:32:09,163
-22 2'4" selatan,
-114 9'25" barat.
+22 2'4" south,
+114 9'25" west.
 
 609
 00:32:09,196 --> 00:32:11,699
-Dan Anda perlu mengaturnya
-sudut masuk Anda.
+And you need to set
+your angle of entry.
 
 610
 00:32:11,733 --> 00:32:14,001
-Beri aku waktu sebentar
-untuk menghitung ini.
+Give me a second
+to calculate this.
 
 611
 00:32:14,034 --> 00:32:15,369
-Arahkan semua laser,
-jadi setiap target akan mencapainya
+Aim all the lasers,
+so each target will hit it
 
 612
 00:32:15,402 --> 00:32:18,305
-dengan kekuatan yang sama di
-sudut...
+with an equal force at
+an angle of...
 
 613
 00:32:18,338 --> 00:32:21,475
-42,7 derajat.
+42.7 degrees.
 
 614
 00:32:21,509 --> 00:32:24,211
-Jika tidak, kami tidak akan melakukannya
-menghasilkan tenaga yang cukup.
+If not, we won't
+generate enough power.
 
 615
 00:32:24,244 --> 00:32:25,647
-Atau kami akan mengirimkan ini
-lempeng bergerak
+Or we're going to send these
+plates moving
 
 616
 00:32:25,680 --> 00:32:28,716
-cuek
-arah secara keseluruhan.
+in different
+directions altogether.
 
 617
 00:32:28,750 --> 00:32:30,752
-Ya.
+Yeah.
 
 618
 00:32:30,785 --> 00:32:33,688
-Oke.
-Baiklah, kalau aku boleh duluan...
+Okay.
+Well, if I have the go ahead...
 
 619
 00:32:37,424 --> 00:32:38,492
-Sampai jumpa di sisi lain.
+See you on the other side.
 
 620
 00:32:40,595 --> 00:32:42,062
-Api.
+Fire.
 
 621
 00:32:42,095 --> 00:32:43,497
-Api.
+Fire.
 
 622
 00:32:54,107 --> 00:32:56,176
-Ayo ayo.
-Ayolah.
+Come on, come on.
+Come on, please.
 
 623
 00:33:03,250 --> 00:33:05,285
-Tidak, tidak, hanya dua pukulan.
+No, no, only two hit.
 
 624
 00:33:05,319 --> 00:33:06,688
-Ada yang salah.
+Something's wrong.
 
 625
 00:33:06,721 --> 00:33:08,690
-Salah satu lasernya mati.
-Itu tidak menembak.
+One of the lasers died.
+It's not firing.
 
 626
 00:33:08,723 --> 00:33:11,024
-Itu menarik.
-Itu hampir tidak membuat goresan.
+That's interesting.
+It barely made a scratch.
 
 627
 00:33:11,058 --> 00:33:12,059
-Apakah kekuatannya cukup?
+Does it have enough power?
 
 628
 00:33:18,499 --> 00:33:20,434
-Gempa sedang bekerja
-jauh ke pantai barat.
+The quake is working its
+way up the west coast.
 
 629
 00:33:20,467 --> 00:33:22,336
-Meksiko baru saja terkena dampaknya.
+Mexico just got hit.
 
 630
 00:33:22,369 --> 00:33:24,438
-Tembak saja lagi.
+Just fire again.
 
 631
 00:33:24,471 --> 00:33:25,707
--Tidak, tidak, aku tidak bisa.
--Apa maksudmu kamu tidak bisa?
+-No, no, I can't.
+-What do you mean you can't?
 
 632
 00:33:25,740 --> 00:33:27,307
-Mereka kepanasan
-dan mematikan.
+They're overheating
+and shutting down.
 
 633
 00:33:27,341 --> 00:33:29,109
-Saya perlu menjalankan diagnostik
-untuk mencari tahu alasannya.
+I need to run diagnostics
+to find out why.
 
 634
 00:33:29,142 --> 00:33:30,645
-Ini adalah sebuah pukulan panjang
-memulai dengan.
+This was a long shot
+to begin with.
 
 635
 00:33:30,678 --> 00:33:33,080
-Itu selalu merupakan peluang
-itu tidak akan berhasil.
+It was always a chance
+it wasn't going to work.
 
 636
 00:33:33,113 --> 00:33:37,217
-Mari kita kurangi kerugian kita
-dan meningkatkan evakuasi.
+Let's cut our losses
+and ramp up the evacuations.
 
 637
 00:33:37,251 --> 00:33:38,786
-Jadi itu saja.
+So that's it.
 
 638
 00:33:38,820 --> 00:33:41,288
-Itu hanya latihan
-untuk pemerintah Amerika?
+That was just an exercise
+for the US government?
 
 639
 00:33:41,321 --> 00:33:43,056
-Tidak, tunggu.
+No, wait.
 
 640
 00:33:43,090 --> 00:33:44,592
-Berapa sudut masuknya?
+What's the angle of entry?
 
 641
 00:33:44,626 --> 00:33:47,261
-Saya mengaturnya ke 42,7 derajat.
+I set it to 42.7 degrees.
 
 642
 00:33:47,294 --> 00:33:48,730
-Seperti yang kamu katakan,
-lintasannya harus melenceng.
+Like you said,
+the trajectory must be off.
 
 643
 00:33:48,763 --> 00:33:51,031
-Tidak, lintasannya tidak melenceng.
+No, the trajectory is not off.
 
 644
 00:33:52,834 --> 00:33:55,369
-Tidak, tunggu sebentar.
+No, wait a minute.
 
 645
 00:33:55,402 --> 00:33:57,539
-Perangkat lunak Anda tidak
-mampu memperhitungkan sepenuhnya
+Your software wasn't
+able to fully account
 
 646
 00:33:57,572 --> 00:33:59,574
-untuk pergeseran sumbu.
+for the axis shift.
 
 647
 00:33:59,607 --> 00:34:02,577
-Pergeseran sumbu?
+Axis shift?
 
 648
 00:34:02,610 --> 00:34:04,646
-Dresden benar, Pak.
+Dresden's right, sir.
 
 649
 00:34:04,679 --> 00:34:06,413
-Selama dekade terakhir,
+Over the past decade,
 
 650
 00:34:06,446 --> 00:34:08,382
-kami telah memompa begitu banyak
-air tanah itu
+we've pumped so much
+ground water that it
 
 651
 00:34:08,415 --> 00:34:12,119
-sebenarnya mengubah porosnya
-bumi satu atau dua inci setahun,
+actually altered the axis of the
+earth one or two inches a year,
 
 652
 00:34:12,152 --> 00:34:14,154
-yang mungkin tampak tidak banyak,
+which might not seem like a lot,
 
 653
 00:34:14,187 --> 00:34:18,358
-tapi cara algoritma ini
-menghitung proyeksi,
+but the way these algorithms
+calculate the projection,
 
 654
 00:34:18,392 --> 00:34:21,128
-perbedaan sekecil apa pun bisa
-melemparkan hasilnya ke dalam putaran.
+the slightest discrepancy can
+throw the results into a spin.
 
 655
 00:34:21,161 --> 00:34:24,298
-Bisakah kita menghitung ulang saja
-dan menembak lagi?
+Can we just recalculate
+and fire again?
 
 656
 00:34:24,331 --> 00:34:27,535
-Tidak, tapi kita bisa menggunakannya
-laser fungsional
+No, but we can use
+the functional lasers
 
 657
 00:34:27,569 --> 00:34:30,605
-dan memodifikasi sudutnya
-masuk untuk memberikan kompensasi.
+and modify the angle
+of entry to compensate.
 
 658
 00:34:30,638 --> 00:34:31,739
-Sudut masuk
-proporsional
+The angle of entry
+is proportional
 
 659
 00:34:31,773 --> 00:34:34,107
-kepada kekuatan pada sasarannya.
+to the power at the target.
 
 660
 00:34:34,141 --> 00:34:36,176
-Jadi kami kehilangan sepertiga kekuatan.
+So we lost one third of power.
 
 661
 00:34:36,209 --> 00:34:39,179
-Jadi kita perlu melakukannya
-kurangi sudut masuknya menjadi...
+So we're going to need to
+reduce the angle of entry to...
 
 662
 00:34:39,212 --> 00:34:43,216
-30 derajat untuk dibuat
-bersiap untuk kehilangan.
+30 degrees to make
+up for the loss.
 
 663
 00:34:43,250 --> 00:34:45,118
-Oke, mari kita sesuaikan
-dan coba lagi.
+Okay, let's adjust
+and try again.
 
 664
 00:34:48,355 --> 00:34:50,424
-Oke, saya sedang menyesuaikan diri sekarang.
+Okay, I am adjusting now.
 
 665
 00:34:51,826 --> 00:34:54,461
-Oh tidak.
+Oh, no.
 
 666
 00:34:54,494 --> 00:34:57,431
-Turun, turun!
-Dibawah! Dibawah!
+Get down, get down!
+Down under! Down under!
 
 667
 00:35:02,904 --> 00:35:04,104
-Ayo!
+Come on!
 
 668
 00:35:05,372 --> 00:35:07,307
-Pergi pergi!
+Go, go!
 
 669
 00:35:09,711 --> 00:35:10,845
-Ada bunker militer.
+There's a military bunker.
 
 670
 00:35:10,878 --> 00:35:12,747
-Itu tidak jauh dari sini.
+It's not far from here.
 
 671
 00:35:12,780 --> 00:35:15,683
-Di situlah semua orang
-dari gedung ini dikirim.
+That's where everyone
+from this building was sent.
 
 672
 00:35:15,717 --> 00:35:17,484
-Itu tidak akan ada di peta mana pun.
+It wouldn't be on any map.
 
 673
 00:35:17,518 --> 00:35:18,886
-Anda tidak akan mengetahuinya,
-tapi itu ada di sana.
+You wouldn't know about it,
+but it's there.
 
 674
 00:35:18,920 --> 00:35:22,489
-Mereka memiliki koneksi yang aman.
+They have a secure connection.
 
 675
 00:35:22,523 --> 00:35:23,691
-Anda memiliki koordinatnya,
-benar, Petrus?
+You have the coordinates,
+right, Peter?
 
 676
 00:35:23,725 --> 00:35:25,760
-Ya.
+Yeah.
 
 677
 00:35:25,793 --> 00:35:27,929
-Oke, itu pilihan terbaikmu.
-Kalian harus pindah.
+Okay, that's your best bet.
+You guys have to move.
 
 678
 00:35:27,962 --> 00:35:29,797
-Bergerak sebelum ini
-bangunannya runtuh, oke?
+Move before this
+building crumbles, okay?
 
 679
 00:35:29,831 --> 00:35:30,798
-Anda tidak ikut dengan kami?
+You're not coming with us?
 
 680
 00:35:30,832 --> 00:35:32,432
-TIDAK.
+No.
 
 681
 00:35:32,466 --> 00:35:33,801
-Tidak, di sinilah kita berpisah.
+No, this is where we part ways.
 
 682
 00:35:33,835 --> 00:35:35,770
-Aku harus bersama keluargaku.
+I have to be with my family.
 
 683
 00:35:35,803 --> 00:35:38,238
-Anda tidak membutuhkan tubuh lain.
+You don't need another body.
 
 684
 00:35:38,271 --> 00:35:40,808
-Jujur saja, kamu memang benar
-cukup pintar untuk kita berdua.
+Let's be honest, you're
+smart enough for two of us.
 
 685
 00:35:40,842 --> 00:35:41,776
-Kami berdua mengetahuinya.
+We both know it.
 
 686
 00:35:43,611 --> 00:35:45,379
-Dengar, aku minta maaf.
+Look, I'm sorry.
 
 687
 00:35:45,412 --> 00:35:46,681
-Maaf aku tidak berbuat lebih banyak
-untuk membantumu
+I'm sorry I didn't do more
+to help you out
 
 688
 00:35:46,714 --> 00:35:49,216
-ketika kamu dilepaskan, Dresden.
+when you were let go, Dresden.
 
 689
 00:35:49,249 --> 00:35:52,285
-Saya menempatkan pekerjaan saya dan saya
-perbaiki persahabatan kita.
+I put my job and my
+work over our friendship.
 
 690
 00:35:52,319 --> 00:35:55,790
-Dan aku berbohong untuk mengatakannya
-jika...
+And I'd be lying to say
+if it...
 
 691
 00:35:55,823 --> 00:35:58,660
-itu tidak menggangguku
-setiap hari sejak kamu menghilang.
+it hadn't bothered me
+every day since you disappeared.
 
 692
 00:36:03,765 --> 00:36:06,299
-Terima kasih, Diane.
+Thank you, Diane.
 
 693
 00:36:06,333 --> 00:36:10,170
-Anda benar-benar mengetahui banyak hal
-tentang orang-orang melalui tindakan mereka.
+You really get to know a lot
+about people by their actions.
 
 694
 00:36:12,272 --> 00:36:14,909
-Tindakan Anda punya
-sudah sangat jelas.
+Your actions have
+been very clear.
 
 695
 00:36:14,942 --> 00:36:18,311
-Dan demi ketenangan pikiran Anda sendiri,
+And for your own peace of mind,
 
 696
 00:36:18,345 --> 00:36:20,480
-Aku akan membiarkanmu memberiku
-ID Anda dengan akses.
+I'm gonna let you give me
+your ID with access.
 
 697
 00:36:22,517 --> 00:36:24,619
-Lalu apa yang kamu katakan?
+And then what do you say?
 
 698
 00:36:24,652 --> 00:36:25,385
-Sebut saja genap.
+Call it even.
 
 699
 00:36:30,257 --> 00:36:31,726
-Terima kasih.
+Thank you.
 
 700
 00:36:31,759 --> 00:36:33,460
-Dengan senang hati.
+It's my pleasure.
 
 701
 00:36:33,493 --> 00:36:34,862
-Jaga keselamatan.
+Stay safe.
 
 702
 00:36:36,496 --> 00:36:39,534
-Oke.
+Okay.
 
 703
 00:36:39,567 --> 00:36:43,236
-Berapa lama waktu yang kita punya sebelumnya
-gempa bumi ini melenyapkan kita?
+How long do we have before
+these earthquakes wipe us out?
 
 704
 00:36:43,270 --> 00:36:45,640
-65 jam.
+65 hours.
 
 705
 00:36:45,673 --> 00:36:47,709
-65 jam?
+65 hours?
 
 706
 00:36:47,742 --> 00:36:48,976
-Semoga beruntung.
+Good luck.
 
 707
 00:37:25,780 --> 00:37:28,816
-Sophie, kamu baik-baik saja?
+Sophie, are you okay?
 
 708
 00:37:28,850 --> 00:37:31,318
-Aku disini.
-Aku hidup.
+I'm here.
+I'm alive.
 
 709
 00:37:31,351 --> 00:37:33,487
-Oke, turun sebagai
-secepat yang Anda bisa.
+Okay, get down as
+fast as you can.
 
 710
 00:37:33,521 --> 00:37:36,023
-Pesawat bisa jatuh
-kapan saja.
+The plane can fall
+at any moment.
 
 711
 00:37:36,057 --> 00:37:38,291
-Ayo, pergilah
-dari pesawat.
+Come on, around away
+from the plane.
 
 712
 00:37:40,528 --> 00:37:41,929
-Itu dia!
-Buru-buru!
+That's it!
+Hurry!
 
 713
 00:37:43,831 --> 00:37:45,533
-Ayo, pergi
-dari pesawat.
+Come on, away
+from the plane.
 
 714
 00:37:58,579 --> 00:38:00,480
-Putrimu akan baik-baik saja.
+Your daughter is gonna be okay.
 
 715
 00:38:01,682 --> 00:38:02,984
-Keponakanmu?
+Your niece?
 
 716
 00:38:03,017 --> 00:38:03,951
-Ya.
+Yeah.
 
 717
 00:38:06,954 --> 00:38:08,321
-Saya rasa kita tidak bisa
-mengemudi lebih jauh.
+I don't think we can
+drive any further.
 
 718
 00:38:17,565 --> 00:38:19,567
-Jaringannya mati dan
-bunker satu-satunya harapan kami
+The grid is down and the
+bunker's our only hope
 
 719
 00:38:19,600 --> 00:38:20,835
-untuk kembali daring.
+to get back online.
 
 720
 00:38:20,868 --> 00:38:23,070
-Jadi, di sinilah kita berjalan.
+So, this is where we walk.
 
 721
 00:38:23,104 --> 00:38:26,607
-Masih ada beberapa mil lagi.
+There's still a few miles out.
 
 722
 00:38:26,641 --> 00:38:28,943
-Ini adalah satu-satunya
-jalan menuju bunker.
+This is the only
+road to the bunker.
 
 723
 00:38:28,976 --> 00:38:30,845
-Anda tahu, kita tidak bisa berbalik.
+You know, we can't turn around.
 
 724
 00:38:30,878 --> 00:38:32,747
-Dan semakin banyak kita duduk
-di sini dan diskusikan,
+And the more we sit
+here and discuss it,
 
 725
 00:38:32,780 --> 00:38:35,082
-kami semakin dekat
-ke gempa berikutnya.
+we're just getting closer
+to the next quake.
 
 726
 00:38:35,116 --> 00:38:37,450
-Sepakat.
-Jadi ayo pergi.
+Agreed.
+So, let's go.
 
 727
 00:38:37,484 --> 00:38:39,587
-Peter, ambil semuanya
-kita perlu keluar dari van.
+Peter, grab everything
+we need out of the van.
 
 728
 00:38:39,620 --> 00:38:40,788
-Kami tidak akan kembali.
+We're not coming back.
 
 729
 00:38:54,434 --> 00:38:56,336
-Oke, lewat sini.
+Got it, this way.
 
 730
 00:39:04,745 --> 00:39:06,047
-Cara ini.
+This way.
 
 731
 00:39:12,753 --> 00:39:15,923
-Harus memastikan sudutnya
-entri sudah benar.
+Gotta make sure the angle
+of entry is correct.
 
 732
 00:39:15,957 --> 00:39:17,725
-Ini perlu dilakukan lain kali.
+This needs to work next time.
 
 733
 00:39:17,758 --> 00:39:19,660
-Keduanya tidak
-akan memikirkan hal ini.
+These two aren't
+going to figure this out.
 
 734
 00:39:19,694 --> 00:39:20,928
-Ayo cepat.
+Hurry up.
 
 735
 00:39:20,962 --> 00:39:22,597
-Ayolah, apa yang kamu lakukan?
+Come on, what are you doing?
 
 736
 00:39:24,031 --> 00:39:24,765
-Aku harus ke kamar mandi.
+I gotta use the bathroom.
 
 737
 00:39:27,869 --> 00:39:28,769
-Anda bisa pergi ke mana pun.
+You can go anywhere.
 
 738
 00:39:31,438 --> 00:39:32,372
-Hal-hal tertentu yang tidak saya lakukan.
+Certain things I don't do.
 
 739
 00:39:34,542 --> 00:39:36,911
-Pasti bercanda.
+Gotta be kidding me.
 
 740
 00:39:44,051 --> 00:39:46,087
-Kalian tunggu di sini.
-Aku akan pergi ke sana.
+You guys wait here.
+I'm gonna go over there.
 
 741
 00:39:52,560 --> 00:39:53,594
-Dia sangat aneh.
+He's so strange.
 
 742
 00:40:01,501 --> 00:40:02,737
@@ -3419,8 +3419,8 @@ Dresden?
 
 746
 00:40:18,185 --> 00:40:19,419
--Kamu mengerti?
--Ya. Ya.
+-You got it?
+-Yeah. Yeah.
 
 747
 00:40:23,991 --> 00:40:26,493
@@ -3429,704 +3429,704 @@ Dresden?
 
 748
 00:40:43,778 --> 00:40:44,745
-Dapatkah kita pergi?
+Can we go?
 
 749
 00:40:45,913 --> 00:40:48,448
-Ya Tuhan.
+Oh my God.
 
 750
 00:40:50,251 --> 00:40:51,652
-Jangan pernah datang
-lakukan lagi.
+Don't come ever
+do that again.
 
 751
 00:40:54,155 --> 00:40:55,690
-Apa?
-Apa yang saya lakukan?
+What?
+What did I do?
 
 752
 00:41:03,664 --> 00:41:04,598
-Lebih baik daripada berurusan
-dengan jalan raya, ya?
+Better than dealing
+with the roads, huh?
 
 753
 00:41:04,632 --> 00:41:05,933
-Ya.
+Yeah.
 
 754
 00:41:05,967 --> 00:41:07,702
-Kami kehilangan beberapa waktu,
-tapi tidak terlalu banyak.
+We lost some time,
+but not too much.
 
 755
 00:41:07,735 --> 00:41:09,036
-Kita seharusnya berada di ujung tanduk
-dari taman segera.
+We should be up on the edge
+of the park soon.
 
 756
 00:41:09,070 --> 00:41:10,604
-Setelah kita melewatinya
-bank di sini,
+Once we get past
+the bank up here,
 
 757
 00:41:10,638 --> 00:41:12,707
-kita seharusnya berada di
-perimeter luar.
+we should be at
+the outside perimeter.
 
 758
 00:41:12,740 --> 00:41:14,942
-Pesawatnya ada di
-sisi lain dari pohon-pohon itu.
+The plane's on the
+other side of those trees.
 
 759
 00:41:14,976 --> 00:41:17,611
-Ada pagar di sana,
-tapi kita bisa mengetahuinya.
+There's a fence over there,
+but we can figure it out.
 
 760
 00:41:17,645 --> 00:41:19,213
-Itu hebat.
-Kami datang lebih jauh ke selatan.
+That's great.
+We're coming in further south.
 
 761
 00:41:19,246 --> 00:41:20,014
-Kita harus mengemudi
-sedikit ke utara
+We're gonna have to drive
+a little bit north
 
 762
 00:41:20,047 --> 00:41:21,716
-untuk sampai ke pesawat.
+to get to the plane.
 
 763
 00:41:21,749 --> 00:41:22,482
-Kerja bagus, Richards.
+Good job, Richards.
 
 764
 00:41:23,751 --> 00:41:24,719
-Terima kasih Pak.
+Thank you, sir.
 
 765
 00:41:27,755 --> 00:41:29,724
-Oke.
+Okay.
 
 766
 00:41:29,757 --> 00:41:30,825
-Disini.
+Over here.
 
 767
 00:41:32,960 --> 00:41:34,228
-Ayo.
+Come on.
 
 768
 00:41:50,111 --> 00:41:53,547
-Hai, bagaimana kabarmu?
+Hi, how you doing?
 
 769
 00:41:53,581 --> 00:41:55,049
-Saya Dresden Anderson.
+I'm Dresden Anderson.
 
 770
 00:41:55,082 --> 00:41:56,784
-Saya dari Keamanan Nasional
-Dewan,
+I'm with the National Security
+Council,
 
 771
 00:41:56,817 --> 00:41:59,754
-Divisi Bencana.
+Disaster Division.
 
 772
 00:41:59,787 --> 00:42:01,989
-Saya mendapat perintah dari
-Jenderal Barat, DC
+I got orders from
+General West, D.C.
 
 773
 00:42:06,694 --> 00:42:09,997
-Ini saudara perempuan saya,
-Dr.Milly Anderson,
+This is my sister,
+Dr. Milly Anderson,
 
 774
 00:42:10,031 --> 00:42:13,067
-dan rekannya, Peter.
+and her colleague, Peter.
 
 775
 00:42:13,100 --> 00:42:17,304
-Mereka seismolog dari NEIC.
+They're seismologists from NEIC.
 
 776
 00:42:17,338 --> 00:42:20,908
-Lihat.
-Kita hanya perlu melewatinya.
+Look.
+We just need to get through.
 
 777
 00:42:20,941 --> 00:42:23,177
-Kami kehilangan mereka
-menara kendali pusat.
+We lost their
+central control tower.
 
 778
 00:42:23,210 --> 00:42:25,780
-Kami membutuhkan yang aman
-koneksi internet.
+We need a secure
+internet connection.
 
 779
 00:42:25,813 --> 00:42:28,783
-Kita perlu login kembali
-ke server NSA.
+We need to log back
+into the NSA server.
 
 780
 00:42:28,816 --> 00:42:30,684
-Tolong, biarkan kami lewat.
+Please, just let us through.
 
 781
 00:42:33,320 --> 00:42:36,690
-Dengar, aku tahu bagaimana kedengarannya,
+Look, I know how this sounds,
 
 782
 00:42:36,724 --> 00:42:38,993
-tapi kita adalah bagian darinya
-operasi senjata
+but we're part of
+a weapons operation
 
 783
 00:42:39,026 --> 00:42:44,298
-untuk menghentikan pergerakan lempeng,
-untuk menghindari kehancuran global.
+to stop plate movement,
+to avoid global devastation.
 
 784
 00:42:44,331 --> 00:42:46,667
-Jadi mungkin Anda bisa bicara
-kepada atasan
+So maybe you could talk
+to a superior
 
 785
 00:42:46,700 --> 00:42:49,270
-atau mungkin memberi
-seseorang nama kita atau...
+or maybe give
+someone our names or...
 
 786
 00:42:49,303 --> 00:42:51,972
-sesuatu yang bisa kamu lakukan.
+something you can do.
 
 787
 00:42:59,246 --> 00:43:01,115
-Tidak apa-apa.
-Kami juga terkena pukulannya.
+It's okay.
+We got hit, too.
 
 788
 00:43:01,148 --> 00:43:02,716
-Kami pindah ke
-lokasi yang aman.
+We're moving to
+a secure location.
 
 789
 00:43:02,750 --> 00:43:04,285
-Anda bisa melompat ke salah satunya
-van di belakang.
+You can jump in one of
+the vans out back.
 
 790
 00:43:04,318 --> 00:43:07,855
-Terima kasih. Saya kira milik kita
-reputasi mendahului kita.
+Thank you. I guess our
+reputation precedes us.
 
 791
 00:43:07,888 --> 00:43:09,090
-Ayo pergi.
+Let's go.
 
 792
 00:43:14,295 --> 00:43:15,262
-Masih tidak ada layanan.
+Still no service.
 
 793
 00:43:18,199 --> 00:43:19,834
-Tidak ada jalan
-Saya bisa saja mendapatkannya
+There's no way
+I could have gotten
 
 794
 00:43:19,867 --> 00:43:20,901
-semua orang keluar dari pesawat itu
-tanpamu.
+everyone out that plane
+without you.
 
 795
 00:43:20,935 --> 00:43:22,703
-Terima kasih.
+Thank you.
 
 796
 00:43:22,736 --> 00:43:24,872
-Saya tumbuh bersama ayah saya
-di militer
+I grew up with my father
+in the military
 
 797
 00:43:24,905 --> 00:43:29,043
-dan ibuku jenius, jadi...
-sedikit berorientasi pada bencana.
+and my mother is a genius, so...
+little disaster oriented.
 
 798
 00:43:29,076 --> 00:43:34,315
-Ngomong-ngomong, ayahku
-seharusnya datang, tapi...
+Speaking of, my dad
+is supposed to be coming, but...
 
 799
 00:43:34,348 --> 00:43:35,316
-Tapi saya tidak melihat siapa pun
-sampai ke kita di sini.
+But I don't see anybody
+getting to us here.
 
 800
 00:43:35,349 --> 00:43:36,917
-Mereka datang, oke?
+They're coming, okay?
 
 801
 00:43:36,951 --> 00:43:39,253
-Hanya... kita harus melakukannya
-tunggu sebentar lagi.
+Just... we just gotta
+hang tight a little longer.
 
 802
 00:43:39,286 --> 00:43:41,388
-Dan tunggu?
-Untuk gempa bumi lainnya
+And wait?
+For another earthquake
 
 803
 00:43:41,422 --> 00:43:43,257
-atau untuk Bumi
-untuk membuka lagi?
+or for the Earth
+to open up again?
 
 804
 00:43:43,290 --> 00:43:45,392
-Kita mungkin tidak mendapatkannya
-sangat beruntung lain kali.
+We might not get
+so lucky next time.
 
 805
 00:43:45,426 --> 00:43:49,096
--Oke.
--Kita harus realistis.
+-Okay.
+-We need to be realistic.
 
 806
-00:43:49,130 ​​--> 00:43:51,198
-Kita perlu menemukan a
-tempat yang aman untuk menginap malam ini.
+00:43:49,130 --> 00:43:51,198
+We need to find a
+safe place to stay tonight.
 
 807
 00:43:51,232 --> 00:43:53,667
-Kami sudah berlari
-kehabisan makanan...
+We're already running
+out of food...
 
 808
 00:43:53,701 --> 00:43:54,635
-Dan air.
+And water.
 
 809
 00:43:58,038 --> 00:44:00,875
-Ibuku di NEIC.
+My mom's in the NEIC.
 
 810
 00:44:00,908 --> 00:44:02,276
-Dia agak berspesialisasi
-dalam hal semacam ini.
+She kind of specializes
+in this kind of stuff.
 
 811
 00:44:05,379 --> 00:44:07,348
-Tapi kita tidak bisa meninggalkan mereka.
+But we can't leave them.
 
 812
 00:44:07,381 --> 00:44:09,683
-Saya harus tetap di sini
-dengan yang terluka.
+I have to stay here
+with the injured.
 
 813
 00:44:13,254 --> 00:44:16,724
-Semuanya, semuanya dengarkan.
+Everyone, everyone listen.
 
 814
 00:44:16,757 --> 00:44:19,293
-Kita sudah sampai sejauh ini,
-tapi kami butuh makanan dan air.
+We've made it this far,
+but we need food and water.
 
 815
 00:44:19,326 --> 00:44:22,363
-Dan hal teraman yang kita bisa
-lakukan adalah tinggal di sini dan berlindung
+And the safest thing we can
+do is stay here and shelter
 
 816
 00:44:22,396 --> 00:44:24,765
-sementara Sophie di sini
-pergi mencari bantuan.
+while Sophie here
+goes to get help.
 
 817
 00:44:24,798 --> 00:44:27,034
-Oke.
+Okay.
 
 818
 00:44:27,067 --> 00:44:28,936
-Aku akan mencari jalan
-untuk mengisi daya ponselku
+I'm gonna find a way
+to charge my phone
 
 819
 00:44:28,969 --> 00:44:31,372
-dan memanggil tim penyelamat
-untuk datang dan membawa perbekalan.
+and call for a rescue team
+to come and bring supplies.
 
 820
 00:44:31,405 --> 00:44:33,073
-Semoga beruntung.
+Good luck.
 
 821
 00:44:37,945 --> 00:44:38,712
-Dan terima kasih.
+And thank you.
 
 822
 00:44:41,382 --> 00:44:42,716
-Hati-hati di luar sana.
+Be careful out there.
 
 823
 00:44:42,750 --> 00:44:43,684
-Semoga berhasil, Sophie.
+Good luck, Sophie.
 
 824
 00:44:56,864 --> 00:44:58,866
-Ya.
+Yeah.
 
 825
 00:44:58,899 --> 00:45:01,335
-Peter, itu lasernya
-aktif dan berjalan?
+Peter, are the lasers
+up and running?
 
 826
 00:45:01,368 --> 00:45:03,771
-Kita kehabisan waktu
-agar dapat berfungsi.
+We're running out of time
+for it to be functional.
 
 827
 00:45:03,804 --> 00:45:05,339
-Saya menjalankan diagnostik dan
-Saya rasa saya tahu apa yang salah.
+I ran diagnostics and
+I think I know what was wrong.
 
 828
 00:45:05,372 --> 00:45:06,140
-Saya hanya perlu
-sedikit waktu lagi.
+I just need
+a little more time.
 
 829
 00:45:06,173 --> 00:45:07,775
-Oke.
+Okay.
 
 830
 00:45:07,808 --> 00:45:09,443
-Bisakah Anda membantu kami
-server USGS?
+Can you get us on
+the USGS server?
 
 831
 00:45:09,476 --> 00:45:11,979
-Ya, itu bisa membawa kita
-di mana saja.
+Yeah, it can get us
+in anywhere.
 
 832
 00:45:12,012 --> 00:45:14,982
-Kita perlu fokus pada
-dimana keraknya lebih lemah.
+We need to focus on
+where the crust is weaker.
 
 833
 00:45:15,015 --> 00:45:16,917
-Piringnya akan ada
-sudah dilonggarkan.
+The plate will have
+been loosened already.
 
 834
 00:45:16,951 --> 00:45:18,452
-Mari kita simpan itu sebagai cadangan
+Let's keep that as a backup
 
 835
 00:45:18,485 --> 00:45:21,155
-jika kita tidak bisa mendapatkannya
-lasernya menyala dan berfungsi.
+if we can't get
+the lasers up and functional.
 
 836
 00:45:21,188 --> 00:45:23,023
-Oke.
-aku sedang melakukannya.
+Okay.
+I'm at it.
 
 837
 00:45:25,125 --> 00:45:26,794
-Oke. Ini memerlukan balutan.
+Okay. This will need dressing.
 
 838
 00:45:26,827 --> 00:45:28,796
-Senang bertemu denganmu, kawan.
+Good to see you, man.
 
 839
 00:45:28,829 --> 00:45:31,365
--Siapa yang bertanggung jawab di sini?
--Itu pasti aku.
+-Who's in charge here?
+-That would be me.
 
 840
 00:45:31,398 --> 00:45:33,867
-Setelah kami mendarat, kami dipukul
-buruk akibat gempa bumi.
+After we landed, we were hit
+badly by the earthquakes.
 
 841
 00:45:33,901 --> 00:45:36,003
-Kami kehilangan pilotnya
-dan beberapa penumpang.
+We lost the pilot
+and some passengers.
 
 842
 00:45:36,036 --> 00:45:37,271
-Oke, kita punya makanan dan air.
+Okay, we have food and water.
 
 843
 00:45:37,304 --> 00:45:39,440
-Apakah ini semua orang di penerbangan 384?
+Is this everyone on flight 384?
 
 844
 00:45:39,473 --> 00:45:40,975
-Ya.
+Yes.
 
 845
 00:45:41,008 --> 00:45:42,843
-Putri saya ada dalam penerbangan ini.
+My daughter was on this flight.
 
 846
 00:45:42,876 --> 00:45:45,846
--Apakah itu Sophie?
--Ya. Dimana dia?
+-Is it Sophie?
+-Yes. Where is she?
 
 847
 00:45:45,879 --> 00:45:48,315
-Dia hidup.
-Tapi dia pergi.
+She's alive.
+But she left.
 
 848
 00:45:48,349 --> 00:45:50,317
-Dia bilang kamu mungkin akan datang,
+She said you might be coming,
 
 849
 00:45:50,351 --> 00:45:52,119
-tapi tidak yakin berapa lama
-kamu akan menghadapi semua kekacauan itu.
+but wasn't sure how long
+you'd be with all the chaos.
 
 850
 00:45:52,152 --> 00:45:53,387
-Dimana dia?
-Saya perlu menemukannya.
+Where is she?
+I need to find her.
 
 851
 00:45:53,420 --> 00:45:55,189
-Dia pergi ke arah itu.
+She went in that direction.
 
 852
 00:45:55,222 --> 00:45:56,524
-Oke.
+Okay.
 
 853
 00:45:56,558 --> 00:45:58,225
-Orang-orangku akan membantumu.
+My men are going to help you.
 
 854
 00:45:58,259 --> 00:45:59,360
-Kami mendatangkan lebih banyak lagi
-kendaraan yang akan datang menjemputmu.
+We're bringing in more
+vehicles to come get you.
 
 855
 00:45:59,393 --> 00:46:01,161
-Terima kasih.
+Thank you.
 
 856
 00:46:01,195 --> 00:46:03,030
-Sementara itu, bantu semua orang
-kamu bisa, oke?
+In the meantime, help everybody
+you can, all right?
 
 857
 00:46:03,063 --> 00:46:04,498
-Baiklah.
-Terima kasih banyak.
+All right.
+Thank you so much.
 
 858
 00:46:08,335 --> 00:46:10,237
--Richard.
--Ya pak.
+-Richards.
+-Yes, sir.
 
 859
 00:46:10,271 --> 00:46:12,139
-Sophie tidak ada di sini, tapi aku ada di sini
-ide yang bagus ke mana dia pergi.
+Sophie's not here, but I have
+a good idea where she went.
 
 860
 00:46:12,172 --> 00:46:14,875
--Aku harus mencarinya.
--Saya mengerti, Pak.
+-I have to go find her.
+-I understand, sir.
 
 861
 00:46:14,908 --> 00:46:16,910
-Jacobs dan aku akan melakukannya
-membongkar semuanya.
+Jacobs and I will
+unpack everything.
 
 862
 00:46:16,944 --> 00:46:18,279
-Temukan putrimu.
-Kami akan mengurus sisanya.
+Find your daughter.
+We'll take care of the rest.
 
 863
 00:46:18,312 --> 00:46:20,214
-Menghargai Anda.
+Appreciate you.
 
 864
 00:46:20,247 --> 00:46:22,449
-Basis panggilan. Dapatkan lebih banyak lagi
-laki-laki dibesarkan di sini, oke?
+Call base. Get some more
+men brought up here, okay?
 
 865
 00:46:22,483 --> 00:46:23,417
-Ya pak.
+Yes, sir.
 
 866
 00:46:28,055 --> 00:46:30,391
-Oke.
-Saya sudah mengaktifkan situs USGS.
+Okay.
+I've got the USGS site up.
 
 867
 00:46:30,424 --> 00:46:32,527
-Ada pembaruan baru atau setidaknya
-sesuatu yang baru
+Any new updates or at least
+anything new
 
 868
 00:46:32,560 --> 00:46:34,061
-karena kita kehilangan layanan?
+since we've lost service?
 
 869
 00:46:34,094 --> 00:46:35,963
-Yah, sepertinya milik kita
-datanya benar.
+Well, it looks like our
+data was correct.
 
 870
 00:46:35,996 --> 00:46:37,097
-Gempa bumi adalah
-sudah menghancurkan
+The earthquakes are
+already devastating
 
 871
 00:46:37,131 --> 00:46:38,966
-dan mereka semakin besar.
+and they're only getting bigger.
 
 872
 00:46:38,999 --> 00:46:41,168
-Bahkan Islandia Greenland
-dan Pantai Barat Eropa
+Even the Iceland Greenland
+and West Coasts of Europe
 
 873
 00:46:41,201 --> 00:46:43,070
-sedang mengalami gempa
-kerusakan sekarang.
+are taking earthquake
+damage now.
 
 874
 00:46:43,103 --> 00:46:45,306
-Benar.
-Kita perlu bekerja lebih cepat.
+Right.
+We need to work faster.
 
 875
 00:46:45,339 --> 00:46:48,876
-Peter, masuklah ke server NSA
-dan memulai programnya.
+Peter, get into the NSA servers
+and initiate the program.
 
 876
 00:46:48,909 --> 00:46:49,544
-Kami tidak punya waktu
-untuk memecahkan masalah
+We don't have time
+to troubleshoot
 
 877
 00:46:49,577 --> 00:46:51,345
-senjata offline.
+the offline weapons.
 
 878
 00:46:51,378 --> 00:46:53,247
-Masuk ke USGS
-dan mulai menunjukkan dengan tepat
+Log into the USGS
+and start pinpointing
 
 879
 00:46:53,280 --> 00:46:57,885
-daerah-daerah yang lebih lemah
-dari kerak bumi.
+the weaker areas
+of the Earth's crust.
 
 880
 00:46:57,918 --> 00:46:59,053
-Anda yakin ini
-akan bekerja
+You're sure this
+is going to work
 
 881
 00:46:59,086 --> 00:47:00,387
-dengan hanya beberapa
-mengoperasikan laser?
+with only a few
+operating lasers?
 
 882
 00:47:00,421 --> 00:47:01,488
-Itu mungkin.
+It might.
 
 883
 00:47:01,523 --> 00:47:02,956
-Maksudku, ini adalah risiko yang sudah diperhitungkan,
+I mean, it's a calculated risk,
 
 884
 00:47:02,990 --> 00:47:05,392
-tapi maksudku, menurutku
-kami sedang bekerja
+but I mean, I think
+we are working
 
 885
 00:47:05,426 --> 00:47:06,528
-sedikit dengan cepat di sini.
+a little on the fly here.
 
 886
 00:47:08,896 --> 00:47:11,465
-Kami tidak punya pilihan lain.
+We have no other choice.
 
 887
 00:47:11,498 --> 00:47:14,368
-Oke, Samudera,
-Daerah basaltik sedang terjadi
+Okay, the Oceanic,
+Basaltic areas are going
 
 888
 00:47:14,401 --> 00:47:16,303
-untuk menjadi pilihan terbaik kami
-karena mereka lebih tipis.
+to be our best bet
+because they're thinner.
 
 889
 00:47:16,337 --> 00:47:19,006
-Kita bisa mencoba East Pacific Rise?
+We could try East Pacific Rise?
 
 890
 00:47:19,039 --> 00:47:25,145
-Cerdas. Kerak baru terus menerus
-terbentuk ketika magma naik.
+Smart. New crust is continually
+being formed as magma rises.
 
 891
 00:47:25,179 --> 00:47:27,515
-Oke, dapatkan koordinatnya
-untuk formasi batuan tertentu
+Okay, get the coordinates
+for specific rock formations
 
 892
 00:47:27,549 --> 00:47:30,484
-di sepanjang punggung bukit.
+along the ridge.
 
 893
 00:47:30,518 --> 00:47:32,219
-Ini adalah sistem punggungan tengah laut.
+It's a mid-ocean ridge system.
 
 894
 00:47:32,252 --> 00:47:34,622
-Kerak bumi lebih muda
-dan lebih rapuh di sini.
+The Earth's crust is younger
+and more fragile here.
 
 895
 00:47:34,656 --> 00:47:36,323
-Letaknya di sisi Timur
-dari piring
+It's on the Eastern side
+of the plate
 
 896
 00:47:36,357 --> 00:47:37,625
-tidak jauh dari
-koordinat aslinya.
+not far from
+the original coordinates.
 
 897
 00:47:37,659 --> 00:47:39,860
-Oke, ayo kita lakukan.
+Okay, let's do it.
 
 898
 00:47:42,630 --> 00:47:43,565
-Oke. Ayo.
+Okay. Come on.
 
 899
 00:47:48,335 --> 00:47:49,903
-Dapatkan tandu!
+Get a stretcher!
 
 900
 00:47:49,937 --> 00:47:51,271
@@ -4150,159 +4150,159 @@ Sophie!
 
 905
 00:48:12,694 --> 00:48:13,894
-Kamu ada di mana?
+Where are you?
 
 906
 00:48:19,166 --> 00:48:21,201
-Peter, perhatikan suhunya
-dan aktivitas seismik
+Peter, watch the temperature
+and the seismic activity
 
 907
 00:48:21,235 --> 00:48:23,170
-seperti elang saat kita menembak.
+like a hawk when we fire.
 
 908
 00:48:23,203 --> 00:48:25,439
-Segera setelah Anda melihatnya
-aktivitas penyebaran
+As soon as you see
+dispersion activity
 
 909
 00:48:25,472 --> 00:48:28,308
-dari sisi timur
-dari piring, tarik kembali.
+from the east side
+of the plate, pull it back.
 
 910
 00:48:28,342 --> 00:48:30,144
-Ya, Anda mengerti.
+Yes, you got it.
 
 911
 00:48:30,177 --> 00:48:32,012
-Dan kita memerlukan pergerakan lempeng
-untuk memperlambat ke titik
+And we need the plate movement
+to slow to the point
 
 912
 00:48:32,045 --> 00:48:34,549
-di mana ia dapat menemukannya
-ritmenya sendiri lagi.
+where it can find
+its own rhythm again.
 
 913
 00:48:34,582 --> 00:48:38,152
-Ini akan menetap kembali
-pola energi tektonik.
+It will settle back into
+the tectonic energy pattern.
 
 914
 00:48:38,185 --> 00:48:40,154
-Maksudku, jika kita membuat
-terlalu banyak panas,
+I mean, if we create
+too much heat,
 
 915
 00:48:40,187 --> 00:48:42,356
-kita mengambil risiko memberikannya
-energi yang berlawanan
+we risk giving it
+opposite energy
 
 916
 00:48:42,389 --> 00:48:45,159
-dan akhirnya mengirimkannya kembali.
+and end up sending it back.
 
 917
 00:48:45,192 --> 00:48:47,461
-Yang akan membuat kita kembali
-tepat di tempat kami memulai.
+Which would put us back
+right where we started.
 
 918
 00:48:47,494 --> 00:48:49,496
--Ya.
--Atau lebih buruk.
+-Yes.
+-Or worse.
 
 919
 00:48:49,531 --> 00:48:51,999
-Batas lempeng
-sudah sangat fluktuatif.
+The plate boundaries
+are already so volatile.
 
 920
 00:48:52,032 --> 00:48:54,368
-Jika kita mendorong kembali
-dengan kekuatan sebesar ini,
+If we push back
+with this much force,
 
 921
 00:48:54,401 --> 00:48:59,641
-kerusakannya akan sepuluh kali lipat.
+the damage would be tenfold.
 
 922
 00:48:59,674 --> 00:49:02,075
-Tapi kamu akan melakukannya dengan baik.
+But you're going to do fine.
 
 923
 00:49:02,109 --> 00:49:04,311
-Dia harus.
-Kami tidak punya pilihan.
+He has to.
+We don't have a choice.
 
 924
 00:49:04,344 --> 00:49:06,213
-Terima kasih, Dresden.
+Thank you, Dresden.
 
 925
 00:49:06,246 --> 00:49:07,414
-Oke, ayo lakukan ini.
+Okay, let's do this.
 
 926
 00:49:07,448 --> 00:49:10,017
-Oke, memulai laser.
-Bersiap.
+Okay, initiating lasers.
+Stand by.
 
 927
 00:49:18,459 --> 00:49:19,426
--Apa yang sedang terjadi?
--Aku tidak tahu.
+-What's going on?
+-I don't know.
 
 928
 00:49:19,460 --> 00:49:20,528
-Saya kehilangan koneksi.
+I lost connection.
 
 929
 00:49:20,562 --> 00:49:22,630
-Laser tidak merespons.
+The lasers are not responding.
 
 930
 00:49:22,664 --> 00:49:24,398
-Perangkat lunak mengetahui saya sedang beroperasi
-dari koneksi IP yang berbeda
+The software knows I'm operating
+from a different IP connection
 
 931
 00:49:24,431 --> 00:49:26,400
-dan sistem GPS internal
-tidak akan mengizinkan mereka
+and the internal GPS system
+won't allow them
 
 932
 00:49:26,433 --> 00:49:28,502
-untuk menembak di wilayah AS.
+to fire on U.S. territory.
 
 933
 00:49:28,536 --> 00:49:30,337
-Saya perlu mengatur ulang parameternya.
+I need to reset the parameters.
 
 934
 00:49:30,370 --> 00:49:32,039
-Oke, berapa lama
-ini akan memakan waktu?
+Okay, how long is
+this going to take?
 
 935
 00:49:32,072 --> 00:49:33,440
-Aku tidak tahu.
-Mereka menggunakan teknologi yang sangat tua
+I don't know.
+They run on very old tech
 
 936
 00:49:33,474 --> 00:49:34,441
-Frankenstein bersama.
+Frankensteined together.
 
 937
 00:49:34,475 --> 00:49:36,109
-Koneksi kami lemah.
+Our connection is tenuous.
 
 938
 00:49:36,143 --> 00:49:37,344
-saya mencoba untuk
-membebani sistem.
+I'm trying to
+overload the system.
 
 939
 00:49:37,377 --> 00:49:39,246
@@ -4310,399 +4310,399 @@ Dresden?
 
 940
 00:49:39,279 --> 00:49:40,715
-Kita mungkin perlu memulainya
-bersiap menghadapi kemungkinan terburuk.
+We might need to start
+preparing for the worst.
 
 941
 00:49:42,249 --> 00:49:44,418
-Kita perlu menimpanya
-GPS di pesawat.
+We need to override
+the onboard GPS.
 
 942
 00:49:44,451 --> 00:49:46,420
-Tapi bagaimana caranya?
+But how?
 
 943
 00:49:46,453 --> 00:49:51,258
-Jika saya mengalihkan daya dan mengirim
-modul ke mode pemulihan,
+If I reroute power and send
+the modules into recovery mode,
 
 944
 00:49:51,291 --> 00:49:55,262
-Saya mungkin bisa menyesuaikan diri
-sistem penargetan secara manual.
+I may be able to adjust
+the targeting system manually.
 
 945
 00:49:56,664 --> 00:49:58,465
--Ini dia satu lagi.
--Turun.
+-Here comes another one.
+-Get down.
 
 946
 00:49:58,499 --> 00:49:59,233
-Tidak, belum.
+No, not yet.
 
 947
 00:50:00,702 --> 00:50:02,102
-Ayo.
+Come on.
 
 948
 00:50:02,135 --> 00:50:03,003
-Oke, tunggu sebentar.
+Okay, just give me a sec.
 
 949
 00:50:07,107 --> 00:50:08,242
-Baiklah, laser
-online dan terkunci.
+All right, lasers are
+online and locked in.
 
 950
 00:50:08,275 --> 00:50:10,143
-Semoga saja ini berhasil.
+Let's hope this works.
 
 951
 00:50:10,177 --> 00:50:12,012
-Siap menembak.
-Tiga dua satu.
+Ready to fire.
+Three, two, one.
 
 952
 00:50:17,519 --> 00:50:19,152
-Monitornya kosong,
-tapi listrik masih menyala.
+The monitor is blank,
+but the power is still on.
 
 953
 00:50:19,186 --> 00:50:21,088
-Apakah masih beroperasi?
+Is it still operational?
 
 954
 00:50:21,121 --> 00:50:23,257
-Tembak itu.
-Tembak sekarang!
+Fire it.
+Fire it now!
 
 955
 00:50:23,290 --> 00:50:26,326
-Ayo ayo.
+Come on, come on.
 
 956
 00:50:33,133 --> 00:50:35,369
-Ini menurun.
+It's dropping.
 
 957
 00:50:40,107 --> 00:50:41,709
-Oke.
+Okay.
 
 958
 00:50:41,743 --> 00:50:44,244
-Belum membuka sampanye.
+Not opening the champagne yet.
 
 959
 00:50:46,380 --> 00:50:49,283
-Apa itu?
-Kami kehilangan koneksi lagi?
+What is it?
+We lost connection again?
 
 960
 00:50:49,316 --> 00:50:51,586
-Tidak, kami mencapai target.
+No, we're hitting the target.
 
 961
 00:50:51,619 --> 00:50:54,288
-Panasnya masih belum cukup.
+It's still not enough heat.
 
 962
 00:50:54,321 --> 00:50:56,356
-Apa maksudmu
-karena tidak cukup panas?
+What do you mean
+by not enough heat?
 
 963
 00:50:56,390 --> 00:50:58,292
-Saya tidak tahu kenapa,
-tapi bacaannya menyarankan
+I don't know why,
+but the reading suggests
 
 964
 00:50:58,325 --> 00:51:00,795
-yang dihasilkan pelat tersebut
-begitu banyak gerakannya sendiri,
+that the plate is generating
+so much of its own movement,
 
 965
 00:51:00,828 --> 00:51:02,830
-Saya rasa kita tidak bisa menghentikannya.
+I don't think we can stop it.
 
 966
 00:51:02,864 --> 00:51:04,632
-Apakah batunya
-formasi memanas?
+Are the rock
+formations heating up?
 
 967
 00:51:04,666 --> 00:51:09,704
-Secara besar-besaran, tetapi tidak cukup
-untuk memperlambat pelat secara signifikan.
+Massively, but just not enough
+to slow the plate significantly.
 
 968
 00:51:09,737 --> 00:51:13,508
-Dan Anda yakin ini benar
-pada intensitas maksimum?
+And you're sure this is
+at maximum intensity?
 
 969
 00:51:13,541 --> 00:51:15,309
-Ya tentu saja.
+Yeah, of course.
 
 970
 00:51:16,844 --> 00:51:18,613
-apa yang terjadi dengan
-waktu jeda kita?
+What happened to
+our interval time?
 
 971
 00:51:18,646 --> 00:51:20,515
-Perangkat lunak pemantauan
-tidak tahu caranya
+The monitoring software
+doesn't know how
 
 972
 00:51:20,548 --> 00:51:21,849
-untuk membaca beberapa gempa bumi
-dengan beberapa magnitudo.
+to read multiple earthquakes
+with multiple magnitudes.
 
 973
 00:51:21,883 --> 00:51:23,651
-sekaligus di berbagai daerah
-di mana mereka biasanya
+at once in areas
+where they normally
 
 974
 00:51:23,685 --> 00:51:24,719
-tidak akan ada bersama.
+wouldn't exist together.
 
 975
 00:51:24,752 --> 00:51:25,853
-Ini belum pernah terjadi sebelumnya.
+It's unprecedented.
 
 976
 00:51:25,887 --> 00:51:28,422
-Skenario yang mustahil
-sampai sekarang.
+An impossible scenario
+until now.
 
 977
 00:51:43,838 --> 00:51:45,573
-Kita perlu melanjutkan.
+We need to move on.
 
 978
 00:51:45,607 --> 00:51:47,842
-Lasernya gagal.
+The lasers failed.
 
 979
 00:51:47,875 --> 00:51:49,476
-Maksudku, menurutku kita
-benar-benar tidak punya pilihan lain.
+I mean, I guess we
+really have no other options.
 
 980
 00:51:51,311 --> 00:51:53,548
-Tidak ada yang dibuat pada skala ini
-dapat mengikuti
+Nothing made at this scale
+can keep up with
 
 981
 00:51:53,581 --> 00:51:54,749
-kekuatan alam.
+the forces of nature.
 
 982
 00:51:57,852 --> 00:51:59,252
-Lalu bagaimana jika itu bukan buatan manusia?
+So, what if it's not man-made?
 
 983
 00:52:03,691 --> 00:52:05,760
-Jika kita tidak dapat mempengaruhi
-kecepatan pelat
+If we can't affect the
+speed of the plate
 
 984
 00:52:05,793 --> 00:52:07,862
-dengan melakukan sesuatu padanya,
+by doing something to it,
 
 985
 00:52:07,895 --> 00:52:09,797
-mungkin kita bisa memperlambatnya
-dengan memilikinya
+perhaps we can slow it down
+by having it
 
 986
 00:52:09,831 --> 00:52:11,799
-melakukan sesuatu pada dirinya sendiri.
+do something to itself.
 
 987
 00:52:11,833 --> 00:52:13,701
-saya tidak mengikuti.
+I don't follow.
 
 988
 00:52:13,735 --> 00:52:15,168
-Apa maksudmu?
+What do you mean?
 
 989
 00:52:15,202 --> 00:52:18,271
-Memikirkan tentang
-pesawat itu jatuh tadi.
+Think about
+the plane crash earlier.
 
 990
 00:52:18,305 --> 00:52:19,674
-Bagaimana cara mengurangi kecepatannya?
+How did it reduce its speed?
 
 991
 00:52:19,707 --> 00:52:20,808
-Mereka memiliki dorongan terbalik.
+They have thrust reverses.
 
 992
 00:52:20,842 --> 00:52:22,877
-Itu setelah mendarat.
+That's after it landed.
 
 993
 00:52:22,910 --> 00:52:27,214
-Oke, di udara yang menggunakan drag
-penutup, spoiler, rem kecepatan.
+Okay, in the air that used drag
+flaps, spoilers, speed brakes.
 
 994
 00:52:27,247 --> 00:52:29,216
-Oh, kalau begitu menurutku mereka
-bisa mencoba dan menurunkan berat badan.
+Oh, then I suppose they
+could try and drop the weight.
 
 995
 00:52:29,249 --> 00:52:31,251
-Mereka dapat mempengaruhi mereka,
+They could affect them on them,
 
 996
 00:52:31,284 --> 00:52:33,721
-Namun mereka hanya bisa menguranginya
-itu dalam batas gravitasi.
+But they could only reduce
+it within gravity's allowance.
 
 997
 00:52:33,755 --> 00:52:35,389
-Tapi itu masih berpengaruh.
+But it still has an effect.
 
 998
 00:52:35,422 --> 00:52:37,925
-Mereka membongkar segalanya
-mereka bisa.
+They offload everything
+they can.
 
 999
 00:52:37,959 --> 00:52:40,928
-Jadi, jika kita menerapkannya pada kita
-model dan berat bongkar,
+So, if we apply it to our
+model and offload weight,
 
 1000
 00:52:40,962 --> 00:52:42,429
-kita mungkin tidak bisa
-untuk menghentikan bencana tersebut,
+we might not be able
+to stop the disaster,
 
 1001
 00:52:42,462 --> 00:52:44,331
-tapi kita berpotensi
-memperkenalkan perlambatan.
+but we could potentially
+introduce a slowdown.
 
 1002
 00:52:44,364 --> 00:52:45,800
-Benar.
+Correct.
 
 1003
 00:52:45,833 --> 00:52:47,702
-Kita perlu menghilangkan beban tersebut
+We need to get rid of the weight
 
 1004
 00:52:47,735 --> 00:52:50,905
-itulah yang memberi Bumi
-hancurkan momentum ekstra ini.
+that's giving the Earth's
+crust this extra momentum.
 
 1005
 00:52:50,938 --> 00:52:55,275
-Meskipun sebenarnya tidak demikian
-penumpukan berat badan,
+Though it's not really
+a build-up of weight,
 
 1006
 00:52:55,308 --> 00:52:59,847
-itu lebih merupakan penumpukan
-tekanan di inti bumi.
+it is more of a build-up of
+pressure at the Earth's core.
 
 1007
 00:52:59,881 --> 00:53:02,249
-Iya benar sekali.
+Yes, exactly.
 
 1008
 00:53:02,282 --> 00:53:06,319
-Petrus, ingat
-reporter sebelumnya
+Peter, remember the
+reporter earlier
 
 1009
 00:53:06,353 --> 00:53:08,488
-siapa sangka ada
-ledakan di laut?
+who thought there was
+an explosion in the sea?
 
 1010
 00:53:08,523 --> 00:53:12,459
-Bagaimana jika kita bisa melakukannya
-gunakan rig minyak itu
+What if we could somehow
+use those oil rigs
 
 1011
 00:53:12,492 --> 00:53:15,863
-di lepas pantai Pasifik untuk melambat
-pergeseran benua ini
+off the Pacific to slow down
+this continental drift
 
 1012
 00:53:15,897 --> 00:53:19,332
-dengan menurunkan tekanan gas?
+by offloading gas pressure?
 
 1013
 00:53:19,366 --> 00:53:21,636
-Kita bisa membeli dunia
-dan kami suatu saat nanti.
+We can buy the world
+and us some time.
 
 1014
 00:53:21,669 --> 00:53:23,671
-Itu harus terjadi pada pukul
-beberapa lokasi,
+It would have to happen at
+multiple locations,
 
 1015
 00:53:23,705 --> 00:53:26,473
-untuk mempunyai efek apa pun pada
-pergerakan seluruh lempeng.
+to have any effect on the
+entire plate's movement.
 
 1016
 00:53:26,507 --> 00:53:31,278
-Ya, tapi ada banyak minyak
-rig di seluruh Pasifik.
+Yes, but there are multiple oil
+rigs all around the Pacific.
 
 1017
 00:53:31,311 --> 00:53:34,849
-Dan mereka sudah siap,
-dan dekat garis patahan.
+And they're already set up,
+and near the fault line.
 
 1018
 00:53:34,882 --> 00:53:38,653
-Kita bisa menggunakan minyaknya
-rig seperti gunung berapi.
+We could use the oil
+rigs like volcanoes.
 
 1019
 00:53:38,686 --> 00:53:42,355
-Ya, benar sekali, dan kami bisa
-sebenarnya mengendalikan itu.
+Yes, exactly, and we can
+actually control that.
 
 1020
 00:53:42,389 --> 00:53:44,491
-Bersamaan dengan itu
-jalur destruktifnya sendiri.
+Along with its
+own destructive path.
 
 1021
 00:53:44,525 --> 00:53:47,862
-Benar. Saya sedang memikirkan lebih lanjut
-gas-gas yang ada di inti bumi.
+Right. I am thinking more about
+the gases in the Earth's core.
 
 1022
 00:53:47,895 --> 00:53:49,797
--Seperti Helium-3.
--Ya.
+-Like Helium-3.
+-Yes.
 
 1023
 00:53:49,831 --> 00:53:53,500
-Itu akan naik dan menyebar ke dalam
-atmosfer, gas yang tidak berbahaya.
+It'll rise and disperse into
+the atmosphere, harmless gas.
 
 1024
 00:53:53,534 --> 00:53:55,469
-Kami melampiaskan tekanan dari
-pelat ke lubang sumur
+We vent pressure from
+the plate to the wellbores
 
 1025
 00:53:55,502 --> 00:53:56,571
-di anjungan minyak lempeng Pasifik.
+on the Pacific plate oil rigs.
 
 1026
 00:53:56,604 --> 00:53:58,472
@@ -4710,444 +4710,444 @@ Wow.
 
 1027
 00:53:58,506 --> 00:54:01,241
-Saya pikir saya adalah satu-satunya
-jenius di keluarga ini.
+I thought I was the only
+genius in this family.
 
 1028
 00:54:03,845 --> 00:54:07,949
-Helium-3 tertarik
-untuk panas di bawah kerak.
+Helium-3 is attracted
+to the heat under the crust.
 
 1029
 00:54:07,982 --> 00:54:10,350
-Jika kita mengubah tekanan
-dan mulai melampiaskannya,
+If we change the pressure
+and start venting,
 
 1030
 00:54:10,383 --> 00:54:14,488
-gas itu akan bergerak bersamanya
-kekuatan yang sangat besar.
+that gas is going to move with
+a giant amount of force.
 
 1031
 00:54:14,522 --> 00:54:17,390
-Benar.
-Kecepatan adalah teman kami saat ini.
+Right.
+Speed is our friend right now.
 
 1032
 00:54:17,424 --> 00:54:19,894
-Bukankah kita punya pompa
-pada platform tersebut?
+Don't we have pumps
+on those platforms?
 
 1033
 00:54:19,927 --> 00:54:23,030
-Saya yakin begitu, ya.
-Saya akan mulai meneliti.
+I believe so, yes.
+I'll start researching.
 
 1034
 00:54:23,064 --> 00:54:24,966
-Jadi kami menggunakan
-pompa di rig
+So we use the
+pumps on the rig
 
 1035
 00:54:24,999 --> 00:54:26,868
-yang mereka gunakan untuk minyak sebagai a
-cara memperlambat helium,
+that they use for oil as a
+way of slowing down the helium,
 
 1036
 00:54:26,901 --> 00:54:28,368
-mengendalikannya.
+controlling it.
 
 1037
 00:54:28,401 --> 00:54:29,971
-Dan jika itu tekanan
-menjadi terlalu tinggi
+And if that pressure
+gets too high
 
 1038
 00:54:30,004 --> 00:54:32,740
-atau ketika kita sudah cukup menurunkan muatan?
+or when we've offloaded enough?
 
 1039
 00:54:32,774 --> 00:54:34,642
-Menurutku, pompa-pompa ini tidak
-cukup kuat dengan sendirinya.
+I don't think these pumps are
+strong enough on their own.
 
 1040
 00:54:34,675 --> 00:54:36,778
-Kita perlu menemukan cara untuk memperlambatnya
-atau mendinginkannya dengan cara tertentu.
+We need to find a way of slowing
+it or cooling it down some way.
 
 1041
 00:54:42,683 --> 00:54:45,019
-Halo? Halo?
+Hello? Hello?
 
 1042
 00:54:49,557 --> 00:54:53,528
-Nona, tolong hentikan.
-Ini adalah area terlarang.
+Miss, please stop.
+This is a restricted area.
 
 1043
 00:54:53,561 --> 00:54:55,062
-Saya mencari ayah saya.
+I'm looking for my father.
 
 1044
 00:54:55,096 --> 00:54:56,764
-Dia seorang mayor Angkatan Darat AS.
+He's a U.S. Army major.
 Anderson?
 
 1045
 00:54:56,798 --> 00:54:58,566
-Kami belum melihatnya
-angkatan bersenjata apa pun.
+We haven't seen
+any armed services.
 
 1046
 00:54:58,599 --> 00:55:00,601
-Apakah Anda memerlukan bantuan?
+Do you need help?
 
 1047
 00:55:00,635 --> 00:55:02,837
-Di mana saya dapat menemukan kekuatan
-untuk mengisi daya ponselku?
+Where can I find power
+to charge my phone?
 
 1048
 00:55:02,870 --> 00:55:05,372
-Ada sekolah di sana.
+There's a school over there.
 
 1049
 00:55:05,405 --> 00:55:06,808
-Itu satu-satunya bangunan
-masih berdiri dengan kekuatan.
+It's the only building
+still standing with power.
 
 1050
 00:55:08,042 --> 00:55:09,777
-Tapi sebaiknya kamu menunggu di sini.
+But you should wait here.
 
 1051
 00:55:09,811 --> 00:55:12,312
-Tidak ada waktu.
-Saya harus pergi.
+There's no time.
+I've got to go.
 
 1052
 00:55:39,472 --> 00:55:40,741
-Halo?
+Hello?
 
 1053
 00:55:45,613 --> 00:55:46,747
-Halo?
+Hello?
 
 1054
 00:55:48,082 --> 00:55:50,685
-Apakah ada orang di sana?
-Halo?
+Is anybody in there?
+Hello?
 
 1055
 00:56:03,463 --> 00:56:04,832
-Peter, masuklah
-Biro Keamanan
+Peter, get into
+the Bureau of Safety
 
 1056
 00:56:04,866 --> 00:56:06,834
-dan Penegakan Lingkungan,
+and Environmental Enforcement,
 
 1057
 00:56:06,868 --> 00:56:09,637
-temukan semua
-anjungan minyak di Samudera Pasifik,
+locate all the
+Pacific Ocean oil rigs,
 
 1058
 00:56:09,670 --> 00:56:11,404
-dan menariknya
-daftar persediaan persediaan
+and pull up the
+inventory supplies list
 
 1059
 00:56:11,438 --> 00:56:13,406
-dari putaran terakhir
-inspeksi.
+from the last round
+of inspections.
 
 1060
 00:56:13,440 --> 00:56:16,677
-Saya memiliki inventarisnya di sini.
+I have their inventories here.
 
 1061
 00:56:16,711 --> 00:56:19,013
-Itu ada.
-Temukan Direktori Kimia,
+There it is.
+Find the Chemical Directory,
 
 1062
 00:56:19,046 --> 00:56:20,815
-dan memfilternya berdasarkan
-jumlah terbesar.
+and filter it by
+the largest quantities.
 
 1063
 00:56:20,848 --> 00:56:21,782
-Menyalin.
+Copy.
 
 1064
 00:56:23,651 --> 00:56:26,120
-Sebagian besar rig ini punya
-cadangan nitrogen cair yang besar.
+Most of these rigs have
+large liquid nitrogen reserves.
 
 1065
 00:56:26,153 --> 00:56:27,822
-Bayangkan itu untuk
-menangani keadaan darurat.
+Imagine that's to
+handle emergencies.
 
 1066
 00:56:27,855 --> 00:56:29,489
-Ya, itu sempurna.
+Yeah, that's perfect.
 
 1067
 00:56:29,523 --> 00:56:31,125
-Jika Anda memompa nitrogen
-menuruni lubang sumur,
+If you pump the nitrogen
+down the wellbore,
 
 1068
 00:56:31,158 --> 00:56:32,827
-itu akan mendinginkan helium
-pada kontak
+it will cool the helium
+on contact
 
 1069
 00:56:32,860 --> 00:56:34,829
-dan menghentikannya.
+and stop it in its tracks.
 
 1070
 00:56:34,862 --> 00:56:37,098
-Lalu kita bisa memompanya kembali
-tekanan teratur dan tutup.
+Then we can pump it back to
+regular pressure and seal it.
 
 1071
 00:56:37,131 --> 00:56:39,734
-Kalau begitu ayo kita cari rignya
-paling dekat dengan batas lempeng.
+Then let's find the rigs
+closest to the plate boundaries.
 
 1072
 00:56:39,767 --> 00:56:41,636
-Maksudku, di sanalah tempatnya
-pelepasan helium
+I mean, that's where
+the helium release
 
 1073
 00:56:41,669 --> 00:56:42,837
-akan memberikan dampak yang paling besar.
+will have the most effect.
 
 1074
 00:56:42,870 --> 00:56:43,871
-Ya, kami baru saja melakukannya
-untuk memperlambatnya
+Yeah, we just have
+to slow it down
 
 1075
 00:56:43,905 --> 00:56:45,640
-cukup untuk menghentikan momentumnya.
+enough to stop its momentum.
 
 1076
 00:56:45,673 --> 00:56:49,844
-Tidak terlalu banyak atau akan
-dalam masalah.
+Not too much or will
+be in trouble.
 
 1077
 00:56:49,877 --> 00:56:52,546
-Ini berisiko, tapi itu
-mungkin berhasil.
+It's risky, but it
+just might work.
 
 1078
 00:56:52,580 --> 00:56:54,048
-Jika kita bisa mengulur waktu,
-itu sangat berharga.
+If we can gain some time,
+it's worth it.
 
 1079
 00:56:54,081 --> 00:56:56,884
-Benar, Anda perlu berkoordinasi
-dengan beberapa rig.
+Right, you need to coordinate
+with multiple rigs.
 
 1080
 00:56:56,918 --> 00:56:58,719
-Mereka semua perlu melakukannya
-melampiaskan secara bersamaan
+They all need to
+vent simultaneously
 
 1081
 00:56:58,753 --> 00:57:00,721
-jika kita ingin dampak yang maksimal.
+if we want maximum impact.
 
 1082
 00:57:00,755 --> 00:57:04,058
-Hal yang sama berlaku ketika kita mulai
-memperlambat gas.
+Same goes for when we start
+slowing down the gas.
 
 1083
 00:57:04,091 --> 00:57:05,660
-Itu harus seragam.
+It has to be uniform.
 
 1084
 00:57:05,693 --> 00:57:07,862
-Kita bisa menggunakan
-jaringan satelit pemerintah
+We can use the
+government satellites network
 
 1085
 00:57:07,895 --> 00:57:09,864
-untuk mengkoordinasikan waktunya,
+to coordinate the timing,
 
 1086
 00:57:09,897 --> 00:57:13,500
-Maksudku, selama rig ini
-masih punya koneksi...
+I mean, as long as these rigs
+still have connections...
 
 1087
 00:57:16,037 --> 00:57:18,606
-dan sebanyak itu
-karena aku benci mengatakannya,
+and as much
+as I hate to say it,
 
 1088
 00:57:18,639 --> 00:57:22,743
-kita akan membutuhkannya
-persetujuan dan kerjasama.
+we're gonna need
+approval and cooperation.
 
 1089
 00:57:22,777 --> 00:57:25,546
-Peter, pasang satelit
-telepon ke Jenderal West.
+Peter, patch a satellite
+phone to General West.
 
 1090
 00:57:30,785 --> 00:57:32,553
-Ini Jenderal West.
+This is General West.
 
 1091
 00:57:32,586 --> 00:57:35,556
-Jenderal Barat,
-ini Dr.
+General West,
+this is Dr. Milly Anderson.
 
 1092
 00:57:35,589 --> 00:57:37,825
-Aku masih memiliki saudara laki-lakiku bersamaku.
+I have my brother still with me.
 
 1093
 00:57:37,858 --> 00:57:39,727
-Kami membutuhkan bantuan Anda lagi.
+We need your help again.
 
 1094
 00:57:39,760 --> 00:57:42,096
-Satu-satunya pilihan yang tersisa
-untuk menghentikan pergerakan lempeng
+The only option we have left
+to stop plate movement
 
 1095
 00:57:42,129 --> 00:57:45,700
-adalah melepaskan tekanan
-dan kami telah menghitung caranya.
+is to release pressure
+and we've calculated a way.
 
 1096
 00:57:45,733 --> 00:57:48,569
-Kita bisa melampiaskannya
-tekanan pelat yang terbentuk
+We can vent
+the built up plate pressure
 
 1097
 00:57:48,602 --> 00:57:51,238
-dari batas-batas yang berbeda
-menggunakan rig minyak Pasifik
+from the divergent boundaries
+using the Pacific oil rigs
 
 1098
 00:57:51,272 --> 00:57:53,574
-dan cairannya
-nitrogen di kapal.
+and the liquid
+nitrogen on board.
 
 1099
 00:57:53,607 --> 00:57:56,777
-Kedengarannya seperti ada yang masuk
-sejuta peluang, dokter.
+It sounds like a one in
+a million chance, doctor.
 
 1100
 00:57:56,811 --> 00:57:59,747
-Setidaknya itu bisa memperlambat
-menurunkan pergerakan lempeng
+Well, at very least it can slow
+down the plate's movement
 
 1101
 00:57:59,780 --> 00:58:02,016
-dan mencegah lebih lanjut
-gempa dahsyat,
+and prevent more
+catastrophic quakes,
 
 1102
 00:58:02,049 --> 00:58:04,952
-setidaknya untuk beberapa hari lagi.
+for at least a few more days.
 
 1103
 00:58:04,986 --> 00:58:06,554
-Itu satu-satunya pilihan
-kami telah pergi.
+It's the only option
+we have left.
 
 1104
 00:58:06,587 --> 00:58:08,622
-Kami ingin Anda keluar
-pada akses kami
+We need you to sign off
+on our access
 
 1105
 00:58:08,656 --> 00:58:10,124
-ke jaringan satelit
-dan amanat
+to the satellite network
+and mandate
 
 1106
 00:58:10,157 --> 00:58:12,727
-untuk kontrol utama
-dari rig.
+for a master control
+of the rigs.
 
 1107
 00:58:12,760 --> 00:58:14,729
-Kita perlu mengatur ulang jadwal
-untuk pengatur waktu pompa
+We need to reset the schedules
+for the pump timers
 
 1108
 00:58:14,762 --> 00:58:17,765
-dan kemudian untuk
-pelepasan nitrogen.
+and then for
+the nitrogen release.
 
 1109
 00:58:17,798 --> 00:58:19,934
-Oke, dokter.
-Aku akan memberimu izin,
+Okay, doctor.
+I'll get you your clearances,
 
 1110
 00:58:19,967 --> 00:58:23,137
-tapi rignya harus begitu
-di perairan negara bagian, bukan federal.
+but the rigs have to be
+in state water, not federal.
 
 1111
 00:58:23,170 --> 00:58:25,773
-Saya tidak bisa mendapatkan izin
-untuk air federal.
+I can't get clearance
+for federal water.
 
 1112
 00:58:25,806 --> 00:58:27,708
-Petrus.
+Peter.
 
 1113
 00:58:27,742 --> 00:58:29,210
-Uh... Ya, Pak.
+Uh... Yes, sir.
 
 1114
 00:58:29,243 --> 00:58:31,579
-Aku akan membelikanmu sebuah
-izin keamanan darurat
+I'll get you an
+emergency security clearance
 
 1115
 00:58:31,612 --> 00:58:33,547
-dan aku akan menjodohkanmu
-profil teknik
+and I'll set you up with
+the engineering profile
 
 1116
 00:58:33,581 --> 00:58:35,116
-dan basis data.
+and data base.
 
 1117
 00:58:35,149 --> 00:58:36,550
-Kemudian Anda bisa masuk dan 
-melakukan apa yang perlu Anda lakukan.
+<i>Then you can get in and</i>
+<i>do what you need to.</i>
 
 1118
 00:58:36,584 --> 00:58:37,585
-Dimengerti.
+Copy that.
 
 1119
 00:58:37,618 --> 00:58:38,786
-Terima kasih, Jenderal.
+Thank you, General.
 
 1120
 00:58:38,819 --> 00:58:39,820
-Terima kasih Pak.
+Thank you, sir.
 
 1121
 00:58:56,303 --> 00:58:58,172
@@ -5159,294 +5159,294 @@ Sophie!
 
 1123
 00:59:15,122 --> 00:59:16,057
-Ayah!
+Dad!
 
 1124
 00:59:26,901 --> 00:59:28,602
-Baiklah, saya sudah berhasil
-untuk mengatur ulang sistem pompa
+All right, I've managed
+to reset the pump systems
 
 1125
 00:59:28,636 --> 00:59:30,838
-dan sinkronisasi
-siklus lubang sumur
+and synchronize
+the wellbore cycles
 
 1126
 00:59:30,871 --> 00:59:34,642
-pada tiga rig
-di lepas pantai Washington.
+on three rigs
+off the Washington coast.
 
 1127
 00:59:34,675 --> 00:59:36,944
-Berapa lama sampai kita bisa
-mulai mengekstraksi helium-3?
+How long until we can
+start extracting the helium-3?
 
 1128
 00:59:36,977 --> 00:59:38,646
-Saya mencoba untuk menimpa
+I'm trying to override
 
 1129
 00:59:38,679 --> 00:59:39,680
-nitrogen cair
-protokol keselamatan,
+the liquid nitrogen
+safety protocols,
 
 1130
 00:59:39,713 --> 00:59:41,749
-tapi aku benar-benar terkunci.
+but I'm totally locked out.
 
 1131
 00:59:41,782 --> 00:59:43,317
-Bagaimana?
+How so?
 
 1132
 00:59:43,350 --> 00:59:44,618
-Memompa nitrogen cair
-ke dalam lubang sumur,
+Pumping liquid nitrogen
+into the wellbore,
 
 1133
 00:59:44,652 --> 00:59:46,187
-biasanya merupakan pilihan terakhir.
+is usually a last resort.
 
 1134
 00:59:46,220 --> 00:59:48,022
-Ini adalah langkah keamanan untuk rig
+It's a safety measure for rigs
 
 1135
 00:59:48,055 --> 00:59:49,957
-akan meledak atau
-pipa minyak tertekuk.
+about to explode or
+the oil pipeline is buckling.
 
 1136
 00:59:49,990 --> 00:59:51,725
-Itu berhenti
-tumpahan yang membawa bencana.
+It stops
+a catastrophic spill.
 
 1137
 00:59:51,759 --> 00:59:54,295
-Ini melindungi laut
-ekosistem di sekitar rig.
+It protects the ocean
+ecosystem around the rig.
 
 1138
 00:59:54,328 --> 00:59:54,962
-Itu bukan sesuatu
-itu terkendali
+It's not something
+that's controlled
 
 1139
 00:59:54,995 --> 00:59:56,897
-oleh anjungan minyak itu sendiri,
+by the oil rigs themselves,
 
 1140
 00:59:56,931 --> 00:59:59,233
-tapi waktu protokol ini
-akan pernah datang dalam sebuah drama
+but the time this protocol
+will ever come in a play
 
 1141
 00:59:59,266 --> 01:00:03,037
-sistem komputer internal mereka
-sepenuhnya dimatikan.
+their internal computer system
+are completely shut down.
 
 1142
 01:00:03,070 --> 01:00:05,840
-Perintah ini harus dikirim
-dari sinyal independen
+This command has to be sent
+from an independent signal
 
 1143
 01:00:05,873 --> 01:00:07,975
-di luar
-komputer pusat anjungan minyak.
+outside the
+oil rig central computer.
 
 1144
 01:00:08,008 --> 01:00:10,678
-Seperti pusat data pemerintah.
+Like a government data center.
 
 1145
 01:00:10,711 --> 01:00:13,147
-Biasanya dari pusat kendali
-terletak di sepanjang pantai,
+Usually, from a control center
+positioned along the coast,
 
 1146
 01:00:13,180 --> 01:00:15,149
-jadi mereka punya kejelasan
-jalur komunikasi
+so they have a clear
+communication path
 
 1147
 01:00:15,182 --> 01:00:17,051
-dan dapat mengirimkan frekuensi yang bersih.
+and can send a clean frequency.
 
 1148
 01:00:17,084 --> 01:00:18,919
-Itu harus mampu
-untuk mengirim sinyal
+It needs to be able
+to send a signal
 
 1149
 01:00:18,953 --> 01:00:21,956
-ke segala arah
-Pasifik secara real-time.
+in all directions across
+the Pacific in real time.
 
 1150
 01:00:21,989 --> 01:00:24,058
-Kamu benar. Begitulah caranya
-kita harus melakukannya
+You're right. That's how
+we're going to have to do it
 
 1151
 01:00:24,091 --> 01:00:27,194
-jika kita ingin keempat rig tersebut
-bertindak bersama-sama dan identik.
+if we want all four rigs to
+act together and identically.
 
 1152
 01:00:27,228 --> 01:00:31,165
-Mulai terdengar seperti
-itu tidak akan terjadi.
+Starting to sound like
+it's not going to happen.
 
 1153
 01:00:31,198 --> 01:00:32,900
-aku sudah mengirim
-frekuensi pengujian
+I've been sending
+a test frequency
 
 1154
 01:00:32,933 --> 01:00:35,269
-ke mercusuar garis pantai
-untuk platform Ellen.
+to the coastline beacon
+for platform Ellen.
 
 1155
 01:00:35,302 --> 01:00:36,370
-Itu tidak merespons.
+It's not responding.
 
 1156
 01:00:36,403 --> 01:00:38,205
-Apakah ada suar lain?
+Is there another beacon?
 
 1157
 01:00:38,239 --> 01:00:42,710
-Ada satu lagi
-lebih jauh lagi ke pesisir pantai.
+There is another one
+further the down the coast.
 
 1158
 01:00:42,743 --> 01:00:43,944
-Seperti yang saya katakan, ini
-bukan protokol umum
+Like I said, this
+is not common protocol
 
 1159
 01:00:43,978 --> 01:00:45,446
-dan perangkat lunak ini
-pada rig ini
+and this software
+on these rigs
 
 1160
 01:00:45,479 --> 01:00:47,715
-tidak direkayasa
-dengan mempertimbangkan gempa bumi.
+was not engineered
+with earthquakes in mind.
 
 1161
 01:00:47,748 --> 01:00:49,416
-Ada telepon satelit di sini.
+There's a satellite phone here.
 
 1162
 01:00:49,450 --> 01:00:54,388
-Kami bisa mengirim
-frekuensi dengan itu.
+We could send
+a frequency with that.
 
 1163
 01:00:54,421 --> 01:00:56,090
-Terima kasih.
+Thank you.
 
 1164
 01:00:56,123 --> 01:00:57,892
-Ya, tapi kita terlalu rendah
+Yes, but we're too low
 
 1165
 01:00:57,925 --> 01:00:59,960
-dan kita harus keluar
-air untuk jalur sinyal.
+and we need to be out on
+the water for a signal path.
 
 1166
 01:00:59,994 --> 01:01:03,297
-Maksudku, ini berisiko, tapi mungkin saja kita melakukannya
-tidak punya pilihan lain lagi.
+I mean, it's risky, but we might
+not have any other options left.
 
 1167
 01:01:03,330 --> 01:01:06,033
-Aku tidak percaya aku tidak melakukannya
-pikirkan ini sebelumnya.
+I can't believe I didn't
+think of this earlier.
 
 1168
 01:01:06,066 --> 01:01:09,303
-Peter, bisakah kamu menarik semuanya
-pelacak personel
+Peter, can you pull up all
+the personnel tracker
 
 1169
 01:01:09,336 --> 01:01:12,773
-untuk kendaraan militer aktif
-dalam radius 50 mil?
+for active military vehicles
+in a 50 mile radius?
 
 1170
 01:01:12,806 --> 01:01:14,208
-Ini belum semuanya,
-hanya kendaraan
+This isn't all of them,
+just vehicles
 
 1171
 01:01:14,241 --> 01:01:17,811
-yang memiliki satelit
-telepon di pesawat.
+that have a satellite
+phone on board.
 
 1172
 01:01:17,845 --> 01:01:19,446
-Baiklah, itu sempurna.
+All right, it's perfect.
 
 1173
 01:01:19,480 --> 01:01:22,249
-Oke, perbesar di dekat mana
-Pesawat Sophie jatuh.
+Okay, zoom in near where
+Sophie's plane went down.
 
 1174
 01:01:22,283 --> 01:01:24,418
-Tidak ada apa pun di luar sana.
-Anda hanya membuang-buang waktu Anda.
+There's nothing out there.
+You're just wasting your time.
 
 1175
 01:01:24,451 --> 01:01:25,920
-Periksa lebih dekat ke laut itu.
+Check closer to that ocean.
 
 1176
 01:01:25,953 --> 01:01:27,354
-Oke.
+Okay.
 
 1177
 01:01:27,388 --> 01:01:29,957
-Aku tahu itu, panggil kendaraan itu.
+I knew it, call that vehicle.
 
 1178
 01:01:29,990 --> 01:01:31,125
-Hubungi telepon satelit.
+Call the satellite phone.
 
 1179
 01:01:33,160 --> 01:01:35,396
-Ya Tuhan, ini berdering.
+Oh my God, it's ringing.
 
 1180
 01:01:35,429 --> 01:01:36,764
-Tidak pernah terpikir aku akan begitu bahagia
-untuk mendengar suara ini.
+Never thought I'd be so happy
+to hear this sound.
 
 1181
 01:01:38,299 --> 01:01:39,733
-Ayolah, Josh.
-Ayo. Menjemput.
+Come on, Josh.
+Come on. Pick up.
 
 1182
 01:01:50,811 --> 01:01:52,012
-Halo?
+Hello?
 
 1183
 01:01:52,046 --> 01:01:53,080
-Sophie?
+<i>Sophie?</i>
 
 1184
 01:01:53,113 --> 01:01:54,415
-Mama?
+Mom?
 
 1185
 01:01:54,448 --> 01:01:56,951
-Saya sangat senang Anda menjawab.
+<i>I'm so glad you answered.</i>
 
 1186
 01:01:56,984 --> 01:01:59,153
@@ -5454,1758 +5454,1758 @@ Milly.
 
 1187
 01:01:59,186 --> 01:02:01,021
-Bagaimana kau--
+How did you--
 
 1188
 01:02:01,055 --> 01:02:03,023
-Aku mencintaimu.
+I love you.
 
 1189
 01:02:03,057 --> 01:02:05,259
-Sophie bersamaku.
-Dia baik-baik saja.
+Sophie's with me.
+She's perfectly fine.
 
 1190
 01:02:05,292 --> 01:02:06,827
-Bu, kamu masih hidup!
+Mom, you're alive!
 
 1191
 01:02:06,860 --> 01:02:09,263
-Itu sangat,
-kabar baik sekali.
+That's really,
+really good news.
 
 1192
 01:02:09,296 --> 01:02:10,864
-Aku sangat senang mendengar suaramu.
+I'm so happy to hear your voice.
 
 1193
 01:02:10,898 --> 01:02:12,866
-Kamu ada di mana?
-Kami akan mendatangimu.
+Where are you?
+We're gonna come to you.
 
 1194
 01:02:12,900 --> 01:02:14,368
-Apakah kamu berada di tempat yang aman?
+Are you somewhere safe?
 
 1195
 01:02:14,401 --> 01:02:15,869
-Gempa bumi ini
-tidak berhenti.
+These earthquakes
+aren't letting up.
 
 1196
 01:02:15,903 --> 01:02:17,838
-Aku tahu.
+I know.
 
 1197
 01:02:17,871 --> 01:02:19,507
-Kami berada di markas NSA dengan aman.
+We're at the NSA base safe.
 
 1198
 01:02:19,541 --> 01:02:22,276
-Bahkan saudaraku.
+Even my brother.
 
 1199
 01:02:22,309 --> 01:02:24,411
-Dresden bersamamu? Mengapa?
+Dresden's with you? Why?
 
 1200
 01:02:24,445 --> 01:02:27,114
-Ya, ceritanya panjang.
+Yeah, it's a long story.
 
 1201
 01:02:27,147 --> 01:02:30,117
-Namun untuk saat ini, kami membutuhkan bantuan Anda.
+But for now, we need your help.
 
 1202
 01:02:30,150 --> 01:02:32,286
-Kami mulai memperlambat 
-pergerakan lempeng tektonik
+<i>We started to slow down</i>
+<i>the tectonic plate movement</i>
 
 1203
 01:02:32,319 --> 01:02:35,122
-itu yang menyebabkan semua ini, 
-tapi mengalami cegukan.
+<i>that's causing all this,</i>
+<i>but ran into a hiccup.</i>
 
 1204
 01:02:35,155 --> 01:02:36,824
-Kami membutuhkan Anda untuk mengirim
-sinyal melalui
+We need you to send
+a signal through
 
 1205
 01:02:36,857 --> 01:02:39,260
-ke telepon satelit
-pada kendaraan Anda.
+to the satellite phone
+on your vehicle.
 
 1206
 01:02:39,293 --> 01:02:40,261
-Tunggu apa?
+Wait, what?
 
 1207
 01:02:42,029 --> 01:02:44,064
-Kami memiliki frekuensi tertentu.
+We have a specific frequency.
 
 1208
 01:02:44,098 --> 01:02:45,499
-Saya dapat menyalurkannya 
-melalui perangkat Anda
+<i>I can channel</i>
+<i>it through your device</i>
 
 1209
 01:02:45,533 --> 01:02:47,334
-selama Anda tetap 
-membuka jalur ini.
+<i>as long as you keep</i>
+<i>this line open.</i>
 
 1210
 01:02:47,368 --> 01:02:49,837
-Ini untuk disinkronkan
-pembuangan nitrogen cair
+It's for a synchronized
+liquid nitrogen dump
 
 1211
 01:02:49,870 --> 01:02:52,306
-di tiga Pasifik
-rig minyak garis laut.
+on three Pacific
+ocean line oil rigs.
 
 1212
 01:02:52,339 --> 01:02:53,807
-Sinyalnya perlu ditetapkan
+The signal needs to be set out
 
 1213
 01:02:53,841 --> 01:02:55,909
-di tepi lautan
-dari ketinggian.
+by the ocean
+from a high elevation.
 
 1214
 01:02:55,943 --> 01:02:57,211
-Bisakah Anda melakukan itu?
+<i>Can you do that?</i>
 
 1215
 01:02:57,244 --> 01:02:59,213
-Ya, sebenarnya
-tahu tempat yang tepat,
+Yeah, I actually
+know the perfect spot,
 
 1216
 01:02:59,246 --> 01:03:00,914
-tapi itu akan memakan waktu sekitar
-30 menit untuk sampai ke sana,
+but it's gonna take about
+30 minutes to get there,
 
 1217
 01:03:00,948 --> 01:03:02,016
-apakah itu cukup waktu?
+<i>is that enough time?</i>
 
 1218
 01:03:02,049 --> 01:03:04,251
-Tidak, kita tidak punya pilihan.
+No, we don't have a choice.
 
 1219
 01:03:04,285 --> 01:03:05,520
-Saya pikir...
+I thought...
 
 1220
 01:03:07,855 --> 01:03:09,524
-Langsung saja ke tempatnya.
+Just get to the spot.
 
 1221
 01:03:09,557 --> 01:03:11,091
-Aku mencintaimu berdua.
+I love you both.
 
 1222
 01:03:11,125 --> 01:03:13,060
--Aku pun mencintaimu.
--Aku mencintaimu, Milly.
+-I love you, too.
+-I love you, Milly.
 
 1223
 01:03:13,093 --> 01:03:15,896
-Hubungi saya di nomor ini 
-ketika Anda sampai di tempat itu.
+<i>Call me on this number</i>
+<i>when you get to that spot.</i>
 
 1224
 01:03:15,929 --> 01:03:17,532
-T dikurangi 30 menit, dan
-Aku mengirimimu sinyal.
+T minus 30 minutes, and
+I'm sending you the signal.
 
 1225
 01:03:21,536 --> 01:03:22,803
-Baiklah, ayo berangkat.
+All right, let's get going.
 
 1226
 01:03:25,472 --> 01:03:28,242
-Mari hubungi rig dan
-pastikan mereka lepas tangan
+Let's contact the rigs and
+make sure they're hands off
 
 1227
 01:03:28,275 --> 01:03:30,978
-jadi kita bisa menimpanya
-sistem dan mulai melakukan ventilasi
+so we can override their
+systems and start venting
 
 1228
 01:03:31,011 --> 01:03:33,515
-dan menghubungi mandor
-di anjungan minyak Ellen.
+and contact the foreman
+at oil platform Ellen.
 
 1229
 01:03:33,548 --> 01:03:35,416
-Siapkan mereka
-untuk kedatangan kami.
+Have them prepped
+for our arrival.
 
 1230
 01:03:35,449 --> 01:03:37,184
-Oke.
-Apa?
+Okay.
+What?
 
 1231
 01:03:37,217 --> 01:03:39,053
-Saya melihat helikopter
-dalam perjalanan masuk.
+I saw a helicopter
+on the way in.
 
 1232
 01:03:39,086 --> 01:03:41,155
-Kita bisa menggunakannya.
-Aku akan mencari pilotnya.
+We can use it.
+I'm gonna go find the pilot.
 
 1233
 01:03:45,092 --> 01:03:46,827
-Apa, kalian sudah melakukannya
-belum pernah naik helikopter?
+What, have you guys
+never been on a chopper?
 
 1234
 01:03:49,296 --> 01:03:50,964
-Tunggu, tunggu, tunggu.
+Wait, wait, wait.
 
 1235
 01:03:50,998 --> 01:03:52,199
-Seseorang harus tinggal
-untuk membuang nitrogen.
+Someone needs to stay
+to dump the nitrogen.
 
 1236
 01:03:52,232 --> 01:03:54,501
-Sinyalnya harus seperti itu
-dikirim dari daratan.
+The signal has to be
+sent from mainland.
 
 1237
 01:03:54,536 --> 01:03:56,904
-Saya akan tinggal.
+I'll stay.
 
 1238
 01:03:56,937 --> 01:03:59,873
-Menjadi terlalu tua untuk melanjutkan
-dan tetap turun dari helikopter.
+Getting too old to get on
+and off a helicopter anyway.
 
 1239
 01:03:59,907 --> 01:04:01,576
-Apa kamu yakin?
+Are you sure?
 
 1240
 01:04:01,609 --> 01:04:05,412
-Aku akan tinggal dan kamu tidak
-mampu meyakinkannya.
+I'm staying and you won't
+be able to convince him.
 
 1241
 01:04:05,446 --> 01:04:08,048
-Kerja bagus.
+Good job.
 
 1242
 01:04:09,551 --> 01:04:12,052
-Ya Tuhan, kamu keras kepala.
+God, you're stubborn.
 
 1243
 01:04:17,324 --> 01:04:21,995
-Yah, aku senang aku bisa melakukannya
-sampai jumpa setidaknya sekali lagi.
+Well, I'm glad I was able to
+see you at least one more time.
 
 1244
 01:04:22,029 --> 01:04:26,668
-Hei, aku akan melihatnya
-kamu ketika kamu kembali.
+Hey, I am gonna see
+you when you get back.
 
 1245
 01:04:26,701 --> 01:04:28,869
-Oke?
-Jaga dirimu.
+Okay?
+Take care of yourself.
 
 1246
 01:04:30,471 --> 01:04:31,405
-Jaga keselamatan.
+Stay safe.
 
 1247
 01:04:45,185 --> 01:04:46,654
-Bukan ini yang sebenarnya
-aku sedang membayangkan,
+This isn't exactly what
+I was imagining,
 
 1248
 01:04:46,688 --> 01:04:49,123
-tapi setidaknya bisa kukatakan
-Saya menyelamatkan dunia
+but at least I can say
+I saved the world
 
 1249
 01:04:49,156 --> 01:04:50,658
-ketika orang bertanya
-apa yang kulakukan saat istirahat.
+when people asked
+what I did over break.
 
 1250
 01:04:50,692 --> 01:04:52,627
-Belum, kamu tidak bisa.
+Not yet, you can't.
 
 1251
 01:04:54,395 --> 01:04:56,363
-Baiklah, baiklah.
+All right, fine.
 
 1252
 01:04:56,397 --> 01:04:59,333
-Mungkin sekarang adalah saat yang tepat untuk melakukannya
-menanyakan semua pertanyaan canggung itu.
+Maybe now is the right time to
+ask all those awkward questions.
 
 1253
 01:04:59,366 --> 01:05:02,035
-Anda tahu, jika ini benar-benar
-bisa menjadi akhir.
+You know, if this really
+could be the end.
 
 1254
 01:05:02,069 --> 01:05:03,937
-Bukan akhir,
-kita akan baik-baik saja.
+Not the end,
+we're gonna be fine.
 
 1255
 01:05:12,045 --> 01:05:13,615
-Kami masih berdiri,
+We're still standing,
 
 1256
 01:05:13,648 --> 01:05:16,016
-tapi kami sudah mengalaminya
-gempa ini sepanjang hari.
+but we've been having
+these quakes all day.
 
 1257
 01:05:16,049 --> 01:05:18,553
-Tidak ada kerusakan struktural,
-Terima kasih Tuhan.
+No structural damage,
+thank God.
 
 1258
 01:05:18,586 --> 01:05:21,623
-Hanya kamu yang ada di sini?
+It's only you here?
 
 1259
 01:05:21,656 --> 01:05:23,991
-Ada beberapa
-yang lain di sini juga.
+There are a few
+others here, too.
 
 1260
 01:05:24,024 --> 01:05:27,494
-Semua orang bukan personel penting
-diperintahkan untuk mengungsi.
+Everyone not essential personnel
+was ordered to evacuate.
 
 1261
 01:05:27,529 --> 01:05:29,396
-saya terima
-pemberitahuan protokol
+I received
+the protocol notifications
 
 1262
 01:05:29,430 --> 01:05:30,964
-dan saya mematikan sistem kami.
+and I shut our systems down.
 
 1263
 01:05:30,998 --> 01:05:32,166
-Besar.
+Great.
 
 1264
 01:05:32,199 --> 01:05:34,001
-Ini diatur untuk penggantian manual
+It's set for manual override
 
 1265
 01:05:34,034 --> 01:05:36,571
-jadi kamu harusnya bisa
-untuk masuk dan mengambil kendali.
+so you should be able
+to go in and take control.
 
 1266
 01:05:36,604 --> 01:05:38,038
-Dresden, apakah kamu menyalinnya?
+Dresden, do you copy?
 
 1267
 01:05:38,071 --> 01:05:40,508
-Ini Petrus,
-Kami berada di Platform Ellen.
+This is Peter,
+We're at Platform Ellen.
 
 1268
 01:05:40,542 --> 01:05:42,142
-Apakah kamu membaca?
+Do you read?
 
 1269
 01:05:42,176 --> 01:05:44,044
-Keras dan jelas, Nak.
+<i>Loud and clear, kid.</i>
 
 1270
 01:05:44,077 --> 01:05:46,013
-Oke bagus.
+<i>Okay, good.</i>
 
 1271
 01:05:46,046 --> 01:05:47,981
-Bagus, kami siap
-untuk memulai, Milly.
+Great, we are ready
+to start, Milly.
 
 1272
 01:05:48,015 --> 01:05:49,183
-menurut mu
-Josh ada di posisinya?
+Do you think
+Josh is in position?
 
 1273
 01:05:49,216 --> 01:05:50,184
-Dia akan.
+He will be.
 
 1274
 01:05:50,217 --> 01:05:51,185
-Terima kasih, Rick.
+Thank you, Rick.
 
 1275
 01:05:51,218 --> 01:05:53,253
-Ini bagus.
+This is great.
 
 1276
 01:05:53,287 --> 01:05:54,589
-Kami sudah berjalan yang lain
-rig melalui prosedur
+We've already walked the other
+rigs through the procedure
 
 1277
 01:05:54,622 --> 01:05:57,257
-dan kami memiliki kendali
-dari rig minyak.
+and we have control
+of the oil rigs.
 
 1278
 01:05:57,291 --> 01:05:59,493
-Saya belum pernah melihat pemerintahan
-intervensi seperti ini.
+I've never seen government
+intervention like this.
 
 1279
 01:05:59,527 --> 01:06:02,996
-Apa yang sedang kita bicarakan?
-Seattle akan diratakan?
+What are we talking?
+Seattle gonna be flattened?
 
 1280
 01:06:03,030 --> 01:06:06,500
-Kalikan dengan 100.
+Multiply that by 100.
 
 1281
 01:06:06,534 --> 01:06:09,236
-Oke. Jadi begitu.
+Okay. I see.
 
 1282
 01:06:09,269 --> 01:06:11,606
-Jadi berapa lama waktu yang kita punya?
+So how long do we have?
 
 1283
 01:06:11,639 --> 01:06:14,208
-Kita perlu melakukan ini sekarang.
-Apakah kamu siap?
+We need to do this now.
+Are you ready?
 
 1284
 01:06:14,241 --> 01:06:17,411
-Kedengarannya tidak seperti itu
-Saya punya banyak pilihan.
+It doesn't sound like
+I have much of a choice.
 
 1285
 01:06:17,444 --> 01:06:18,178
-Saya mengambil kendali sekarang.
+I'm taking control now.
 
 1286
 01:06:31,091 --> 01:06:33,427
-Saya sudah memulai
-ventilasi lubang sumur.
+I've initiated
+venting the wellbore.
 
 1287
 01:06:33,460 --> 01:06:35,462
-Terlihat bagus sejauh ini.
+Looks good so far.
 
 1288
 01:06:35,496 --> 01:06:36,997
-Ini akan menjadi ventilasi
-untuk sementara.
+It's gonna be venting
+for a while.
 
 1289
 01:06:40,133 --> 01:06:41,769
-Oke, kelihatannya bagus.
+Okay, it's looking good.
 
 1290
 01:06:41,803 --> 01:06:43,538
-Piring
-mulai melambat.
+The plates
+are starting to slow.
 
 1291
 01:06:43,571 --> 01:06:45,239
-Bagus, simpan saja
-itu stabil, Peter.
+Great, just keep
+it steady, Peter.
 
 1292
 01:06:45,272 --> 01:06:46,240
-Menyalin.
+Copy.
 
 1293
 01:06:46,273 --> 01:06:47,007
-Dimana Josh dan Sophie?
+Where's Josh and Sophie?
 
 1294
 01:06:52,279 --> 01:06:54,248
-Bicaralah padaku, Petrus.
-Bagaimana penampilan kita?
+Talk to me, Peter.
+How are we looking?
 
 1295
 01:06:54,281 --> 01:06:55,783
-Stabil, pelat...
-lempengnya melambat.
+Stable, the plates...
+the plates are slowing.
 
 1296
 01:06:55,817 --> 01:06:59,253
-Bekerja.
-Ini benar-benar berhasil.
+It's working.
+It's actually working.
 
 1297
 01:06:59,286 --> 01:07:00,254
-Jangan terlalu 
-terburu-buru.
+<i>Let's not get</i>
+<i>ahead of ourselves.</i>
 
 1298
 01:07:00,287 --> 01:07:02,590
-Kita belum keluar dari 
-hutan.
+<i>We're not out of</i>
+<i>the woods yet.</i>
 
 1299
 01:07:02,624 --> 01:07:03,725
-Dia benar.
+He's right.
 
 1300
 01:07:14,334 --> 01:07:16,236
-Itu hanya masalah
-waktu sebelum ke sana
+It was just a matter
+of time before there
 
 1301
 01:07:16,270 --> 01:07:17,805
-lebih banyak aktivitas seismik.
+was more seismic activity.
 
 1302
 01:07:17,839 --> 01:07:19,339
-Kita pasti merasa terganggu
-sesuatu dengan pompa.
+We must have disturbed
+something with the pumps.
 
 1303
 01:07:19,373 --> 01:07:21,275
-Mungkin kita pindah
-helium terlalu cepat?
+Maybe we moved
+the helium too quickly?
 
 1304
 01:07:21,308 --> 01:07:23,578
-Tidak, saya 
-sendiri yang menghitungnya.
+<i>No, I ran</i>
+<i>the calculations myself.</i>
 
 1305
 01:07:31,853 --> 01:07:34,622
-Benar, Peter, nyalakan pompanya,
-coba dan perlambat.
+Right, Peter, turn on the pumps,
+try and slow it down.
 
 1306
 01:07:34,656 --> 01:07:35,690
-Oke, lanjut ke 50.
+Okay, going to 50.
 
 1307
 01:07:38,826 --> 01:07:40,360
-Ini tidak bagus.
+This is not good.
 
 1308
 01:07:40,394 --> 01:07:42,195
-Aktivitas seismik
-belum turun.
+The seismic activity
+hasn't dropped.
 
 1309
 01:07:42,229 --> 01:07:43,463
-Biasanya setelah
-gempa melanda,
+Usually after an
+earthquake hits,
 
 1310
 01:07:43,497 --> 01:07:45,232
-kita mendapat setetes
-dalam aktivitas lempeng
+we get a drop
+in plate activity
 
 1311
 01:07:45,265 --> 01:07:47,234
-sebelum yang berikutnya,
-tapi... penurunan tekanan,
+before the next one,
+but... a break in pressure,
 
 1312
 01:07:47,267 --> 01:07:48,068
-tapi itu tidak jatuh,
-itu meningkat.
+but it's not dropping,
+its rising.
 
 1313
 01:08:20,835 --> 01:08:22,770
-Tsunami melanda
-Lokasi Josh dan Sophie.
+Tsunami's hitting
+Josh and Sophie's location.
 
 1314
 01:08:29,777 --> 01:08:30,745
-Aku akan memeriksanya.
+I'm gonna go check it out.
 
 1315
 01:08:46,293 --> 01:08:47,528
-Sophie, ambil walkie-talkie.
+Sophie, grab a walkie.
 
 1316
 01:08:52,734 --> 01:08:54,836
-Josh, Sophie, 
-apakah kamu sudah siap?
+<i>Josh, Sophie,</i>
+<i>are you in position?</i>
 
 1317
 01:08:54,869 --> 01:08:58,271
-Ya, ya,
-kita di sini, kita di sini.
+Yeah, yeah,
+we're here, we're here.
 
 1318
 01:08:58,305 --> 01:08:59,707
-Menyalin.
-Saya senang Anda berhasil.
+Copy.
+I'm glad you made it.
 
 1319
 01:08:59,741 --> 01:09:01,408
-Bersiaplah untuk menerima sinyal.
+Stand by for the signal.
 
 1320
 01:09:01,441 --> 01:09:04,277
-Pengukur tekanan ini
-melalui atap.
+These pressure gauges
+are through the roof.
 
 1321
 01:09:04,311 --> 01:09:06,714
-Saya melihatnya dan saya sudah memulainya
-urutan pompa.
+I see that and I've initiated
+the pump sequence.
 
 1322
 01:09:06,748 --> 01:09:08,181
-Bukankah mereka sudah bertunangan?
+Have they not engaged?
 
 1323
 01:09:08,215 --> 01:09:09,383
-Apakah kamu yakin?
-membuka kuncinya secara manual?
+Are you sure you
+manually unlocked them?
 
 1324
 01:09:09,416 --> 01:09:11,418
-Ya ya.
-Saya menjalankan prosedurnya
+Yes, yes.
+I ran the procedures
 
 1325
 01:09:11,451 --> 01:09:13,588
-Anda tentukan sebelum Anda tiba
+you specified before you arrived
 
 1326
 01:09:13,621 --> 01:09:15,389
-dan tidak ada yang berubah
-Dari dulu.
+and nothing's changed
+since then.
 
 1327
 01:09:15,422 --> 01:09:16,557
-Baiklah, ini meningkat
-di semua rig.
+All right, it's rising
+across all rigs.
 
 1328
 01:09:16,591 --> 01:09:18,626
--Kita harus menurunkannya.
--Baiklah.
+-We need to bring it down.
+-All right.
 
 1329
 01:09:18,660 --> 01:09:20,928
-Tingkatkan pompa hingga 100%.
+Increase the pumps to 100%.
 
 1330
 01:09:20,962 --> 01:09:22,597
-Dan jatuhkan nitrogen cair.
+And drop the liquid nitrogen.
 
 1331
 01:09:22,630 --> 01:09:23,798
-Pelatnya belum cukup melambat.
+The plate hasn't slowed enough.
 
 1332
 01:09:23,831 --> 01:09:27,467
-Kita akan membuangnya terlalu dini.
+We'd be dumping too early.
 
 1333
 01:09:27,501 --> 01:09:29,436
-Meningkatkan pompa
-tekanan hingga 100%.
+Increasing pump
+pressure to 100%.
 
 1334
 01:09:29,469 --> 01:09:31,606
-Oke, Sophie, bersiaplah.
+Okay, Sophie, stand by.
 
 1335
 01:09:31,639 --> 01:09:33,306
-Dalam tiga...dua...
+In three... two...
 
 1336
 01:09:33,340 --> 01:09:34,609
-Alat pengukur ini adalah
-akan meledak.
+These gauges are
+about to explode.
 
 1337
 01:09:34,642 --> 01:09:35,710
-TIDAK! TIDAK!
+No! No!
 
 1338
 01:09:40,247 --> 01:09:41,616
-Apa itu tadi?
+What was that?
 
 1339
 01:09:41,649 --> 01:09:42,884
-Milly, kita baru saja kehilangan anjungan minyak?
+Milly, we just lose an oil rig?
 
 1340
 01:09:44,484 --> 01:09:46,621
-Ya.
+Yes.
 
 1341
 01:09:46,654 --> 01:09:48,422
-Kami baru saja kehilangan salah satu rignya.
+We just lost one of the rigs.
 
 1342
 01:09:48,455 --> 01:09:49,724
-Ya Tuhan, kami
-bisa kehilangan satu sama lain.
+Oh my god, we
+could lose another one.
 
 1343
 01:09:49,757 --> 01:09:50,858
-Keluar dari sana.
+Get out of there.
 
 1344
 01:09:56,664 --> 01:10:00,333
-Dua?
-Kita kehilangan dua rig? Bagaimana?
+Two?
+We lost two rigs? How?
 
 1345
 01:10:00,367 --> 01:10:02,335
-Milly, aku tidak tahu,
-tapi kita harus pergi sekarang
+Milly, I don't know,
+but we need to leave now
 
 1346
 01:10:02,369 --> 01:10:03,470
-atau kita akan masuk
-ledakan berikutnya.
+or we're going to be in
+the next explosion.
 
 1347
 01:10:03,503 --> 01:10:05,840
-Tunggu, biarkan aku berpikir.
+Wait, let me think.
 
 1348
 01:10:05,873 --> 01:10:07,642
-Anda satu-satunya 
-yang tersisa di rig.
+<i>You're the only</i>
+<i>one left on the rig.</i>
 
 1349
 01:10:07,675 --> 01:10:10,310
-Anda harus keluar dari sana.
+<i>You need to get out of there.</i>
 
 1350
 01:10:10,343 --> 01:10:12,513
-Tunggu, tidak, jika itu terjadi
-untuk meledakkannya, itu akan terjadi.
+Wait, no, if it was going
+to blow it, it would have.
 
 1351
 01:10:12,547 --> 01:10:13,948
-Sebenarnya ledakan itu
-menghilangkan tekanan
+The explosion actually
+relieved the pressure
 
 1352
 01:10:13,981 --> 01:10:15,415
-dan itu memberi kami 
-waktu.
+<i>and it bought us</i>
+<i>some time.</i>
 
 1353
 01:10:15,449 --> 01:10:17,317
-Tapi Dresden benar.
-Berapa lama?
+But Dresden's right.
+How much time?
 
 1354
 01:10:17,350 --> 01:10:19,319
-Milly, jangan suruh aku 
-keluar.
+<i>Milly, don't make me</i>
+<i>come out there.</i>
 
 1355
 01:10:19,352 --> 01:10:21,856
-Nomormu tidak aktif.
+Your numbers were off.
 
 1356
 01:10:21,889 --> 01:10:24,458
-Apa? 
-Mustahil.
+<i>What?</i>
+<i>Impossible.</i>
 
 1357
 01:10:24,491 --> 01:10:27,595
-Saya minta maaf,
-tapi mereka salah.
+I'm sorry,
+but they're wrong.
 
 1358
 01:10:27,628 --> 01:10:28,930
-Saya tidak membuat kesalahan.
+<i>I don't make mistakes.</i>
 
 1359
 01:10:28,963 --> 01:10:30,598
-Nah, kali ini kamu melakukannya
+Well, this time you did
 
 1360
 01:10:30,631 --> 01:10:32,533
-dan kami tidak punya
-waktu untuk berdebat tentang hal itu.
+and we don't have
+time to argue about it.
 
 1361
 01:10:32,567 --> 01:10:33,968
-Kami di sini sekarang
-karena kesalahanmu,
+We're here now
+because of your mistake,
 
 1362
 01:10:34,001 --> 01:10:35,536
-jadi biarkan aku memperbaikinya.
+so just let me fix this.
 
 1363
 01:10:35,570 --> 01:10:38,472
-Kita harus menyelesaikannya
-apa yang kami mulai.
+We need to finish
+what we started.
 
 1364
 01:10:38,506 --> 01:10:40,842
-Kami masih di sini.
+We're still here.
 
 1365
 01:10:40,875 --> 01:10:41,976
-Apa yang sedang terjadi?
+What's going on?
 
 1366
 01:10:42,009 --> 01:10:43,644
-Kami sedang mencari tahu, Rick.
+We're figuring it out, Rick.
 
 1367
 01:10:43,678 --> 01:10:45,378
-Awasi saja
-pengukur tekanan itu
+Just keep an eye on
+those pressure gauges
 
 1368
 01:10:45,412 --> 01:10:47,447
-dan beri tahu kami
-jika mereka bangkit, oke?
+and let us know
+if they rise, okay?
 
 1369
 01:10:53,320 --> 01:10:54,522
-Piringnya tidak melambat.
+The plates didn't slow.
 
 1370
 01:10:54,555 --> 01:10:55,623
-Aku tahu.
+I know.
 
 1371
 01:10:55,656 --> 01:10:56,991
-Tidak, maksudku, ia bergerak lebih cepat.
+No, I mean, it's moving faster.
 
 1372
 01:10:57,024 --> 01:10:58,526
-Kami kehilangan banyak tekanan
-pada dua rig ini,
+We lost so much pressure
+on these two rigs,
 
 1373
 01:10:58,559 --> 01:11:00,393
-itu mengirim piringnya
-lintasan yang bias.
+it sent the plate on
+a biased trajectory.
 
 1374
 01:11:00,427 --> 01:11:02,362
-Apa maksudmu?
+<i>What do you mean?</i>
 
 1375
 01:11:02,395 --> 01:11:03,698
-Oke, memasuki siklus gerakan baru.
+Okay, into a new movement cycle.
 
 1376
 01:11:03,731 --> 01:11:05,566
-Ini hampir seperti
-gaya sentrifugal.
+It's almost like
+centrifugal force.
 
 1377
 01:11:05,600 --> 01:11:07,400
-Lempeng Pasifika
-memiliki momentum yang lebih besar
+The Pacifica plate
+has even more momentum
 
 1378
 01:11:07,434 --> 01:11:09,737
-daripada yang terjadi
-sebelum berputar.
+than it did
+before it's pivoting.
 
 1379
 01:11:09,771 --> 01:11:12,472
-Ini akan berubah
-seluruh proyeksi pelat.
+It's going to change
+the entire plate projection.
 
 1380
 01:11:14,075 --> 01:11:16,276
-Ini adalah pergeseran planet.
+This is a planetary shift.
 
 1381
 01:11:19,346 --> 01:11:20,347
-Berapa lama waktu yang kita punya?
+How long do we have?
 
 1382
 01:11:24,619 --> 01:11:26,521
-Peter, apa 
-perhitungan barunya?
+<i>Peter, what's</i>
+<i>the new calculation?</i>
 
 1383
 01:11:26,554 --> 01:11:27,522
-Bersikaplah spesifik.
+<i>Be specific.</i>
 
 1384
 01:11:27,555 --> 01:11:28,856
-Petrus, berapa lama waktu yang kita punya?
+Peter, how long do we have?
 
 1385
 01:11:28,890 --> 01:11:30,457
-Tidak ada datanya
-untuk ini, oke?
+There's no data
+for this, all right?
 
 1386
 01:11:30,490 --> 01:11:31,159
-Itu terus berlanjut
-lintasan yang berbeda.
+It's moving on
+a different trajectory.
 
 1387
 01:11:31,192 --> 01:11:32,860
-Saat ini, kami tidak memiliki data untuk ini.
+Now, we have no data for this.
 
 1388
 01:11:32,894 --> 01:11:34,461
-Kami hanya dapat mempelajarinya 
-secara real time.
+<i>We can only study</i>
+<i>this in real time.</i>
 
 1389
 01:11:34,494 --> 01:11:37,999
-Milly, tidak mungkin
-untuk menghentikan ini sekarang.
+Milly, there is no way
+to stop this now.
 
 1390
 01:11:38,032 --> 01:11:40,968
-Kita perlu menerima hal itu di dunia
-mungkin berakhir seperti yang kita ketahui.
+We need to accept that the world
+may end as we know it.
 
 1391
 01:11:47,074 --> 01:11:49,577
-Josh, tetaplah di tempatmu sekarang.
+Josh, stay right where you are.
 
 1392
 01:11:49,610 --> 01:11:50,845
-Aku akan segera meneleponmu kembali, oke?
+<i>I'll call you back soon, okay?</i>
 
 1393
 01:11:50,878 --> 01:11:52,814
--Dimengerti.
--Oke.
+-Copy that.
+-Okay.
 
 1394
 01:11:57,785 --> 01:11:58,986
-Tunggu, tunggu.
+Wait, hold on.
 
 1395
 01:11:59,020 --> 01:12:01,656
-Apa?
+What?
 
 1396
 01:12:01,689 --> 01:12:04,025
-Aku tidak percaya aku tidak melakukannya
-pikirkan hal ini sebelumnya.
+I can't believe I didn't
+think about this earlier.
 
 1397
 01:12:04,058 --> 01:12:06,027
-Apa? saya tidak mengikuti.
+What? I don't follow.
 
 1398
 01:12:06,060 --> 01:12:08,996
-Kita perlu melakukan hal ini dengan tepat
-apa yang mereka lakukan.
+We need to do exactly
+what they did.
 
 1399
 01:12:09,030 --> 01:12:10,832
-Anda ingin menjatuhkan bom fisi?
+You want to drop a fission bomb?
 
 1400
 01:12:10,865 --> 01:12:13,366
-Bukan, bukan bom nuklir,
+No, not a nuclear bomb,
 
 1401
 01:12:13,400 --> 01:12:15,570
-tapi sesuatu yang cukup besar
-itu bertindak
+but something large enough
+that acts
 
 1402
 01:12:15,603 --> 01:12:17,905
-seperti ledakan nuklir
-ketika bercampur dengan panas
+like a nuclear explosion
+when it mixes with the heat
 
 1403
 01:12:17,939 --> 01:12:20,007
-dan logam di inti bumi.
+and metals at the Earth's core.
 
 1404
 01:12:20,041 --> 01:12:21,776
-Kita perlu menghubungi Jenderal West.
+We need to call General West.
 
 1405
 01:12:25,980 --> 01:12:27,782
-Bicara padaku.
+Talk to me.
 
 1406
 01:12:27,815 --> 01:12:30,051
-Kita punya waktu tiga jam.
-Anjungan minyak tidak berfungsi.
+We have three hours.
+The oil rigs didn't work.
 
 1407
 01:12:30,084 --> 01:12:31,986
-Ya aku tahu.
-Kami sudah mengawasinya.
+Yeah, I know.
+We've been keeping an eye on it.
 
 1408
 01:12:32,019 --> 01:12:33,988
-Tapi kamu punya
-satu rig tersisa, benar?
+But you have
+one rig left, correct?
 
 1409
 01:12:34,021 --> 01:12:37,424
-Ya, dan kami perlu mengirimkan
-bahan peledak ke dalam lubang sumur.
+Yes, and we need to send an
+explosive into the wellbore.
 
 1410
 01:12:37,457 --> 01:12:39,492
-Saya tidak mengerti caranya
-itu akan membantu.
+I don't see how
+that's going to help.
 
 1411
 01:12:39,527 --> 01:12:41,095
-Kerusakan tambahan
-Bisa lebih buruk
+The collateral damage
+could be worse
 
 1412
 01:12:41,128 --> 01:12:43,097
-daripada gempa bumi
-kami berusaha mencegahnya.
+than the earthquake
+we're trying to prevent.
 
 1413
 01:12:43,130 --> 01:12:44,031
-Milly, kita tidak bisa
-mengendalikannya, kan?
+Milly, we can't
+control it, right?
 
 1414
 01:12:44,065 --> 01:12:45,398
-Kita tidak bisa mengukurnya.
+We can't measure it.
 
 1415
 01:12:45,432 --> 01:12:47,068
-Bagaimana jika kita kirim piringnya masuk
+What if we send the plate in
 
 1416
 01:12:47,101 --> 01:12:49,003
-benar-benar berbeda
-arah, seperti yang kita lakukan sebelumnya?
+a completely different
+direction, like we did before?
 
 1417
 01:12:49,036 --> 01:12:50,938
-Saya pikir sudah waktunya kita menerima--
+I think it's time we accept--
 
 1418
 01:12:50,972 --> 01:12:55,843
-Jika kita tidak berhasil, dunia
-seperti yang kita tahu itu akan hilang.
+If we don't succeed, the world
+as we know it will disappear.
 
 1419
 01:12:55,877 --> 01:12:58,913
-Kita harus mencoba
-dan kita harus berhasil.
+We have to try
+and we must succeed.
 
 1420
 01:12:58,946 --> 01:13:00,681
-Jadi siapa kamu?
-menyarankan, Dok?
+So what are you
+suggesting, Doc?
 
 1421
 01:13:00,715 --> 01:13:04,151
-Kami mengirimkan bahan peledak ke bawah
-bagian tengah lubang sumur.
+We send explosives down
+the middle of the wellbore.
 
 1422
 01:13:04,185 --> 01:13:06,921
-Perlengkapan ini?
+This rig?
 
 1423
 01:13:06,954 --> 01:13:08,756
-Kami mengirimkannya cukup dalam
+We send it down deep enough
 
 1424
 01:13:08,789 --> 01:13:12,126
-jauh dari kemanusiaan
-dimana tidak ada dampak buruknya.
+away from humanity
+where there is no fallout.
 
 1425
 01:13:12,159 --> 01:13:14,862
-Cukup dalam di tempat yang diinginkannya
-mendorong magma vulkanik
+Deep enough where it will
+push the volcanic magma
 
 1426
 01:13:14,896 --> 01:13:16,931
-ke permukaan dan
-lalu kita mendinginkannya.
+to the surface and
+then we cool it.
 
 1427
 01:13:16,964 --> 01:13:19,834
-Ya, dengan nitrogen cair
-yang tidak kami terapkan,
+Yeah, with the liquid nitrogen
+that we didn't deploy,
 
 1428
 01:13:19,867 --> 01:13:21,535
-itu akan membeku dan mengeras
-magma di sepanjang garis lempeng
+it will freeze and harden
+the magma along the plate line
 
 1429
 01:13:21,569 --> 01:13:23,704
-dan menghentikan gerakannya
-dari mentransfer
+and stop the movement
+from transferring
 
 1430
 01:13:23,738 --> 01:13:26,540
-dari satu piring ke piring lainnya,
-itu jenius.
+from one plate to another,
+that's genius.
 
 1431
 01:13:26,574 --> 01:13:28,743
-Tarik koordinatnya
-dari rig.
+Pull up the coordinates
+of the rig.
 
 1432
 01:13:32,013 --> 01:13:33,547
-Kami sudah cukup dekat
-ke batas lempeng
+We're near enough
+to the plate boundary
 
 1433
 01:13:33,581 --> 01:13:35,182
-itu dengan koordinat ini
+that with these coordinates
 
 1434
 01:13:35,216 --> 01:13:37,652
-dari piring itu
-pola pergerakan saat ini,
+of the plate's
+current movement pattern,
 
 1435
 01:13:37,685 --> 01:13:39,553
-kita bisa mendapatkan reaksi berantai
-kita perlu memicu ledakan
+we can get the chain reaction
+we need to trigger the explosion
 
 1436
 01:13:39,587 --> 01:13:41,055
-sampai ke bawah piring.
+all the way down the plate.
 
 1437
 01:13:41,088 --> 01:13:42,690
-Tapi Milly, tidak
-100% stabil, bukan?
+But Milly, it's not
+100% stable, right?
 
 1438
 01:13:42,723 --> 01:13:43,858
-Tekanan pada pompa
-masih tinggi.
+The pressure on the pumps
+is still high.
 
 1439
 01:13:43,891 --> 01:13:46,060
-Rick, kumpulkan beberapa
-pekerja Anda.
+Rick, gather some
+of your workers.
 
 1440
 01:13:46,093 --> 01:13:49,496
-Suruh mereka membongkar semuanya
-rudal di helikopter.
+Have them unload all the
+missiles on the helicopter.
 
 1441
 01:13:49,530 --> 01:13:51,065
-Dokter, aku memberimu 
-satu kesempatan lagi.
+<i>Doctor, I'm giving</i>
+<i>you one more chance.</i>
 
 1442
 01:13:51,098 --> 01:13:52,867
-Mereka, kita tidak punya pilihan lain.
+They we'll have no other option.
 
 1443
 01:13:52,900 --> 01:13:55,870
-Bersiaplah untuk memulai evakuasi.
+Prepare to start evacuations.
 
 1444
 01:13:55,903 --> 01:13:57,571
-Saya mengerti, Pak.
+I understand, sir.
 
 1445
 01:14:05,546 --> 01:14:07,515
-Apakah perangkat sudah siap
-untuk diturunkan?
+Is the device ready
+to be sent down?
 
 1446
 01:14:07,548 --> 01:14:10,885
-Ya, tapi pemeliharaannya
-polong dengan bahan peledak,
+Yes, but the maintenance
+pods with the explosives,
 
 1447
 01:14:10,918 --> 01:14:14,021
-mereka tidak diatur untuk itu
-menangani beban seperti ini.
+they are not set up to
+handle this kind of weight.
 
 1448
 01:14:14,055 --> 01:14:16,090
-Kami belum pernah mengirimkan apa pun
-seperti ini sebelumnya.
+We've never sent anything
+like this before.
 
 1449
 01:14:16,123 --> 01:14:17,925
-Itu adalah risiko yang kita hadapi
-akan harus mengambil.
+That's a risk we're
+going to have to take.
 
 1450
 01:14:27,168 --> 01:14:28,903
-Bagaimana tampilannya?
+How's it looking?
 
 1451
 01:14:28,936 --> 01:14:30,571
-Tekanannya bagus.
+Pressure's good.
 
 1452
 01:14:30,604 --> 01:14:32,907
-Jaga agar tetap stabil, Peter.
+Keep it steady, Peter.
 
 1453
 01:14:32,940 --> 01:14:34,108
-Terlihat bagus di pihakku juga.
+<i>Looking good on my end, too.</i>
 
 1454
 01:14:42,883 --> 01:14:44,051
-Apa yang sedang terjadi?
+What's going on?
 
 1455
 01:14:44,085 --> 01:14:45,619
-Kami melambat.
+We're slowing down.
 
 1456
 01:14:45,653 --> 01:14:47,955
-Ini baru setengah jalan
-ke kedalaman ledakan.
+It's only halfway
+to the detonation depth.
 
 1457
 01:14:47,989 --> 01:14:52,560
-Baling-balingnya mati, mesinnya mati
-masuk ke mode hemat daya.
+The propellers out, the engine's
+gone into power save mode.
 
 1458
 01:14:52,593 --> 01:14:55,196
-Saya harus mengatur ulang secara manual.
+I'll have to reset it manually.
 
 1459
 01:14:55,229 --> 01:14:56,197
-Saya akan mengangkatnya kembali.
+I'm going to bring it back up.
 
 1460
 01:14:59,767 --> 01:15:01,736
-Berapa lama?
+How long?
 
 1461
 01:15:01,769 --> 01:15:03,270
-Itu tidak kembali.
+It's not returning.
 
 1462
 01:15:03,304 --> 01:15:05,139
-Apa maksudmu?
+What do you mean?
 
 1463
 01:15:05,172 --> 01:15:08,743
-Ini terlalu berat.
-Mesin belakang tidak bisa mengaturnya.
+It's too heavy.
+The rear engines can't manage.
 
 1464
 01:15:08,776 --> 01:15:11,645
-Kami biasanya membawanya kembali
-dan mengerjakannya di sini.
+We normally bring it back
+and work on it here.
 
 1465
 01:15:11,679 --> 01:15:15,082
-Ada waktu sebentar
-pod pemeliharaan dengan jas
+There's a second
+maintenance pod with a suit
 
 1466
 01:15:15,116 --> 01:15:16,784
-dan menambatkan
-yang digunakan para teknisi,
+and tether
+that the technicians use,
 
 1467
 01:15:16,817 --> 01:15:19,754
-tapi mereka semua sudah dievakuasi.
+but they've all evacuated.
 
 1468
 01:15:19,787 --> 01:15:21,956
-Salah satu dari kita bisa menjatuhkannya.
+One of us can take it down.
 
 1469
 01:15:21,989 --> 01:15:24,091
-Itu perlu
-diuji dan disiapkan
+It needs to be
+tested and prepped
 
 1470
 01:15:24,125 --> 01:15:25,960
-sebelum itu
-siap untuk perjalanan lain.
+before it's
+ready for another trip.
 
 1471
 01:15:25,993 --> 01:15:28,229
-Jumlahnya hanya cukup
-ruangan untuk satu orang
+There's only enough
+room for one person
 
 1472
 01:15:28,262 --> 01:15:29,563
-dan alat pernafasan.
+and a breathing apparatus.
 
 1473
 01:15:29,597 --> 01:15:31,165
-Tangki oksigen
-hanya setengah penuh.
+The oxygen tanks
+are only half full.
 
 1474
 01:15:31,198 --> 01:15:31,966
-Menurutku tidak
-akan pintar--
+I don't think it
+would be smart--
 
 1475
 01:15:31,999 --> 01:15:32,933
-Aku akan pergi.
+I'll go.
 
 1476
 01:15:39,607 --> 01:15:41,842
-Mungkin Anda tidak memahami saya.
+Maybe you didn't understand me.
 
 1477
 01:15:41,876 --> 01:15:44,645
-Ada kemungkinan bahwa Anda
-tidak akan berhasil kembali dari ini.
+There's a chance that you
+wouldn't make it back from this.
 
 1478
 01:15:44,678 --> 01:15:46,213
-Ini hanya bunuh diri.
+This is just suicide.
 
 1479
 01:15:46,247 --> 01:15:51,118
-Saya dengar.
+I heard.
 
 1480
 01:15:51,152 --> 01:15:54,288
-aku akan menyiapkannya.
+I'll prep it.
 
 1481
 01:15:54,321 --> 01:15:56,791
-Milly, kamu tidak bisa.
+<i>Milly, you can't.</i>
 
 1482
 01:15:56,824 --> 01:16:00,194
-Kamu bukan satu-satunya 
-saudara yang keras kepala.
+<i>You're not the only</i>
+<i>stubborn sibling.</i>
 
 1483
 01:16:00,227 --> 01:16:01,695
-Kami tidak punya pilihan.
+We don't have a choice.
 
 1484
 01:16:02,930 --> 01:16:04,198
-Milly, aku...
+<i>Milly, I...</i>
 
 1485
 01:16:06,233 --> 01:16:09,737
-Aku tidak bisa memiliki kalian
-menghancurkanku saat ini.
+I can't have you guys
+breaking down on me right now.
 
 1486
 01:16:09,770 --> 01:16:14,642
-Dan saya berencana untuk 
-membuatnya kembali.
+<i>And I'm planning on</i>
+<i>making it back.</i>
 
 1487
 01:16:14,675 --> 01:16:16,811
-Baiklah, ayo kita lakukan.
+All right, let's do it.
 
 1488
 01:16:57,918 --> 01:16:59,186
-Kamu sudah sampai di sana, Milly.
+You're getting there, Milly.
 
 1489
 01:16:59,220 --> 01:17:03,090
-Tetaplah bernapas
-pelan dan pasti.
+Just keep your breathing
+slow and steady.
 
 1490
 01:17:03,124 --> 01:17:05,326
-Anda berada tepat di tempat 
-yang Anda inginkan.
+<i>You're right where</i>
+<i>you need to be.</i>
 
 1491
 01:17:05,359 --> 01:17:08,329
-Anda akan mendorong
-pelepasan palka
+You're going to push
+the hatch release
 
 1492
 01:17:08,362 --> 01:17:12,133
-dan kami akan menurunkanmu
-turun ke bagian belakang pod.
+and we're going to lower you
+down onto the rear of the pod.
 
 1493
 01:17:12,166 --> 01:17:15,803
-Anda harus menekan 
-tombol pelepas.
+<i>You're going to need to push</i>
+<i>the release button.</i>
 
 1494
 01:17:15,836 --> 01:17:17,404
-Lantainya akan jatuh
-keluar dan kamu seharusnya begitu
+The floor is going to drop
+out and you should be
 
 1495
 01:17:17,438 --> 01:17:20,941
-disana
-dengan reset manual.
+right there
+by the manual reset.
 
 1496
 01:17:23,010 --> 01:17:24,178
-Menyalin.
+Copy.
 
 1497
 01:17:30,151 --> 01:17:32,319
-Anda mendekati yang lain
-pod, kami memperlambatmu.
+You're approaching the other
+pod, we're slowing you down.
 
 1498
 01:17:34,755 --> 01:17:37,191
-Milly, kamu perlu 
-bernapas lebih lambat.
+<i>Milly, you need</i>
+<i>to breathe slower.</i>
 
 1499
 01:17:37,224 --> 01:17:40,794
-Anda terbakar
-betapa sedikit oksigen yang Anda miliki.
+You're burning up
+what little oxygen you have.
 
 1500
 01:17:40,828 --> 01:17:42,396
-Ini adalah apa
-Saya khawatir.
+This is what
+I was worried about.
 
 1501
 01:17:42,429 --> 01:17:43,998
-Dia tidak cukup berpengalaman.
+She's not experienced enough.
 
 1502
 01:17:50,938 --> 01:17:53,340
-Menghubungkan
-ke pod kedua sekarang.
+Connecting
+to the second pod now.
 
 1503
 01:17:57,178 --> 01:18:00,714
-Milly, apa yang terjadi?
-Anda menghirup terlalu banyak udara.
+Milly, what's going on?
+You're breathing too much air.
 
 1504
 01:18:00,748 --> 01:18:03,751
-Anda perlu memperlambat.
+You need to slow down.
 
 1505
 01:18:03,784 --> 01:18:06,187
-Anda akan 
-pusing dan pingsan.
+<i>You're going to get</i>
+<i>lightheaded and pass out.</i>
 
 1506
 01:18:06,220 --> 01:18:08,822
-Tetaplah bersama kami.
+<i>Stay with us.</i>
 
 1507
 01:18:08,856 --> 01:18:11,759
-Milly, keluargamu 
-mengandalkanmu.
+<i>Milly, your family</i>
+<i>is counting on you.</i>
 
 1508
 01:18:11,792 --> 01:18:12,693
-Tetaplah bersama kami.
+<i>Stay with us.</i>
 
 1509
 01:18:16,096 --> 01:18:17,231
-Saya berada di atas pod lainnya.
+I'm on top of the other pod.
 
 1510
 01:18:17,264 --> 01:18:19,867
-Milly, kamu punya kuncinya.
+<i>Milly, you have the key.</i>
 
 1511
 01:18:19,900 --> 01:18:23,704
-Gunakan tangan kanan Anda untuk meraihnya
-ke dalam sakumu dan ambil.
+Use your right hand to reach
+into your pocket and grab it.
 
 1512
 01:18:30,444 --> 01:18:33,147
-Anda perlu memasukkan
-kunci reset manual
+You need to insert
+the manual reset key
 
 1513
 01:18:33,180 --> 01:18:36,116
-dan mengubahnya menjadi satu revolusi.
+<i>and turn it one revolution.</i>
 
 1514
 01:18:40,487 --> 01:18:42,122
-Tunggu sebentar, Milly. 
-Tahan dulu.
+<i>Hold on, Milly.</i>
+<i>Just hold on.</i>
 
 1515
 01:18:46,994 --> 01:18:49,296
-Dia membutuhkan oksigen.
+<i>She needs oxygen.</i>
 
 1516
 01:18:49,330 --> 01:18:50,464
-Tubuhnya pergi
-menjadi keadaan serupa
+The body is going
+into a state similar
 
 1517
 01:18:50,497 --> 01:18:52,433
-menjadi narkosis nitrogen.
+to nitrogen narcosis.
 
 1518
 01:18:52,466 --> 01:18:54,435
-Dia akan merasa 
-pusing dan gembira,
+<i>She's going to get</i>
+<i>lightheaded feel euphoric,</i>
 
 1519
 01:18:54,468 --> 01:18:56,403
-dan ingatan jangka pendeknya 
-akan hilang.
+<i>and her short-term memory</i>
+<i>is going to disappear.</i>
 
 1520
 01:18:56,437 --> 01:18:57,938
-Mama...
+<i>Mom...</i>
 
 1521
 01:19:02,544 --> 01:19:04,078
-Kita berhasil!
+We did it!
 
 1522
 01:19:04,111 --> 01:19:05,746
-Kita berhasil.
+We did it.
 
 1523
 01:19:08,148 --> 01:19:11,986
-Itu berhasil.
-Kami kembali online.
+It worked.
+We're back online.
 
 1524
 01:19:12,019 --> 01:19:13,921
-Milly, kami akan membesarkanmu.
+<i>Milly, we're bringing you up.</i>
 
 1525
 01:19:13,954 --> 01:19:16,423
-Jaga tanganmu tetap di tanganmu
-sisi dan tinggal bersama kami.
+Keep your arms at your
+sides and stay with us.
 
 1526
 01:19:29,036 --> 01:19:31,138
-Mama?
+Mom?
 
 1527
 01:19:31,171 --> 01:19:32,873
-Tunggu.
+Hold on.
 
 1528
 01:19:35,042 --> 01:19:36,343
-Ledakannya berhasil.
+The explosion worked.
 
 1529
 01:19:36,377 --> 01:19:39,013
-Kita perlu mendinginkannya sekarang, jatuhkan.
+We need to cool now, drop them.
 
 1530
 01:19:39,046 --> 01:19:42,149
-Nitrogen 
-dalam tiga, dua, satu.
+<i>Nitrogen</i>
+<i>in three, two, one.</i>
 
 1531
 01:19:42,182 --> 01:19:43,551
-Mengirim sinyal.
+<i>Sending signal.</i>
 
 1532
 01:20:04,271 --> 01:20:06,040
-Ayah, apa itu tadi?
+Dad, what was that?
 
 1533
 01:20:06,073 --> 01:20:07,074
-Saya pikir kami berhenti
-gempa bumi.
+I thought we stopped
+the earthquakes.
 
 1534
 01:20:07,107 --> 01:20:09,076
-Saya pikir kami juga melakukannya.
+I thought we did, too.
 
 1535
 01:20:09,109 --> 01:20:11,513
-Mungkin itu dari rig.
-Ayo pergi dari sini. Ayo.
+Maybe it was from the rig.
+Let's get out of here. Come on.
 
 1536
 01:20:16,618 --> 01:20:18,452
-Saya tidak tahu apakah 
-dia masih bersama kami.
+<i>I don't know if</i>
+<i>she's still with us.</i>
 
 1537
 01:20:18,485 --> 01:20:19,920
-Saya menggunakan pembersihan darurat
+I'm using the emergency purge
 
 1538
 01:20:19,953 --> 01:20:22,256
-untuk membawanya kembali
-sampai kepada kita lebih cepat.
+to bring her back
+up to us faster.
 
 1539
 01:20:22,289 --> 01:20:24,526
-Dia akan pingsan.
+<i>She's about to pass out.</i>
 
 1540
 01:20:24,559 --> 01:20:27,061
-Tingkat oksigennya terlalu rendah.
+<i>Her oxygen levels are too low.</i>
 
 1541
 01:20:27,094 --> 01:20:28,362
-Kita harus membawanya 
-ke ruang hiperbarik.
+<i>We have to get her</i>
+<i>to a hyperbaric chamber.</i>
 
 1542
 01:20:28,395 --> 01:20:29,597
-Kami tidak memilikinya di rig,
+<i>We do not have one on the rig,</i>
 
 1543
 01:20:29,631 --> 01:20:31,533
-tapi aku tahu di mana
-yang terdekat adalah.
+but I know where
+the nearest one is.
 
 1544
 01:20:31,566 --> 01:20:34,468
-Ini satu-satunya kesempatannya, 
-atau dia tidak akan berhasil.
+<i>This is her only chance,</i>
+<i>or she's not going to make it.</i>
 
 1545
 01:20:34,501 --> 01:20:35,469
-Dia kehabisan udara.
+<i>She's out of air.</i>
 
 1546
 01:20:39,139 --> 01:20:41,008
-Peter, aku membesarkannya.
+Peter, I brought her up.
 
 1547
 01:20:41,041 --> 01:20:42,309
-Aku ingin kamu bertemu denganku dan
-bantu dia masuk ke helikopter.
+I need you to meet me and
+help her get in the chopper.
 
 1548
 01:20:42,343 --> 01:20:44,111
-Dalam perjalanan.
+<i>On my way.</i>
 
 1549
 01:20:44,144 --> 01:20:45,846
-Tunggu, 
-Milly, tunggu sebentar.
+<i>Hold on,</i>
+<i>Milly, just hold on.</i>
 
 1550
 01:21:04,632 --> 01:21:06,100
-Hai.
+Hey.
 
 1551
 01:21:06,133 --> 01:21:07,501
-Petrus... Dresden.
+Peter... Dresden.
 
 1552
 01:21:07,535 --> 01:21:10,137
--Ya, Milly, kami di sini.
--Di sini.
+-Yes, Milly, we're here.
+-We're here.
 
 1553
 01:21:10,170 --> 01:21:12,106
-Bagaimana perasaanmu?
+How do you feel?
 
 1554
 01:21:12,139 --> 01:21:14,108
--Saya baik-baik saja.
--Bagus.
+-I'm fine.
+-Good.
 
 1555
 01:21:14,141 --> 01:21:16,644
-Saya pikir kami kehilanganmu.
+I thought we lost you.
 
 1556
 01:21:16,678 --> 01:21:18,078
-Jangan menakutiku
-seperti itu lagi, oke?
+Don't scare me
+like that again, okay?
 
 1557
 01:21:19,947 --> 01:21:24,218
-Juga, saya memeriksanya
-angka-angka itu lagi.
+Also, I checked
+those numbers again.
 
 1558
 01:21:24,251 --> 01:21:29,256
-Dan bagaimana kamu tahu
-rignya tidak akan--
+And how did you know
+the rig wouldn't--
 
 1559
 01:21:29,289 --> 01:21:33,327
-Dres... Terkadang kamu
-baru tahu jawabannya.
+Dres... Sometimes you
+just know the answer.
 
 1560
 01:21:33,360 --> 01:21:35,496
-Anda tidak perlu menunggu
-agar matematika bisa mengejar ketinggalan.
+You don't have to wait
+for the math to catch up.
 
 1561
 01:21:35,530 --> 01:21:37,565
-Hebat.
+Terrific.
 
 1562
 01:21:37,599 --> 01:21:38,600
-Oh, senang kau kembali.
+Oh, it's good to have you back.
 
 1563
 01:21:42,469 --> 01:21:45,973
-Dokter Anderson, Anda menyelamatkan
-jutaan, miliaran nyawa.
+Doctor Anderson, you saved
+millions, billions of lives.
 
 1564
 01:21:46,006 --> 01:21:48,075
-Terima kasih.
+Thank you.
 
 1565
 01:21:48,108 --> 01:21:50,344
-Ketika Anda merasa lebih baik,
-Saya ingin Anda datang ke DC
+When you're feeling better,
+I'd like you to come to D.C.
 
 1566
 01:21:50,377 --> 01:21:52,479
-dan membantu kami mempersiapkan diri dengan lebih baik
+and help us better prepare
 
 1567
 01:21:52,514 --> 01:21:54,549
-untuk sesuatu seperti ini
-di masa depan.
+for something like this
+in the future.
 
 1568
 01:21:54,582 --> 01:21:57,484
--Bawa Peter.
--Aku?
+-Bring Peter.
+-Me?
 
 1569
 01:21:57,519 --> 01:21:59,019
-Dan saudaramu.
+And your brother.
 
 1570
 01:21:59,052 --> 01:22:01,922
-Saya akan berpikir tentang hal ini,
-tapi tidak ada janji.
+I'll think about it,
+but no promises.
 
 1571
 01:22:03,390 --> 01:22:05,325
-Ya pak.
-Kami akan berada di sana.
+Yes, sir.
+We'll be there.
 
 1572
 01:22:09,997 --> 01:22:11,999
@@ -7213,116 +7213,117 @@ Sophie, Josh!
 
 1573
 01:22:12,032 --> 01:22:14,101
-Ya Tuhan.
+Oh, my God.
 
 1574
 01:22:14,134 --> 01:22:17,171
-Yah, saya rasa itulah isyarat kita
-untuk menuju ke mesin penjual otomatis.
+Well, I guess that's our cue
+to head to the vending machines.
 
 1575
 01:22:17,204 --> 01:22:19,674
--Terima kasih.
--Hei, Petrus.
+-Thank you.
+-Hey, Peter.
 
 1576
 01:22:19,707 --> 01:22:21,308
-Paman Dresden!
+Uncle Dresden!
 
 1577
 01:22:21,341 --> 01:22:23,010
--Mama!
--Ya ampun!
+-Mom!
+-My gosh!
 
 1578
 01:22:23,043 --> 01:22:26,180
-Kemarilah.
+Come here.
 
 1579
 01:22:26,213 --> 01:22:28,482
-Aku sangat senang kamu baik-baik saja.
+I'm so glad you're okay.
 
 1580
 01:22:28,516 --> 01:22:31,018
-Umum.
+General.
 
 1581
 01:22:31,051 --> 01:22:31,985
-Besar.
+Major.
 
 1582
 01:22:35,422 --> 01:22:37,491
-Di sini.
+We're here.
 
 1583
 01:22:37,525 --> 01:22:39,727
-Kamu berhasil, Milly.
+You did it, Milly.
 
 1584
 01:22:39,761 --> 01:22:42,429
-Kita semua melakukannya.
+We all did it.
 
 1585
 01:22:42,463 --> 01:22:44,599
-Baiklah, aku akan memberikannya
-kalian waktu sendirian
+Well, I'm going to give
+you guys some time alone
 
 1586
 01:22:44,632 --> 01:22:48,302
-jadi aku akan turun saja
-aula, tapi aku akan kembali.
+so I'm just going to go down
+the hall, but I will be back.
 
 1587
 01:22:48,335 --> 01:22:52,507
-Dan Anda semua akan melakukannya
-akan lebih sering bertemu denganku.
+And you're all going to
+be seeing me a lot more.
 
 1588
 01:22:52,540 --> 01:22:54,975
-Jadi aku akan pergi.
+So I'm going to go.
 
 1589
 01:22:58,445 --> 01:23:01,014
-Bagaimana kamu tahu akan ada
-cukup oksigen untuk kembali?
+How did you know there'd be
+just enough oxygen to get back?
 
 1590
 01:23:01,048 --> 01:23:03,217
-Dresden memberitahu kami
-apa yang kamu lakukan, Bu.
+Dresden told us
+what you did, Mom.
 
 1591
 01:23:03,250 --> 01:23:05,452
-Kamu sangat gila.
+You're very crazy.
 
 1592
 01:23:05,486 --> 01:23:07,054
-Tapi aku cinta kamu.
+But I love you.
 
 1593
 01:23:07,087 --> 01:23:09,256
-Ya, saya tidak tahu.
+Yeah, I didn't know.
 
 1594
 01:23:09,289 --> 01:23:12,426
-Tapi aku tidak bisa membiarkan dunia berakhir
-dengan kalian semua masih di dalamnya.
+But I couldn't let the world end
+with all of you still on it.
 
 1595
 01:23:12,459 --> 01:23:13,528
-Menandai 
-peringatan satu tahunnya
+<i>Marking the</i>
+<i>one-year anniversary</i>
 
 1596
 01:23:13,561 --> 01:23:15,295
-dari Seattle Shake,
+<i>of the Seattle Shake,</i>
 
 1597
 01:23:15,329 --> 01:23:17,699
-Space Needle membuka kembali 
-pintunya untuk umum.
+<i>Space Needle reopens</i>
+<i>its doors to the public.</i>
 
 1598
 01:23:17,732 --> 01:23:20,400
-Dr. Milly Anderson kita sendiri 
-yang akan memotong pitanya.
+<i>Our very own Dr. Milly Anderson</i>
+<i>will cut the ribbon.</i>
+
